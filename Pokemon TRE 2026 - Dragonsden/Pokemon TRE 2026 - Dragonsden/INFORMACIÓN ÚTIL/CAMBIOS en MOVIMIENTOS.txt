@@ -1,0 +1,887 @@
+
+GUILLOTINA
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - KO en un golpe
+Precisión - 30
+Ef.Secundario - No
+PP - 5
+
+Hackrom (Tipo siniestro):
+
+Potencia - 170
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+
+
+VIENTO CORTANTE
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 80
+Precisión - 100
+Ef.Secundario - Un turno de carga
+PP - 10
+
+Hackrom (Tipo normal):
+
+Potencia - 130
+Precisión - 100
+Ef.Secundario - Un turno de carga
+PP - 10
+
+
+
+CORTE
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 50
+Precisión - 95
+Ef.Secundario - No
+PP - 30
+
+Hackrom (Tipo bicho):
+
+Potencia - 65
+Precisión - 95
+Ef.Secundario - 50% de bajar un nivel la Defensa
+PP - 30
+
+
+
+VUELO
+----------------------------------------------
+
+Oficial (Tipo volador):
+
+Potencia - 90
+Precisión - 95
+Ef.Secundario - Ataque en dos turnos
+PP - 15
+
+Hackrom (Tipo volador):
+
+Potencia - 90
+Precisión - 95
+Ef.Secundario - No (Se ejecuta en un solo turno)
+PP - 15
+
+
+
+PERFORADOR
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - KO en un golpe
+Precisión - 30
+Ef.Secundario - No
+PP - 5
+
+Hackrom (Tipo normal):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - 50% daño de retroceso
+PP - 5
+
+
+
+DOBLEATAQUE
+----------------------------------------------
+
+Oficial (Tipo bicho):
+
+Potencia - 25
+Precisión - 100
+Ef.Secundario - Golpea dos veces | 20% de envenenar
+PP - 20
+
+Hackrom (Tipo bicho):
+
+Potencia - 40
+Precisión - 100
+Ef.Secundario - Golpea dos veces | 20% de envenenar
+PP - 20
+
+
+
+HIPERRAYO
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - Un turno inmovilizado
+PP - 5
+
+Hackrom (Tipo normal):
+
+Potencia - 160
+Precisión - 90
+Ef.Secundario - Un turno inmovilizado
+PP - 5
+
+
+
+FUERZA
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 80
+Precisión - 100
+Ef.Secundario - No
+PP - 15
+
+Hackrom (Tipo roca):
+
+Potencia - 85
+Precisión - 85
+Ef.Secundario - No
+PP - 15
+
+
+
+ABSORBER
+----------------------------------------------
+
+Oficial (Tipo planta):
+
+Potencia - 20
+Precisión - 100
+Ef.Secundario - Recupera el 50% del daño causado
+PP - 25
+
+Hackrom (Tipo planta):
+
+Potencia - 30
+Precisión - 100
+Ef.Secundario - Recupera el 50% del daño causado
+PP - 25
+
+
+
+MEGAAGOTAR
+----------------------------------------------
+
+Oficial (Tipo planta):
+
+Potencia - 40
+Precisión - 100
+Ef.Secundario - Recupera el 50% del daño causado
+PP - 15
+
+Hackrom (Tipo planta):
+
+Potencia - 50
+Precisión - 100
+Ef.Secundario - Recupera el 50% del daño causado
+PP - 15
+
+
+
+FURIA DRAGÓN
+----------------------------------------------
+
+Oficial (Tipo dragón):
+
+Potencia - Siempre resta 40 Ps
+Precisión - 100
+Ef.Secundario - No
+PP - 10
+
+Hackrom (Tipo dragón):
+
+Potencia - 70
+Precisión - 100
+Ef.Secundario - 20% de causar retroceso
+PP - 25
+
+
+
+FISURA
+----------------------------------------------
+
+Oficial (Tipo tierra):
+
+Potencia - KO en un golpe
+Precisión - 30
+Ef.Secundario - No
+PP - 5
+
+Hackrom (Tipo tierra):
+
+Potencia - 130
+Precisión - 90
+Ef.Secundario - Baja un nivel At y Def del usuario
+PP - 5
+
+
+
+RAPIDEZ
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 60
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+Hackrom (Tipo normal):
+
+Potencia - 75
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+
+
+DESTELLO
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - No
+Precisión - 100
+Ef.Secundario - Baja un nivel la precisión rival
+PP - 20
+
+Hackrom (Tipo eléctrico):
+
+Potencia - 50
+Precisión - 100
+Ef.Secundario - Recupera el 75% del daño causado
+PP - 20
+
+
+
+TRIATAQUE
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 80
+Precisión - 100
+Ef.Secundario - 20% de quemar, congelar o paralizar
+PP - 10
+
+Hackrom (Tipo normal):
+
+Potencia - 90
+Precisión - 100
+Ef.Secundario - 20% de quemar, congelar o paralizar
+PP - 10
+
+
+
+AEROCHORRO
+----------------------------------------------
+
+Oficial (Tipo volador):
+
+Potencia - 100
+Precisión - 95
+Ef.Secundario - +1 índice crítico
+PP - 5
+
+Hackrom (Tipo volador):
+
+Potencia - 115
+Precisión - 90
+Ef.Secundario - +1 índice crítico
+PP - 10
+
+
+
+BOFETÓN LODO
+----------------------------------------------
+
+Oficial (Tipo tierra):
+
+Potencia - 20
+Precisión - 100
+Ef.Secundario - 100% bajar precisión rival
+PP - 10
+
+Hackrom (Tipo tierra):
+
+Potencia - 30 (físico)
+Precisión - 100
+Ef.Secundario - 100% bajar precisión rival
+PP - 10
+
+
+
+PULPOCAÑÓN
+----------------------------------------------
+
+Oficial (Tipo agua):
+
+Potencia - 65
+Precisión - 85
+Ef.Secundario - 50% reducir precisión
+PP - 10
+
+Hackrom (Tipo agua):
+
+Potencia - 100
+Precisión - 100
+Ef.Secundario - 50% reducir precisión | Categoría pulso
+PP - 10
+
+
+
+PODER PASADO
+----------------------------------------------
+
+Oficial (Tipo roca):
+
+Potencia - 60
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+Hackrom (Tipo roca):
+
+Potencia - 75
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+GIRO FUEGO
+----------------------------------------------
+
+Oficial (Tipo fuego):
+
+Potencia - 35
+Precisión - 85
+Ef.Secundario - Atrapa al rival de 2 a 5 turnos
+PP - 15
+
+Hackrom (Tipo fuego):
+
+Potencia - 65
+Precisión - 85
+Ef.Secundario - Atrapa al rival de 2 a 5 turnos
+PP - 15
+
+
+GOLPE ROCA
+----------------------------------------------
+
+Oficial (Tipo lucha):
+
+Potencia - 40
+Precisión - 100
+Ef.Secundario - 50% bajar un nivel la defensa rival
+PP - 15
+
+Hackrom (Tipo lucha):
+
+Potencia - 65
+Precisión - 95
+Ef.Secundario - 50% bajar un nivel la defensa rival
+PP - 15
+
+
+
+BUCEO
+----------------------------------------------
+
+Oficial (Tipo agua):
+
+Potencia - 80
+Precisión - 100
+Ef.Secundario - Ataque en dos turnos
+PP - 5
+
+Hackrom (Tipo agua):
+
+Potencia - 110 (especial)
+Precisión - 100
+Ef.Secundario - Ataque en dos turnos
+PP - 5
+
+
+
+ANILLO ÍGNEO
+----------------------------------------------
+
+Oficial (Tipo fuego):
+
+Potencia - 150
+Precisión - 95
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo fuego):
+
+Potencia - 105
+Precisión - 95
+Ef.Secundario - No
+PP - 10
+
+
+
+HIDROCAÑÓN
+----------------------------------------------
+
+Oficial (Tipo agua):
+
+Potencia - 150
+Precisión - 95
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo agua):
+
+Potencia - 105
+Precisión - 95
+Ef.Secundario - No
+PP - 10
+
+
+
+PLANTA FEROZ
+----------------------------------------------
+
+Oficial (Tipo planta):
+
+Potencia - 150
+Precisión - 95
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo planta):
+
+Potencia - 105
+Precisión - 95
+Ef.Secundario - No
+PP - 10
+
+
+
+VIENTO PLATA
+----------------------------------------------
+
+Oficial (Tipo bicho):
+
+Potencia - 60
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+Hackrom (Tipo bicho):
+
+Potencia - 75
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+
+
+FRÍO POLAR
+----------------------------------------------
+
+Oficial (Tipo hielo):
+
+Potencia - KO en un golpe
+Precisión - 30
+Ef.Secundario - No
+PP - 5
+
+Hackrom (Tipo hielo):
+
+Potencia - 130
+Precisión - 90
+Ef.Secundario - Baja un nivel ambas defensas
+PP - 5
+
+
+
+GOLPE AÉREO
+----------------------------------------------
+
+Oficial (Tipo volador):
+
+Potencia - 60
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+Hackrom (Tipo volador):
+
+Potencia - 75
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+
+
+COLA VENENO
+----------------------------------------------
+
+Oficial (Tipo veneno):
+
+Potencia - 50
+Precisión - 100
+Ef.Secundario - 10% envenenar
+PP - 25
+
+Hackrom (Tipo veneno):
+
+Potencia - 90
+Precisión - 100
+Ef.Secundario - 10% envenenar
+PP - 25
+
+
+HOJA MÁGICA
+----------------------------------------------
+
+Oficial (Tipo planta):
+
+Potencia - 60
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+Hackrom (Tipo planta):
+
+Potencia - 75
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+
+
+ONDA VOLTIO
+----------------------------------------------
+
+Oficial (Tipo eléctrico):
+
+Potencia - 60
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+Hackrom (Tipo eléctrico):
+
+Potencia - 75
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 20
+
+
+
+HIDROPULSO
+----------------------------------------------
+
+Oficial (Tipo agua):
+
+Potencia - 60
+Precisión - 100
+Ef.Secundario - 20% de confundir
+PP - 20
+
+Hackrom (Tipo agua):
+
+Potencia - 75
+Precisión - 100
+Ef.Secundario - 20% de confundir
+PP - 20
+
+
+
+GIGA IMPACTO
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo normal):
+
+Potencia - 170
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+
+
+ROMPERROCAS
+----------------------------------------------
+
+Oficial (Tipo roca):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo roca):
+
+Potencia - 165
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+
+
+DISTORSIÓN
+----------------------------------------------
+
+Oficial (Tipo dragón):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 5
+
+Hackrom (Tipo dragón):
+
+Potencia - 180
+Precisión - 95
+Ef.Secundario - Baja Velocidad, defensa y def.esp
+PP - 5
+
+
+
+CORTE VACÍO
+----------------------------------------------
+
+Oficial (Tipo dragón):
+
+Potencia - 100
+Precisión - 95
+Ef.Secundario - +1 índice crítico
+PP - 5
+
+Hackrom (Tipo dragón):
+
+Potencia - 115
+Precisión - 90
+Ef.Secundario - +1 índice crítico
+PP - 10
+
+
+
+VIENTO ACIAGO
+----------------------------------------------
+
+Oficial (Tipo fantasma):
+
+Potencia - 60
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+Hackrom (Tipo fantasma):
+
+Potencia - 75
+Precisión - 100
+Ef.Secundario - 10% subir todas las estadísticas
+PP - 5
+
+
+
+ARIETE
+----------------------------------------------
+
+Oficial (Tipo normal):
+
+Potencia - 120
+Precisión - 100
+Ef.Secundario - 25% daño de retroceso
+PP - 15
+
+Hackrom (Tipo normal):
+
+Potencia - 130
+Precisión - 100
+Ef.Secundario - 25% daño retroceso
+PP - 15
+
+
+
+RAYO GÉLIDO
+----------------------------------------------
+
+Oficial (Tipo hielo):
+
+Potencia - 140
+Precisión - 90
+Ef.Secundario - Ataque en dos turnos | 30% paralizar
+PP - 5
+
+Hackrom (Tipo hielo):
+
+Potencia - 130
+Precisión - 90
+Ef.Secundario - 33% daño retroceso | 10% paralizar
+PP - 10
+
+
+
+LLAMA GÉLIDA
+----------------------------------------------
+
+Oficial (Tipo hielo):
+
+Potencia - 140
+Precisión - 90
+Ef.Secundario - Ataque en dos turnos | 30% quemar
+PP - 5
+
+Hackrom (Tipo hielo):
+
+Potencia - 130
+Precisión - 90
+Ef.Secundario - 33% daño retroceso | 10% quemar
+PP - 10
+
+
+
+LUZ ANIQUILADORA
+----------------------------------------------
+
+Oficial (Tipo hada):
+
+Potencia - 140
+Precisión - 90
+Ef.Secundario - 50% daño de retroceso
+PP - 5
+
+Hackrom (Tipo hada):
+
+Potencia - 140
+Precisión - 90
+Ef.Secundario - 33% daño retroceso
+PP - 10
+
+
+
+PULSO PRIMIGENIO
+----------------------------------------------
+
+Oficial (Tipo agua):
+
+Potencia - 110
+Precisión - 85
+Ef.Secundario - x1,5 con Megadisparador
+PP - 10
+
+Hackrom (Tipo agua):
+
+Potencia - 120
+Precisión - 85
+Ef.Secundario - x1,5 con Megadisparador
+PP - 10
+
+
+
+CUERNO CERTERO
+----------------------------------------------
+
+Oficial (Tipo acero):
+
+Potencia - 70
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 10
+
+Hackrom (Tipo acero):
+
+Potencia - 75
+Precisión - Nunca falla
+Ef.Secundario - No
+PP - 10
+
+
+
+LÁSER PRISMA
+----------------------------------------------
+
+Oficial (Tipo psíquico):
+
+Potencia - 160
+Precisión - 100
+Ef.Secundario - Inmoviliza un turno
+PP - 10
+
+Hackrom (Tipo psíquico):
+
+Potencia - 175
+Precisión - 100
+Ef.Secundario - Inmoviliza un turno
+PP - 10
+
+
+
+RAYO INFINITO
+----------------------------------------------
+
+Oficial (Tipo dragón):
+
+Potencia - 160
+Precisión - 90
+Ef.Secundario - Inmoviliza un turno
+PP - 10
+
+Hackrom (Tipo dragón):
+
+Potencia - 150
+Precisión - 90
+Ef.Secundario - 50% daño de retroceso
+PP - 10
+
+
+
+METALÁSER
+----------------------------------------------
+
+Oficial (Tipo acero):
+
+Potencia - 140
+Precisión - 95
+Ef.Secundario - Resta 1/2 de salud al usuario
+PP - 10
+
+Hackrom (Tipo acero):
+
+Potencia - 140
+Precisión - 95
+Ef.Secundario - 50% daño de retroceso
+PP - 10
+
+
+
+ALA BIS
+----------------------------------------------
+
+Oficial (Tipo volador):
+
+Potencia - 40
+Precisión - 90
+Ef.Secundario - Golpea dos veces
+PP - 10
+
+Hackrom (Tipo volador):
+
+Potencia - 50
+Precisión - 90
+Ef.Secundario - Golpea dos veces
+PP - 10

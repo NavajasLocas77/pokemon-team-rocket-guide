@@ -1,0 +1,256 @@
+SECUNDARIA FUJI NEO TÚNEL ROCA
+----------------------------------------------------------------
+VS NEO LÍDER FUCSIA SHACHIKO
+
+- Ariados (Nv. 105) | Banda Focus | Alegre | Adaptable
+
+  Mov: Telaraña, púas tóxicas, golpe bajo, megacuerno
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (25 en el resto)
+
+- Gliscor (Nv. 106) | Toxisfera | Alegre | Antídoto
+
+  Mov: Terremoto, protección, respiro, imagen
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (25 en el resto)
+
+- Weezing (Nv. 106) | Condensador Gas | Modesta | Levitación
+
+  Mov: Bomba lodo, fuego fatuo, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp (25 en el resto)
+
+- Crobat (Nv. 107) | P.Elegido | Firme | Allanamiento
+
+  Mov: Ala bis
+  IVs: 31/31 | EVs: 252 At, 252 Vel (25 en el resto)
+
+- Venomoth (Nv. 108) | Banda focus | Modesta | Cromolente
+
+  Mov: Danza aleteo, zumbido, gigadrenado, bomba lodo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (25 en el resto)
+
+- Kangaskhan (Nv. 109) | Kangaskhanita | Modesta | Amor Filial
+
+  Mov: Golpe cuerpo, golpe bajo, puño incremento, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Def (50 en el resto)
+
+
+VS GUARDIA
+
+- Kangaskhan (Nv. 110) | B.Zidra | Firme | Foco Interno
+
+  Mov: Golpe cuerpo, terremoto, golpe bajo, puño drenaje
+  IVs: 31/31 | EVs: 252 Ps, 252 At (100 en el resto)
+
+- Kangaskhan (Nv. 110) | B.Zidra | Firme | Foco Interno
+
+  Mov: Golpe cuerpo, terremoto, golpe bajo, puño drenaje
+  IVs: 31/31 | EVs: 252 Ps, 252 At (100 en el resto)
+
+- Marowak (Nv. 109) | Hueso Grueso | Firme | Arm.Batalla
+
+  Mov: Huesomerang, roca afilada, poltergeist, imagen
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (100 en el resto)
+
+- Marowak (Nv. 109) | Hueso Grueso | Firme | Arm.Batalla
+
+  Mov: Huesomerang, roca afilada, poltergeist, imagen
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (100 en el resto)
+
+- Guardia (Nv. 111) | Hueso Grueso | Firme | Amor Filial
+
+  Mov: Golpe cuerpo, golpe bajo, huesomerang, puño drenaje
+  IVs: 31/31 | EVs: 252 Ps, 252 At (128 en el resto)
+
+
+
+SECUNDARIA CHICA PLAYA CIUDAD PORTUAL
+---------------------------------------------------------------
+VS DUEÑO CASA PLAYA
+
+- Crawdaunt (Nv. 109) | Banda Focus | Firme | Adaptable
+
+  Mov: Desarme, acua jet, martillazo, fuerza bruta
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (50 en el resto)
+
+- Walrein (Nv. 110) | Restos | Serena | Sebo
+
+  Mov: Tóxico, protección, surf, rayo hielo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp (50 en el resto)
+
+- Flygon (Nv. 110) | P.Elegido | Firme | Levitación
+
+  Mov: Enfado
+  IVs: 31/31 | EVs: 252 At, 252 Vel (50 en el resto)
+
+- Slaking (Nv. 111) | C.Elegida | Firme | Pereza
+
+  Mov: Giga impacto
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (50 en el resto)
+
+- Sharpedo (Nv. 112) | Sharpedonita | Firme | Mand.Fuerte
+
+  Mov: Triturar, colm.hielo, psicocolmillos, hidroariete
+  IVs: 31/31 | EVs: 252 At, 252 Vel (100 en el resto)
+
+- Toucannon (Nv. 112) | Vidasfera | Firme | Encadenado
+
+  Mov: Pico cañón, pedrada, recurrente, viento afín
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+
+VS HIJA DUEÑO CASA PLAYA
+
+- Delcatty (Nv. 109) | Gema Normal | Firme | Normalidad
+
+  Mov: Sorpresa, golpe bajo, doble filo, onda trueno
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Exploud (Nv. 110) | Banda focus | Modesta | Intrépido
+
+  Mov: Estruendo, llamarada, surf, onda certera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Chatot (Nv. 110) | P.Elegido | Miedosa | Vista Lince
+
+  Mov: Estruendo, onda ígnea, ida y vuelta, alarido
+  IVs: 31/31 | EVs: 252 Def, 252 Vel, 6 Ps
+
+- Banette (Nv. 111) | Banettita | Firme | Bromista
+
+  Mov: Lanza mugre, golpe bajo, poltergeist, fuego fatuo
+  IVs: 31/31 | EVs: 252 At, 252 Vel (80 en el resto)
+
+
+
+SECUNDARIA MUSEOS HOENN
+----------------------------------------------------------
+VS AS DEL FRENTE FORTUNIA
+
+- Sandaconda (Nv. 113) | Casco Dentado | Agitada | Expulsarena
+
+  Mov: Trampa rocas, deslumbrar, terremoto, descanso
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 At
+
+- Shuckle (Nv. 114) | Restos | Cauta | Robustez
+
+  Mov: Tóxico, protección, descanso, rizo defensa
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+- Gyarados (Nv. 115) | Gyaradosita | Firme | Intimidación/Rompemoldes
+
+  Mov: Enfado, terremoto, triturar, acua cola
+  IVs: 31/31 | EVs: 252 At, 252 Vel (50 en el resto)
+
+- Milotic (Nv. 115) | G.Elegidas | Modesta | Tenacidad
+
+  Mov: Hidrobomba, fuerza lunar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Seviper (Nv. 116) | Vidasfera | Pícara | Allanamiento
+
+  Mov: Onda tóxica, gigadrenado, lanzallamas, golpe bajo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (100 en el resto)
+
+- Serperior (Nv. 116) | Banda focus | Miedosa | Respondón
+
+  Mov: Cometa draco, lluevehojas, gigadrenado, pulso dragón
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (100 en el resto)
+
+
+VS ASES DEL FRENTE SABINO Y TACTIO (COMBATE DOBLE)
+
+- Articuno (Nv. 116) | Banda focus | Modesta | Indefenso
+
+  Mov: Ventisca, vendaval, respiro, pantalla luz
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Charizard (Nv. 118) | Charizardita X | Firme | Garra Dura
+
+  Mov: Garra dragón, envite ígneo, terremoto, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Vel
+
+- Salamence (Nv. 117) | Aerostal Z | Modesta | Intimidación
+
+  Mov: Hidrobomba, llamarada, cometa draco, vendaval
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Metagross (Nv. 116) | Chal.Asalto | Firme | Cuerpo Puro
+
+  Mov: Puño meteoro, cabezazo zen, terremoto, puño bala
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Lucario (Nv. 118) | Lucarionita | Alegre | Adaptable
+
+  Mov: A bocajarro, puño bala, puño meteoro, puño hielo
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Latias (Nv. 117) | Rocío bondad | Osada | Levitación
+
+  Mov: Surf, reflejo, bola neblina, recuperación
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Vel
+
+
+VS DAMA TORRE DESTRA
+
+- Archaludon (Nv. 116) | Restos | Osada | Firmeza
+
+  Mov: Cometa draco, plancha corporal, trampa rocas, onda trueno
+  IVs: 31/31 | EVs: 252 Ps, 128 Def, 128 Def.Esp
+
+- Snorlax (Nv. 116) | B.Ziuela | Agitada | Sebo
+
+  Mov: Maldición, descanso, golpe cuerpo, triturar
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 At
+
+- Alakazam (Nv. 116) | Banda focus | Modesta | Muro Mágico
+
+  Mov: Psíquico, onda certera, brillo mágico, reflejo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Entei (Nv. 117) | Pirostal Z | Firme | Cabeza Roca
+
+  Mov: Fuego sagrado, vel.extrema, fuerza equina, triturar
+  IVs: 31/31 | EVs: 252 At, 252 Def, 6 Ps
+
+- Raikou (Nv. 117) | Globo Helio | Osada | Pot.Bruta
+
+  Mov: Rayo, paz mental, paranormal, esfera aural
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 At.Esp
+
+- Latios (Nv. 119) | Latiosita | Osada | Levitación
+
+  Mov: Paz mental, resplandor, recuperación, pulso dragón
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (100 en el resto)
+
+SECUNDARIA CUEVA CARDUMEN-ISLA SUPREMA
+----------------------------------------------------------
+VS AS DEL FRENTE ANICETO
+
+- Amoonguss (Nv. 117) | Restos | Osada | Sebo
+
+  Mov: Espora, gigadrenado, bomba lodo, poder oculto (fuego)
+  IVs: 31/31 | EVs: 252 Ps, 176 Def, 89 Def.Esp
+
+- Lycanrock-Dusk (Nv. 118) | Vidasfera | Agitada | Garra Dura
+
+  Mov: Roca veloz, a bocajarro, golpe bajo, roca afilada
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Suicune (Nv. 119) | Hidrostal Z | Modesta | Muro Mágico
+
+  Mov: Hidrobomba, frío polar, bola sombra, paranormal
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def, 6 Ps
+
+- Audino (Nv. 120) | Audinita | Modesta | Pelaje Recio
+
+  Mov: Psíquico, fuerza lunar, deseo, campana cura
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Kyogre (Nv. 120) | Orbe Azul | Osada | Llovizna/Mar del Albor
+
+  Mov: Pulso primigenio, trueno, frío polar, salpicar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Jirachi (Nv. 121) | Hierba Única | Modesta | Levitación
+
+  Mov: Psíquico, rayo meteoro, esfera aural, metaláser
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps

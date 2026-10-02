@@ -1,0 +1,1089 @@
+PIEDRAS EVOLUTIVAS
+------------------------
+Piedra Agua: Venta en Base Rocket Profunda.
+Piedra Trueno: Venta en Base Rocket Profunda.
+Piedra Fuego: Venta en Base Rocket Profunda.
+Piedra Hoja: Venta en Base Rocket Profunda.
+
+
+Piedra Alba: Venta en Base Rocket Profunda (Sala Entrenamiento).
+Piedra Noche: Venta en Base Rocket Profunda (Sala Entrenamiento).
+Piedra Día: Venta en Base Rocket Profunda (Sala Entrenamiento).
+Piedra Hielo: Venta en Base Rocket Profunda (Sala Entrenamiento).
+Piedra Link: Venta en Base Rocket Profunda (Sala Entrenamiento).
+
+
+Piedra Lunar: No está a la venta.
+
+- Como objeto de suelo: Mt.Moon | Base Rocket Kanto | Mansion Pkmn S1
+Zona Secreta Bosque Baya | Cataratas Tohjo | Ruinas Alfa | Interior Cámara Sellada
+- Como objeto invisible: Mt.Moon 3F | Mansión Pkmn 1F
+- Equipado en un Eevee de la secundaria en Mansión Canela
+
+
+Piedra Solar: No está a la venta.
+
+- Como objeto de suelo: Jardín Sec.Cazabichos Plateada | Valle Ruinas |
+Ruta 36 | Ruta 51 (Mar Oeste Cerezo) | Interior Casino Malvalona
+- Equipado en un Eevee de la secundaria en Mansión Canela | Regalo de NPC en el Centro Espacial Algaria
+
+
+Piedra Sagrada: No accesible hasta misión 'Ruta 47' del DLC.
+
+- Se obtiene una para entrar a la torre Dun. Dentro de la propia torre hay dos más.
+- A partir de la apertura de la Torre Radio Lavanda, se venden en sus pisos superiores.
+
+
+Piedra Rocket: No accesible hasta el período 5ta-6ta medalla de Johto.
+
+- A partir de la apertura De la Torre Radio Lavanda, se venden en sus pisos superiores.
+
+
+Piedra Devon: Una única unidad disponible, obtenible en la 4ta misión de la temporada de Hoenn.
+
+
+
+OBJETOS POTENCIADORES DE CIERTOS PKMN
+------------------------------------------------------
+
+Piedra Espíritu: S3 del Culto Lavanda. En una tumba en la zona sureste.
+(T2: Archi7)
+- Accesible desde la primera visita al culto.
+
+
+Ala Arcoíris: Regalo de científico en el P9 de la T.Radio de C.Trigal.
+(T3: Johto - Medalla 5)
+- Accesible tras ganar la 5ta medalla de Johto.
+
+
+Ala Plateada: En la casa de la Ex Campeona Frida.
+(T4: DLC)
+- En una zona secreta, al norte de las vías de tren.
+- Accesible tras misión Volcán Canela del DLC.
+
+
+Escamadragón: Siguiendo la Vía Acuática hacia el sur de Isla Exta.
+(T2: Archi7)
+
+
+Mejora: Regalo del P.Silph junto a un Porygon en el asalto a Silph.
+(T1: Kanto)
+- Se venden más unidades en el subterráneo de C.Trigal.
+(T3: Johto - Medalla 2)
+
+
+Protector: Como objeto de suelo dentro de la secundaria del bar Olivo.
+(T3: Johto - Medalla 4)
+
+
+Electrizador: Como objeto de suelo dentro de la secundaria de la casa al noroeste de Caoba.
+(T3: Johto - Medalla 6)  
+
+
+Magmatizador: Como objeto de suelo dentro de la misión del Volcán Canela.
+(T4: DLC - Misión 5)
+
+
+Discoxtraño: Regalo de Científico en el S2 de Silph.
+(T2: Archi7)
+- Se venden más unidades en el subterráneo de C.Trigal.
+(T3: Johto - Medalla 2)
+
+
+Telaterrible: Objeto de suelo en la Cueva de Hypno.
+(T2: Archi7 - Secundaria Bosque Baya)
+- También aparece en la 2da visita al Culto Lavanda.
+(T3: Johto - Medalla 7)
+
+
+Escama Bella: Objeto de suelo en Ruta 51 (Mar Oeste Cerezo).
+(T3: Johto)
+
+
+Escama Marina: Cámara Sellada Regigigas.
+(T5: Hoenn - Misión 9)
+
+
+Diente Marino: Faro Ciudad Olivo | Nao Abandonada
+(T3: Johto - Medalla 4) | (T5: Hoenn - Misión 3)
+
+
+Roca del Rey: Cañón Sete de Isla Sétima
+(T2: Archi7)
+
+
+Rev.Metálico: Pilar Recuerdo de Isla Inta.
+(T1: Kanto)
+
+
+Bolaluminosa: Se vende en el subterráneo de C.Trigal.
+(T3: Johto - Medalla 2)
+
+
+Palo: En el Encinar.
+(T3: Johto - Medalla 2)
+
+
+
+Escama Roja: Interior del Lago Furia, zona más profunda.
+(T4: DLC - Misión 'Lago Furia')
+
+
+
+Condensador Gas: Zona Central de los refugios de Kanto.
+(T4: DLC - Misión 7)
+
+
+
+Mineral Negro: Torre Dun, P11.
+(T4: DLC - Misión 'Ruta 47')
+
+
+
+OBJETOS COMPETITIVOS
+---------------------------------------------------------------------------------------------
+Nota: Estos objetos son obtenibles más de una vez a lo largo del juego. 
+Esta lista nombra la etapa más temprana en la que pueden ser obtenidos.
+
+
+C.Elegida: Regalo Científico M.Plateada post 8 Medallas de Kanto. (T1: Kanto)
+
+G.Especiales: Regalo Copiona en C.Azafrán post 8 Medallas de Kanto. (T1: Kanto)
+
+P.Elegido: Regalo Entr.Guay Isla Sétima. (T2: Archi7)
+
+Llamasfera: Regalo anciano lago C.Azulona post 8 Medallas de Kanto. (T1: Kanto)
+
+Toxisfera: Robado al combatir con el Ayudante de Oak de Ruta 15. (T1: Kanto)
+
+Roca Lluvia: Isla Exta, caverna secreta de Cueva Punteada. (T2: Archi7)
+
+Roca Calor: Isla Prima, caverna secreta del Mt.Ascuas. (T2: Archi7)
+
+Roca Suave: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+Roca Helada: Cueva Glaciada, zona secreta anciana isla. (T2: Archi7)
+
+Banda Focus: Venta en Base Rocket Profunda. (T1: Kanto)
+
+Periscopio: Equipado en el regalo del anciano del Machop en C.Carmín. (T1: Kanto)
+
+Restos: Calle victoria, y invisible usando buscaobjetos sobre el lugar en
+el que estaba Snorlax (buscaobjetos se roba del Ayudante de Oak de Ruta 8)
+
+Camp.Concha: Venta en Base Rocket Profunda.
+
+Lupa: Isla Secunda, regalo exorcista de Cabo Extremo. (T2: Archi7)
+
+Banda Fuerte: C.Azafrán, equipado en el reglo del motorista. (T1: Kanto)
+
+Gafas especiales: Como objeto de suelo en el S2 de Silph. (T2: Archi7)
+
+Cinta Xperto: C.Fucsia, Cazabichos post 8 Medallas de Kanto. (T1: Kanto)
+
+Vidasfera: Último Entr.Guay de Calle Victoria. (T1: Kanto)
+
+Telescopio: Silph S3. (T2: Archi7)
+
+Metrónomo: Venta en el Casino de C.Trigal (T3: Johto)
+
+Cola Plúmbea: Cueva Vías de tren C.Trigal (T3: Johto)
+
+Bola Férrea: Torre Secundaria Recreativos (T2: Archi7)
+
+Lodo Negro: C.Verde, regalo tutor comesueños tras ganar 8 Medallas. (T1: Kanto)
+
+Garra Garfio: Guarida Dragón, S3. (T3: Johto)
+
+Raíz Grande: Venta en Farmacia de C.Orquídea (T3: Johto)
+
+Garra Afilada: Torre Secundaria Recreativos (T2: Archi7)
+
+Colm.Agudo: Senda Orquídea hacia Ruta 47 (T4: DLC)
+
+Min.Evol: Regalo de Giovanni tras completar misión de P.Paleta (T1: Kanto)
+
+Piedra Pómez: Ruta 47, al borde de la orilla. (T4: DLC)
+
+Casco Dentado: Isla Cuarta, regalo NPC Golpe Cuerpo en FR. (T2: Archi7)
+
+Globo Helio: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Tarjeta Roja: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Blanco: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Banda Atadura: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Botón Escape: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Seguro Debilidad: Venta en Centro Comercial Trigal. (T3: Johto)
+
+Chaleco Asalto: Lab.Canela, regalo tutor metrónomo tras ganar 8 Medallas. (T1: Kanto)
+
+Gafas Protectoras: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Nerviosfera: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Cubresuelos: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Paracontacto: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Spray.Bucal: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Moch.Escape: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Botas Gruesas: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Seguro Fallo: Venta en Torre Radio Lavanda. (T4: DLC)
+
+Par.Multiuso: Venta en Torre Radio Lavanda. (T4: DLC)
+
+
+
+UBICACIÓN OBJETOS POTENCIADORES +20% UN TIPO CONCRETO
+---------------------------------------------------------------------------------------------
+Nota: Estos objetos son obtenibles más de una vez a lo largo del juego. 
+Esta lista nombra la etapa más temprana en la que pueden ser obtenidos.
+
+
+Pañuelo Seda: Regalo de Karatekas en Ruta 4. (T1: Kanto)
+
+Carbón: Equipado en Charmander secundaria estafadores. (T1: Kanto)
+
+Agua Mística: Equipado en el Omanyte regalado tras salvar el Museo Plateada. (T1: Kanto)
+
+Imán: Regalo de chica en el P2 de Silph. (T1: Kanto)
+
+Sem.Milagro: Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)
+
+Antiderretir: Cueva Glaciada de Isla Cuarta. (T2: Archi7)
+
+Cinturón Negro: Regalo del Rey del Kárate en C.Azafrán. (T1: Kanto)
+
+Flecha Venenosa: Regalo de Petrel tras salvar el Museo Plateada. (T1: Kanto)
+
+Arena Fina: Regalo de Recluta Rocket tras derrotar al Montañero de C.Celeste. (T1: Kanto)
+
+Pico Afilado: Equipado en el Aerodactyl regalado tras misión Aves. (T1: Kanto)
+
+Cuchara Torcida: Regalo de Científico en B.Profunda, zona oeste. (T1: Kanto)
+
+Polvo Plata: Equipado en el Pinsir regalado por los Entr.Guays del Bosque Verde. (T1: Kanto)
+
+Piedra Dura: Equipado en el Kabuto regalado tras misión Kangaskhan. (T1: Kanto)
+
+Hechizo: Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)
+
+Colmillodragón: Base Rocket Profunda, Sala Ejecutivos. (T1: Kanto)
+
+Gafas de Sol: Regalo de Koga al llegar a C.Fucsia. (T1: Kanto)
+
+Metal Compuesto: Base Rocket Profunda, Sala Potencial Alcanzable. (T1: Kanto)
+
+
+
+UBICACIÓN DE LAS TABLAS DE ARCEUS (+30% UN TIPO CONCRETO)
+---------------------------------------------------------------------------------------------
+
+Tabla Llama: Volcán de Isla Canela (T4: DLC - Misión 5).
+
+Tabla Linfa: Nao Abandonada (T5: Hoenn - Misión 3).
+
+Tabla Trueno: Malvalanova (T5: Hoenn - Misión 2).
+
+Tabla Pradal: Casa Desierta en Ruta 26 (T3: Johto - Medalla 5).
+
+Tabla Helada: Templo Puntaneva (T5: Hoenn - Misión 5).
+
+Tabla Fuerte: Mt.Mortero (T3: Johto - Medalla 4).
+
+Tabla Tóxica: Casa Ex-Campeón, Ruta 50 (T4: DLC - Misión 'Ruta 47').
+
+Tabla Terrax: Fosa Wringsparce, Noreste Ruta 50 (T4: DLC - Misión 'Ruta 47').
+
+Tabla Cielo: Cima Pilar Celeste (T5: Hoenn - Misión 9).
+
+Tabla Mental: Cima Pilar Dun (T4: DLC - Misión 'Ruta 47').
+
+Tabla Bicho: Bosque oculto al norte vías de tren (T4: DLC - Misión 6).
+
+Tabla Pétrea: Zona secreta de Cueva Granito (T5: Hoenn - Misión 4).
+
+Tabla Terror: Pasadizo que lleva al Culto Lavanda (T2: Archi7).
+
+Tabla Draco: Interior Guarida Dragón (T3: Johto - Medalla 8).
+
+Tabla Oscura: Culto lavanda, última zona de la 2da visita (T3: Johto - Medalla 7).
+
+Tabla Acero: Ruta 120, al lado de las ruinas de Registeel (T5: Hoenn - Misión 7).
+
+Tabla Duende: Ruta 51, mar al oeste de Ciudad Cerezo (T3: Johto - Medalla 5).
+
+
+
+DISCOS DE GENESECT
+-------------------------------------------------------------------------------------------
+- Los 4 se hallan en el Laboratorio del interior del Volcán Canela.
+(T4: DLC - Misión 5)
+
+
+
+DISCOS DE SILVALLY
+--------------------------------------------------------------------------------------------
+- Todos están a la venta en la Torre Radio de Pueblo Lavanda.
+(T4: DLC - Misión 9)
+
+
+
+BAYAS REDUCTORAS EVS
+--------------------------------------------------------------------------------------------
+- Todas están a la venta en la Base Rocket de Johto.
+(T3: Johto - Medalla 5)
+
+
+
+BAYAS MITIGADORAS SUPEREFECTIVO Y BAYAS QUE SUBEN UN STAT EN MOMENTO CRÍTICO
+--------------------------------------------------------------------------------------------
+- Todas a la venta en Bosque Secreto de I.Sétima | Secundaria Atlas
+(T2: Archi7)
+
+- Más tarde están también disponible en una casa al noreste de C.Trigal.
+(T3: Johto - Medalla 3)
+
+
+
+GEMAS PKMN
+--------------------------------------------------------------------------------------------
+- Todas están a la venta en la Base Rocket de Hoenn.
+(T4: DLC - Misión 4)
+
+
+
+CRISTALES Z
+--------------------------------------------------------------------------------------------
+- Todos están a la venta en la Torre Radio de Pueblo Lavanda.
+(T4: DLC - Misión 9)
+
+
+
+SEMILLAS CONSUMIBLES BAJO CAMPOS
+--------------------------------------------------------------------------------------------
+- Todos están a la venta en la Torre Radio de Pueblo Lavanda.
+(T4: DLC - Misión 9)
+
+
+
+TODAS LAS MEGAPIEDRAS (OFICIALES)
+--------------------------------------------------------------------------------------------
+
+Venusaurita: Noroeste de Ciudad Trigal (T3: Johto - Medalla 2/3)
+
+Charizardita-X: Regalo de Científico en Base Caoba (T3: Johto - Medalla 6)
+
+Charizardita-Y: Base estafadores en el mar Olivo (T3: Johto - Medalla 4)
+(Ver secundaria que se activa dejándote estafar el Magikarp al pie del Mt.Moon)
+
+Blastoisenita: Cueva Unión de Johto. S2, zona interior. (T3: Johto - Medalla 1)
+
+Beedrillita: Parque Nacional. Zona Noreste. (T3: Johto - Medalla 3)
+
+Pidgeotita: Mar al sur de C.Cerezo. Discípulo Pegaso. (T3: Johto - Medalla 4)
+
+Alakazita: Detrás de Torre Bellsprout, Ciudad Malva. (T3: Johto - Medalla 1)
+
+Slowbronita: Supernecio Pozo Slowpoke, tras hablar con César. (T3: Johto - Medalla 2)
+
+Gengarita: Regalo de Agatha tras 6ta medalla Johto. (T3: Johto - Medalla 3)
+
+Kangaskhanita: Dentro de Cueva Oscura, Johto. (T3: Johto - Medalla 1)
+
+Pinsirita: Ciudad Olivo, zona norte encima del gimnasio. (T3: Johto - Medalla 4)
+
+Aerodactylita: Regalo de Elo al combatir en P.Primavera. (T3: Johto - Medalla 5)
+
+Mewtwonita-X: Laboratorio Secreto, S1. (T5: Hoenn - Misión 10)
+
+Mewtwonita-Y: Regalo de Giovanni al acabar el DLC. (T4: DLC - Misión 9)
+
+Ampharosita: Regalo del farero de C.Olivo, tras derrotar a Crom. (T3: Johto - Medalla 4)
+
+Steelixita: Afueras de C.Trigal, parte norte vías de tren. (T3: Johto - Medalla 3)
+
+Scizorita: Regalo granja Mu-muu tras derrotarlos. (T3: Johto - Medalla 3)
+
+Heracronita: Regalo esposa Aníbal tras traerlo de vuelta. (T3: Johto - Medalla 4)
+
+Houndoomita: Ruta 26, Johto. (T3: Johto - Medalla 5)
+
+Tyranitarita: Interior Mt.Plateado, tras una de las cascadas. (T3: Johto - Medalla 5)
+
+Sceptilita: Ruta 111, tras derrotar a la familia estratega. (T5: Hoenn - Misión 1)
+
+Blazikenita: Ruta 133, zona norte de las corrientes. (T5: Hoenn - Misión 9)
+
+Swampertita: Nao abandonada, zona secreta. (T5: Hoenn - Misión 3)
+
+Gardevoirita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Sablenita: Cueva Granito. (T5: Hoenn - Misión 4)
+
+Mawilita: Secundaria casa noroeste P.Caoba. (T3: Johto - Medalla 6)
+
+Aggronita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Medichamita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Manectita: Torre Radio Lavanda, P9. (T4: DLC - Misión 9)
+
+Sharpedonita: Secundaria Científico Ruinas Alfa. (T3: Johto - Medalla 3)
+
+Cameruptita: Laboratorio Volcán Canela. (T4: DLC - Misión 5)
+
+Altarianita: Ruta 119, tras la última cascada. (T5: Hoenn - Misión 6)
+
+Banettita: Cima Monte Pírico. (T5: Hoenn - Misión 7)
+
+Absolita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Glalita: Ruta 125, al lado de Cueva Cardumen. (T5: Hoenn - Misión 8)
+
+Salamencita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Metagrossita: Científico en B.Rocket Hoenn, sala nuevas formas. (T4: DLC - Misión 4)
+
+Latiasita: Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)
+
+Latiosita: Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)
+
+Lopunnita: Casino Malvalona. (T5: Hoenn - Misión 2)
+
+Garchompita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Lucarionita: Regalo 4to Líder Johto. (T3: Johto - Medalla 4)
+
+Abomasita: Templo Puntaneva. (T5: Hoenn - Misión 5)
+
+Galladita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Audinita: Ciudad Calagua, regalo de Npc casa este. (T5: Hoenn - Misión 7)
+
+Diancita: Laboratorio Secreto, S3. (T5: Hoenn - Misión 10)
+
+MEGAPIEDRAS ZA
+------------------------------------------------------------------------------
+
+Clefablita: Secundaria Neo Faro Bill. (T4: DLC - Misión 5)
+
+Victreebelita: Ejecutivo Base Verde al empezar Johto. (T3: Johto - Inicio)
+
+Starmita: Misty tras secundaria Neo Faro Bill. (T4: DLC - Misión 5)
+
+Dragonitita: Dragonsden S3. (T3: Johto - Medalla 8)
+
+Meganiumita: Ruta 51, oeste C.Cerezo. (T3: Johto - Inicio)
+
+Feraligatrita: Ejecutivo Base Johto P2. (T3: Johto - Medalla 5)
+
+Skarmorita: Ejecutivo Base Johto P1 tras mostrar un Typhlosion. (T3: Johto - Medalla 3)
+(Cyndaquil a la venta en Casino Trigal)
+
+Froslassita: No obtenible.
+
+Emboarita: No obtenible.
+
+Excadrillita: No obtenible.
+
+Scolipedita: Base Profunda Sala Potencial Máximo, Zona Super Mineral detrás cajas. (T3: Johto - Inicio)
+
+Scraftita: Misión ladrones Kanto en Johto, edificio oculto en el mar al sureste de C.Olivo. (T3: Johto - Medalla 4)
+
+Eelektrossita: No obtenible.
+
+Chandelurita: Bosque Norte Vías Tren. (T4: DLC - Misión 6)
+
+Chesnaughtita: Venta Base Profunda, sala moneda Gimmighoul. (T3: Johto - Inicio)
+
+Delphoxita: Culto Lavanda, exorcista de una de las casas tras mostrarle un Corsola. (T3: Johto - Medalla 4)
+(Corsola obtenible usando Surf -30%- en Ruta 41 e interior Islas Remolino)
+
+Greninjanita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Pyroarita: Caballero Bibliotecario S3 Silph, tras mostrarle un Aegislash. (T3: Johto - Medalla 6)
+(Honedge obtenible por npc pensador dentro de Torre Campana)
+
+Floettita: Regalo de chica en Villa Éter, tras pescar y mostrarle un Dondozo. (T5: Hoenn - Misión 8)
+(Dondozo obtenible en el lago de villa éter, usando la supercaña obtenible en Ciudad Algaria)
+
+Malamarita: Zona Oeste de los refugios de Kanto. (T4: DLC - Misión 7)
+
+Barbaraclita: No obtenible.
+
+Dragalgita: Cueva Wrongsparce, norte de Ruta 50. (T4: DLC - Misión 3)
+
+Hawluchanita: No obtenible.
+
+Zygardita: No obtenible.
+
+Drampanita: Villa Éter, caseta del norte. Intercambio por amuleto obtenible en el gimnasio de C.Iris. (T4: DLC - Misión 3)
+
+Falinksita: No obtenible.
+
+Heatranita: No obtenible.
+
+Darkrainita: No obtenible.
+
+Zeraoranita: Venta Base Profunda, sala moneda Gimmighoul. (T5: Hoenn - Inicio)
+
+Raichunita X: Mapa de secundaria activada en la caseta al noreste de Pueblo Caoba. (T3: Johto - Medalla 7)
+
+Raichunita Y: Regalo de Científico al noroeste de las cloacas azulona, tras mostrarle un Clodsire. (T4: DLC - Misión 3)
+(Clodsire obtenible haciendo Surf en el lago de Villa Éter)
+
+Chimechita: Regalo Ejecutivo Base Hoenn, tras derrotarlo al entrar como Líder allí. (T5: Hoenn - Inicio)
+
+Absolita Z: No obtenible.
+
+Staraptorita: Mapa de secundaria activada al hablar con calvo en el bar de C.Olivo. (T3: Johto - Medalla 4)
+
+Garchompita Z: S1 del mapa en misión 10 de Hoenn. (T5: Hoenn - Misión 10)
+
+Lucarita Z: No obtenible.
+
+Golurkita: Culto Lavanda, zona cascada. (T3: Johto - Medalla 5)
+
+Meowsticita: Cementerio Neo Lavanda S2. NPC sala conspiraciones. (T4: DLC - Misión 4)
+
+Crabominablita: No obtenible.
+
+Golisopodita: Rocket en cárcel de Base Profunda, tras mostrarle un Ledyba. (T3: Johto - Medalla 2)
+(Ledyba es obtenible en el Encinar de P.Azalea).
+
+Magearnita: No obtenible.
+
+Scovillainita: No obtenible.
+
+Baxcaliburita: Venta Base Profunda, sala moneda Gimmighoul. (T4: DLC - Inicio)
+
+Tatsugirita: No obtenible.
+
+Glimmoranita: Misión Vías Tren Zona Desértica. (T4: DLC - Misión 2
+)
+
+MEGAPIEDRAS NUEVAS
+------------------------------------------------------------------------------
+
+Flygonita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Miloticita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Starmitita: Tras derrotar chica oeste mar C.Cerezo. (T3: Johto - Medalla 5)
+
+Butterfrita: Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)
+
+Dusknoirita: Culto Lavanda, segunda visita. (T3: Johto - Medalla 7)
+
+Noivernita: Regalo de Mirto. (T3: Johto - Medalla 7)
+
+Toxtricitita: Zona final refugios guerra Kanto. (T4: DLC - Misión 7)
+
+Porygonita: No obtenible.
+
+
+
+OBTENCIÓN DE TODAS LAS MTS
+-----------------------------------------------------------------------------
+
+MT01 - Puño certero: Quinta planta de Silph. (T1: Kanto)
+
+MT02 - Garra Dragón: Calle victoria de Kanto. (T1: Kanto)
+
+MT03 - Hidropulso: Regalo de Líder Misty al derrotarla. (T1: Kanto)
+
+MT04 - Paz Mental: Regalo de Líder Sabrina al derrotarla. (T1: Kanto)
+
+MT05 - Rugido: Venta en Centro Comercial Azulona. (T2: Archi7)
+
+MT06 - Tóxico: Regalo de Líder Koga al derrotarlo. (T1: Kanto)
+
+MT07 - Granizo: Calle victoria de Kanto. (T1: Kanto)
+
+MT08 - Corpulencia: Séptima planta de Silph. (T1: Kanto)
+
+MT09 - Recurrente: Mt.Moon. (T1: Kanto)
+
+MT10 - Poder Oculto: Zona Safari. (T1: Kanto)
+
+MT11 - Día Soleado: Zona Safari. (T1: Kanto)
+
+MT12 - Mofa: Isla Exta, Valle Ruinas. (T2: Archi7)
+
+MT13 - Rayo Hielo: Venta en Base Rocket Profunda. (T1: Kanto)
+
+MT14 - Ventisca: Isla Canela, interior Mansión Pokémon. (T1: Kanto)
+
+MT15 - Hiperrayo: Ruta 2, Ayudante Oak | Venta C.Comercial Azulona. (T1: Kanto)
+
+MT16 - Pantalla Luz: Ruta 3, entre Mt.Moon y C.Celeste. (T1: Kanto)
+
+MT17 - Protección: Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)
+
+MT18 - Danza Lluvia: Ruta 15. (T1: Kanto)
+
+MT19 - Gigadrenado: Regalo de Líder Erika al derrotarla. (T1: Kanto)
+
+MT20 - Velo Sagrado: Venta en Centro Comercial Azulona. (T2: Archi7)
+
+MT21 - Frustración: Base Rocket Kanto. (T1: Kanto)
+
+MT22 - Rayo Solar: Isla Canela, interior Mansión Pokémon. (T1: Kanto)
+
+MT23 - Cola Férrea: Túnel Roca. (T1: Kanto)
+
+MT24 - Rayo: Venta en Base Rocket Profunda. (T1: Kanto)
+
+MT25 - Trueno: Central Energía Kanto. (T1: Kanto)
+
+MT26 - Terremoto: Regalo de Líder C.Verde tras derrotarlo. (T1: Kanto)
+
+MT27 - Retroceso: Regalo de chica en el mirador de Ruta 12. (T1: Kanto)
+
+MT28 - Excavar: Regalo de Rocket tras misión C.Celeste. (T1: Kanto)
+
+MT29 - Psíquico: Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)
+
+MT30 - Bola Sombra: Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)
+
+MT31 - Demolición: Ruta 11 | Venta C.Comercial Azulona. (T1: Kanto)
+
+MT32 - Doble Equipo: B.Rocket Profunda - S.Potencial Máximo - Zona Norte. (T3: Johto)
+
+MT33 - Reflejo: Regalo Científico en Base Rocket Profunda. (T1: Kanto)
+
+MT34 - Onda Voltio: Regalo de Líder Surge tras derrotarlo. (T1: Kanto)
+
+MT35 - Lanzallamas: Venta en Base Rocket Profunda. (T1: Kanto)
+
+MT36 - Bomba Lodo: Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)
+
+MT37 - Torm.Arena: Calle Victoria de Kanto. (T1: Kanto)
+
+MT38 - Llamarada: Regalo de Líder Blaine tras derrotarlo. (T1: Kanto)
+
+MT39 - Tumba Rocas: Regalo de Líder Brock tras derrotarlo. (T1: Kanto)
+
+MT40 - Golpe Aéreo: Ruta 9. (T1: Kanto)
+
+MT41 - Tormento: Cuarta Planta de Silph. (T1: Kanto)
+
+MT42 - Imagen: Base Rocket Profunda. (T1: Kanto)
+
+MT43 - Daño Secreto: Ruta 25 | Venta en C.Comercial Azulona. (T1: Kanto)
+
+MT44 - Descanso: Ruta 2. (T1: Kanto)
+
+MT45 - Atracción: Islas Espuma | Venta en C.Comercial Azulona. (T2: Archi7)
+
+MT46 - Ladrón: Mt.Moon. (T1: Kanto)
+
+MT47 - Ala de Acero: Zona Safari. (T1: Kanto)
+
+MT48 - Intercambio: Ruta 12. (T1: Kanto)
+
+MT49 - Robo: Base Rocket Kanto. (T1: Kanto)
+
+MT50 - Sofoco: Calle Victoria Kanto. (T1: Kanto)
+
+MT51 - Onda Certera: Silph S3. (T2: Archi7)
+
+MT52 - Acróbata: Ruta 49, misión 'Ruta 47' DLC. (T4: DLC)
+
+MT53 - Giga Impacto: Regalo tutor Contador en C.Comercial Azulona. (T2: Archi7)
+
+MT54 - Pulso Umbrío: Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)
+
+MT55 - Voltio Cruel: Base Rocket Hoenn. (T4: DLC)
+
+MT56 - Roca Afilada: Regalo tutor Avalanca en Túnel Roca. (T1: Kanto)
+
+MT57 - Veneno X: Base Rocket Ciudad Verde. (T1: Kanto)
+
+MT58 - Tijera X: Secundaria Bar Ciudad Olivo. (T3: Johto)
+
+MT59 - Afilargarras: Regalo Líder Johto Trigal al derrotarlo. (T3: Johto)
+
+MT60 - Psicocarga: Regalo Líder Johto Iris al derrotarlo. (T3: Johto)
+
+MT61 - Respiro: Regalo Líder Johto Malva al derrotarlo. (T3: Johto)
+
+MT62 - Antiaéreo: Ruta 50, misión 'Ruta 47' DLC. (T4: DLC)
+
+MT63 - Onda Tóxica: Regalo Científico en Torre Radio Lavanda, P5. (T4: DLC)
+
+MT64 - Nitrocarga: P.Caoba, secundaria ancianos casa noreste. (T3: Johto)
+
+MT65 - Patada Baja: Regalo Líder Johto Orquídea al derrotarlo. (T3: Johto)
+
+MT66 - Eco Voz: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+MT67 - Energibola: Vías Trigal-Azafrán, zona hierba. (T4: DLC)
+
+MT68 - Falsotortazo: Venta en subterráneo de C.Trigal. (T3: Johto)
+
+MT69 - Escaldar: Isla Prima, secundaria Cueva Tesoro. (T2: Archi7)
+
+MT70 - Rayo Carga: Neo Central Energía, regalo Presidente. (T4: DLC)
+
+MT71 - Caída Libre: Ruta 47, misión 'Ruta 47' DLC. (T4: DLC)
+
+MT72 - Fuego Fatuo: Torre Quemada, regalo exorcista. (T3: Johto)
+
+MT73 - Explosión: Volcán Canela, laboratorio destruído. (T4: DLC)
+
+MT74 - Garra Umbría: Venta en subterráneo de C.Trigal. (T3: Johto)
+
+MT75 - Vendetta: Culto Lavanda regreso, S4. (T3: Johto)
+
+MT76 - Represalia: Neo Lavanda Cementerio, S2. (T4: DLC)
+
+MT77 - Pulimento: Regalo Líder Johto Olivo al derrotarlo. (T3: Johto)
+
+MT78 - Voltiocambio: Regalo electricista en Faro Olivo. (T3: Johto)
+
+MT79 - Onda Trueno: Torre Radio Lavanda. (T4: DLC)
+
+MT80 - Giro Bola: Base Rocket Hoenn, S2. (T4: DLC)
+
+MT81 - Danza Espada: Regalo Líder Sete, secundaria Atlas. (T2: Archi7)
+
+MT82 - Estoicismo: Regalo Líder Johto Azalea al derrotarlo. (T3: Johto)
+
+MT83 - Terratemblor: Mt.Ascuas, montañero tutor explosión. (T2: Archi7)
+
+MT84 - Vaho Gélido: Regalo Líder Johto Caoba tras derrotarlo. (T3: Johto)
+
+MT85 - Avalancha: Anciana I.Cuarta tras secundaria, requiere cascada. (T3: Johto)
+
+MT86 - Cola Dragón: Ruta 50, Pilar Dun. Misión 'Ruta 47' DLC. (T4: DLC)
+
+MT87 - Puya Nociva: Base Rocket Johto, P2. (T3: Johto)
+
+MT88 - Hierba Lazo: Vías Trigal-Azafrán, zona hierba. (T4: DLC)
+
+MT89 - Contoneo: Venta en subterráneo de C.Trigal. (T3: Johto)
+
+MT90 - Picoteo: Vías Trigal-Azafrán, Bosque Secreto al norte. (T4: DLC)
+
+MT91 - Ida y Vuelta: Regalo de Antón en el Encinar. (T3: Johto)
+
+MT92 - Sustituto: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+MT93 - Foco Resplandor: Torre Campana, regalo de Pensador. (T3: Johto)
+
+MT94 - Espacio Raro: Regalo de Líder Sete, secundaria Bosque Baya. (T2: Archi7)
+
+MT95 - Trampa Rocas: Vías Trigal-Azafrán, zona rocosa al sur. (T4: DLC)
+
+MT96 - Alud: Interior Lago Furia. (T4: DLC)
+
+MT97 - Salmuera: Cueva Unión, regalo de pescador en el interior. (T3: Johto)
+
+MT98 - Puño Drenaje: Lago Furia, regalo karateka alrededor. (T3: Johto)
+
+MT99 - Pulso Dragón: Regalo Líder Johto Endrino al derrotarlo. (T3: Johto)
+
+MT100 - Brillo Mágico: Venta Centro Comercial de C.Trigal. (T3: Johto)
+
+MT101 - Giro Vil: Refugios subterráneos de Kanto. (T4: DLC)
+
+MT102 - Cuerno Certero: Secundaria estafadores Kanto en Johto. (T3: Johto)
+
+MT103 - Velo Aurora: Isla Cuarta, zona secreta de Cueva Glaciada. (T2: Archi7)
+
+MT104 - Acoso: Refugios subterráneos de Kanto. (T4: DLC)
+
+MT105 - Alarido: Neo Lavanda Cementerio, regalo rocket Alto Rango. (T4: DLC)
+
+MT106 - Puño Incremento: Refugios subterráneos de Kanto. (T4: DLC)
+
+MT107 - Puño Hielo: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+MT108 - Puño Trueno: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+MT109 - Puño Fuego: Venta en Centro Comercial de C.Trigal. (T3: Johto)
+
+MT110 - Ataque Aéreo: Cima misión 'Vías Tren' DLC. (T4: DLC)
+
+MT111 - Psicoonda: Cima Torre Radio Lavanda. (T4: DLC)
+
+MT112 - Esfera Aural: Torre Dun, P2. (T4: DLC)
+
+MT113 - Viento Afín: Pilar Dun, P2. (T4: DLC)
+
+MT114 - Lanza Mugre: Base Rocket Johto, regalo de Científico. (T3: Johto)
+
+MT115 - Cabezahierro: Volcán Canela, interior laboratorio. (T4: DLC)
+
+MT116 - Campo Eléctrico: A la venta en la Base Rocket de Johto. (T3: Johto)
+
+MT117 - Campo de Hierba: A la venta en la Base Rocket de Johto. (T3: Johto)
+
+MT118 - Campo Psíquico: A la venta en la Base Rocket de Johto. (T3: Johto)
+
+MT119 - Campo de Niebla: A la venta en la Base Rocket de Johto. (T3: Johto)
+
+MT120 - Cuerpo Pesado: Nao Abandonada. (T5: Hoenn)
+
+MT121 - Vozarrón: Venta Centro Comercial Calagua. (T5: Hoenn)
+
+MT122 - Onda Anómala: Laboratorio Misión 10 Hoenn. (T5: Hoenn)
+
+MT123 - Cuchilla Solar: Cueva Ruta 120. (T5: Hoenn)
+
+MT124 - Colm.Rayo: Venta Centro Comercial Calagua. (T5: Hoenn)
+
+MT125 - Colm.Hielo: Venta Centro Comercial Calagua. (T5: Hoenn)
+
+MT126 - Colm.Fuego: Venta Centro Comercial Calagua. (T5: Hoenn)
+
+MT127 - Electrotela: Venta en Comercio Portual. (T5: Hoenn)
+
+MT128 - Fisura: Mt.Cenizo. Cueva de Groudon. (T5: Hoenn)
+
+MT129 - Cola Veneno: Casino Malvalona, S2. (T5: Hoenn)
+
+MT130 - Triataque: Laboratorio Misión 10 Hoenn. (T5: Hoenn)
+
+MT131 - Tierra Viva: Ruta 134, Cámara Sellada. (T5: Hoenn)
+
+MT132 - Maquinación: Silph, S2. Regalo de Científico. (T2: Archi7)
+
+MT133 - Golpe Calor: Pueblo Lavacalda, NPC del Centro Pkmn. (T5: Hoenn)
+
+MT134 - Maldición: Torre Pokémon, S3. (T2: Archi7)
+
+MT135 - Onda Vacío: Venta en Comercio Portual. (T5: Hoenn)
+
+MT136 - Meteorobola: Ruta 119. Instituto Meteorológico. (T5: Hoenn)
+
+MT137 - Superdiente: Casino Malvalona, uno de los premios. (T5: Hoenn)
+
+MT138 - Fuerza Equina: Ruta 39, regalo de Criador en Granja Muu-mu. (T3: Johto)
+
+MT139 - Arenas Ardientes: Desierto de Hoenn. (T5: Hoenn)
+
+MT140 - Poltergeist: Monte Pírico, cima interior. (T5: Hoenn)
+
+MT141 - Metaláser: P.Caoba, secundaria casa al noreste. (T3: Johto)
+
+MT142 - Truco: Venta en Centro Comercial Calagua. (T5: Hoenn)
+
+MT143 - Chupavidas: C.Plateada, secundaria cazabichos. (T1: Kanto)
+
+MT144 - Pedrada: Interior Cueva Granito. (T5: Hoenn)
+
+MT145 - Poder Reserva: Pasadizo hacia el Culto Lavanda. (T2: Archi7)
+
+MT146 - Beso Drenaje: Venta Centro Comercial de C.Trigal. (T3: Johto)
+
+MT147 - Amortiguador: Venta Centro Comercial de C.Trigal. (T3: Johto)
+
+MT148 - Comesueños: Cementerio antiguo Gimnasio Lavanda. (T2: Archi7)
+
+MT149 - Electrocañón: Malvalanova. (T5: Hoenn)
+
+MT150 - Golpe Cuerpo: Venta Centro Comercial Trigal. (T3: Johto)
+
+MT151 - Carámbano: Templo Puntaneva. (T5: Hoenn)
+
+MT152 - Llama Embrujada: Monte Pírico, cima exterior. (T5: Hoenn)
+
+MT153 - Psicocorte: Ciudad Algaria, NPC de los Recreativos. (T5: Hoenn)
+
+MT154 - Frío Polar: Cueva Abisal, sala Kyogre. (T5: Hoenn)
+
+MT155 - Carbatóxica: Neo Ciudad Fucsia, zona norte abandonada. (T5: Hoenn)
+
+MT156 - Guillotina: Torre Isla Secunda. Secundaria NPCs Isla Tera. (T2: Archi7)
+
+MT157 - Pin Misil: Zona Safari de Hoenn. (T5: Hoenn)
+
+MT158 - Bomba Ácida: Premio en el Casino Malvalona. (T5: Hoenn)
+
+MT159 - Juego Sucio: Premio Casino Malvalona. (T5: Hoenn)
+
+MT160 - Perforador: Zona Safari Hoenn. (T5: Hoenn)
+
+MT161 - No obtenible.
+
+MT162 - Onda Ígnea: Torre Radio Trigal, Científico en el P7. (T3: Johto)
+
+MT163 - No obtenible.
+
+MT164 - No obtenible.
+
+MT165 - No obtenible.
+
+MT166 - Amnesia: Secundaria Bosque Baya, Cueva Hypno. (T2: Archi7)
+
+MT167 - Viraje: Mares de Hoenn, tras una zona de buceo. (T5: Hoenn)
+
+MT168 - No obtenible.
+
+MT169 - Ala Bis: Exterior Faro Ciudad Olivo. (T3: Johto)
+
+MT170 - Mil Temblores: Torre Radio Trigal, P10. (T3: Johto)
+
+MT171 - No obtenible.
+
+MT172 - No obtenible.
+
+MT173 - Joya de luz: Mt.Ascuas zona reclutas Equipo Magma. (T2: Archi7)
+
+MT174 - Inversión: Venta Base Profunda sala moneda Gimmighoul. (T1: Kanto)
+
+MT175 - No obtenible.
+
+MT176 - No obtenible.
+
+MT177 - No obtenible.
+
+MT178 - No obtenible.
+
+MT179 - Otra Vez: Museo Pueblo Verdegal. (T5: Hoenn)
+
+MT180 - Bomba gérmen: Ruta 123 al mostrar un tipo planta a chica. (T5: Hoenn)
+
+MT181 - No obtenible.
+
+MT182 - No obtenible.
+
+MT183 - No obtenible.
+
+MT184 - No obtenible.
+
+MT185 - No obtenible.
+
+MT186 - No obtenible.
+
+MT187 - No obtenible.
+
+MT188 - No obtenible.
+
+MT189 - No obtenible.
+
+MT190 - No obtenible.
+
+MT191 - No obtenible.
+
+MT192 - No obtenible.
+
+MT193 - Megapatada: Venta Base Profunda sala moneda Gimmighoul. (T2: Archi7)
+
+MT194 - Cabezazo: Cárcel Base Profunda, científico del noreste. (T1: Kanto)
+
+MT195 - Furia Dragon: Gimnasio Endrino abierto, tras misión 10 Hoenn. (T5: Hoenn)
+
+MT196 - Doble Filo: Suite Edificio telecomunicaciones Azulona. (T1: Kanto)
+
+MT197 - Sumisión: Venta en Base Rocket C.Verde. (T1: Kanto)
+
+MT198 - Bofetón Lodo: Prado de Isla Inta, surfeando. (T1: Kanto)
+
+MT199 - No obtenible.
+
+MT200 - No obtenible.
+
+MT201 - No obtenible.
+
+MT202 - No obtenible.
+
+MT203 - No obtenible.
+
+MT204 - No obtenible.
+
+MT205 - No obtenible.
+
+MT206 - No obtenible.
+
+MT207 - No obtenible.
+
+MT208 - No obtenible.
+
+MT209 - No obtenible.
+
+MT210 - No obtenible.
+
+MT211 - No obtenible.
+
+MT212 - No obtenible.
+
+MT213 - No obtenible.
+
+MT214 - No obtenible.
+
+MT215 - No obtenible.
+
+MT216 - No obtenible.
+
+MT217 - No obtenible.
+
+MT218 - Pájaro Osado: Cazabichos en casa de C.Olivo, tras acabar misión 10 Hoenn. (T5: Hoenn)
+
+MT219 - No obtenible.
+
+MT220 - No obtenible.
+
+MT221 - No obtenible.
+
+MT222 - No obtenible.
+
+MT223 - No obtenible.
+
+MT224 - No obtenible.
+
+MT225 - No obtenible.
+
+MT226 - No obtenible.
+
+MT227 - No obtenible.
+
+MT228 - No obtenible.
+
+MT229 - No obtenible.
+
+MT230 - No obtenible.
+
+MT231 - No obtenible.
+
+MT232 - No obtenible.
+
+MT233 - No obtenible.
+
+MT234 - No obtenible.
+
+MT235 - No obtenible.
+
+MT236 - No obtenible.
+
+MT237 - No obtenible.
+
+MT238 - No obtenible.
+
+MT239 - No obtenible.
+
+MT240 - No obtenible.
+
+MT241 - No obtenible.
+
+MT242 - No obtenible.
+
+MT243 - No obtenible.
+
+MT244 - No obtenible.
+
+MT245 - No obtenible.
+
+MT246 - No obtenible.
+
+

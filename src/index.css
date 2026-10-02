@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.4);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(225, 29, 72, 0.7);
+}
+
+/* Glassmorphism and Card Glows */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.dark .glass-panel {
+  background: rgba(19, 20, 28, 0.85);
+  border: 1px solid rgba(42, 45, 61, 0.8);
+}
+
+.rocket-glow {
+  box-shadow: 0 0 25px -5px rgba(229, 57, 53, 0.25);
+}
+
+.dark .rocket-glow {
+  box-shadow: 0 0 30px -5px rgba(229, 57, 53, 0.35);
+}
+
+/* Pokemon Type Colors */
+.type-acero { background-color: #5A8EA1; color: #fff; }
+.type-agua { background-color: #4D90D5; color: #fff; }
+.type-bicho { background-color: #90C12C; color: #fff; }
+.type-dragon { background-color: #0A6DC4; color: #fff; }
+.type-electrico { background-color: #F3D23B; color: #1e293b; }
+.type-fantasma { background-color: #5269AC; color: #fff; }
+.type-fuego { background-color: #FF9C54; color: #fff; }
+.type-hada { background-color: #EC8FE6; color: #fff; }
+.type-hielo { background-color: #74CEC0; color: #1e293b; }
+.type-lucha { background-color: #CE4069; color: #fff; }
+.type-normal { background-color: #9099A1; color: #fff; }
+.type-planta { background-color: #63BC5A; color: #fff; }
+.type-psiquico { background-color: #F97176; color: #fff; }
+.type-roca { background-color: #C7B78B; color: #fff; }
+.type-siniestro { background-color: #5A5366; color: #fff; }
+.type-tierra { background-color: #D97746; color: #fff; }
+.type-veneno { background-color: #AB6AC8; color: #fff; }
+.type-volador { background-color: #8FA8DD; color: #fff; }

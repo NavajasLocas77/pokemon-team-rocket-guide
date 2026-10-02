@@ -1,0 +1,200 @@
+PROTOTIPOS DE NIVEL I (+100 STATS BASE)
+
+Notas:
+
+- Para estos Pokémon suele emplearse la nomenclatura -X- e -Y- en combate, según se especialicen por el lado físico u especial, respectivamente.
+- Aparecen al final de la temporada de Archi7, y el incremento del rendimiento es similar al de una Mega Evolución (+100).
+- Suelen contar con un eficiente reparto de Stats Base.
+- Los PS de su forma base se mantienen invariables, a excepción de Porygon3, que técnicamente es una evolución de Porygon2 alcanzada mediante métodos similares.
+- En algunos casos, la nomenclatura varía (P.ej, en Porygon3, o Aerodactyl-P), sin embargo, siguen perteneciendo a este grupo tanto por el incremento de +100 como por los medios empleados (artificiales, científicos) para lograrlo.
+
+NIDOKING-X:
+
+Nidoking Oficial: Ps 81, At 102, Def 77, At.esp 85, Def.esp 75, Velocid 85. Total 505
+Nidoking Hackrom: Ps 91, At 102, Def 77, At.esp 90, Def.esp 75, Velocid 95. Total 530
+Nidoking-X: Ps 91, At 142, Def 117, At.esp 50, Def.esp 105, Velocid 125. Total: 630
+
+Tipo: Veneno/Siniestro | Habilidades: Punto tóxico/Cortante/Potencia Bruta
+
+NIDOQUEEN-Y:
+
+Nidoqueen Oficial: Ps 90, At 92, Def 87, At.esp 75, Def.esp 85, Velocid 76. Total 505
+Nidoqueen Hackrom: Ps 100, At 92, Def 92, At.esp 80, Def.esp 90, Velocid 76. Total 530
+Nidoqueen-Y: Ps 100, At 52, Def 107, At.esp 135, Def.esp 150, Velocid 86. Total: 630
+
+Tipo: Veneno/Tierra | Habilidades: Punto tóxico/Peluche/Potencia Bruta
+
+ELECTRODE-Y:
+
+Electrode: Ps 60, At 50, Def 70, At.esp 80, Def.esp 80, Velocid 150. Total: 490
+Electrode-Y: Ps 60, At 10, Def 85, At.esp 140, Def.esp 95, Velocid 200. Total: 590
+
+Tipo: Eléctrico/Acero | Habilidades: El.Estática/Levitación/Transistor
+
+TAUROS-X:
+
+Tauros: Ps 75, At 100, Def 95, At.esp 40, Def.esp 70, Velocid 110. Total: 490
+Tauros-X: Ps 75, At 155, Def 150, At.esp 30, Def.esp 90, Velocid 90. Total: 490
+
+Tipo: Roca/Normal | Habilidad: Audaz/Roca Sólida/Cabeza Roca
+
+PORYGON3:
+
+Porygon2: Ps 85, At 80, Def 90, At.esp 105, Def.esp 95, Velocid 60. Total: 515
+Porygon3: Ps 95, At 65, Def 70, At.esp 155, Def.esp 95, Velocid 135. Total: 615
+
+Tipo: NORMAL/FANTASMA | Habilidad: Adaptable/Levitación/Calc.Final
+
+AERODACTYL-P:
+
+Aerodactyl: Ps 80, At 105, Def 65, At.esp 60, Def.esp 75, Velocid 130. Total: 515
+Aerodactyl-P: Ps 80, At 145, Def 105, At.esp 60, Def.esp 85, Velocid 140. Total: 615
+
+Tipo: Roca/Dragón | Habilidad: Levitación/Garra Dura/Cabeza Roca
+
+CRADILY-P:
+
+Cradily: Ps 86, At 81, Def 97, At.esp 81, Def.esp 107, Velocid 43. Total: 495
+Cradily-P: Ps 86, At 41, Def 137, At.esp 111, Def.esp 167, Velocid 53. Total: 595
+
+Tipo: Roca/Planta | Habilidad: Roca Sólida/Sal Purificadora/Colector
+
+ARMALDO-P:
+
+Armaldo: Ps 75, At 125, Def 100, At.esp 70, Def.esp 80, Velocid 45. Total: 495
+Armaldo-P: Ps 75, At 155, Def 120, At.esp 70, Def.esp 100, Velocid 75. Total: 595
+
+Tipo: Roca/Bicho | Habilidad: Armadura Frágil/Coraza Ira/Nado Rápido
+
+RELICANTH-P:
+
+Relicanth: Ps 100, At 90, Def 130, At.esp 45, Def.esp 65, Velocid 55. Total: 485
+Relicanth-P: Ps 110, At 110, Def 140, At.esp 55, Def.esp 75, Velocid 105. Total: 585
+
+Tipo: Agua/Roca | Habilidad: Cabeza Roca/Robustez/Nado Rápido
+
+MAGMORTAR-Y:
+
+Magmortar Oficial: Ps 75, At 95, Def 67, At.esp 125, Def.esp 95, Velocid 83. Total 540 
+Magmortar Hackrom: Ps 75, At 67, Def 83, At.esp 125, Def.esp 95, Velocid 95. Total 540
+Magmortar-Y: Ps 75, At 95, Def 97, At.esp 165, Def.esp 105, Velocid 103. Total 640
+
+Tipo: Fuego | Habilidad: Cuerpo Llama/Indefenso/Mega Disparador
+
+ELECTIVIRE-X:
+
+Electivire Oficial: Ps 75, At 123, Def 67, At.esp 95, Def.esp 85, Velocid 95. Total 540 
+Electivire Hackrom: Ps 75, At 123, Def 85, At.esp 67, Def.esp 95, Velocid 95. Total 540
+Electivire-X: Ps 75, At 153, Def 97, At.esp 95, Def.esp 105, Velocid 115. Total 640
+
+Tipo: Eléctrico/Lucha | Habilidad: Electromotor/Piel Eléctrica/Puño Férreo
+
+PORYGONZ-X:
+
+PorygonZ Oficial: Ps 85, At 80, Def 70, At.esp 135, Def.esp 75, Velocid 90. Total 535 
+PorygonZ Hackrom: Ps 85, At 80, Def 70, At.esp 145, Def.esp 75, Velocid 90. Total 545
+PorygonZ-X: Ps 85, At 125, Def 70, At.esp 95, Def.esp 85, Velocid 185. Total: 645
+
+Tipo: Normal/Volador | Habilidad: Adaptable
+
+PORYGONZ-Y:
+
+PorygonZ Oficial: Ps 85, At 80, Def 70, At.esp 135, Def.esp 75, Velocid 90. Total 535 
+PorygonZ Hackrom: Ps 85, At 80, Def 70, At.esp 145, Def.esp 75, Velocid 90. Total 545
+PorygonZ-Y: Ps 85, At 70, Def 80, At.esp 185, Def.esp 105, Velocid 120. Total: 645
+
+Tipo: Normal/Eléctrico | Habilidad: Levitación
+
+PROTOTIPOS DE NIVEL II (+150 STATS BASE)
+
+Notas: 
+
+- Para estos Pokémon suele emplearse la nomenclatura -Z- en combate.
+- Aparecen a partir de la temporada de Hoenn, y su incremento de stats respecto a sus formas base es mayor (+150) debido al progreso con la tecnología de ondas de radio.
+- Siempre incrementan en 20 puntos los PS de la forma base, a excepción de las formas -&- de los Perros Legendarios.
+- En algunos casos, la nomenclatura varía (P.ej, en Nidogod, o las formas vínculo de los Perros Legendarios), sin embargo, siguen perteneciendo a este grupo tanto por el incremento de +150/125 como por los medios empleados (artificiales, científicos) para lograrlo.
+
+NIDOGOD:
+
+Nidoking Oficial: Ps 81, At 102, Def 77, At.esp 85, Def.esp 75, Velocid 85. Total 505
+Nidoking Hackrom: Ps 91, At 102, Def 77, At.esp 90, Def.esp 75, Velocid 95. Total 530
+Nidogod: Ps 111, At 172, Def 147, At.esp 85, Def.esp 115, Velocid 50. Total 680
+
+Tipo: Veneno/Acero | Habilidad: Potencia Bruta/Filtro/Firmeza
+
+PORYGON3.1:
+
+Porygon2: Ps 85, At 80, Def 90, At.esp 105, Def.esp 95, Velocid 60. Total 515
+Porygon3: Ps 95, At 65, Def 70, At.esp 155, Def.esp 95, Velocid 135. Total 615
+Porygon3.1: Ps 105, At 70, Def 65, At.esp 165, Def.esp 115, Velocid 145. Total 665
+
+Tipo: Normal/Psíquico | Habilidad: Peluche/Descarga/Rastro
+
+GYARADOS-Z:
+
+Gyarados: Ps 95, At 125, Def 79, At.esp 60, Def.esp 100, Velocid 81. Total 540
+Gyarados-Z: Ps 115, At 165, Def 99, At.esp 60, Def.esp 140, Velocid 111. Total 690
+
+Tipo: Agua/Volador | Habilidad: Intimidación/Autoestima/Rompemoldes
+
+BLASTOISE-Z:
+
+Oficial: Ps 79, At 83, Def 100, At.esp 85, Def.esp 105, Velocid 78. Total 530
+Hackrom: Ps 99, At 83, Def 120, At.esp 85, Def.esp 105, Velocid 58. Total 550
+Blastoise-Z: Ps 119, At 113, Def 160, At.esp 145, Def.esp 125, Velocid 38. Total 700
+
+Tipo: Agua/Siniestro | Habilidad: Mega Disparador/Firmeza/Cura Lluvia
+
+ENTEI-&:
+
+Entei Oficial: Ps 115, At 115, Def 85, At.esp 90, Def.esp 75, Velocid 100. Total 580
+Entei Hackrom: Ps 115, At 115, Def 85, At.esp 75, Def.esp 90, Velocid 100. Total 580
+Entei-&: Ps 125, At 175, Def 105, At.esp 90, Def.esp 95, Velocid 115. Total 705
+
+Tipo: Fuego/Tierra | Habilidad: Tierra del Ocaso
+
+RAIKOU-&:
+
+Raikou Oficial: Ps 90, At 85, Def 75, At.esp 115, Def.esp 100, Velocid 115. Total 580
+Raikou Hackrom: Ps 90, At 75, Def 85, At.esp 115, Def.esp 100, Velocid 115. Total 580
+Raikou-&: Ps 100, At 100, Def 90, At.esp 155, Def.esp 115, Velocid 145. Total 705
+
+Tipo: Eléctrico/Fantasma | Habilidad: Mar del Albor
+
+SUICUNE-&:
+
+Suicune: Ps 100, At 75, Def 115, At.esp 90, Def.esp 115, Velocid 85. Total 580
+Suicune-&: Ps 110, At 85, Def 135, At.esp 110, Def.esp 165, Velocid 100. Total 705
+
+Tipo: Agua/Hada | Habilidad: Piel Feérica
+
+ZAPDOS-Z:
+
+Zapdos Oficial: Ps 90, At 90, Def 85, At.esp 125, Def.esp 90, Velocid 100. Total 580
+Zapdos Hackrom: Ps 90, At 85, Def 90, At.esp 125, Def.esp 90, Velocid 100. Total 580
+Zapdos-Z: Ps 110, At 115, Def 130, At.esp 185, Def.esp 100, Velocid 90. Total 730
+
+Tipo: Eléctrico/Acero | Habilidad: Levitación/Transistor/Robustez
+
+PROTOTIPOS DE NIVEL III (POKÉMON CON +780 STATS BASE)
+
+MEWTWO ARMADURA:
+
+Mewtwo: Ps 106, At 110, Def 90, At.esp 154, Def.esp 90, Velocid 130. Total 680
+Mewtwo-Arm: Ps 106, At 120, Def 140, At.esp 164, Def.esp 140, Velocid 110. Total 780
+
+Tipo: Psíquico/Acero | Habilidad: Armadura Batalla/Filtro
+
+XD001:
+
+Lugia: Ps 106, At 90, Def 130, At.esp 90, Def.esp 154, Velocid 110. Total 680
+XD001: Ps 126, At 133, Def 130, At.esp 133, Def.esp 154, Velocid 154. Total 830
+
+Tipo: Siniestro/Psíquico | Habilidad: Aura Oscura/Levitación/Multiescamas
+
+ULTIMATE PROJECT:
+
+Mewtwo: Ps 106, At 110, Def 90, At.esp 154, Def.esp 90, Velocid 130. Total 680
+Ultimate Project: Ps 126, At 90, Def 154, At.esp 216, Def.esp 154, Velocid 90. Total 830
+
+Tipo: Psíquico/Acero | Habilidad: Armadura Batalla/Filtro/Armadura Ultimate

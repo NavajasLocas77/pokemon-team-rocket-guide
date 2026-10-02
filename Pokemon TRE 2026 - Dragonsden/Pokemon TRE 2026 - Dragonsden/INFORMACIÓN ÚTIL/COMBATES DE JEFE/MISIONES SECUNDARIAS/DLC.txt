@@ -1,0 +1,103 @@
+SECUNDARIA EX CAMPEON VENENO
+----------------------------------------------------------------
+VS EX CAMPEÓN JOHTO VENENO
+
+- Nihilego (Nv. 100) | Banda Focus | Miedosa | Ultraimpulso
+
+  Mov: Onda tóxica, trampa rocas, joya de luz, púas tóxicas
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (60 en el resto)
+
+- Fezandipiti (Nv. 101) | Chal.Asalto | Firme | Cadena Tóxica
+
+  Mov: Lanza mugre, paliza, respiro, ida y vuelta
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (60 en el resto)
+
+- Naganadel (Nv. 101) | Hierb.Blanca | Modesta | Ultraimpulso
+
+  Mov: Onda tóxica, cometa draco, llamarada, rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (60 en el resto)
+
+- Zarude (Nv. 101) | Botas Gruesas | Firme | Garra Dura
+
+  Mov: Latigazo, lariat oscuro, puño drenaje, corpulencia
+  IVs: 31/31 | EVs: 252 At, 252 Vel (60 en el resto)
+
+- Glimmora (Nv. 102) | Glimmoranita | Modesta | Adaptable
+
+  Mov: Bomba lodo, joya de luz, danza pétalo, trampa rocas
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (90 en el resto)
+
+- Goodra-& (Nv. 103) | Chal.Asalto | Osada | Respondón
+
+  Mov: Onda tóxica, fragor escamas, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (120 en el resto)
+
+
+
+SECUNDARIA EX CAMPEONA FANTASMA
+------------------------------------------------------------------
+VS EX CAMPEONA JOHTO FRIDA
+
+- Dragapult (Nv. 103) | Hierb.Única | Firme | Allanamiento
+
+  Mov: Dracoflechas, golpe umbrío, psicocolmillos, danza dragón
+  IVs: 31/31 | EVs: 252 At, 252 Vel (65 en el resto)
+
+- Gastly (Nv. 105) | Super Mineral | Miedosa | Levitación
+
+  Mov: Rayo umbrío, onda tóxica, umbreozona, onda ígnea
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (128 en el resto)
+
+- Spectrier (Nv. 103) | Gema Normal | Miedosa | Relincho Negro
+
+  Mov: Bola sombra, fuego fatuo, hiperrayo, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (65 en el resto)
+
+- Absol (Nv. 104) | Absolita Z | Miedosa | Sombratrampa
+
+  Mov: Golpe bajo, garra umbría, a bocajarro, carantoña
+  IVs: 31/31 | EVs: 252 At, 252 Vel (100 en el resto)
+
+- Calyrex Espectral (Nv. 105) | Vidasfera | Miedosa | Unidad Ecuestre
+
+  Mov: Orbes espectro, fogonazo, esfera aural, psicocarga
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (65 en el resto)
+
+- Ninetales-& (Nv. 106) | Chal.Asalto | Miedosa | Pelaje Recio
+
+  Mov: Fuego Azul, arenas ardientes, orbes espectro, psíquico
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (130 en el resto)
+
+SECUNDARIA FARO BILL NEO CELESTE
+------------------------------------------------------------------
+VS CIENTÍFICO CELIO
+
+- Aerodactyl Esqueleto (Nv. 103) | Banda Focus | Alegre | Rompemoldes
+
+  Mov: Trampa rocas, ala bis, hueso sombrío, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def
+
+- Arcanine Hisui (Nv. 102) | Casco Dentado | Firme | Intimidación
+
+  Mov: Roca veloz, sol matinal, arremetida, erupción de ira
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+- Lapras (Nv. 102) | Hierba Blanca | Miedosa | Caparazón
+
+  Mov: Rompecoraza, hidrobomba, rayo, frío polar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Ditto (Nv. 103) | Pañuelo Elegido | Modesta | Impostor
+
+  Mov: Transformación
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (38 en el resto)
+
+- Mew (Nv. 104) | Restos | Alegre | Muro Mágico
+
+  Mov: Masa cósmica, poder reserva, plancha corporal, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (75 en el resto)
+
+- Clefable (Nv. 105) | Clefablita | Osada | Muro Mágico/Espejomágico
+
+  Mov: Fuerza lunar, danza aleteo, psíquico, lanzallamas
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (100 en el resto)

@@ -1,0 +1,271 @@
+NOTA: Los Pokémon que no aparezcan en esta lista, mantienen su método de evolución similar a los juegos oficiales.
+
+---------------------------------------------------
+
+Rattata a Rattata Alola (y viceversa) - Piedra Sagrada
+
+Raticate a Raticate Alola (y viceversa) - Piedra Sagrada
+
+Pikachu a Raichu Alola - Piedra Sagrada
+
+Sandshrew a Sandshrew Alola (y viceversa) - Piedra Sagrada
+
+Sandshlash a Sandslash Alola (y viceversa) - Piedra Sagrada
+
+Vulpix a Vulpix Alola (y viceversa) - Piedra Sagrada
+
+Ninetales a Ninetales Alola (y viceversa) - Piedra Sagrada
+
+Golbat a Crobat - Nivel 47
+
+Diglett a Diglett Alola (y viceversa) - Piedra Sagrada
+
+Dugtrio a Dugtrio Alola (y viceversa) - Piedra Sagrada
+
+Primeape a Annihilape - Piedra Sagrada
+
+Growlithe a Growlithe Hisui (y viceversa) - Piedra Sagrada
+
+Arcanine a Arcanine Hisui (y viceversa) - Piedra Sagrada
+
+Poliwhirl a Politoed - Nivel 50
+
+Kadabra a Alakazam - Nivel 45
+
+Machoke a Machamp - Nivel 51
+
+Geodude a Geodude Alola (y viceversa) - Piedra Sagrada
+
+Graveler a Graveler Alola (y viceversa) - Piedra Sagrada
+
+Graveler a Golem - Nivel 45
+
+Golem a Golem Alola (y viceversa) - Piedra Sagrada
+
+Ponyta a Ponyta Galar (y viceversa) - Piedra Sagrada
+
+Rapidash a Rapidash Galar (y viceversa) - Piedra Sagrada
+
+Slowpoke a Slowking - Piedra Link
+
+Slowpoke a Slowpoke Galar (y viceversa) - Piedra Sagrada
+
+Slowbro a Slowbro Galar (y viceversa) - Piedra Sagrada
+
+Slowking a Slowking Galar (y viceversa) - Piedra Sagrada
+
+Magneton a Magnezone - Piedra Link
+
+Farfetch'D a Farfecth'D Galar (y viceversa) - Piedra Sagrada
+
+Farfetch'D Galar a Sirfetch'D - Nivel 50
+
+Sirfetch'D a Madaamu (y viceversa) - Piedra Sagrada
+
+Grimer a Grimer Alola (y viceversa) - Piedra Sagrada
+
+Muk a Muk Alola (y viceversa) - Piedra Sagrada
+
+Haunter a Gengar - Nivel 52
+
+Onix a Steelix - Piedra Link
+
+Voltorb a Voltorb Hisui (y viceversa) - Piedra Sagrada
+
+Electrode a Electrode Hisui (y viceversa) - Piedra Sagrada
+
+Exeggutor a Exeggutor Alola - Piedra Sagrada
+
+Marowak a Marowak Alola (y viceversa) - Piedra Sagrada
+
+Lickitung a Lickilicky - Piedra Link
+
+Weezing a Weezing Galar (y viceversa)  - Piedra Sagrada
+
+Rhydon a Rhyperior - Piedra Link
+
+Tangela a Tangrowth - Piedra Link | +1 nivel con Poder Pasado
+
+Seadra a Kingdra - Piedra Link
+
+Mr.Mime a Mr.Mime Galar (y viceversa) - Piedra Sagrada
+
+Scyther a Scizor - Piedra Link
+
+Scyther a Kleavor - Piedra Sagrada
+
+Electabuzz a Electivire - Piedra Link
+
+Eevee a Espeon - Piedra Solar
+
+Eevee a Umbreon - Piedra Lunar
+
+Eevee a Leafeon - Piedra Hoja
+
+Eevee a Glaceon - Piedra Hielo
+
+Porygon a Porygon2 - Mejora (usándola como una piedra)
+
+Porygon2 a PorygonZ - Discoxtraño (usándolo como una piedra)
+
+Articuno a Articuno Galar (y viceversa) - Piedra Sagrada
+
+Zapdos a Zapdos Galar (y viceversa) - Piedra Sagrada
+
+Moltres a Moltres Galar (y viceversa) - Piedra Sagrada
+
+Typhlosion a Typhlosion Hisui (y viceversa) - Piedra Sagrada
+
+Girafarig a Farigiraf - Piedra Sagrada
+
+Gligar a Gliscor - Piedra Link
+
+Qwilfish a Qwilfish Hisui (y viceversa) - Piedra Sagrada
+
+Qwilfish Hisui a Overqwil - Nivel 50
+
+Sneasel a Weavile - Piedra Link
+
+Sneasel a Sneasel Hisui (y viceversa) - Piedra Sagrada
+
+Sneasel Hisui a Sneasler - Nivel 50
+
+Weavile a Sneasler (y viceversa) - Piedra Sagrada
+
+Ursaring a Ursaluna - Piedra Sagrada
+
+Piloswine a Mamoswine - Piedra Link | +1 nivel con Poder Pasado
+
+Corsola a Corsola Galar (y viceversa) - Piedra Sagrada
+
+Corsola Galar a Cursola - Nivel 38
+
+Stantler a Wyrdeer - Piedra Sagrada
+
+Zigzagoon a Zigzagoon Galar (y viceversa) - Piedra Sagrada
+
+Linoone a Linoone Galar (y viceversa) - Piedra Sagrada
+
+Linoone Galar a Obstagoon - Nivel 35
+
+Feebas a Milotic - Nivel 54
+
+Dusclops a Dusknoir - Piedra Link
+
+Clamperl a Huntail - Piedra Día
+
+Clamperl a Gorebyss - Piedra Noche
+
+Samurott a Samurott Hisui (y viceversa) - Piedra Sagrada
+
+Boldore a Gigalith - Nivel 49
+
+Gurdurr a Conkeldurr - Piedra Link
+
+Lilligant a Lilligant Hisui (y viceversa) - Piedra Sagrada
+
+Basculin-M a Basculegion-M - Piedra Sagrada
+
+Basculin-F a Basculegion-F - Piedra Sagrada
+
+Darumaka a Darumaka Galar (y viceversa) - Piedra Sagrada
+
+Darmanitan a Darmanitan Galar (y viceversa) - Piedra Sagrada
+
+Darmanitan a Darmanitan-Zen - Nivel 105
+
+Darmanitan-G a Darmanitan-G-Zen - Nivel 105
+
+Darmanitan-Zen a Darmanitan-G-Zen (y viceversa) - P.Sagrada
+
+Yamask a Yamask Galar (y viceversa) - Piedra Sagrada
+
+Cofagrigus a Runerigus (y viceversa) - Piedra Sagrada
+
+Zorua a Zorua Hisui (y viceversa) - Piedra Sagrada
+
+Zoroark a Zoroark Hisui (y viceversa) - Piedra Sagrada
+
+Karrablast a Escavalier - Piedra Link
+
+Shelmet a Accelgor - Piedra Link
+
+Stunfisk a Stunfisk Galar (y viceversa) - Piedra Sagrada
+
+Bisharp a Kingambit - Piedra Sagrada
+
+Braviary a Braviary Hisui (y viceversa) - Piedra Sagrada
+
+Flabebe a Floette Flor Eterna - Piedra Sagrada
+
+Spritzee a Aromatisse - Piedra Link
+
+Swirlix a Slurpuff - Piedra Link
+
+Inkay a Malamar - Nivel 30 únicamente
+
+Sliggoo a Sliggoo Hisui (y viceversa) - Piedra Sagrada
+
+Goodra a Goodra Hisui (y viceversa) - Piedra Sagrada
+
+Avalugg a Avalugg Hisui (y viceversa) - Piedra Sagrada
+
+Decidueye a Decidueye Hisui (y viceversa) - Piedra Sagrada
+
+Rockruff a Lycanroc Forma Diurna - Piedra Día
+
+Rockruff a Lycanroc Forma Nocturna - Piedra Noche
+
+
+
+--------------------------------------------------------------
+EVOLUCIÓN DE NUEVOS POKEMON
+--------------------------------------------------------------
+
+
+
+Electrode a Electrode-Y - Piedra Rocket
+
+Electivire a Electivire-X - Piedra Rocket
+
+Magmortar a Magmortar-Y - Piedra Rocket
+
+Nidoking a Nidoking-X - Piedra Rocket
+
+Nidoqueen a Nidoqueen-Y - Piedra Rocket
+
+Tauros a Tauros-X - Piedra Rocket
+
+Porygon2 a Porygon3 - Piedra Rocket
+
+Aerodactyl a Aerodactyl Primigenio - Piedra Rocket
+
+Raichu a Gorochu - Piedra Sagrada
+
+Sirfetch'D a Madaamu (y viceversa) - Piedra Sagrada
+
+Pinsir a Purakkusu - Piedra Sagrada
+
+Noctowl a Boohoo - Piedra Sagrada
+
+Xatu a Trxatu - Piedra Sagrada
+
+Overqwil a Shibirifegu (y viceversa) - Piedra Sagrada
+
+Octillery a Wartillery - Piedra Sagrada
+
+Dunsparce a Blessparce - Piedra Sagrada
+
+Kurusu a Akua - Nivel 40
+
+Akua a Akueria - Nivel 64
+
+Blessparce a Dun - +1 nivel en la cima del Pilar Dun
+
+Marowak a Guardia - Nivel 108
+
+Cradily a Cradily-P - Piedra Devon
+
+Armaldo a Armaldo-P - Piedra Devon
+
+Relicanth a Relicanth-P - Piedra Devon

@@ -1,0 +1,81 @@
+OBJETOS POTENCIADORES DE CIERTOS PKMN
+------------------------------------------------------------
+
+Piedra Espíritu: +30% At.Esp y Def.Esp en Spiritomb.
+
+Ala Arcoiris: +20% Ataque y Defensa en Ho-Oh.
+
+Ala Plateada: +20% At.Esp y Def.Esp en Lugia.
+
+Escamadragón: +30% Velocidad y Defensa en Kingdra.
+
+Mejora: +30% At.Esp y Velocidad en Porygon2.
+- Funciona también como una piedra evolutiva para Porygon
+
+Protector: +30% Defensa y Def.esp en Rhyperior.
+
+Electrizador: +30% Ataque y Def.Esp en Electivire.
+
+Magmatizador: +30% At.Esp y Def.Esp en Magmortar.
+
+Discoxtraño: +30% Def y At.Esp en Porygon-Z.
+
+Telaterrible: +30% Ataque y Velocidad en Dusknoir.
+
+Escama Bella: +30% Def.Esp y Velocidad en Milotic.
+
+Dulce de Nata: +30% At.Esp y Def.Esp en Slurpuff (No obtenible).
+
+Sam.Flagrante: +30% Defensa y Def.Esp en Aromatisse (No obtenible).
+
+Discos Genesect: +30% Defensa y Def.Esp en Genesect. Mantiene efecto anterior.
+
+Discos Silvally: +30% Ataque y Def.Esp en Silvally.
+
+Escama Marina: +30% At.Esp y Velocidad en Gorebyss.
+
+Diente Marino: +30% Ataque y Velocidad en Huntail.
+
+Roca del Rey: +30% At.Esp y Velocidad en Slowking/Politoed.
+
+Rev.Metálico: +30% Ataque y Defensa en Scizor/Steelix.
+
+Garra Afilada: +30% Ataque y Defensa en Weavile.
+
+Colm.Agudo: +30% Ataque y Defensa en Gliscor.
+
+Escama Roja: +30% Defensa y Def.Esp en Guardaos.
+
+Rocío Bondad: +30% At.Esp y Def.Esp en Latios/Latias.
+
+Condensador Gas: -30% Ataque. +30% At.Esp, Def.Esp y Defensa en Weezing.
+
+Mineral Negro: +30% Velocidad y Def.Esp en Kleavor.
+
+Super Mineral Evolutivo: +50% Ataque, Defensa, At.Esp, Def.Esp y +30% Velocidad
+en Pokémon que aún pueden evolucionar dos veces.
+
+Bolaluminosa: Influye tanto a Pikachu normal como al Pikachu Starter de Let's Go
+Obtenible en la Mansión Canela al final de Archi7.
+
+Hueso Grueso: Afecta tanto a Cubone/Marowak como a Guardia.
+
+Pluma Bella: +30% Ataque, Ataque Especial y Velocidad en aves regionales.
+-Pidgeot, Noctowl, Swellow, Staraptor, Unfezant, Talonflame,
+Toucannon, Corviknight, Kilowattrel -
+
+OBJETOS CUYO EFECTO COMPETITIVO SE HA MODIFICADO
+--------------------------------------------------------------------
+
+Tablas de Arceus: Pasan de potenciar un 20% a un 30% el tipo objetivo.
+
+Gemas: Pasan de potenciar un 30% a un 40% el movimiento objetivo.
+
+Cola Plúmbea: +35% Ataque. Mantiene el efecto anterior.
+
+Bola Férrea: +35% Defensa. Mantiene el efecto anterior.
+
+Piedra Pómez: +25% Velocidad. Mantiene el efecto anterior.
+
+Metal Compuesto: +20% potencia en movimientos acero.
+

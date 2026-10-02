@@ -1,0 +1,552 @@
+REGRESO ISLA INTA
+----------------------------------------------------
+VS AZUL
+
+- Pidgeot (Nv. 64) | C.Elegida | Seria | Vista Lince
+
+  Mov: Pájaro osado, a bocajarro, ida y vuelta, giga impacto
+  IVs: 24/31 | EVs: 84 por cada stat (90 At)
+
+- Heracross (Nv. 65) | B.Focus | Seria | Agallas
+
+  Mov: A bocajarro, megacuerno, avalancha, terremoto
+  IVs: 24/31 | EVs: 84 por cada stat (90 At)
+
+- Arcanine (Nv. 65) | Restos | Seria | Intimidación
+
+  Mov: Envite ígneo, vel.extrema, voltio cruel, fuego fatuo
+  IVs: 24/31 | EVs: 84 por cada stat (90 At)
+
+- Alakazam (Nv. 65) | Vidasfera | Seria | Muro Mágico
+
+  Mov: Psíquico, brillo mágico, bola sombra, energibola
+  IVs: 24/31 | EVs: 84 por cada stat (90 At.Esp)
+
+- Tyranitar (Nv. 66) | B.Zidra | Seria | Chorro Arena
+
+  Mov: Triturar. golpe aéreo, roca afilada, danza dragón
+  IVs: 24/31 | EVs: 84 por cada stat (90 At)
+
+- Blastoise (Nv. 67) | Chal.Asalto | Osada | Torrente
+
+  Mov: Hidrobomba, rayo hielo, pulso umbrío, cabezazo
+  IVs: 31/31 | EVs: 128 Ps, 252 Def, 128 At.esp
+
+
+
+EXPLORACIÓN ISLA SÉTIMA
+-------------------------------------------------------------
+VS RIVAL ANDRA
+
+- Weavile (Nv. 67) | Banda focus | Firme | Foco Interno
+
+  Mov: Sorpresa, desarme, triple axel, patada baja
+  IVs: 24/31 | EVs: 84 por cada stat (90 Vel)
+
+- Heracross (Nv. 66) | P.Elegido | Alegre | Autoestima
+
+  Mov: Megacuerno, roca afilada
+  IVs: 24/31 | EVs: 84 por cada stat (90 Vel)
+
+- Tentacruel (Nv. 66) | Lodo negro | Osada | Lodo Líquido
+
+  Mov: Púas tóxicas, gigadrenado, bomba lodo, hidrobomba
+  IVs: 24/31 | EVs: 84 por cada stat (90 Vel)
+
+- Electivire (Nv. 67) | Electrizador | Alegre | Puño Férreo
+
+  Mov: Puño trueno, puño fuego, puño hielo, terremoto
+  IVs: 24/31 | EVs: 84 por cada stat (90 Vel)
+
+- Ursaring (Nv. 65) | Hierb.Blanca | Firme | Agallas
+
+  Mov: Golpe, terremoto, cabezazo zen, a bocajarro
+  IVs: 24/31 | EVs: 84 por cada stat (90 Vel)
+
+- Crobat (Nv. 68) | Chal.Asalto | Firme | Foco Interno
+
+  Mov: Vuelo, chupavidas, veneno x, ala de acero
+  IVs: 31/31 | EVs: 6 Ps, 252 At, 252 Vel
+
+
+
+
+CUEVA CAMBIANTE ISLA EXTA
+-----------------------------------------------------------------
+VS VIAJERO ZEUS
+
+- Código 0 (Nv. 70) | B.Zidra | Firme | Arm.Batalla
+
+  Mov: Golpe cuerpo, surf, lanzallamas, ida y vuelta
+  IVs: 31/31 | EVs: 84 por cada stat (90 At)
+
+- Aegislash (Nv. 71) | Restos | Plácida | Cambio Táctico
+
+  Mov: Escudo real, bola sombra, sombra vil, foco resplandor
+  IVs: 31/31 | EVs: 84 por cada stat (90 Ps)
+
+- Floette-E (Nv. 71) | Vidasfera | Modesta | Muro Mágico
+
+  Mov: Fuerza lunar, psíquico, gigadrenado, síntesis
+  IVs: 23/31 | EVs: 84 por cada stat (90 Vel)
+
+- Rayquaza (Nv. 72) | Hierb.Blanca | Alegre | Bucle Aire
+
+  Mov: Vuelo, vel.extrema, garra dragón, v de fuego
+  IVs: 31/31 | EVs: 6 Ps, 252 At, 252 Vel
+
+
+
+MT.ASCUAS - EVENTO EQUIPO MAGMA
+--------------------------------------------------------------------
+VS ADMINISTRADOR MAGMA TATIANO
+
+- Torkoal (Nv. 68) | Restos | Seria | Sequía
+
+  Mov: Humareda, rayo solar, trampa rocas, bostezo
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Blaziken (Nv. 69) | Vidasfera | Seria | Mar Llamas
+
+  Mov: Onda certera, roca afilada, llamarada, pájaro osado
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Arcanine (Nv. 69) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Vel.Extrema, llamarada, a bocajarro, voltio cruel
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Darmanitan (Nv. 70) | Camp.Concha | Seria | Pot.Bruta
+
+  Mov: Envite ígneo, avalancha, fuerza bruta, golpe
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Salamance (Nv. 70) | Casc.Dentado | Seria | Intimidación
+
+  Mov: Garra dragón, vuelo, llamarada, respiro
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Camerupt (Nv. 71) | Baya Pasio | Modesta | Roca Sólida
+
+  Mov: Lanzallamas, tierra viva, poder pasado, fisura
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp
+
+
+VS LÍDER MAGMA MAGNO
+
+- Typhlosion (Nv. 70) | P.Elegido | Miedosa | Combustible
+
+  Mov: Estallido
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Castform (Nv. 71) | Banda focus | Miedosa | Predicción
+
+  Mov: Meteorobola, rayo solar, premonición, viento afín
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Moltres (Nv. 71) | Vidasfera | Miedosa | Pot.Bruta
+
+  Mov: Llamarada, meteorobola, tajo aéreo, poder pasado
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Camerupt (Nv. 72) | Chal.Asalto | Grosera | Pot.Bruta
+
+  Mov: Cuerpo pesado, lanzallamas, tierra viva, poder pasado
+  IVs: 31/31 | EVs: 6 Ps, 252 Def, 252 Def.Esp
+
+- Darmanitan-Zen (Nv. 72) | Restos | Modesta | Pot.Bruta
+
+  Mov: Psíquico, llamarada, poder pasado, bostezo
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Groudon (Nv. 73) | B.Ziuela | Firme | Sequía
+
+  Mov: Terremoto, avalancha, puño fuego, pulimento
+  IVs: 25/31 | EVs: 88 por cada stat (94 At, 64 At.Esp)
+
+
+
+CUEVA PUNTEADA - EVENTO EQUIPO AQUA
+--------------------------------------------------------------------
+VS ALMIRANTE TOLO
+
+- Politoed (Nv. 69) | Gema Agua | Seria | Llovizna
+
+  Mov: Surf, rayo hielo, hidrobomba, psíquico
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Swampert (Nv. 70) | Restos | Seria | Torrente
+
+  Mov: Terremoto, cascada, puño hielo, trampa rocas
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Gyarados (Nv. 70) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Enfado, terremoto, cascada, latigazo
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Wailord (Nv. 71) | B.Zidra | Seria | Velo Agua
+
+  Mov: Surf, terremoto, golpe cuerpo, rayo hielo
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Salamance (Nv. 71) | Casc.Dentado | Seria | Intimidación
+
+  Mov: Garra dragón, vuelo, hidrobomba, respiro
+  IVs: 24/31 | EVs: 84 por cada stat
+
+- Sharpedo (Nv. 72) | Vidasfera | Alegre | Impulso
+
+  Mov: Triturar, colm.hielo, colm.psíquico, hidroaeriete
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 8 Ps
+
+
+VS LÍDER AQUA AQUILES
+
+- Gyarados (Nv. 71) | Casco.Dentado | Alegre | Intimidación
+
+  Mov: Enfado, terremoto, cascada, latigazo
+  IVs: 25/31 | EVs: 88 por cada stat (94 At, 64 At.Esp)
+
+- Wailord (Nv. 72) | Restos | Plácida | Velo Agua
+
+  Mov: Buceo, doble filo, descanso, sonámbulo
+  IVs: 25/31 | EVs: 88 por cada stat (94 Ps, 64 Vel)
+
+- Castform (Nv. 72) | Banda focus | Miedosa | Predicción
+
+  Mov: Meteorobola, trueno, viento afín, premonición
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Sharpedo (Nv. 73) | Vidasfera | Alegre | Predicción
+
+  Mov: Triturar, Colm.hielo, hidroariete, aqua jet
+  IVs: 31/31 | EVs: 6 Ps, 252 At, 252 Vel
+
+- Wishiwashi (Nv. 73) | Camp.Concha | Grosera | Banco
+
+  Mov: Hydrobomba, latigazo, rayo hielo, terremoto
+  IVs: 25/31 | EVs: 88 por cada stat (94 At, 64 Vel)
+
+- Kyogre (Nv. 74) | B.Ziuela | Osada | Llovizna
+
+  Mov: Surf, trueno, rayo hielo, descanso
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+
+
+SILPH SA - PISOS SUBTERRÁNEOS
+-----------------------------------------------------------------
+VS PRESIDENTE SILPH
+
+- Magnezone (Nv. 74) | Refleluz | Modesta | Robustez
+
+  Mov: Voltiocambio, reflejo, pantalla luz, foco resplandor
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Venusaur (Nv. 75) | Baya Kouba | Firme | Clorofila
+
+  Mov: Fuerza, terremoto, latigazo, somnífero
+  IVs: 26/31 | EVs: 92 por cada stat (100 At, 0 At.esp)
+
+- Magmortar (Nv. 75) | Magmatizador | Modesta | Cuerpo Llama
+
+  Mov: Lanzallamas, rayo, onda certera, fuego fatuo
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Rhyperior (Nv. 76) | Protector | Cauta | Roca Sólida
+
+  Mov: Terremoto, roca afilada, maldición, plancha corporal
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 At
+
+
+VS CIENTÍFICO MIGUEL
+
+- Relicanth (Nv. 69) | Chal.Asalto | Firme | Cabeza Roca
+
+  Mov: Testarazo, cascada, terremoto, cabezazo zen
+  IVs: 25/31 | EVs: 88 por cada stat (94 At, 64 At.Esp)
+
+- Yanmega (Nv. 70) | Banda focus | Modesta | Impulso
+
+  Mov: Zumbido, poder pasado, tajo aéreo, protección
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 At.Esp)
+
+- Omastar (Nv. 69) | P.Elegido | Miedosa | Arm.Frágil
+
+  Mov: Poder pasado
+  IVs: 25/31 | EVs: 88 por cada stat (64 At, 94 Vel)
+
+- Flygon (Nv. 70) | Vidasfera | Firme | Levitación
+
+  Mov: Terremoto, avalancha, garra dragón, puño fuego
+  IVs: 25/31 | EVs: 88 por cada stat (94 Vel, 64 At.Esp)
+
+- Aerodactyl (Nv. 71) | Gema Volador | Alegre | Presión
+
+  Mov: Acróbata, avalancha, terremoto, colm.fuego
+  IVs: 25/31 | EVs: 88 por cada stat (94 Vel, 64 At.Esp)
+
+- Dudunsparce (Nv. 72) | Restos | Cauta | Dicha
+
+  Mov: Enrosque, respiro, golpe cuerpo, carga dragón
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+
+VS COLECCIONISTA BILL
+
+- Porygon-Z (Nv. 72) | Discoxtraño | Modesta | Adaptable
+
+  Mov: Tri-ataque, psíquico, rayo, rayo hielo
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Dragonite (Nv. 74) | Gema Volador | Firme | Regeneración
+
+  Mov: Vuelo, terremoto, cola férrea, carga dragón
+  IVs: 26/31 | EVs: 92 por cada stat (98 At, 44 At.Esp)
+
+- Articuno (Nv. 73) | G.Elegidas | Modesta | Indefenso
+
+  Mov: Vendaval, ventisca
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Zapdos (Nv. 73) | Casco dentado | Osada | Descarga
+
+  Mov: Chispazo, tajo aéreo, onda ígnea, respiro
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.esp)
+
+- Moltres (Nv. 73) | Chal.Asalto | Miedosa | Pot.Bruta
+
+  Mov: Tajo aéreo, lanzallamas, poder pasado, ida y vuelta
+  IVs: 26/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Porygon3 (Nv. 75) | Baya Dillo | Osada | Levitación
+
+  Mov: Tri-ataque, bola sombra, rayo hielo, recuperación
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 At.Esp
+
+
+
+CULTO PUEBLO LAVANDA
+---------------------------------------------------------------------
+VS GHOST
+
+- Ghost (Nv. 80) | B.Zidra | Miedosa | Levitación
+
+  Mov: Bola sombra, vozarrón, hipnosis, comesueños
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (128 en el resto)
+
+
+VS CULTISTA 'M'
+
+- Cursola (Nv. 72) | Refleluz | Modesta | Guardia Espectro
+
+  Mov: Reflejo, absorbefuerza, bola sombra, trampa rocas
+  IVs: 27/31 | EVs: 96 por cada stat (0 At, 124 At.Esp)
+
+- Dusknoir (Nv. 73) | Telaterrible | Firme | Ojocompuesto
+
+  Mov: Poltergeist, puño drenaje, sombra vil, fuego fatuo
+  IVs: 27/31 | EVs: 92 por cada stat (98 At, 44 At.Esp)
+
+- Azelf (Nv. 75) | Banda focus | Modesta | Levitación
+
+  Mov: Psicocarga, lanzallamas, brillo mágico, hiperrayo
+  IVs: 27/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Zoroark (Nv. 74) | Chal.Asalto | Miedosa | Ilusión
+
+  Mov: Pulso noche, bola sombra, lanzallamas, bomba lodo
+  IVs: 27/31 | EVs: 92 por cada stat (44 At, 98 At.Esp)
+
+- Spectrier (Nv. 75) | Baya Dillo | Osada | Relincho Negro
+
+  Mov: Bola sombra, fuego fatuo, beso drenaje, paz mental
+  IVs: 31/31 | EVs: 252 Def, 252 At.esp, 6 Vel
+
+- Dragapult (Nv. 76) | Vidasfera | Activa | Cuerpo Puro
+
+  Mov: Dracoflechas, llamarada, hidrobomba, psicocolmillos
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 At.Esp
+
+
+VS LÍDER SECTA LAIREB
+
+- Stakataka (Nv. 74) | Banda focus | Grosera | Ultraimpulso
+
+  Mov: Trampa rocas, giro bola, plancha corporal, pedrada
+  IVs: 27/31 | EVs: 92 Ps, 102 At, 196 Def, 24 At.Esp, 96 Def.Esp
+
+- Hydreigon (Nv. 72) | Hierb.Blanca | Activa | Levitación
+
+  Mov: Cometa draco, fuerza bruta, pulso umbrío, cola férrea
+  IVs: 27/31 | EVs: 96 por cada stat (24 At, 102 At.Esp)
+
+- Delphox (Nv. 74) | Gema Fuego | Miedosa | Mar Llamas
+
+  Mov: Ll.Embrujada, psíquico, hierba lado, brillo mágico
+  IVs: 27/31 | EVs: 96 por cada stat (24 At, 102 At.Esp)
+
+- Hoopa (Nv. 75) | Banda focus | Modesta | Prestidigitador
+
+  Mov: Bola sombra, paso dimensional, reflejo, esfera aural
+  IVs: 27/31 | EVs: 96 en cada stat (0 At, 124 At.Esp)
+
+- Mew (Nv. 76) | Restos | Osada | Muro Mágico
+
+  Mov: Psíquico, brillo mágico, barrera, recuperación
+  IVs: 27/31 | EVs: 96 por cada stat (24 At, 102 At.Esp)
+
+- Darkrai (Nv. 77) | Vidasfera | Modesta | Mal Sueño
+
+  Mov: Brecha negra, pulso umbrío, rayo hielo, psíquico
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+
+
+ROCA OMBLIGO
+-------------------------------------------------------------------
+VS LEGENDARIO LUGIA
+
+- Lugia (Nv. 85) | Ala Plateada | Modesta | Multiescamas
+
+  Mov: Psíquico, surf, recuperación, aerochorro
+  IVs: 31/31 | EVs: 252 por cada stat
+
+
+
+DESPACHO GIOVANNI BASE PROFUNDA
+--------------------------------------------------------------------
+VS TEAM ROCKET LÍDER GIOVANNI
+
+- Honchcrow (Nv. 74) | Restos | Firme | Autoestima
+
+  Mov: Vuelo, ida y vuelta, golpe bajo, viento afín
+  IVs: 29/31 | EVs: 100 por cada stat (106 At, 4 At.Esp)
+
+- Rhyperior (Nv. 75) | Protector | Firme | Roca Sólida
+
+  Mov: Terremoto, roca afilada, trampa rocas, romperrocas
+  IVs: 29/31 | EVs: 100 por cada stat (106 At, 4 At.Esp)
+
+- Celebi (Nv. 78) | Banda focus | Osada | Herbogénesis
+
+  Mov: Gigadrenado, tierra viva, psíquico, ll.embrujada
+  IVs: 29/31 | EVs: 252 Def, 252 Vel, 6 At.Esp
+
+- Garchomp (Nv. 76) | Vidasfera | Firme | Piel Tosca
+
+  Mov: Terremoto, colmillo ígneo, garra dragón, roca afilada
+  IVs: 29/31 | EVs: 100 por cada stat (4 At.Esp, 106 At)
+
+- Nidoking-X (Nv. 78) | Casco Dentado | Seria | Cortante
+
+  Mov: Veneno X, tajo umbrío, hoja aguda, golpe aéreo
+  IVs: 29/31 | EVs: 100 por cada stat (106 At, 4 At.Esp)
+
+- Rhyperior-& (Nv. 79) | Chal.Asalto | Firme | Impulso
+
+  Mov: Terremoto, cabezahierro, roca afilada, golpe calor
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp
+
+
+MANSIÓN CANELA, CARA OCULTA
+-----------------------------------------------------------
+VS ENTRENADORA DALIA
+
+- Jolteon (Nv. 72) | Banda focus | Miedosa | Abs.Eléctr
+
+  Mov: Rayo, bola sombra, vozarrón, doble rayo
+  IVs: 27/31 | EVs: 100 por cada stat (106 At.Esp, 4 At)
+
+- Blissey (Nv. 73) | Restos | Cauta | Dicha
+
+  Mov: Mov.Sísmico, amortiguador, trampa rocas, onda trueno
+  IVs: 27/31 | EVs: 96 por cada stat (24 At, 102 At.Esp)
+
+- Blastoise (Nv. 74) | Hierb.Blanca | Miedosa | Torrente
+
+  Mov: Rompecoraza, hidrocañón, rayo hielo, pulso umbrío
+  IVs: 27/31 | EVs: 252 Vel, 252 At.Esp, 6 Def.Esp
+
+- Charizard (Nv. 74) | P.Elegido | Modesta | Mar Llamas
+
+  Mov: Anillo ígneo
+  IVs: 27/31 | EVs: 252 At.Esp, 252 Vel, 6 Def.Esp
+
+- Venusaur (Nv. 74) | Raíz Grande | Modesta | Clorofila
+
+  Mov: Drenadoras, planta feroz, somnífero, bomba lodo
+  IVs: 27/31 | EVs: 252 At.Esp, 128 Def, 128 Def.Esp
+
+- Tauros-X (Nv. 75) | Chal.Asalto | Alegre | Cabeza Roca
+
+  Mov: Ariete, testarazo, envite ígneo, voltio cruel
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+
+VS LÍDER GIMNASIO BLAINE
+
+- Magmortar (Nv. 73) | Magmatizador | Miedosa | Mega Disparador
+
+  Mov: Llamarada, pulso umbrío, rayo, esfera aural
+  IVs: 27/31 | EVs: 100 por cada stat (106 At.esp, 4 At)
+
+- Metagross (Nv. 75) | B.Ziuela | Alegre | Cuerpo Puro
+
+  Mov: Agilidad, cabezazo zen, puño meteoro, terremoto
+  IVs: 27/31 | EVs: 100 por cada stat (106 At, 4 At.Esp)
+
+- Arcanine (Nv. 74) | Restos | Firme | Intimidación
+
+  Mov: A bocajarro, envite ígneo, voltio cruel, vel.extrema
+  IVs: 27/31 | EVs: 100 por cada stat (106 At, 4 At.Esp)
+
+- Salamence (Nv. 75) | Chal.Asalto | Huraña | Intimidación
+
+  Mov: Lanzallamas, vuelo, garra dragón, terremoto
+  IVs: 27/31 | EVs: 84 por cada stat
+
+- Typhlosion (Nv. 74) | Vidasfera | Modesta | Mar Llamas
+
+  Mov: Llamarada, onda certera, tierra viva, estallido
+  IVs: 27/31 | EVs: 100 por cada stat (106 At.Esp, 4 At)
+
+- Magmortar-Y (Nv. 76) | Globo Helio | Miedosa | Indefenso
+
+  Mov: Infierno, trueno, onda certera, puñodinámico
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+
+VS INVESTIGADOR PKMN OAK
+
+- Tyranitar (Nv. 76) | Banda focus | Firme | Chorro Arena
+
+  Mov: Trampa rocas, triturar, roca afilada, onda trueno
+  IVs: 30/31 | EVs: 100 por cada stat (110 Vel, 0 At.Esp)
+
+- Aerodactyl-P (Nv. 77) | Hierb.Única | Alegre | Levitación
+
+  Mov: Roca afilada, aqua cola, garra dragón, ataque aéreo
+  IVs: 30/31 | EVs: 100 por cada stat (110 Vel, 0 At.Esp)
+
+- Deoxys-S (Nv. 78) | Refleluz | Osada | Psicogénesis
+
+  Mov: Pantalla luz, esfera aural, psicocarga, reflejo
+  IVs: 30/31 | EVs: 100 por cada stat (110 Vel, 0 At)
+
+- Deoxys-A (Nv. 78) | Hierb.Blanca | Miedosa | Muro Mágico
+
+  Mov: Psicocarga, rayo hielo, esfera aural, psicoataque
+  IVs: 30/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Deoxys-D (Nv. 78) | Restos | Plácida | Espejomágico
+
+  Mov: Psíquico, recuperación, tinieblas, masa cósmica
+  IVs: 30/31 | EVs: 100 por cada stat (110 Ps, 0 At)
+
+- Mewtwo (Nv. 79) | Vidasfera | Modesta | Muro Mágico
+
+  Mov: Onda mental, barrera, recuperación, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+-----------------------------------------------------------------

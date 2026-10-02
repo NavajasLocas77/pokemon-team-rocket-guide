@@ -1,0 +1,1739 @@
+MISIÓN 1 - LAGO FURIA
+----------------------------------------------------------
+VS ADMINISTRADOR DEVON ZAFIRO
+
+---FÁCIL---
+
+- Relicanth (Nv. 96) | No item | Seria | Cabeza Roca
+
+  Mov: Roca afilada, cascada, terremoto, doble filo
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Regice (Nv. 97) | No item | Seria | Cuerpo Puro
+
+  Mov: Rayo hielo, rayo, def.férrea, pulimento
+  IVs: 31/31 | EVs: 252 Vel, 252 Def.Esp, 6 Ps
+
+- Latios (Nv. 97) | No item | Seria | Levitación
+
+  Mov: Pulso dragón, resplandor, surf, recuperación
+  IVs: 31/31 | EVs: 252 Vel, 252 Def, 6 At.Esp
+
+- Swampert (Nv. 98) | Swampertita | Firme | Nado Rápido
+
+  Mov: Terremoto, cascada, avalancha, puño hielo
+  IVs: 31/31 | EVs: 252 At, 252 Vel (20 en el resto)
+
+- Kyogre (Nv. 99) | B.Zidra | Modesta | Llovizna
+
+  Mov: Surf, rayo, rayo hielo, poder pasado
+  IVs: 31/31 | EVs: 252 Def, 252 Vel, 6 Ps
+
+---DIFÍCIL---
+
+- Ferrotesta (Nv. 96) | Energía Potenciadora | Miedosa | Carga Cuark
+
+  Mov: Tajo taquión, psicocarga, paz mental, onda certera
+  IVs: 31/31 | EVs: 84 Ps, 252 Vel, 172 At.Esp
+
+- Regice (Nv. 97) | Lizastal Z | Modesta | Adaptable
+
+  Mov: Rayo hielo, rayo, onda certera, pulimento
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Latios (Nv. 97) | Rocío Bondad | Miedosa | Levitación
+
+  Mov: Cometa draco, resplandor, surf, esfera aural
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Def
+
+- Metagross (Nv. 98) | Globo Helio | Firme | Cuerpo Puro
+
+  Mov: Puño meteoro, cabezazo zen, puño hielo, puño bala
+  IVs: 31/31 | EVs: 252 At, 252 Def, 6 Ps
+
+- Swampert (Nv. 98) | Swampertita | Firme | Nado Rápido
+
+  Mov: Terremoto, cascada, roca afilada, puño hielo
+  IVs: 31/31 | EVs: 252 At, 252 Vel (80 en el resto)
+
+- Kyogre (Nv. 99) | Bola Férrea | Osada | Llovizna
+
+  Mov: Pulso primigenio, paz mental, descanso, sonámbulo
+  IVs: 31/31 | EVs: 252 Def, 252 Ps, 6 Def.Esp
+
+VS LEGENDARIO LAGO
+
+---FÁCIL---
+
+- Akueria (Nv. 100) | B.Ziuela | Seria | Indefenso
+
+  Mov: Garra dragón, aqua cola, cola férrea, fisura
+  IVs: 31/31 | EVs: 128 en todos los stats
+
+---DIFÍCIL---
+
+* Campo de niebla activo
+
+- Akueria (Nv. 100) | Semilla Bruma | Alegre | Indefenso
+
+  Mov: Carga dragón, danza acuática, cola férrea, enrosque
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+MISIÓN 2 - VÍAS TREN
+---------------------------------------------------------------
+VS LÍDER MALVA PEGASO
+
+---FÁCIL---
+
+- Pidgeot (Nv. 99) | Pidgeotita | Miedosa | Indefenso
+
+  Mov: Tajo aéreo, onda ígnea, hiperrayo, respiro
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (22 en el resto)
+
+- Thundurus-T (Nv. 98) | No item | Seria | Abs.Él
+
+  Mov: Rayo, machada, hierba lazo, bomba lodo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp, 6 Ps
+
+- Tornadus-T (Nv. 98) | No item | Seria | Regeneración
+
+  Mov: Tajo aéreo, machada, onda ígnea, triturar
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Def
+
+- Landorus-T (Nv. 98) | No item | Seria | Intimidación
+
+  Mov: Machada, avalancha, desarme, paranormal
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Rapidash-& (Nv. 100) | Botas Gruesas | Firme | Pelaje Recio
+
+  Mov: Voltio cruel, patada ígnea, vuelo, fuerza equina
+  IVs: 31/31 | EVs: 252 At, 252 Vel (45 en el resto)
+
+---DIFÍCIL---
+
+- Pidgeot (Nv. 99) | Pidgeotita | Miedosa | Indefenso
+
+  Mov: Vendaval, onda ígnea, simún de arena, ciclón primavera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (68 en el resto)
+
+- Thundurus-T (Nv. 98) | Vidasfera | Modesta | Abs.Él
+
+  Mov: Electormenta, onda certera, hierba lazo, bomba lodo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Def
+
+- Tornadus-T (Nv. 98) | Piedra Pómez | Miedosa | Regeneración
+
+  Mov: Vendaval, onda certera, ida y vuelta, viento afín
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Def
+
+- Landorus-T (Nv. 98) | Bola Férrea | Firme | Intimidación
+
+  Mov: Terremoto, despejar, desarme, trampa rocas
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Enamorus (Nv. 99) | P.Elegido | Miedosa | Respondón
+
+  Mov: Cañón floral
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Rapidash-& (Nv. 100) | Botas Gruesas | Firme | Pelaje Recio
+
+  Mov: Asta drenaje, envite ígneo, pájaro osado, arremetida
+  IVs: 31/31 | EVs: 252 At, 252 Vel (135 en el resto)
+
+VS AVE SAGRADA
+----------------------------------------------------------
+
+---FÁCIL---
+
+- Zapdos-P (Nv. 100) | No item | Seria | Levitación
+
+  Mov: Chispazo, tajo aéreo, onda ígnea, respiro
+  IVs: 31/31 | EVs: 84 en todos los stats
+
+---DIFÍCIL---
+
+- Zapdos-P (Nv. 100) | Sem.Electro | Modesta | Electrogénesis
+
+  Mov: Carga parábola, furia candente, onda ígnea, relámpago súbito
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+MISIÓN 3 - RUTA 47
+-----------------------------------------------------------
+VS VIAJERO EUSINE
+
+---FÁCIL---
+
+- Hypno (Nv. 96) | No item | Seria | Foco Interno
+
+  Mov: Reflejo, psíquico, juego sucio, anulación
+  IVs: 31/31 | EVs: 252 Ps, 128 Def, 128 Def.Esp
+
+- Electrode Hisui (Nv. 97) | No item | Seria | El.Estática
+
+  Mov: Rayo, reflejo, explosión, clorofiláser
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Wyrdeer (Nv. 98) | No item | Seria | Cacheo
+
+  Mov: Doble filo, patada salto, megacuerno, golpe bajo
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Vel
+
+- Farigiraf (Nv. 98) | No item | Seria | Cola Armadura
+
+  Mov: Vozarrón, láser doble, triturar, bola sombra
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Boohoo (Nv. 99) | Vidasfera | Osada | Muro Mágico
+
+  Mov: Psíquico, tajo aéreo, respiro, premonición
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (40 en el resto)
+
+---DIFÍCIL---
+
+*Campo Psíquico activo
+
+- Hypno (Nv. 97) | Semilla Psique | Osada | Foco Interno
+
+  Mov: Barrera, plancha corporal, relevo, psicocarga
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 60 en el resto
+
+- Electrode Hisui (Nv. 98) | Refleluz | Modesta | Cabeza Roca
+
+  Mov: Rayo, reflejo, pantalla luz, clorofiláser
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Alakazam (Nv. 98) | Piedra Pómez | Miedosa | Muro Mágico
+
+  Mov: Psicocarga, onda certera, bola sombra, psíquico
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+- Wyrdeer (Nv. 99) | Chaleco Asalto | Firme | Intimidación
+
+  Mov: Asalto barrera, patada salto, asta drenaje, golpe bajo
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Vel
+
+- Farigiraf (Nv. 99) | Bola Férrea | Osada | Cola Armadura
+
+  Mov: Vozarrón, láser doble, paz mental, bola sombra
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Boohoo (Nv. 100) | Vidasfera | Osada | Muro Mágico
+
+  Mov: Ala aural, vendaval, respiro, onda ígnea
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (120 en el resto)
+
+VS DRAGÓN SAGRADO
+--------------------------------------------------------------
+
+---FÁCIL---
+
+- Dragón Sagrado (Nv. 104) | No item | Modesta | Psicogenesis
+
+  Mov: Psíquico, pulso dragón, esfera aural, poder pasado
+  IVs: 31/31 | EVs: 84 por cada stat
+
+---DIFÍCIL---
+
+*Viento Afín activo
+
+- Dragón Sagrado (Nv. 106) | Sem.Psique | Modesta | Psicogenesis
+
+  Mov: Resplandor, rayo infinito, respiro, bálsamo osado
+  IVs: 31/31 | EVs: 252 por cada stat
+
+VS RIVAL ANDRA
+---------------------------------------------------------------
+
+---FÁCIL---
+
+- Weavile (Nv. 99) | No item | Seria | Foco Interno
+
+  Mov: Puño hielo, tajo umbrío, sorpresa, patada baja
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Milotic (Nv. 100) | No item | Seria | Tenacidad
+
+  Mov: Escaldar, recuperación, tóxico, alivio
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Elective-X (Nv. 100) | No item | Seria | Electromotor
+
+  Mov: Voltio cruel, puño hielo, reflejo, demolición
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Ps
+
+- Ursaluna (Nv. 101) | Llamasfera | Seria | Agallas
+
+  Mov: Terremoto, golpe cuerpo, puño fuego, machada
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp (27 en el resto)
+
+- Heracross (Nv. 100) | Heracronita | Alegre | Encadenado
+
+  Mov: Pin misil, a bocajarro, pedrada, recurrente
+  IVs: 31/31 | EVs: 252 At, 252 Vel (27 en el resto)
+
+- Crobat-& (Nv. 102) | Chal.Asalto | Firme | Levitación
+
+  Mov: Vuelo, veneno x, cabezahierro, chupavidas
+  IVs: 31/31 | EVs: 252 At, 252 Def (55 en el resto)
+
+---DIFÍCIL---
+
+- Weavile (Nv. 99) | Garra Afilada | Alegre | Foco Interno
+
+  Mov: Triple Axel, desarme, sorpresa, patada baja
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Milotic (Nv. 101) | Miloticita | Osada | Tenacidad/Aura Feérica
+
+  Mov: Escaldar, fuerza lunar, recuperación, bálsamo osado
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (82 en el resto)
+
+- Elective-X (Nv. 101) | Cola Plúmbea | Firme | Piel Eléctrica
+
+  Mov: Vel.Extrema, martillo hielo, corpulencia, puño drenaje
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Ursaluna (Nv. 100) | Chaleco Asalto | Firme | Agallas
+
+  Mov: Arremetida, golpe cuerpo, puño fuego, plancha voltaica
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp (82 en el resto)
+
+- Trxatu (Nv. 101) | P.Elegido | Modesta | Coránima
+
+  Mov: Aerochorro, onda mental, onda ígnea, aria burbuja
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Crobat-& (Nv. 102) | Chal.Asalto | Firme | Levitación
+
+  Mov: Ala bis, lanza mugre, tajo supremo, chupavidas
+  IVs: 31/31 | EVs: 252 At, 252 Def (165 en el resto)
+
+INTERIOR TORRE DUN
+-----------------------------------------------------------------
+VS ALTO MANDO TORRE DUN - 1ro
+
+---FÁCIL---
+
+- Braviary Hisui (Nv. 95) | No item | Seria | Vista Lince
+
+  Mov: Psíquico, tajo aéreo, onda ígnea, bola sombra
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (10 en el resto)
+
+- Togekiss (Nv. 96) | No item | Seria | Entusiasmo
+
+  Mov: Tajo aéreo, fuerza lunar, respiro, esfera aural
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (10 en el resto)
+
+- Drampa (Nv. 97) | Drampanita | Seria | Cólera
+
+  Mov: Vozarrón, alarido, amnesia, deslumbrar
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (40 en el resto)
+
+- Boohoo (Nv. 98) | No item | Seria | Ojocompuesto
+
+  Mov: Vendaval, onda ígnea, pulso umbrío, psíquico
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (10 en el resto)
+
+- Madaamu (Nv. 99) | Pañ.Elegido | Alegre | Intimidación
+
+  Mov: Hoja aguda, golpe aéreo, tijera x, tajo umbrío
+  IVs: 31/31 | EVs: 252 At, 252 Vel (40 en el resto)
+
+---DIFÍCIL---
+
+- Braviary Hisui (Nv. 95) | Vidasfera | Modesta | Pot.Bruta
+
+  Mov: Psíquico, vendaval, onda ígnea, onda vacío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (30 en el resto)
+
+- Togekiss (Nv. 96) | Restos | Osada | Dicha
+
+  Mov: Tajo aéreo, fuerza lunar, respiro, esfera aural
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (30 en el resto)
+
+- Drampa (Nv. 99) | Drampanita | Osada | Cólera
+
+  Mov: Estruendo, llamarada, respiro, paz mental
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (80 en el resto)
+
+- Dragonite (Nv. 97) | Dado Trucado | Firme | Multiescamas
+
+  Mov: Ala bis, danza dragón, puño fuego, ráfaga escamas
+  IVs: 31/31 | EVs: 252 At, 252 Vel (30 en el resto)
+
+- Boohoo (Nv. 98) | Chal.Asalto | Miedosa | Ojocompuesto
+
+  Mov: Vendaval, onda ígnea, pulso umbrío, ala aural
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (30 en el resto)
+
+- Madaamu (Nv. 99) | Pañ.Elegido | Alegre | Cortante
+
+  Mov: Hoja aguda, golpe aéreo, tijera x, tajo umbrío
+  IVs: 31/31 | EVs: 252 At, 252 Vel (160 en el resto)
+
+VS ALTO MANDO TORRE DUN - 2do
+
+---FÁCIL---
+
+- Heracross (Nv. 97) | Banda focus | Seria | Agallas
+
+  Mov: Megacuerno, avalancha, demolición, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel (15 en el resto)
+
+- Kleavor (Nv. 98) | No item | Seria | Cortante
+
+  Mov: Avalancha, tijera x, a bocajarro, abrecaminos
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Vel (15 en el resto)
+
+- Butterfree (Nv. 99) | Butterfrita | Miedosa | Muro Mágico/Adaptable
+
+  Mov: Tajo aéreo, doble rayo, psíquico, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (30 en el resto)
+
+- Purakkusu (Nv. 99) | No item | Seria | Cuerpo Maldito
+
+  Mov: Tijera X, veneno x, avalancha, guillotina
+  IVs: 31/31 | EVs: 252 At, 252 Vel (15 en el resto)
+
+- Auredian (Nv. 100) | Chal.Asalto | Seria | Energía Pura
+
+  Mov: Zumbido, tajo aéreo, ultrapuño, psicorrayo
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (45 en el resto)
+
+---DIFÍCIL---
+
+- Kleavor (Nv. 98) | Banda Focus | Firme | Cortante
+
+  Mov: Hachazo pétreo, tijera x, a bocajarro, abrecaminos
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Vel (45 en el resto)
+
+- Buzzwole (Nv. 99) | Casco Dentado | Firme | Firmeza
+
+  Mov: Chupavidas, roca afilada, puño drenaje, terremoto
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (45 en el resto)
+
+- Volcarona (Nv. 98) | Vidasfera | Miedosa | Muro Mágico
+
+  Mov: Danza llama, zumbido, danza aleteo, psíquico
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (45 en el resto)
+
+- Butterfree (Nv. 99) | Butterfrita | Miedosa | Muro Mágico/Adaptable
+
+  Mov: Tajo aéreo, zumbido, psíquico, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (90 en el resto)
+
+- Purakkusu (Nv. 99) | Baya Kouba | Firme | Intimidación
+
+  Mov: Escaramuza, desarme, arremetida, roca afilada
+  IVs: 31/31 | EVs: 252 At, 252 Def (45 en el resto)
+
+- Auredian (Nv. 100) | Piedra Pómez | Firme | Energía Pura
+
+  Mov: Puño jet, puño trueno, escaramuza, a bocajarro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (135 en el resto)
+
+VS ALTO MANDO TORRE DUN - 3ro
+
+---FÁCIL---
+
+- Taaban (Nv. 98) | No item | Seria | Cuerpo Maldito
+
+  Mov: Bola sombra, carámbano, pedrada, hidroariete
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (20 en el resto)
+
+- Basculegion-F (Nv. 99) | No item | Seria | Nado Rápido
+
+  Mov: Surf, golpe, rayo hielo, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 128 Ps, 128 Vel (20 en el resto)
+
+- Typhlosion Hisui (Nv. 99) | No item | Seria | Mar Llamas
+
+  Mov: Puño trueno, lanzallamas, onda certera, bola sombra
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (20 en el resto)
+
+- Dusknoir (Nv. 100) | Dusknoirita | Firme | Espejomágico
+
+  Mov: Demolición, fuego fatuo, puño sombra, premonición
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (40 en el resto)
+
+- Annihilape (Nv. 101) | Baya Coba | Firme | Competitivo
+
+  Mov: Demolición, puño sombra, golpe, tumba rocas
+  IVs: 31/31 | EVs: 252 At, 252 Vel (50 en el resto)
+
+---DIFÍCIL---
+
+- Taaban (Nv. 98) | Chal.Asalto | Cauta | Encadenado
+
+  Mov: Poltergeist, carámbano, pedrada, hidroariete
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (60 en el resto)
+
+- Basculegion-F (Nv. 99) | Restos | Firme | Adaptable
+
+  Mov: Envite acuático, viraje, acua jet, homenaje póstumo
+  IVs: 31/31 | EVs: 252 At, 252 Ps (60 en el resto)
+
+- Typhlosion Hisui (Nv. 99) | Pañuelo Elegido | Miedosa | Mar Llamas
+
+  Mov: Cabeza sorpresa, anillo ígneo, onda certera, bola sombra
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (60 en el resto)
+
+- Dusknoir (Nv. 100) | Dusknoirita | Firme | Espejomágico
+
+  Mov: Puño drenaje, poltergeist, golpe bajo, absorbefuerza
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (120 en el resto)
+
+- Dragapult (Nv. 100) | Piedra Pómez | Alegre | Allanamiento
+
+  Mov: Llamarada, golpe umbrío, dracoflechas, ida y vuelta
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (60 en el resto)
+
+- Annihilape (Nv. 101) | Baya Atania | Cauta | Competitivo
+
+  Mov: Puño drenaje, corpulencia, puño furia, descanso
+  IVs: 31/31 | EVs: 252 At, 252 Vel (150 en el resto)
+
+VS ALTO MANDO TORRE DUN - 4ro
+
+---FÁCIL---
+
+- Booho (Nv. 99) | No item | Seria | Cromolente
+
+  Mov: Psíquico, onda ígnea, respiro, reflejo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (25 en el resto)
+
+- Farigiraf (Nv. 100) | No item | Seria | Cola Armadura
+
+  Mov: Láser doble, rayo, vozarrón, premonición
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (25 en el resto)
+
+- Wyrdeer (Nv. 100) | No item | Seria | Herbívoro
+
+  Mov: Golpe cuerpo, patada salto, bola sombra, psicocorte
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (25 en el resto)
+
+- Delphox-& (Nv. 101) | Baya Dillo | Seria | Espejomágico
+
+  Mov: Ll.Embrujada, doble rayo, brillo mágico, deseo
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (50 en el resto)
+
+- Dun (Nv. 102) | B.Ziuela | Osada | Psicogénesis
+
+  Mov: Psicocarga, pulso dragón, respiro, esfera aural
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (110 en el resto)
+
+---DIFÍCIL---
+
+- Unown ? (Nv. 99) | Cubresuelos | Modesta | Psicogénesis
+
+  Mov: Vastafuerza, recuperación, teletransporte, esfera aural
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (75 en el resto)
+
+- Farigiraf (Nv. 100) | Hierba Única | Modesta | Cola Armadura
+
+  Mov: Láser doble, electrorrayo, vozarrón, brillo mágico
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (75 en el resto)
+
+- Wyrdeer (Nv. 100) | Chaleco Asalto | Firme | Intimidación
+
+  Mov: Asalto barrera, patada salto, megacuerno, asta drenaje
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (75 en el resto)
+
+- Latias (Nv. 101) | Latiasita | Miedosa | Levitación
+
+  Mov: Bálsamo osado, esfera aural, bola neblina, recuperación
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (150 en el resto)
+
+- Delphox-& (Nv. 101) | Piedra Pómez | Miedosa | Espejomágico
+
+  Mov: Llamarada, psicocarga, brillo mágico, hierba lazo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (150 en el resto)
+
+- Dun (Nv. 102) | Bola Férrea | Osada | Psicogénesis
+
+  Mov: Psicocarga, danza aleteo, rayo infinito, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (165 en el resto)
+
+VS GRAN MAESTRO TORRE DUN
+
+---FÁCIL---
+
+- Dun (Nv. 102) | No item | Seria | Multiescamas
+
+  Mov: Pantalla luz, reflejo, respiro, pulso dragón
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (30 en el resto)
+
+- En (Nv. 103) | No item | Seria | Pot.Bruta
+
+  Mov: Colmillo fuego, doble patada, vel.extrema, triturar
+  IVs: 31/31 | EVs: 252 At, 252 Vel (60 en el resto)
+
+- Rai (Nv. 103) | No item | Seria | Indefenso
+
+  Mov: Onda voltio, vel.extrema, paranormal, carga
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (60 en el resto)
+
+- Sui (Nv. 103) | No item | Seria | Muro Mágico
+
+  Mov: Hidropulso, protección, deseo, tóxico
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (60 en el resto)
+
+- Ursaluna Carmesí (Nv. 104) | Restos | Firme | Ojo Mental
+
+  Mov: Arremetida, pulimento, machada, luz lunar
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (55 en el resto)
+
+---DIFÍCIL---
+
+- Dunsparce (Nv. 102) | Super Mineral | Audaz | Multiescamas
+
+  Mov: Hipertaladro, trampa rocas, respiro, llamarada
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- En (Nv. 103) | Pañuelo Elegido | Firme | Pot.Bruta
+
+  Mov: Fuego sagrado, cabezahierro, vel.extrema, triturar
+  IVs: 31/31 | EVs: 252 At, 252 Vel (180 en el resto)
+
+- Rai (Nv. 103) | Piedra Pómez | Modesta | Indefenso
+
+  Mov: Electrocañón, esfera aural, pirotecnia, escaldar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (180 en el resto)
+
+- Sui (Nv. 103) | Bola Férrea | Osada | Muro Mágico
+
+  Mov: Escaldar, poder oculto (planta), rayo hielo, acua aro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (180 en el resto)
+
+- Lucario (Nv. 102) | Lucarionita Z | Miedosa | Mega Disparador
+
+  Mov: Esfera aural, foco resplandor, pulso umbrío, pulso dragón
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (165 en el resto)
+
+- Ursaring Carmesí (Nv. 104) | Restos | Modesta | Ojo Mental
+
+  Mov: Luna roja, bostezo, protección, tierra viva
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (165 en el resto)
+
+MISIÓN 4 - BASE HOENN
+-------------------------------------------------------------
+VS ADMINISTRADOR DEVON RUBÍ
+
+---FÁCIL---
+
+- Regirock (Nv. 101) | No item | Seria | Cuerpo Puro
+
+  Mov: Avalancha, cuerpopesado, fuerza bruta, puño drenaje
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Blaziken (Nv. 102) | Blazikenita | Seria | Impulso
+
+  Mov: Gancho alto, lanzallamas, ataque rápido, pájaro osado
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Latias (Nv. 101) | No item | Seria | Levitación
+
+  Mov: Pulso dragón, bola neblina, recuperación, deseo cura
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+- Armaldo (Nv. 100) | No item | Seria | Arm.Batalla
+
+  Mov: Tijera X, roca afilada, aqua jet, fuerza bruta
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def
+
+- Groudon (Nv. 103) | Hierb.Blanca | Firme | Sequía
+
+  Mov: Terremoto, avalancha, sofoco, machada
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+---DIFÍCIL---
+
+- Regirock (Nv. 101) | Litostal Z | Firme | Adaptable
+
+  Mov: Roca afilada, cuerpopesado, trampa rocas, puño drenaje
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Blaziken (Nv. 102) | Blazikenita | Alegre | Impulso
+
+  Mov: A bocajarro, envite ígneo, protección, roca afilada
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Latias (Nv. 101) | Rocío Bondad | Osada | Levitación
+
+  Mov: Esfera aural, bola neblina, recuperación, paz mental
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Vel
+
+- Ferromole (Nv. 102) | Energia Potenciadora | Alegre | Carga Cuark
+
+  Mov: Filo potente, cabezazo zen, a bocajarro, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Metagross (Nv. 101) | Cola Plúmbea | Firme | Cuerpo Puro
+
+  Mov: Puño bala, puño meteoro, terremoto, explosión
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Groudon (Nv. 103) | Vidasfera | Firme | Sequía
+
+  Mov: Filo del abismo, roca afilada, golpe calor, pulimento
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+MISIÓN 5 - VOLCÁN ISLA CANELA
+------------------------------------------------------------
+VS CABINA SEGURIDAD 1
+
+---FÁCIL---
+
+- Nidoking-X (Nv. 98) | No item | Seria | Punto Tóxico
+
+  Mov: Puya nociva, tajo umbrío, puño fuego, avalancha
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Nidoqueen-Y (Nv. 98) | No item | Seria | Punto Tóxico
+
+  Mov: Púas tóxicas, carga tóxica, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Vel
+
+---DIFÍCIL---
+
+- Nidoking-X (Nv. 99) | Vidasfera | Firme | Pot.Bruta
+
+  Mov: Puya nociva, golpe bajo, puño fuego, avalancha
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Silvally (Nv. 99) | Disco Agua | Firme | Sistema Alfa
+
+  Mov: Multiataque, triturar, viento afín, plancha voltaica
+  IVs: 31/31 | EVs: 252 At, 206 Ps, 52 Vel
+
+- Nidoqueen-Y (Nv. 99) | Chal.Asalto | Osada | Peluche
+
+  Mov: Tierra viva, onda tóxica, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Vel
+
+VS CABINA SEGURIDAD 2
+
+---FÁCIL---
+
+- Electivire-X (Nv. 98) | No item | Seria | Electromotor
+
+  Mov: Voltio cruel, puño hielo, puño fuego, demolición
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Magmortar-Y (Nv. 98) | No item | Seria | Cuerpo Llama
+
+  Mov: Rayo, desarme, lanzallamas, tajo cruzado
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+---DIFÍCIL---
+
+* Campo Eléctrico activo
+
+- Electivire-X (Nv. 99) | Semilla Electro | Firme | Piel Eléctrica
+
+  Mov: Vel.Extrema, puño hielo, puño fuego, tajo cruzado
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Silvally (Nv. 99) | Disco Fantasma | Firme | Sistema Alfa
+
+  Mov: Multiataque, ida y vuelta, última palabra, plancha voltaica
+  IVs: 31/31 | EVs: 252 At, 206 Ps, 52 Vel
+
+- Magmortar-Y (Nv. 99) | Piedra Pómez | Miedosa | Indefenso
+
+  Mov: Electrocañón, onda certera, infierno, puñodinámico
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+VS CABINA SEGURIDAD 3
+
+---FÁCIL---
+
+- Aerodactyl-P (Nv. 98) | No item | Seria | Levitación
+
+  Mov: Vuelo, poder pasado, garra dragón, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Tauros-X (Nv. 98) | No item | Seria | Roca Sólida
+
+  Mov: Avalancha, golpe, cabezazo zen, voltio cruel
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Ps
+
+---DIFÍCIL---
+
+- Aerodactyl-P (Nv. 99) | Piedra Pómez | Firme | Garra Dura
+
+  Mov: Ala bis, roca afilada, roca veloz, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Silvally (Nv. 99) | Disco Planta | Firme | Sistema Alfa
+
+  Mov: Multiataque, avalancha, danza espada, nitrocarga
+  IVs: 31/31 | EVs: 252 At, 206 Ps, 52 Vel
+
+- Tauros-X (Nv. 99) | Pañuelo Elegido | Alegre | Cabeza Roca
+
+  Mov: Testarazo, envite ígneo, ariete, voltio cruel
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Ps
+
+VS CABINA SEGURIDAD 4
+
+---FÁCIL---
+
+- Porygon-Z (Nv. 98) | No item | Seria | Cálculo Final
+
+  Mov: Rayo, rayo hielo, triataque, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Porygon3 (Nv. 98) | No item | Seria | Cálculo Final
+
+  Mov: Bola sombra, psíquico, triataque, esfera aural
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+---DIFÍCIL---
+
+- Porygon-Z (Nv. 99) | Discoxtraño | Modesta | Descarga
+
+  Mov: Cabeza sorpresa, géiser fotónico, cambio marcha, triataque
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Genesect (Nv. 99) | HidroRom | Modesta | Descarga
+
+  Mov: Tecno Shock, zumbido, foco resplandor, rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Porygon3 (Nv. 99) | Hierba Única | Seria | Cálculo Final
+
+  Mov: Bola sombra, psíquico, triataque, esfera aural
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+VS CABINA SEGURIDAD 5
+
+---FÁCIL---
+
+- Deoxys-D (Nv. 98) | No item | Seria | Espejomágico
+
+  Mov: Masa cósmica, tóxico, tinieblas, psíquico
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Deoxys-A (Nv. 98) | No item | Seria | Muro Mágico
+
+  Mov: Psíquico, rayo hielo, esfera aural, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+---DIFÍCIL---
+
+- Deoxys-S (Nv. 99) | Refleluz | Miedosa | Psicogénesis
+
+  Mov: Trampa rocas, púas, reflejo, psíquico
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Deoxys-D (Nv. 99) | Casco Dentado | Osada | Espejomágico
+
+  Mov: Tóxico, masa cósmica, tinieblas, recuperación
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Genesect (Nv. 99) | CrioRom | Miedosa | Descarga
+
+  Mov: Tecno Shock, zumbido, foco resplandor, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Deoxys-A (Nv. 99) | Hierba Blanca | Modesta | Muro Mágico
+
+  Mov: Psicoataque, rayo hielo, esfera aural, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+VS PRIMER PROTOTIPO DE NIVEL II
+
+---FÁCIL---
+
+- Electrode-Y (Nv. 98) | No item | Seria | Levitación
+
+  Mov: Reflejo, pantalla luz, onda voltio, foco resplandor
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Genesect (Nv. 99) | No item | Seria | Armadura Batalla
+
+  Mov: Tecno Shock, foco resplandor, rayo, garra umbría
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Nidogod (Nv. 100) | No item | Seria | Filtro
+
+  Mov: Puya nociva, cabezahierro, golpe cuerpo, demolición
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+---DIFÍCIL---
+
+- Electrode-Y (Nv. 99) | Refleluz | Modesta | Levitación
+
+  Mov: Reflejo, pantalla luz, rayo, foco resplandor
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Genesect (Nv. 100) | Pyro Rom | Modesta | Descarga
+
+  Mov: Tecno Shock, foco resplandor, rayo, zumbido
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Silvally (Nv. 100) | Disco Volador | Firme | Sistema Alfa
+
+  Mov: Multiataque, plancha corporal, defensa férrea, nitrocarga
+  IVs: 31/31 | EVs: 252 At, 206 Ps, 52 Vel
+
+- Nidogod (Nv. 101) | Globo Helio | Firme | Firmeza
+
+  Mov: Garra nociva, puño meteoro, plancha corporal, golpe bajo
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+VS PROYECTOS DE MEWTWO
+
+---FÁCIL---
+
+- Mewtwo (Nv. 99) | No item | Seria | Presión
+
+  Mov: Psíquico, barrera, puño drenaje, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Mewtwo (Nv. 99) | Mewtwonita X | Seria | Presión/Puño férreo
+
+  Mov: Esfera aural, psíquico, poder pasado, megapatada
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp
+
+- Mewtwo Armadura (Nv. 100) | No item | Seria | Filtro
+
+  Mov: Psíquico, foco resplandor, amnesia, tumba rocas
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Ps, 6 Def.Esp
+
+---DIFÍCIL---
+
+*Campo Psíquico activo
+
+- Mewtwo (Nv. 101) | Piedra Pómez | Miedosa | Muro Mágico
+
+  Mov: Onda mental, rayo hielo, esfera aural, bola sombra
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Mew (Nv. 101) | Mewstal Z | Osada | Muro Mágico
+
+  Mov: Psíquico, barrera, plancha corporal, recuperación
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 At.Esp
+
+- Mewtwo (Nv. 101) | Mewtwonita X | Firme | Muro Mágico/Puño Férreo
+
+  Mov: Puño drenaje, cabezazo zen, puño hielo, corpulencia
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp
+
+- Mewtwo Armadura (Nv. 101) | Restos | Modesta | Arm.Batalla
+
+  Mov: Onda Mental, metaláser, llamarada, recuperación
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Ps, 6 Def.Esp
+
+MISIÓN 6 - NEO CENTRAL ENERGÍA & VÍAS TRIGAL-AZAFRÁN
+-------------------------------------------------------------
+
+VS ADMINISTRADOR JEFE ROCKET ATLAS
+
+---FÁCIL---
+
+- Kleavor (Nv. 101) | No item | Seria | Enjambre
+
+  Mov: Avalancha, tijera x, golpe aéreo, abrecaminos
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Tauros-X (Nv. 102) | No item | Seria | Roca Sólida
+
+  Mov: Avalancha, golpe cuerpo, envite ígneo, voltio cruel
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 At
+
+- Donphan (Nv. 102) | No item | Firme | Transportarrocas
+
+  Mov: Roca afilada, terremoto, giro rápido, canto helado
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def.Esp
+
+- Houndoom (Nv. 103) | Houndoomita | Seria | Pot.Bruta
+
+  Mov: Triturar, lanzallamas, bomba lodo, arenas ardientes
+  IVs: 31/31 | EVs: 252 Def.Esp, 252 Vel (22 en el resto)
+
+- Feraligatr-& (Nv. 104) | Vidasfera | Seria | Mand.Fuerte
+
+  Mov: Golpe, colm.hielo, triturar, acua jet
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (45 en el resto)
+
+---DIFÍCIL---
+
+- Kleavor (Nv. 101) | Mineral Negro | Firme | Cortante
+
+  Mov: Hachazo pétreo, tijera x, golpe aéreo, abrecaminos
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Tauros-X (Nv. 102) | P.Elegido | Firme | Cabeza Roca
+
+  Mov: Testarazo, ariete, envite ígneo, voltio cruel
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def.Esp
+
+- Ho-Oh (Nv. 103) | Ala Arcoíris | Firme | Muro Mágico
+
+  Mov: Fuego sagrado, pico cañón, respiro, terremoto
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def
+
+- Melmetal (Nv. 102) | Chal.Asalto | Firme | Puño Férreo
+
+  Mov: Ferropuño doble, terremoto, puños plasma, puño bala
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Houndoom (Nv. 103) | Houndoomita | Miedosa | Pot.Bruta
+
+  Mov: Pulso umbrío, lanzallamas, bomba lodo, arenas ardientes
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (45 en el resto)
+
+- Feraligatr-& (Nv. 104) | Vidasfera | Alegre | Mand.Fuerte
+
+  Mov: Branquibocado, colm.hielo, triturar, psicocolmillos
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (90 en el resto)
+
+VS ZAPDOS PRIMIGENIO
+
+---FÁCIL---
+
+- Zapdos-P (Nv. 108) | No item | Seria | Levitación
+
+  Mov: Chispazo, furia candente, onda ígnea, carga
+  IVs: 31/31 | EVs: 128 en cada stat
+
+---DIFÍCIL---
+
+*Campo Eléctrico activo
+
+- Zapdos-P (Nv. 108) | Sem.Electro | Modesta | Llovizna
+
+  Mov: Trueno, meteorobola, relámpago súbito, respiro
+  IVs: 31/31 | EVs: 252 en cada stat
+
+MISIÓN 7 - SUBTERRÁNEOS KANTO
+--------------------------------------------------------------
+VS LT.SURGE EXPLOSIVOS
+
+---FÁCIL---
+
+- Golem Alola (Nv. 98) | No item | Seria | Imán
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Electrode (Nv. 98) | No item | Seria | Detonación
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Weezing (Nv. 98) | No item | Seria | Levitación
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+---DIFÍCIL---
+
+- Golem Alola (Nv. 100) | Banda focus | Firme | Piel Eléctrica
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Electrode (Nv. 100) | C.Elegida | Firme | Detonación
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Weezing (Nv. 100) | Banda focus | Firme | Levitación
+
+  Mov: Explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Electrode Hisui (Nv. 100) | Pañuelo Elegido | Modesta | Detonación
+
+  Mov: Clorofiláser
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+VS LT.SURGE
+
+---FÁCIL---
+
+- Raichu (Nv. 103) | Raichunita X | Seria | Electrogénesis
+
+  Mov: Sorpresa, voltiocambio, velocidad extrema, cola férrea
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 15 en el resto
+
+- Electivire (Nv. 100) | Electrizador | Seria | Puño Férreo
+
+  Mov: Voltio cruel, puño fuego, terremoto, tajo cruzado
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Zapdos (Nv. 102) | No item | Seria | Llovizna
+
+  Mov: Chispazo, onda ígnea, respiro, tóxico
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Vel
+
+- Electrode-Y (Nv. 103) | No item | Seria | El.Estática
+
+  Mov: Foco resplandor, rayo, reflejo, doble rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Gorochu (Nv. 104) | Vidasfera | Modesta | Agallas
+
+  Mov: Rayo, velocidad extrema, onda certera, surf
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (30 en el resto)
+
+---DIFÍCIL---
+
+- Shibirefugu (Nv. 101) | Cubresuelos | Osada | Electrogénesis
+
+  Mov: Hidrobomba, voltiocambio, púas tóxicas, púas
+  IVs: 31/31 | EVs: 252 Ps, 128 Def, 128 Def.Esp
+
+- Electivire X (Nv. 102) | Guantes Boxeo | Firme | Puño Férreo
+
+  Mov: Puños plasma, puño fuego, puño hielo, puño drenaje
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Raichu (Nv. 103) | Raichunita | Alegre | Intimidación
+
+  Mov: Puño meteoro, carantoña, velocidad extrema, placaje eléctrico
+  IVs: 31/31 | EVs: 252 At, 252 Vel (45 en el resto)
+
+- Zapdos (Nv. 102) | Casco Dentado | Osada | Alas Vendaval
+
+  Mov: Carga parábola, onda ígnea, respiro, tóxico
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Vel
+
+- Electrode-Y (Nv. 103) | Globo Helio | Miedosa | Transistor
+
+  Mov: Foco resplandor, rayo, onda mental, onda ígnea
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Gorochu (Nv. 104) | Vidasfera | Miedosa | Impulso
+
+  Mov: Pikatormenta, sorpresa, surf, onda certera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (90 en el resto)
+
+COMBATE TRIPLE VS MOTORISTAS
+---------------------------------------------------------------
+VS MOTORISTA 1
+
+---FÁCIL---
+
+- Ursaring (Nv. 97) | No item | Seria | Agallas
+
+  Mov: Terremoto, avalancha, derribo, demolición
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Muk (Nv. 98) | No item | Seria | Toque Tóxico
+
+  Mov: Puya nociva, puño drenaje, desarme, sombra vil
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Ursaluna (Nv. 99) | No item | Seria | Agallas
+
+  Mov: Derribo, abrecaminos, avalancha, garra umbría
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+---DIFÍCIL---
+
+- Ursaring (Nv. 99) | Mineral Evolutivo | Firme | Agallas
+
+  Mov: Terremoto, avalancha, golpe, a bocajarro
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Muk (Nv. 100) | Gema Veneno | Firme | Toque Tóxico
+
+  Mov: Lanza mugre, puño drenaje, desarme, sombra vil
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Muk Alola (Nv. 100) | Gema Siniestro | Firme | Reacción Química
+
+  Mov: Lanza mugre, puño drenaje, desarme, golpe bajo
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Ursaluna (Nv. 101) | Llamasfera | Firme | Agallas
+
+  Mov: Imagen, arremetida, a bocajarro, roca afilada
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+VS MOTORISTA 2
+
+---FÁCIL---
+
+- Primeape (Nv. 97) | No item | Seria | Foco Interno
+
+  Mov: Terremoto, avalancha, golpe, demolición
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Def.Esp
+
+- Weezing (Nv. 98) | No item | Seria | Levitación
+
+  Mov: Bomba lodo, llamarada, rayo, bola sombra
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Annihilape (Nv. 99) | No item | Seria | Foco Interno
+
+  Mov: Puño sombra, demolición, puya nociva, avalancha
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+---DIFÍCIL---
+
+- Primeape (Nv. 99) | Banda Focus | Alegre | Competitivo
+
+  Mov: Terremoto, avalancha, golpe, a bocajarro
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Weezing (Nv. 100) | Gema Veneno | Modesta | Levitación
+
+  Mov: Bomba lodo, llamarada, rayo, bola sombra
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Weezing Galar (Nv. 100) | Gema Hada | Modesta | Levitación
+
+  Mov: Cautivapor, llamarada, bomba lodo, fuego fatuo
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def.Esp
+
+- Annihilape (Nv. 101) | Pañuelo Elegido | Firme | Foco Interno
+
+  Mov: Poltergeist, a bocajarro, lanza mugre, roca afilada
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+VS MOTORISTA 3
+
+---FÁCIL---
+
+- Golem Alola (Nv. 98) | No item | Seria | Piel Eléctrica
+
+  Mov: Trampa rocas, golpe cuerpo, terremoto, avalancha
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Persian Alola (Nv. 99) | No item | Seria | Pelaje Recio
+
+  Mov: Sorpresa, desarme, lanza mugre, ida y vuelta
+  IVs: 31/31 | EVs: 252 Def, 128 Ps, 128 Def.Esp
+
+- Machamp (Nv. 100) | No item | Seria | Indefenso
+
+  Mov: Puñodinámico, roca afilada, puño bala, terremoto
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Sharpedo (Nv. 101) | Sharpedonita | Firme | Impulso/Mand.Fuerte
+
+  Mov: Triturar, hidroariete, psicocolmillos, colm.hielo
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Def.Esp
+
+---DIFÍCIL---
+
+- Golem Alola (Nv. 100) | Banda focus | Alegre | Piel Eléctrica
+
+  Mov: Terremoto, roca afilada, golpe cuerpo, trampa rocas
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Persian Alola (Nv. 101) | Chal.Asalto | Cauta | Pelaje Recio
+
+  Mov: Lanza mugre, juego sucio, ida y vuelta, desarme
+  IVs: 31/31 | EVs: 252 At, 128 Ps, 128 Def.Esp
+
+- Houndoom (Nv. 101) | Banda focus | Alegre | Potencia Bruta
+
+  Mov: Llamarada, bomba lodo, golpe bajo, pulso umbrío
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Def.Esp
+
+- Machamp (Nv. 102) | Chal.Asalto | Firme | Indefenso
+
+  Mov: Puñodinámico, roca afilada, puño bala, terremoto
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def.Esp
+
+- Hydreigon (Nv. 102) | Vidasfera | Firme | Levitación
+
+  Mov: Cometa draco, respiro, fuerza bruta, cola férrea
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Sharpedo (Nv. 103) | Sharpedonita | Firme | Impulso/Mand.Fuerte
+
+  Mov: Triturar, triple inmersión, psicocolmillos, colm.hielo
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Def.Esp
+
+FINAL MISIÓN SUBTERRÁNEOS
+--------------------------------------------------------------
+VS LÍDER FUCSIA KOGA
+
+---FÁCIL---
+
+- Overqwil (Nv. 101) | No item | Osada | Intimidación
+
+  Mov: Dobleataque, surf, bola sombra, puya nociva
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Crobat (Nv. 100) | No item | Seria | Foco Interno
+
+  Mov: Vuelo, ida y vuelta, respiro, superdiente
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Defensa
+
+- Beedrill (Nv. 103) | Beedrillita | Seria | Adaptable
+
+  Mov: Ida y vuelta, puya nociva, taladradora, desarme
+  IVs: 31/31 | EVs: 252 At, 252 Vel (20 en el resto)
+
+- Muk Alola (Nv. 101) | No item | Seria | Reacción Química
+
+  Mov: Puya nociva, desarme, maldición, sombra vil
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 At
+
+- Weezing (Nv. 105) | Condensador Gas | Modesta | Levitación
+
+  Mov: Bomba lodo, fuego fatuo, lanzallamas, pulso umbrío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp (80 en el resto)
+
+---DIFÍCIL---
+
+- Overqwil (Nv. 101) | Casco Dentado | Osada | Intimidación
+
+  Mov: Púas, viraje, puya nociva, púas tóxicas
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+- Crobat (Nv. 100) | Piedra Pómez | Firme | Allanamiento
+
+  Mov: Ala bis, ida y vuelta, respiro, superdiente
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Defensa
+
+- Beedrill (Nv. 103) | Beedrillita | Alegre | Adaptable
+
+  Mov: Al ataque, puya nociva, taladradora, desarme
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (60 en el resto)
+
+- Muk Alola (Nv. 101) | Restos | Cauta | Reacción Química
+
+  Mov: Lanza mugre, desarme, maldición, sombra vil
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 At
+
+- Nidoking-X (Nv. 104) | Pañuelo Elegido | Firme | Cortante
+
+  Mov: Veneno X, golpe aéreo, tajo umbrío, hoja aguda
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Weezing (Nv. 105) | Condensador Gas | Modesta | Levitación
+
+  Mov: Bomba lodo, fuego fatuo, llamarada, rayo umbrío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp (120 en el resto)
+
+
+VS ADMINISTRADOR PETREL
+
+---FÁCIL---
+
+- Wartillery (Nv. 101) | No item | Seria | Filtro
+
+  Mov: Surf, foco resplandor, energibola, pulso umbrío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp, 6 Def
+
+- Purakkusu (Nv. 104) | No item | Seria | Cuerpo Maldito
+
+  Mov: Terremoto, puya nociva, tijera x, demolición
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Annihilape (Nv. 103) | No item | Seria | Foco Interno
+
+  Mov: Puya nociva, puño drenaje, puño sombra, corpulencia
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 At
+
+- Toxtricity (Nv. 105) | Toxtricitita | Miedosa | Punk Rock
+
+  Mov: Carga, amplificador, alarido, onda tóxica
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (50 en el resto)
+
+- Weezing Galar (Nv. 106) | Condensador Gas | Modesta | Levitación
+
+  Mov: Bomba lodo, cautivapor, lanzallamas, pulso umbrío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp (60 en el resto)
+
+---DIFÍCIL---
+
+- Wartillery (Nv. 101) | Banda Focus | Modesta | Mega Disparador
+
+  Mov: Pulpocañón, foco resplandor, esfera aural, pulso umbrío
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp, 6 Def
+
+- Taaban (Nv. 102) | Chal.Asalto | Firme | Encadenado
+
+  Mov: Hidroariete, pedrada, carámbano, poltergeist
+  IVs: 31/31 | EVs: 252 Def.Esp, 252 Ps, 6 At
+
+- Purakkusu (Nv. 104) | Botas Gruesas | Firme | Intimidación
+
+  Mov: Arremetida, golpe fantasma, chupavidas, a bocajarro
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Annihilape (Nv. 103) | Pañuelo Elegido | Alegre | Foco Interno
+
+  Mov: Lanza mugre, puño drenaje, poltergeist, roca afilada
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Toxtricity (Nv. 105) | Toxtricitita | Miedosa | Punk Rock
+
+  Mov: Estruendo, amplificador, cambio marcha, onda tóxica
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (75 en el resto)
+
+- Weezing Galar (Nv. 106) | Condensador Gas | Modesta | Levitación
+
+  Mov: Bomba lodo, cautivapor, llamarada, chorro de vapor
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp (180 en el resto)
+
+MISIÓN 8 - CEMENTERIO PUEBLO LAVANDA
+------------------------------------------------------------------
+VS VIAJERO EUSINE
+
+---FÁCIL---
+
+- Electrode-Y (Nv. 105) | No item | Seria | El.Estática
+
+  Mov: Levitón, carga, onda voltio, foco resplandor
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Def
+
+- Alakazam (Nv. 104) | Alakazita | Miedosa | Muro Mágico/Rastro
+
+  Mov: Psicocarga, onda voltio, brillo mágico, reflejo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Entei (Nv. 106) | No item | Seria | Presión
+
+  Mov: Colm.Ígneo, sofoco, vel.extrema, colm.trueno
+  IVs: 31/31 | EVs: 252 At, 252 Def, 6 Ps
+
+- Raikou (Nv. 106) | No item | Seria | Pot.Bruta
+
+  Mov: Onda voltio, bola sombra, paranormal, onda trueno
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel
+
+- Suicune-& (Nv. 107) | Restos | Seria | Piel Feérica
+
+  Mov: Vozarrón, surf, aqua aro, reflejo
+  IVs: 31/31 | EVs: 252 Ps, 128 At.esp, 128 Def.Esp
+
+---DIFÍCIL---
+
+- Electrode-Y (Nv. 105) | Refleluz | Modesta | Levitación
+
+  Mov: Reflejo, pantalla luz, rayo, foco resplandor
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Def
+
+- Alakazam (Nv. 105) | Alakazita | Miedosa | Muro Mágico/Rastro
+
+  Mov: Psicocarga, onda certera, brillo mágico, reflejo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Lugia (Nv. 107) | Ala Plateada | Osada | Pompa
+
+  Mov: Ala aural, pulso primigenio, respiro, viraje
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Entei (Nv. 106) | Chal.Asalto | Firme | Cabeza Roca
+
+  Mov: Fuegosagrado, roca afilada, vel.extrema, arremetida
+  IVs: 31/31 | EVs: 252 At, 252 Def, 6 Ps
+
+- Raikou (Nv. 106) | Piedra Pómez | Miedosa | Pot.Bruta
+
+  Mov: Rayo, esfera aural, paranormal, escaldar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Suicune-& (Nv. 107) | Bola Férrea | Osada | Piel Feérica
+
+  Mov: Estruendo, pulso primigenio, aqua aro, paz mental
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def.Esp
+
+VS ENTRENADOR AZUL
+
+---FÁCIL---
+
+- Heracross (Nv. 95) | No item | Firme | Enjambre
+
+  Mov: Tijera X, roca afilada, a bocajarro, desarme
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Alakazam (Nv. 96) | No item | Modesta | Muro Mágico
+
+  Mov: Psíquico, bola sombra, reflejo, onda certera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Arcanine (Nv. 97) | No item | Firme | Intimidación
+
+  Mov: Envite ígneo, vel.extrema, voltio cruel, enfado
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Exeggutor (Nv. 96) | No item | Miedosa | Clorofila
+
+  Mov: Psíquico, lluevehojas, gigadrenado, pulso dragón
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+- Tyranitar (Nv. 98) | No item | Firme | Chorro Arena
+
+  Mov: Triturar, roca afilada, terremoto, persecución
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Blastoise (Nv. 100) | Blastoisenita | Osada | Mega Disparador
+
+  Mov: Hidropulso, esfera aural, pulso umbrío, pulso dragón
+  IVs: 31/31 | EVs: 128 en todos los stats
+
+---DIFÍCIL---
+
+- Jolteon (Nv. 104) | Chaleco Asalto | Modesta | Abs.Eléc
+
+  Mov: Relámpago súbito, joltioparálisis, umbreozona, vapodrenaje
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, (128 en el resto)
+
+- Alakazam (Nv. 101) | Banda focus | Modesta | Muro Mágico
+
+  Mov: Resplandor, bola sombra, brillo mágico, onda certera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Arcanine (Nv. 102) | Cola Plúmbea | Firme | Cabeza Roca
+
+  Mov: Envite ígneo, roca veloz, llama protectora, sol matinal
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+- Exeggutor-Alola (Nv. 101) | Sem.Hierba | Miedosa | Herbogénesis
+
+  Mov: Psíquico, poder pasado, gigadrenado, láser veleidoso
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+- Tyranitar (Nv. 103) | Bola Férrea | Firme | Chorro Arena
+
+  Mov: Triturar, roca afilada, terremoto, recogearena
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp, 6 Ps
+
+- Blastoise (Nv. 105) | Blastoisenita | Modesta | Mega Disparador
+
+  Mov: Hidropulso, esfera aural, pulso umbrío, pulso dragón
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Def.Esp (128 en el resto)
+
+VS GHOST PRIMIGENIO
+
+---FÁCIL---
+
+* Se transforma en Ghost Primigenio al primer movimiento
+* Campo Niebla activo
+
+- Ghost (Nv. 110) | Baya Hibis | Seria | Coránima/Aura Oscura
+
+  Mov: Umbreozona, bola sombra, poder pasado, luz lunar
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (64 en el resto)
+
+---DIFÍCIL---
+
+* Se transforma en Ghost Primigenio al primer movimiento
+* Campo Niebla activo
+
+- Ghost (Nv. 114) | Piedra Pómez | Modesta | Intimidación/Aura Oscura
+
+  Mov: Umbreozona, luz aniquiladora, rayo umbrío, luz lunar
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+MISIÓN 9 - TORRE RADIO LAVANDA
+---------------------------------------------------------------
+VS COLECCIONISTA BILL
+
+---FÁCIL---
+
+- Porygon2 (Nv. 104) | Min.Evol | Seria | Descarga
+
+  Mov: Triataque, psíquico, recuperación, onda trueno
+  IVs: 31/31 | EVs: 252 Def, 252 Def.Esp, 6 At.Esp
+
+- PorygonZ-Y (Nv. 107) | No item | Seria | Levitación
+
+  Mov: Triataque, bola sombra, carga parábola, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- PorygonZ-X (Nv. 107) | No item | Seria | Adaptable
+
+  Mov: Frustración, golpe aéreo, reflejo, cola férrea
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Porygon3 (Nv. 106) | No item | Seria | Adaptable
+
+  Mov: Pulso umbrío, triataque, rayo, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Porygon-Z (Nv. 108) | Porygonita | Activa | Calc.Final/Potencia
+
+  Mov: Tri ataque, psíquico, cola férrea, cambio marcha
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+---DIFÍCIL---
+
+- Porygon2 (Nv. 104) | Min.Evol | Osada | Rastro
+
+  Mov: Triataque, psíquico, recuperación, onda trueno
+  IVs: 31/31 | EVs: 252 Def, 252 Def.Esp, 6 At.Esp
+
+- Porygon (Nv. 105) | Super Mineral | Modesta | Cálculo Final
+
+  Mov: Rayo, rayo hielo, recuperación, tecno shock
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Ps (128 en el resto)
+
+- PorygonZ-Y (Nv. 107) | Hierba Única | Miedosa | Levitación
+
+  Mov: Triataque, electrorrayo, carga parábola, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- PorygonZ-X (Nv. 107) | Aerostal Z | Firme | Adaptable
+
+  Mov: Frustración, pájaro osado, reflejo, cola férrea
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Porygon3 (Nv. 106) | Piedra Pómez | Miedosa | Adaptable
+
+  Mov: Rayo umbrío, triataque, rayo, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Porygon-Z (Nv. 108) | Porygonita | Activa | Descarga/Potencia
+
+  Mov: Frustración, psicoataque, cola férrea, cambio marcha
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+VS CIENTÍFICO MIGUEL
+
+---FÁCIL---
+
+- Genesect (Nv. 106) | Vidasfera | Alegre | Descarga
+
+  Mov: Ida y vuelta, cabezahierro, vel.extrema, explosión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Yanmteura (Nv. 105) | No item | Seria | Funda
+
+  Mov: Brinco, golpe aéreo, triturar, ala de acero
+  IVs: 31/31 | EVs: 128 Def, 128 Def.Esp, 252 Vel
+
+- Flygon (Nv. 107) | Flygonita | Modesta | Piel Celeste
+
+  Mov: Vozarrón, zumbido, pulso dragón, respiro
+  IVs: 31/31 | EVs: 252 Vel, 128 Def, 128 Def.Esp (12 en el resto)
+
+- Aerodactyl-P (Nv. 107) | No item | Seria | Levitación
+
+  Mov: Vuelo, terremoto, aqua cola, garra dragón
+  IVs: 31/31 | EVs: 252 At, 252 Vel (25 en el resto)
+
+- Wrongsparce (Nv. 108) | Sem.Hierba | Firme | Herbogénesis
+
+  Mov: Mil flechas, amnesia, cola veneno, carga dragón
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp (50 en el resto)
+
+---DIFÍCIL---
+
+- Yanmteura (Nv. 105) | Lizastal Z | Alegre | Impulso
+
+  Mov: Chupavidas, ala bis, protección, sumisión
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Genesect (Nv. 106) | PiroROM | Miedosa | Descarga
+
+  Mov: Tecno shock, zumbido, velocidad extrema, metaláser
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Goodra Hisui (Nv. 106) | Restos | Cauta | Caparazón
+
+  Mov: Metaláser, barrera, plancha corporal, relajo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+- Flygon (Nv. 107) | Flygonita | Modesta | Piel Celeste
+
+  Mov: Estruendo, zumbido, llamarada, absorbefuerza
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (38 en el resto)
+
+- Aerodactyl-P (Nv. 107) | Piedra Pómez | Alegre | Garra Dura
+
+  Mov: Roca veloz, roca afilada, aqua cola, garra dragón
+  IVs: 31/31 | EVs: 252 At, 252 Vel (75 en el resto)
+
+- Wrongsparce (Nv. 108) | Sem.Hierba | Firme | Herbogénesis
+
+  Mov: Mil flechas, amnesia, latigazo, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp (150 en el resto)
+
+VS MEWTWO ARMADURA
+
+---FÁCIL---
+
+- Mewtwo Armadura (Nv. 115) | Gen loco (x2,5 At) | Firme | Filtro
+
+  Mov: Demolición, psíquico, poder pasado, onda trueno
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Vel
+
+---DIFÍCIL---
+
+- Mewtwo Armadura (Nv. 115) | Gen loco (x2,5 At) | Firme | Arm.Batalla
+
+  Mov: Puño drenaje, bastión final, avalancha, mofa
+  IVs: 31/31 | EVs: 252 At, 252 Vel (128 en el resto)
+
+VS TEAM ROCKET LÍDER GIOVANNI
+
+---FÁCIL---
+
+- Deoxys-S (Nv. 107) | No item | Seria | Presión
+
+  Mov: Mofa, masa cósmica, desarme, psicocarga
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def
+
+- Nidoking-X (Nv. 108) | No item | Seria | Punto Tóxico
+
+  Mov: Veneno X, tajo umbrío, hoja aguda, taladradora
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Nidoqueen-Y (Nv. 108) | No item | Seria | Punto Tóxico
+
+  Mov: Tierra viva, bomba lodo, lanzallamas, rayo hielo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Def
+
+- Celebi (Nv. 110) | Banda focus | Seria | Cura Natural
+
+  Mov: Giga drenado, gota vital, ll.embrujada, poder pasado
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (27 en el resto)
+
+- Mewtwo (Nv. 109) | Mewtwonita Y | Miedosa | Presión/Psicogénesis
+
+  Mov: Psíquico, puño drenaje, barrera, recuperación
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Rhyperior-& (Nv. 111) | Baya Ziuela | Firme | Impulso
+
+  Mov: Perforador, cuerno certero, romperrocas, megacuerno
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (55 en el resto)
+
+---DIFÍCIL---
+
+- Deoxys-S (Nv. 107) | Cubresuelos | Modesta | Psicogénesis
+
+  Mov: Mofa, trampa rocas, púas, vastafuerza
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def
+
+- Nidoking-X (Nv. 108) | Piedra Pómez | Alegre | Cortante
+
+  Mov: Veneno X, tajo umbrío, hoja aguda, golpe bajo
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Nidoqueen-Y (Nv. 108) | Bola Férrea | Osada | Peluche
+
+  Mov: Batido, onda tóxica, lanzallamas, amnesia
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 6 Def
+
+- Celebi (Nv. 110) | Pañuelo Elegido | Miedosa | Herbogénesis
+
+  Mov: Lluevehojas, psicocarga, ll.embrujada, tierra viva
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (83 en el resto)
+
+- Mewtwo (Nv. 109) | Mewtwonita Y | Miedosa | Muro Mágico/Psicogénesis
+
+  Mov: Onda mental, esfera aural, vastafuerza, recuperación
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Rhyperior-& (Nv. 111) | Geostal Z | Firme | Impulso
+
+  Mov: Fisura, cabezahierro, roca afilada, golpe calor
+  IVs: 31/31 | EVs: 252 At, 252 Def.Esp (165 en el resto)
+
+----------------------------------------------------------------------

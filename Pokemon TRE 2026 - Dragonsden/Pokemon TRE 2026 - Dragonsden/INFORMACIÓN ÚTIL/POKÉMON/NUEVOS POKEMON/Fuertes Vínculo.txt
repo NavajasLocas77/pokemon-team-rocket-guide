@@ -1,0 +1,167 @@
+RHYPERIOR-&
+
+Rhyperior Oficial: Ps 115, At 140, Def 130, At.esp 55, Def.esp 55, Velocid 40. Total 535
+Rhyperior Hackrom: Ps 115, At 145, Def 135, At.esp 40, Def.esp 55, Velocid 55. Total 545
+Rhyperior-&: Ps 125, At 175, Def 175, At.esp 65, Def.esp 65, Velocid 55. Total 670
+
+Tipo: Acero/Tierra | Habilidad: Impulso
+
+HYPNO-&
+
+Hypno: Ps 85, At 73, Def 70, At.esp 73, Def.esp 115, Velocid 67. Total 483
+Hypno-&: Ps 95, At 63, Def 110, At.esp 143, Def.esp 165, Velocid 32. Total 608
+
+Tipo: Psíquico | Habilidad: Espejomágico
+
+RAPIDASH-&
+
+Rapidash: Ps 65, At 100, Def 70, At.esp 80, Def.esp 80, Velocid 105. Total 500
+Rapidash-&: Ps 75, At 135, Def 90, At.esp 80, Def.esp 100, Velocid 145. Total 625
+
+Tipo: Fuego/Volador | Habilidad: Pelaje Recio
+
+BUTTERFREE-&
+
+Butterfree: Ps 60, At 45, Def 50, At.esp 90, Def.esp 80, Velocid 70. Total 395
+Butterfree-&: Ps 60, At 5, Def 80, At.esp 140, Def.esp 125, Velocid 110. Total 520
+
+Tipo: Psíquico/Volador | Habilidad: Adaptable
+
+KINGDRA-&
+
+Kingdra: Ps 75, At 95, Def 95, At.esp 95, Def.esp 95, Velocid 85. Total 540
+Kingdra-&: Ps 85, At 120, Def 120, At.esp 120, Def.esp 120, Velocid 100. Total 665
+
+Tipo: Siniestro/Agua | Habilidad: Respondón
+
+SKARMORY-&
+
+Skarmory: Ps 65, At 80, Def 140, At.esp 40, Def.esp 70, Velocid 70. Total 465
+Skarmory-&: Ps 75, At 110, Def 160, At.esp 45, Def.esp 100, Velocid 100. Total 590
+
+Tipo: Acero/Volador | Habilidad: Pararrayos
+
+POLIWRATH-&
+
+Poliwrath: Ps 90, At 95, Def 95, At.esp 70, Def.esp 90, Velocid 70. Total 510
+Poliwrath-&: Ps 100, At 145, Def 140, At.esp 80, Def.esp 110, Velocid 80. Total 635
+
+Tipo: Agua/Lucha | Habilidad: Puño Férreo
+
+EEVEE-& (525 EEVELUTION + 125)
+
+Eevee-&: Ps 130, At 60, Def 110, At.esp 130, Def.esp 110, Velocid 110. Total 650
+
+Tipo: Normal | Habilidad: Mutatipo
+
+MAMOSWINE-&
+
+Mamoswine: Ps 110, At 130, Def 90, At.esp 60, Def.esp 70, Velocid 80. Total 540
+Mamoswine-M: Ps 120, At 170, Def 115, At.esp 70, Def.esp 85, Velocid 105. Total 665
+
+Tipo: Hielo/Tierra | Habilidad: Piel Helada
+
+DELPHOX-&
+
+Delphox: Ps 75, At 69, Def 72, At.esp 114, Def.esp 100, Velocid 104. Total 534
+Delphox-&: Ps 85, At 79, Def 82, At.esp 164, Def.esp 130, Velocid 119. Total 659
+
+Tipo: Fuego/Psíquico | Habilidad: Espejomágico
+
+FERALIGATR-&
+
+Feraligatr Oficial: Ps 85, At 105, Def 100, At.esp 79, Def.esp 83, Velocid 78. Total 530
+Feraligatr Hackrom: Ps 95, At 115, Def 100, At.esp 64, Def.esp 83, Velocid 78. Total 535
+Feraligatr-&: Ps 95, At 165, Def 130, At.esp 79, Def.esp 103, Velocid 88. Total 660
+
+Tipo: Agua/Siniestro | Habilidad: Mandíbula Fuerte
+
+EN (FLAREON-&)
+
+Flareon: Ps 65, At 130, Def 60, At.esp 95, Def.esp 110, Velocid 65. Total 525
+En: Ps 85, At 152, Def 75, At.esp 116, Def.esp 137, Velocid 85. Total 650
+
+Tipo: Fuego | Habilidad: Potencia Bruta
+
+RAI (JOLTEON-&)
+
+Jolteon: Ps 65, At 65, Def 60, At.esp 110, Def.esp 95, Velocid 130. Total 525
+Rai: Ps 85, At 85, Def 75, At.esp 137, Def.esp 116, Velocid 152. Total 650
+
+Tipo: Eléctrico | Habilidad: Indefenso
+
+SUI (VAPOREON-&)
+
+Vaporeon: Ps 130, At 65, Def 60, At.esp 110, Def.esp 95, Velocid 65. Total 525
+Sui: Ps 152, At 85, Def 75, At.esp 137, Def.esp 116, Velocid 85. Total 650
+
+Tipo: Agua | Habilidad: Muro Mágico
+
+NINETALES-&
+
+Ninetales: Ps 73, At 76, Def 75, At.esp 81, Def.esp 100, Velocid 100. Total 505
+Ninetales-&: Ps 83, At 67, Def 90, At.esp 121, Def.esp 140, Velocid 129. Total 630
+
+Tipo: Fuego/Fantasma | Habilidad: Pelaje Recio
+
+CROBAT-& PROTAGONISTA
+
+Crobat: Ps 85, At 90, Def 80, At.esp 70, Def.esp 80, Velocid 130. Total 535
+Crobat-&: Ps 95, At 120, Def 95, At.esp 85, Def.esp 105, Velocid 160. Total 660
+
+Tipo: Veneno/Volador | Habilidad: Ojocompuesto/Allanamiento/Cromolente
+
+CROBAT-& ANDRA
+
+Crobat: Ps 85, At 90, Def 80, At.esp 70, Def.esp 80, Velocid 130. Total 535
+Crobat-&: Ps 95, At 160, Def 115, At.esp 85, Def.esp 85, Velocid 120. Total 660
+
+Tipo: Veneno/Acero | Habilidad: Levitación/Allanamiento/Garra Dura
+
+
+
+FUERTES VÍNCULO DE CATEGORÍA 'LEGENDARIO MAYOR' (+670 STATS BASE)
+
+VOLCARONA-&
+
+Volcarona: Ps 85, At 60, Def 65, At.esp 135, Def.esp 105, Velocid 100. Total 550
+Volcarona-&: Ps 95, At 50, Def 75, At.esp 190, Def.esp 130, Velocid 135. Total 675
+
+Tipo: Fuego/Bicho | Habilidad: Muro Mágico
+
+MILOTIC-&
+
+Milotic Oficial: Ps 95, At 60, Def 79, At.esp 100, Def.esp 125, Velocid 81. Total 540
+Milotic Hackrom: Ps 105, At 60, Def 79, At.esp 110, Def.esp 135, Velocid 81. Total 570
+Milotic-&: Ps 115, At 65, Def 79, At.esp 150, Def.esp 195, Velocid 91. Total 695
+
+Tipo: Agua/Psíquico | Habilidad: Absorber Eléctrico
+
+GOODRA-&
+
+Goodra: Ps 90, At 100, Def 70, At.esp 110, Def.esp 150, Velocid 80. Total 600
+Goodra-&: Ps 100, At 125, Def 125, At.esp 150, Def.esp 200, Velocid 25. Total 725
+
+Tipo: Dragón/Veneno | Habilidad: Respondón
+
+DRAGONITE-&
+
+Dragonite: Ps 91, At 134, Def 95, At.esp 100, Def.esp 100, Velocid 80. Total 600
+Dragonite-&: Ps 101, At 91, Def 115, At.esp 154, Def.esp 154, Velocid 110. Total 725
+
+Tipo: Dragón/Hada | Habilidad: Indefenso
+
+JIRACHI-&
+
+Jirachi Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600 
+Jirachi Hackrom: Ps 100, At 50, Def 125, At.esp 110, Def.esp 125, Velocid 90. Total 600
+Jirachi-&: Ps 110, At 50, Def 155, At.esp 155, Def.esp 155, Velocid 100. Total 725
+
+Tipo: Acero/Hada | Habilidad: Levitación/Dicha/Rompemoldes
+
+DRAGÓN SAGRADO (DUN-&)
+
+Dun: Ps 153, At 44, Def 66, At.esp 117, Def.esp 122, Velocid 99. Total 601
+Dragón Sagrado: Ps 163, At 2, Def 103, At.esp 157, Def.esp 193, Velocid 109. Total 727
+
+Tipo: Dragón/Psíquico | Habilidad: Psicogénesis

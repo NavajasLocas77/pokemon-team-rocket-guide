@@ -1,0 +1,474 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fnil\fcharset0 HelveticaNeue;
+\f3\fnil\fcharset0 HelveticaNeue-Bold;\f4\fnil\fcharset0 LucidaGrande;\f5\fnil\fcharset134 PingFangSC-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;\red40\green40\blue40;
+\red255\green255\blue255;\red40\green40\blue40;\red255\green255\blue255;\red244\green244\blue244;\red36\green54\blue186;
+\red30\green46\blue171;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\csgray\c0\c0;\cssrgb\c20784\c20784\c20784;
+\cssrgb\c100000\c100000\c100000;\cssrgb\c20807\c20807\c20781;\cssrgb\c100000\c100000\c100000\c0;\cssrgb\c96471\c96471\c96471;\cssrgb\c18824\c30588\c78039;
+\cssrgb\c15686\c27059\c72941;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\vieww22460\viewh15840\viewkind0
+\deftab720
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+
+\f0\fs28 \cf0 - En primer lugar gracias a 
+\f1\b Colonelsalt
+\f0\b0 , el creador de pokemon team rocket edition de la comunidad inglesa ({\field{\*\fldinst{HYPERLINK "https://www.pokecommunity.com/showthread.php?t=360725"}}{\fldrslt https://www.pokecommunity.com/showthread.php?t=360725}} ), por expandir el potencial que a\'fan pod\'eda sacarse a la regi\'f3n de kanto e inspirarme a m\'ed a crear este hack, all\'e1 por 2019.\
+- Gracias a 
+\f1\b @kakarotto
+\f0\b0 , no solo por ayudarme a meter mec\'e1nicas como el modificador de Ivs, el cambio de overworld al ser ascendido, hacer de tester improvisado o la currada de, junto con [B]@Annatar[/B], insertar todo el mapa de Johto junto con sus puntos de vuelo y cura, dando as\'ed mayor impresi\'f3n de estar realmente en una nueva regi\'f3n, pero especialmente por creer en este proyecto y en su potencial pr\'e1cticamente m\'e1s que yo mismo (que ya es dif\'edcil).\
+- Gracias a Xiros por haber propuesto y ayudado a actualizar el juego a la versi\'f3n m\'e1s moderna de la pokeemerald expansion, y por estar siempre atento para responder cualquier duda. \
+Debido a esa propuesta y a sus incontables horas dedicadas a actualizar el proyecto (afrontando aspectos t\'e9cnicos que hubieran sido muy dif\'edciles de abordar sin \'e9l), el juego ahora cuenta con m\'e1s recursos que nunca, espacio liberado que le hac\'eda falta, y una base en general que le permitir\'e1 afrontar las actualizaciones que vengan de la mejor forma.\
+- Gracias a 
+\f1\b @KevinXDE y @Polar
+\f0\b0 , por hacer de testers en la temporada de Johto, dif\'edcil haber pillado mejores fichajes para eso, no se les escapa una falta jajaja, entre otras cosas me han ayudado a darme cuenta de que el punto y seguido era (y sigue siendo) algo inexistente en mi forma de redactar.\
+- Gracias a 
+\f1\b @KevinXDE
+\f0\b0  de nuevo, por aportar sus conocimientos sobre decompilaci\'f3n y muchas veces allanar el camino durante el desarrollo del DLC, a\'fan a pesar de su escaso tiempo libre.\
+- Gracias a 
+\f1\b Alexander Daniel
+\f0\b0  y
+\f2  
+\f3\b \cf2 \cb3 \expnd0\expndtw0\kerning0
+Scar\'99
+\f2\b0  por sus incontables sprites, minis y arte en general, jam\'e1s hubiera metido todos esos recursos por mi propia cuenta.\
+- Gracias a Cakezy, por animar una infinidad de sprites para el juego: megaevoluciones, fuertes v\'ednculo, experimentos rocket y Pok\'e9mon antiguos.\
+- Gracias a Darkedge y a Estellar.cheese por trabajar en el nuevo modo efem\'e9rides, a Darkedge tambi\'e9n por gestionar las traducciones futuras.\
+- Gracias a Compumax por expandir las cajas totales de 14 hasta 24, y dotarlas de un sistema que permite mostrarlas por compartimentos seg\'fan la situaci\'f3n.\
+\
+
+\fs48 MODO DEBUG EMPLEADO:
+\fs28 \
+\pard\pardeftab720\partightenfactor0
+\cf2 TheXaman, Ketsuban, Pyredrid, AsparagusEduardo, Ghoulslash, ExboSeed, Sierraffinity, Jaizu\
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+\cf2 \
+
+\fs48 TRADUCCI\'d3N MOTOR DE BATALLA A ESPA\'d1OL: \
+
+\fs28 https://whackahack.com/foro/threads/pokeemerald-expansion-de-rhh-en-espanol.68065/\
+Implicados en la traducci\'f3n
+\f0 \cf4 \cb5 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf4 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Master Yuri\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Fran Presencio\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Glace\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\'d3scar Brock\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Jack Johnson\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Servalsanz\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Danicintas\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+JesManCar\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Manurocker\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+ReoNeky\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Samu
+\fs32 \cb1 \
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+
+\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+
+\fs48 \cf0 APRENDIZAJE Y ENLACES \'daTILES:
+\fs28 \
+-Tutorial scripting (@C!ro) :\
+[Scripting] - Tutorial sobre Scripts\
+S\'ed, ha vuelto! ~~ NIVEL F\'c1CIL ~~ ~~ NIVEL INTERMEDIO ~~ No tengo pensado continuar el tutorial, o al menos no por ahora. Hace 2 a\'f1os que no scripteo, y no recuerdo lo suficiente como para hacer un nivel avanzado. A\'fan as\'ed, podr\'e9 responder algunas dudas que teng\'e1is.\
+whackahack.com\
+- Compilaci\'f3n de mini hacks (@CompuMax) :\
+[Otros] - FR | Recopilaci\'f3n de mini hacks para Fire Red: \
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://whackahack.com/foro/threads/fr-recopilacion-de-mini-hacks-para-fire-red.58040/"}}{\fldrslt \cf0 https://whackahack.com/foro/threads/fr-recopilacion-de-mini-hacks-para-fire-red.58040/}}\
+- Insertar gritos de otras generaciones (Chaos Rush) : {\field{\*\fldinst{HYPERLINK "https://www.pokecommunity.com/showthread.php?t=293830"}}{\fldrslt https://www.pokecommunity.com/showthread.php?t=293830}}\
+- A\'f1adir m\'e1s temas de encuentros con entrenadores (@Gold): {\field{\*\fldinst{HYPERLINK "https://whackahack.com/foro/threads/fr-extender-las-melodias-de-encuentros-con-entrenadores.37467/"}}{\fldrslt https://whackahack.com/foro/threads/fr-extender-las-melodias-de-encuentros-con-entrenadores.37467/}}\
+- Insertar portada (@Kaktus) : {\field{\*\fldinst{HYPERLINK "https://youtu.be/Bbp2JIsXVLE"}}{\fldrslt https://youtu.be/Bbp2JIsXVLE}}\
+\
+[ASM] - FR | Extender las Melod\'edas de Encuentros con Entrenadores (@Gold) :\
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://whackahack.com/foro/threads/fr-extender-las-melodias-de-encuentros-con-entrenadores.37467/"}}{\fldrslt \cf0 https://whackahack.com/foro/threads/fr-extender-las-melodias-de-encuentros-con-entrenadores.37467/}}\
+\
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+
+\fs48 \cf0 BASE USADA (cr\'e9ditos a pret):
+\fs28 \
+POKEEMERALD EXPANSION: https://github.com/rh-hideout/pokeemerald-expansion\
+\
+
+\fs48 PARCHES USADOS:
+\fs28 \
+\
+All-Instrument Patch de Alisa180: {\field{\*\fldinst{HYPERLINK "https://www.pokecommunity.com/showthread.php?t=332272"}}{\fldrslt https://www.pokecommunity.com/showthread.php?t=332272}}\
+M\'fasica de esmeralda y Drill Dozer - Parche musical de Squeetz: {\field{\*\fldinst{HYPERLINK "https://www.pokecommunity.com/showthread.php?t=375275"}}{\fldrslt https://www.pokecommunity.com/showthread.php?t=375275}}\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs72 \cf6 \cb7 \expnd0\expndtw0\kerning0
+GR\'c1FICOS USADOS:
+\fs32 \cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf6 \cb7 Overworlds e iconos:\cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf6 \cb7 Rey Unown Ruinas - 
+\f2\fs28 \cf2 \cb3 Scar\'99\
+Regigigas Primigenio - Scar\'99\
+Jirachi Primigenio - Scar\'99\
+Milotic-& - Scar\'99\
+
+\f0\fs32 \cf6 \cb7 Campeona Frida Joven - 
+\f2\fs28 \cf2 \cb3 Scar\'99\
+Zapdos Primigenio - Scar\'99\
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf4 \cb8 \
+\pard\pardeftab720\partightenfactor0
+\cf6 \cb7 Cultista culto lavanda - Pkmn Insurgence Culto Darkrai -\cf4 \cb8 \'a0{\field{\*\fldinst{HYPERLINK "https://p-insurgence.com/"}}{\fldrslt \cf9 https://p-insurgence.com/}}\
+\cf6 \cb7 Lider Culto Lavanda - Pkmn Omicron Zeus (versiones anteriores) -\cf4 \cb8 \'a0{\field{\*\fldinst{HYPERLINK "https://zo.p-insurgence.com/"}}{\fldrslt \cf9 https://zo.p-insurgence.com/}}\
+\cf6 \cb7 Rocket "muerto" - Pokemon La Leyenda del Rey Unown: https://youtu.be/1GfqD8_RcrU\
+\
+Icono del Crobat-& - Cakezy Mei\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf6 OTROS:
+\fs32 \
+\
+Cr\'e9ditos a Falric Art por el gr\'e1fico de la mochila rocket que tanto pega con el juego.\
+\
+
+\fs52 Sprites de Entrenadores:\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf6 L\cf4 \cb8 \'ed\cf6 \cb7 der Valeria - Capit\'e1n Ori\'f3n. Retocado por Alexander.\
+\
+Pok\'e9lotodo de FR/LG - Alexander\
+\
+Director CG Liga - Cyndaquil_inz. Retocado por Infinit.\
+\
+Frank Administrador - Ha llegado tu hora\
+\
+Miembros del Comit\'e9 de la Liga - Alexander\
+Frank Ejecutivo - Alexander\
+Protagonista Ejecutivo - Alexander\
+Protagonista Administrador - Alexander\
+Protagonista Administrador Jefe Hoenn . Alexander\
+\
+Protagonista Administrador Jefe - Caco\cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf6 \cb7 Sprites de Pok\'e9mon:\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs36 \cf6 MEGAEVOLUCIONES DLC ZA:\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf6 En general, a la comunidad de Whack a hack, Pokecomunnity y al equipo de Ds Style 64x64 gba por la mayor\'eda de sprites de las megas de ZA.\
+\
+En particular, cr\'e9ditos a:\
+Axel_CodeInfinity por los sprites de Mega Staraptor, Mega Feraligarth, Mega Dragonite, Mega Scolipede, Mega Delphox y Mega Greninja, entre otros.\
+Axel_CodeInfinity (front), Lykeron (back), leParagon, Alxndre~
+\f4 \uc0\u9671 
+\f0  (QC) por el sprite de Mega Garchomp Z.\
+Vent y MBCMechachu por el sprite de Mega Golisopod.\
+Axel_CodeInfinity (frames), Vent, Ezerart (QC) por el sprite de Mega Falinks.\
+Alxndre~
+\f4 \uc0\u9671 
+\f0  (frame 1), Vent (frame 2) por el sprite de Mega Glimmora.\
+Red7246 (front, back), Alxndre~
+\f4 \uc0\u9671 
+\f0  (QC) por el sprite de Mega Raichu X.\
+Alxndre~
+\f4 \uc0\u9671 
+\f0  (front, QC back), Lykeron (back) por el sprite de Mega Chandelure.\
+Red7246 (front), leParagon (back, QC) por el sprite de Mega Raichu Y\
+Axel_CodeInfinity (front), Lykeron (back), Alxndre~
+\f4 \uc0\u9671 
+\f0  (QC) por el sprite de Mega Froslass\
+leParagon (front, QC), Lykeron (back) por el sprite de Mega Emboar\
+Lykeron (front, back), leParagon (QC) por el sprite de Mega Eelektross\
+Axel_CodeInfinity (front), Lykeron (back), leParagon (QC front) por el sprite e icono de Mega Golurk\
+Axel_CodeInfinity (frame 1), Vent (frame 2, QC), Lykeron, Ezerart (QC) por el sprite de Mega Pyroar\
+Vent (front, back), leParagon (QC) por el sprite de Mega Magearna en ambas formas\
+Vent y Alxndre~
+\f4 \uc0\u9671 
+\f0  por el icono de Mega Darkrai.\
+Alxndre~
+\f4 \uc0\u9671 
+\f0  (frame 1), Vent (frame 2) por el icono de Mega Glimmora\cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs36 \cf6 \cb7 EXPERIMENTOS NUEVOS:
+\fs32 \cf4 \cb8 \
+\
+Tauros-X:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/art/Mega-Tauros-621910930"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr/art/Mega-Tauros-621910930}}\
+\
+Aerodactyl-Primal:\
+- Dise\'f1o original por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/conyjams"}}{\fldrslt \cf9 conyjams}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/conyjams"}}{\fldrslt \cf9 https://www.deviantart.com/conyjams}}\
+- Formato GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://deviantart.com/destvol/art/Mega-aerodactyl-793884117"}}{\fldrslt \cf9 https://deviantart.com/destvol/art/Mega-aerodactyl-793884117}}\
+\
+Magmortar-Y:\
+- Front Sprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23"}}{\fldrslt \cf9 JaegerLucciano23}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918"}}{\fldrslt \cf9 https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918}}\
+- Backsprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-maganon-GBA-sprite-780555810"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-maganon-GBA-sprite-780555810}}\
+\
+Electivire-X:\
+- Front Sprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23/gallery"}}{\fldrslt \cf9 JaegerLucciano23}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918"}}{\fldrslt \cf9 https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918}}\
+- Backsprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-Electivire-GBA-sprite-769959080"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-Electivire-GBA-sprite-769959080}}\
+\
+Nidoking-X:\
+- Dise\'f1o original y Frontsprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr}}\
+- BackSprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-nidoking-GBA-sprite-742982400"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-nidoking-GBA-sprite-742982400}}\
+\
+Nidoqueen-Y :\
+- Dise\'f1o original y Frontsprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/art/Mega-Nidoqueen-64x64-659609602"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr/art/Mega-Nidoqueen-64x64-659609602}}\
+- BackSprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-nidoqueen-GBA-sprite-781696995"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-nidoqueen-GBA-sprite-781696995}}\
+\
+Electrode-Y:\
+- BackSprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-electrode-GBA-sprite-812423369"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-electrode-GBA-sprite-812423369}}\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs36 \cf4 FUERTE V\'cdNCULO NUEVOS:
+\fs32 \
+\
+Rhyperior-&:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon"}}{\fldrslt \cf9 Phatmon}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon"}}{\fldrslt \cf9 https://www.deviantart.com/phatmon}}\
+- Recoloreado y redimensionado por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/kfweagz"}}{\fldrslt \cf9 KFWeagz}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/kfweagz"}}{\fldrslt \cf9 https://www.deviantart.com/kfweagz}}\
+Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-Rhyperior-GBA-sprite-785003150"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-Rhyperior-GBA-sprite-785003150}}\
+\
+Rapidash-&:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/art/Mega-Rapidash-64x64-659609622"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr/art/Mega-Rapidash-64x64-659609622}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-rapidash-GBA-sprite-815967965"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-rapidash-GBA-sprite-815967965}}\
+\
+Butterfree-&:\
+- Fanart original por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/leparagon"}}{\fldrslt \cf9 leparagon}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/leparagon"}}{\fldrslt \cf9 https://www.deviantart.com/leparagon}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-butterfree-GBA-sprite-746138503"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-butterfree-GBA-sprite-746138503}}\
+\
+Kingdra-&:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon"}}{\fldrslt \cf9 Phatmon}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon"}}{\fldrslt \cf9 https://www.deviantart.com/phatmon}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-Kingdra-GBA-sprite-700678620"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-Kingdra-GBA-sprite-700678620}}\
+\
+Skarmory-&:\
+- Dise\'f1o original: Pokemon Sardonyx -\'a0{\field{\*\fldinst{HYPERLINK "https://x.com/sardonyx_rtw/status/1060942017486819328"}}{\fldrslt \cf9 https://x.com/sardonyx_rtw/status/1060942017486819328}}\
+- Adaptado a GBA por m\'ed.\
+\
+Poliwrath-&:\
+- Fanart original\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/j7663701"}}{\fldrslt \cf9 j7663701}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/j7663701/art/Mega-Poliwrath-691149167"}}{\fldrslt \cf9 https://www.deviantart.com/j7663701/art/Mega-Poliwrath-691149167}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-poliwrath-GBA-sprite-812343869"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-poliwrath-GBA-sprite-812343869}}\
+\
+Eevee-&:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/pixelheim/gallery"}}{\fldrslt \cf9 Pixelheim}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/pixelheim/art/Omneon-789127232"}}{\fldrslt \cf9 https://www.deviantart.com/pixelheim/art/Omneon-789127232}}\
+\
+Feraligatr-&:\
+- Fanart original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/villi-c/gallery"}}{\fldrslt \cf9 villi-c}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/villi-c/art/MEGA-FERALIGATR-Y-774058364"}}{\fldrslt \cf9 https://www.deviantart.com/villi-c/art/MEGA-FERALIGATR-Y-774058364}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-feraligatr-GBA-sprite-Dragon-version-774219398"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-feraligatr-GBA-sprite-Dragon-version-774219398}}\
+\
+Crobat-& Protagonista:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-crobat-GBA-sprite-781780105"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-crobat-GBA-sprite-781780105}}\
+\
+Delphox-&:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon"}}{\fldrslt \cf9 Phatmon}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon/art/Mega-Delphox-446648871"}}{\fldrslt \cf9 https://www.deviantart.com/phatmon/art/Mega-Delphox-446648871}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-Delphox-GBA-sprite-744587029"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-Delphox-GBA-sprite-744587029}}\
+\
+Mamoswine-&:\
+- Hecho por Alexander Daniel:\'a0{\field{\*\fldinst{HYPERLINK "https://x.com/HellNicolaevich"}}{\fldrslt \cf9 https://x.com/HellNicolaevich}}\
+\
+Dragonite-&:\
+- Sprite Original por Amazen-Megas:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/amazen-megas/art/MEGA-DRAGONITE-634309760"}}{\fldrslt \cf9 https://www.deviantart.com/amazen-megas/art/MEGA-DRAGONITE-634309760}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-dragonite-GBA-sprite-version-Amazen-Megas-788355009"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-dragonite-GBA-sprite-version-Amazen-Megas-788355009}}\
+\
+Goodra-&:\
+- Sprite basado en el de\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jwnutz/gallery"}}{\fldrslt \cf9 JWNutz}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jwnutz/art/Mega-Goodra-660059388"}}{\fldrslt \cf9 https://www.deviantart.com/jwnutz/art/Mega-Goodra-660059388}}\'a0y\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/kajiatsui/gallery"}}{\fldrslt \cf9 KajiAtsui}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/kajiatsui/art/Mega-Evo-SpriteDex-661541097"}}{\fldrslt \cf9 https://www.deviantart.com/kajiatsui/art/Mega-Evo-SpriteDex-661541097}}.\
+\pard\pardeftab720\partightenfactor0
+\cf6 \cb7 - Adaptado a GBA por\cf4 \cb8 \'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-goodra-GBA-sprite-744933963"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-goodra-GBA-sprite-744933963}}\
+\
+\cf6 \cb7 Milotic-&:\cf4 \cb8 \
+\cf6 \cb7 - Dise\'f1o original por ribbononline:\cf4 \cb8 \'a0{\field{\*\fldinst{HYPERLINK "https://infinitefusiondex.com/"}}{\fldrslt \cf9 https://infinitefusiondex.com/}}\
+\cf6 \cb7 - Adaptado a GBA por Alexander:\cf4 \cb8 \'a0{\field{\*\fldinst{HYPERLINK "https://x.com/HellNicolaevich"}}{\fldrslt \cf9 https://x.com/HellNicolaevich}}\
+\
+\cf6 \cb7 Jirachi-&:\
+- Dise\'f1o original: allseeing\cf4 \cb8 \
+\
+\cf6 \cb7 Backsprite de Crobat-& por Nocturno\
+Mejora del sprite de Guardia por Nocturno\
+Mejora del Sprite del Drag\'f3n Original por Nocturno\cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf6 \cb7 MEGAEVOLUCIONES NUEVAS:
+\fs32 \cf4 \cb8 \
+\
+Mega-Butterfree:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/art/Mega-Butterfree-659609525"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr/art/Mega-Butterfree-659609525}}\
+\
+Mega-Starmie:\
+- Fanart original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/endlesstgx"}}{\fldrslt \cf9 EndlessTGX}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/endlesstgx"}}{\fldrslt \cf9 https://www.deviantart.com/endlesstgx}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-starmie-GBA-sprite-801198713"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-starmie-GBA-sprite-801198713}}\
+\
+Mega-Flygon:\
+-Front Sprite por MTGX\
+- Back Sprite por 
+\f5 \'d3\'ce\'c4\'cf\'c1\'fa
+\f0 \
+- Adaptaci\'f3n a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Mega-Flygon-799291978"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Mega-Flygon-799291978}}\
+\
+Mega-Dusknoir:\
+- Front Sprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23/gallery"}}{\fldrslt \cf9 JaegerLucciano23}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918"}}{\fldrslt \cf9 https://www.deviantart.com/jaegerlucciano23/art/Sprites-Mega-Pokemon-Fakes-64x64-694843918}}\
+- Backsprite por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-Dusknoir-GBA-sprite-760065789"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-Dusknoir-GBA-sprite-760065789}}\
+\
+Mega-Noivern:\
+- Fanart original:\'a0{\field{\*\fldinst{HYPERLINK "https://trxpics.deviantart.com/"}}{\fldrslt \cf9 TRXPICS}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/trxpics/art/Mega-Noivern-550377545"}}{\fldrslt \cf9 https://www.deviantart.com/trxpics/art/Mega-Noivern-550377545}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-noivern-GBA-sprite-744330418"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-noivern-GBA-sprite-744330418}}\
+\
+Mega-Milotic:\
+\
+- Sprite original de Pkmn Insurgence:\'a0{\field{\*\fldinst{HYPERLINK "https://wiki.p-insurgence.com/Milotic_(Pok%C3%A9mon)"}}{\fldrslt \cf9 https://wiki.p-insurgence.com/Milotic_(Pok%C3%A9mon)}}\
+- Redimensionado por 
+\f5 \'d3\'ce\'c4\'cf\'c1\'fa
+\f0  y adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Mega-Milotic-GBA-sprite-813316718"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Mega-Milotic-GBA-sprite-813316718}}\
+\
+\
+
+\fs52 \cf6 \cb7 Pokemon de la Beta Oro/Plata 97:\cf4 \cb8 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf4 \
+\pard\pardeftab720\partightenfactor0
+\cf6 \cb7 - aethestode (pkmn red chapter):\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/aethestode/art/Spaceworld-Demo-Beta-Pokemon-Sprites-Revamped-856667682"}}{\fldrslt \cf9 \cb8 https://www.deviantart.com/aethestode/art/Spaceworld-Demo-Beta-Pokemon-Sprites-Revamped-856667682}}\cf4 \cb8 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf6 \cb7 EXPERIMENTOS ONDAS DE RADIO:
+\fs32 \cf4 \cb8 \
+\
+Gyarados-Z:\
+- aethestode (pkmn red chapter):\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/aethestode"}}{\fldrslt \cf9 https://www.deviantart.com/aethestode}}\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Gyarados-O-Pokemon-Adventure-Red-sprite-800013678"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Gyarados-O-Pokemon-Adventure-Red-sprite-800013678}}\
+\
+Blastoise-Z:\
+- Fanart Original por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/villi-c/gallery"}}{\fldrslt \cf9 villi-c}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/villi-c/art/MEGA-ALOLAN-BLASTOISE-740046548"}}{\fldrslt \cf9 https://www.deviantart.com/villi-c/art/MEGA-ALOLAN-BLASTOISE-740046548}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-blastoise-Alolan-GBA-sprite-746620119"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-blastoise-Alolan-GBA-sprite-746620119}}\
+\
+Entei-&:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/gallery"}}{\fldrslt \cf9 x-sky300}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266"}}{\fldrslt \cf9 https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266}}\
+\
+Raikou-&:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/gallery"}}{\fldrslt \cf9 x-sky300}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266"}}{\fldrslt \cf9 https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266}}\
+\
+Suicune-&:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/gallery"}}{\fldrslt \cf9 x-sky300}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266"}}{\fldrslt \cf9 https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266}}\
+\
+Zapdos-Z:\
+- Sprite antiguo de Kanto Origins, mejorado por\
+\
+Mewtwo Armadura:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Armor-Mewtwo-sprite-GBA-ver-799287791"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Armor-Mewtwo-sprite-GBA-ver-799287791}}\
+\
+Ultimate Project:\
+- Fanart Original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/leparagon"}}{\fldrslt \cf9 leparagon}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/leparagon"}}{\fldrslt \cf9 https://www.deviantart.com/leparagon}}\
+- Backsprite: 
+\f5 \'c1\'e8\'bf\'d5\'d3\'f0\'c2\'b7
+\f0 \
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/New-Armor-Mewtwo-GBA-sprite-813316715"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/New-Armor-Mewtwo-GBA-sprite-813316715}}\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs52 \cf4 FORMAS PRIMIGENIAS:
+\fs32 \
+\
+Trxatu:\
+- FNAF-Fandom87 (Lira):\'a0{\field{\*\fldinst{HYPERLINK "https://es.pinterest.com/pin/mega-xatu-fan-coloration-by-plzgaiasrebirth--678284393856474964/"}}{\fldrslt \cf9 https://es.pinterest.com/pin/mega-xatu-fan-coloration-by-plzgaiasrebirth--678284393856474964/}}\
+- Adaptado a GBA por m\'ed:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/selezu/art/Mega-Xatu-Sprite-971362521"}}{\fldrslt \cf9 https://www.deviantart.com/selezu/art/Mega-Xatu-Sprite-971362521}}\
+\
+Zapdos-Primal:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/gallery"}}{\fldrslt \cf9 x-sky300}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266"}}{\fldrslt \cf9 https://www.deviantart.com/x-sky300/art/Mega-fake-evolutions-726101266}}\
+\
+Articuno-Primal:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/gallery"}}{\fldrslt \cf9 darkversekr}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/darkversekr/art/636a24cc3cf8c0adff92d912f5f9127c829125d074d33b1c3-659609515"}}{\fldrslt \cf9 https://www.deviantart.com/darkversekr/art/636a24cc3cf8c0adff92d912f5f9127c829125d074d33b1c3-659609515}}\
+\
+Moltres Primal:\
+- Fanart original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/phatmon/gallery"}}{\fldrslt \cf9 Phatmon}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-moltres-GBA-sprite-Phatmon-version-781258077"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-moltres-GBA-sprite-Phatmon-version-781258077}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-moltres-GBA-sprite-Phatmon-version-781258077"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-moltres-GBA-sprite-Phatmon-version-781258077}}\
+\
+Cradily-Y:\
+- Dise\'f1o original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/tienminh160498/gallery"}}{\fldrslt \cf9 tienminh160498}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/tienminh160498/art/Mega-Cradily-702218202"}}{\fldrslt \cf9 https://www.deviantart.com/tienminh160498/art/Mega-Cradily-702218202}}\
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/gallery"}}{\fldrslt \cf9 FYTYNo1}}:\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/fytyno1/art/Mega-cradily-GBA-sprite-813015777"}}{\fldrslt \cf9 https://www.deviantart.com/fytyno1/art/Mega-cradily-GBA-sprite-813015777}}\
+\
+Ho-Oh-Primal:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Hooh-Mega-776120215"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Hooh-Mega-776120215}}\
+\
+Lugia-Primal:\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Mega-Lugia-776120223"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Mega-Lugia-776120223}}\
+\
+Kyurem Incompleto:\
+\
+-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Unova-Kyurem-GBA-Sprite-64x64-800466028"}}{\fldrslt \cf9 https://www.deviantart.com/destvol/art/Unova-Kyurem-GBA-Sprite-64x64-800466028}}\
+\
+Regigigas Primigenio:\
+\
+- Fanart Original: ralliv & kuumagamer\
+- Adaptaci\'f3n a GBA por Alexander Daniel:\'a0{\field{\*\fldinst{HYPERLINK "https://x.com/HellNicolaevich"}}{\fldrslt \cf9 https://x.com/HellNicolaevich}}\
+\
+Drag\'f3n Sagrado:\
+- Hecho por Alexander Daniel:\'a0{\field{\*\fldinst{HYPERLINK "https://x.com/HellNicolaevich"}}{\fldrslt \cf9 https://x.com/HellNicolaevich}}\
+\
+Pok\'e9mon Esencia:\
+\pard\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/selezu/art/Missingno-Sprite-Sheet-64x64-972161468"}}{\fldrslt \cf9 https://www.deviantart.com/selezu/art/Missingno-Sprite-Sheet-64x64-972161468}}\
+\
+Drag\'f3n Original:\
+- Fanart original:\'a0{\field{\*\fldinst{HYPERLINK "https://www.todaysales.store/?path=page/ggitem&ggpid=3465207"}}{\fldrslt \cf9 https://www.todaysales.store/?path=page/ggitem&ggpid=3465207}}\
+- Adaptado a GBA por m\'ed.\
+\
+Arceus-Primal:\
+- Fanart Original: 
+\f5 \'c1\'e8\'bf\'d5\'d3\'f0\'c2\'b7
+\f0 \
+- Adaptado a GBA por\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/gallery"}}{\fldrslt \cf9 DestvoL}}\'a0-\'a0{\field{\*\fldinst{HYPERLINK "https://www.deviantart.com/destvol/art/Mega-Arceus-GBA-sprite-814008974"}}{\fldrslt \cf10 https://www.deviantart.com/destvol/art/Mega-Arceus-GBA-sprite-814008974}}
+\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sl276\slmult1\sa200\partightenfactor0
+
+\fs48 \cf0 MUSICA USADA:
+\fs28 \
+VGMusic.com - Nintendo DS Music\
+RUTA 10 de BLANCO/NEGRO - Darkedge\
+VS TEAM ROCKET/TEAM ROCKET ENCOUNTER: Pokemon Crystal Dust\
+VS LANCE: HGSS Champion Battle - Phillip Haynes\
+VS AZUL/ROJO: RBY Champion Battle - PsytroniX\
+VS OAK: VGMusic - Champion Battle (Dramatic Remix) - Zagro\
+RUTAS Y TEMAS DE JOHTO: Pokemon Liquid Crystal\
+PAGODA MALVA Y BOSSBATTLE: Pokemon Vega\
+CLOACAS AZULONA Y MODO EFEM\'c9RIDES: Pokemon Dark Violet Rocket Hideout\
+APARICI\'d3N GIOVANNI EN SILPH Y ENTRADA DIRECTOR CG LIGA: Pokemon Dark Violet Giovanni Encounter\
+VS EJECUTIVOS ROCKER: Pokemon Dark Violet vs admin theme\
+VS AVES LEGENDARIAS: Pokemon Dark Violet vs legendary theme\
+VS JOHTO FEFE FINAL: Pokemon Vega vs Turner\
+\
+
+\fs48 SI HAY ALG\'daN RECURSO USADO QUE HAYA PASADO POR ALTO SIN NOMBRAR AL CREADOR, HAC\'c9DMELO SABER POR WHACK A HACK O MI CANAL DE YOUTUBE, Y LO ACTUALIZAR\'c9
+\fs22 \
+}

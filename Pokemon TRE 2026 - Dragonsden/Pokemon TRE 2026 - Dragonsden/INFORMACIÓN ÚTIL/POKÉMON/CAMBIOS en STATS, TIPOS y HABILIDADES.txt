@@ -1,0 +1,1192 @@
+VENUSAUR
+
+Oficial: Ps 80, At 82, Def 83, At.esp 100, Def.esp 100, Velocid 80. Total 525
+Hackrom: Ps 90, At 85, Def 93, At.esp 110, Def.esp 110, Velocid 60. Total 548
+
+Habilidades: Espesura/Clorofila/Sebo
+
+MEGA VENUSAUR
+
+Oficial: Ps 80, At 100, Def 123, At.esp 122, Def.esp 120, Velocid 80. Total 625
+Hackrom: Ps 90, At 100, Def 123, At.esp 123, Def.esp 132, Velocid 80. Total 648
+
+CHARIZARD
+
+Oficial: Ps 78, At 84, Def 78, At.esp 109, Def.esp 85, Velocid 100. Total 534
+Hackrom: Ps 78, At 99, Def 78, At.esp 109, Def.esp 85, Velocid 100. Total 549
+
+Habilidades: Mar Llamas/Garra Dura/Poder Solar
+
+MEGA CHARIZARD Y
+
+Oficial: Ps 78, At 104, Def 78, At.esp 159, Def.esp 115, Velocid 100. Total 634
+Hackrom: Ps 78, At 104, Def 83, At.esp 159, Def.esp 115, Velocid 110. Total 649
+
+MEGA CHARIZARD X
+
+Oficial: Ps 78, At 130, Def 111, At.esp 130, Def.esp 85, Velocid 100. Total 634
+Hackrom: Ps 78, At 144, Def 111, At.esp 119, Def.esp 97, Velocid 100. Total 649
+
+BLASTOISE
+
+Oficial: Ps 79, At 83, Def 100, At.esp 85, Def.esp 105, Velocid 78. Total 530
+Hackrom: Ps 99, At 83, Def 120, At.esp 85, Def.esp 105, Velocid 58. Total 550
+
+Habilidades: Torrente/Caparazón/Mega Disparador
+
+MEGA BLASTOISE
+
+Oficial: Ps 79, At 103, Def 120, At.esp 135, Def.esp 115, Velocid 78. Total 630
+Hackrom: Ps 99, At 93, Def 130, At.esp 135, Def.esp 125, Velocid 68. Total 650
+
+BEEDRILL
+
+Habilidad: Enjambre/Adaptable/Francotirador
+
+FEAROW
+
+Habilidad: Vista Lince/Adaptable/Francotirador
+
+ARBOK
+
+Oficial: Ps 60, At 95, Def 69, At.esp 65, Def.esp 79, Velocid 80. Total 448
+Hackrom: Ps 60, At 105, Def 69, At.esp 75, Def.esp 109, Velocid 90. Total 508
+
+SANDSLASH
+
+Oficial: Ps 75, At 100, Def 110, At.esp 45, Def.esp 55, Velocid 65. Total 450
+Hackrom: Ps 75, At 100, Def 120, At.esp 25, Def.esp 75, Velocid 70. Total 465
+
+Habilidades: Velo Arena/Garra Dura/Ímpetu Arena
+
+SANDSLASH ALOLA
+
+Oficial: Ps 75, At 100, Def 120, At.esp 25, Def.esp 65, Velocid 65. Total 450
+Hackrom: Ps 75, At 100, Def 130, At.esp 25, Def.esp 65, Velocid 70. Total 465
+
+Habilidades: Manto Níveo/Garra Dura/Quitanieves
+
+NIDOQUEEN
+
+Oficial: Ps 90, At 92, Def 87, At.esp 75, Def.esp 85, Velocid 76. Total 505
+Hackrom: Ps 100, At 92, Def 92, At.esp 80, Def.esp 90, Velocid 76. Total 530
+
+NIDOKING
+
+Oficial: Ps 81, At 102, Def 77, At.esp 85, Def.esp 75, Velocid 85. Total 505
+Hackrom: Ps 91, At 102, Def 77, At.esp 90, Def.esp 75, Velocid 95. Total 530
+
+ZUBAT INICIAL
+
+Zubat Normal: Ps 40, At 45, Def 35, At.esp 30, Def.esp 40, Velocid 55. Total 245
+Zubat Inicial: Ps 50, At 50, Def 45, At.esp 40, Def.esp 50, Velocid 60. Total 295
+
+MACHAMP
+
+Oficial: Ps 90, At 130, Def 80, At.esp 65, Def.esp 85, Velocid 55. Total 505
+Hackrom: Ps 100, At 136, Def 110, At.esp 65, Def.esp 85, Velocid 55. Total 551
+
+DEWGONG
+
+Habilidades: Sebo/Escama de Hielo/Cuerpo de Hielo
+
+GASTLY
+
+Oficial: Ps 30, At 35, Def 30, At.esp 100, Def.esp 35, Velocid 80. Total 310
+Hackrom: Ps 35, At 35, Def 35, At.esp 100, Def.esp 40, Velocid 88. Total 333
+
+Habilidades: Levitación/Guardia Espectro
+
+HAUNTER
+
+Habilidades: Levitación/Guardia Espectro
+
+GENGAR
+
+Oficial: Ps 60, At 65, Def 60, At.esp 130, Def.esp 75, Velocid 110. Total 500
+Hackrom: Ps 70, At 75, Def 60, At.esp 140, Def.esp 97, Velocid 110. Total 552
+
+Habilidades: Levitación/Cuerpo Maldito
+
+MEGA GENGAR
+
+Oficial: Ps 60, At 65, Def 80, At.esp 170, Def.esp 95, Velocid 130. Total 600
+Hackrom: Ps 70, At 75, Def 90, At.esp 170, Def.esp 117, Velocid 130. Total 652
+
+ONIX
+
+Oficial: Ps 35, At 45, Def 160, At.esp 30, Def.esp 45, Velocid 70. Total 385
+Hackrom: Ps 35, At 125, Def 160, At.esp 30, Def.esp 45, Velocid 70. Total 465
+
+ELECTRODE HISUI
+
+Habilidades: Cabeza Roca/El.Estática/Detonación
+
+HITMONLEE
+
+Oficial: Ps 50, At 120, Def 53, At.esp 35, Def.esp 110, Velocid 87. Total 455
+Hackrom: Ps 60, At 120, Def 73, At.esp 35, Def.esp 110, Velocid 87. Total 485
+
+HITMONCHAN
+
+Oficial: Ps 50, At 105, Def 79, At.esp 35, Def.esp 110, Velocid 76. Total 455
+Hackrom: Ps 60, At 105, Def 99, At.esp 35, Def.esp 110, Velocid 76. Total 485
+
+WEEZING
+
+Oficial: Ps 65, At 90, Def 120, At.esp 85, Def.esp 70, Velocid 60. Total 490
+Hackrom: Ps 65, At 90, Def 130, At.esp 95, Def.esp 80, Velocid 60. Total 520
+
+WEEZING-GALAR
+
+Oficial: Ps 65, At 90, Def 120, At.esp 85, Def.esp 70, Velocid 60. Total 490
+Hackrom: Ps 65, At 90, Def 110, At.esp 95, Def.esp 100, Velocid 60. Total 520
+
+KANGASKHAN
+
+Oficial: Ps 105, At 95, Def 80, At.esp 40, Def.esp 80, Velocid 90. Total 490
+Hackrom: Ps 105, At 95, Def 80, At.esp 60, Def.esp 80, Velocid 100. Total 520
+
+MEGA KANGASKHAN
+
+Oficial: Ps 105, At 125, Def 100, At.esp 60, Def.esp 100, Velocid 100. Total 590
+Hackrom: Ps 105, At 135, Def 105, At.esp 60, Def.esp 105, Velocid 110. Total 620
+
+JYNX
+
+Oficial: Ps 65, At 50, Def 35, At.esp 115, Def.esp 95, Velocid 95. Total 455
+Hackrom: Ps 75, At 50, Def 45, At.esp 115, Def.esp 105, Velocid 95. Total 485
+
+Habilidades: Despiste/Espejomágico/Piel Seca
+
+GYARADOS
+
+Tipo Oficial: Agua/Volador
+Tipo Hackrom: Agua/Dragón
+
+LAPRAS
+
+Oficial: Ps 130, At 85, Def 85, At.esp 85, Def.esp 95, Velocid 60. Total 535
+Hackrom: Ps 140, At 85, Def 80, At.esp 95, Def.esp 105, Velocid 45. Total 550
+
+Habilidades: Absorber Agua/Caparazón/Adaptable
+
+ARTICUNO
+
+Habilidades: Indefenso/Nevada/Escama de Hielo
+
+ZAPDOS
+
+Oficial: Ps 90, At 90, Def 85, At.esp 125, Def.esp 90, Velocid 100. Total 580
+Hackrom: Ps 90, At 85, Def 90, At.esp 125, Def.esp 90, Velocid 100. Total 580
+
+Habilidades: Descarga/Llovizna/Alas Vendaval
+
+MOLTRES
+
+Oficial: Ps 90, At 100, Def 90, At.esp 125, Def.esp 85, Velocid 90. Total 580
+Hackrom: Ps 90, At 85, Def 90, At.esp 125, Def.esp 100, Velocid 90. Total 580
+
+Habilidades: Potencia Bruta/Sequía/Poder Solar
+
+MEWTWO
+
+Habilidades: Presión/Nerviosismo/Muro Mágico
+
+MEGA MEWTWO-Y
+
+Habilidad: Psicogénesis
+
+MEGA MEWTWO-X
+
+Habilidad: Puño Férreo
+
+MEW
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600
+Hackrom: Ps 100, At 50, Def 100, At.esp 125, Def.esp 125, Velocid 100. Total 600
+
+Habilidades: Sincronización/Muro Mágico/Impostor
+
+MEGANIUM
+
+Oficial: Ps 80, At 82, Def 100, At.esp 83, Def.esp 100, Velocid 80. Total 525
+Hackrom: Ps 90, At 82, Def 112, At.esp 83, Def.esp 116, Velocid 50. Total 533
+
+Habilidades: Espesura/Herbogénesis
+
+MEGA MEGANIUM
+
+Oficial: Ps 80, At 92, Def 115, At.esp 143, Def.esp 115, Velocid 80. Total 625
+Hackrom: Ps 90, At 82, Def 127, At.esp 143, Def.esp 131, Velocid 60. Total 633
+
+TYPHLOSION
+
+Oficial: Ps 78, At 84, Def 78, At.esp 109, Def.esp 85, Velocid 100. Total 534
+Hackrom: Ps 78, At 69, Def 78, At.esp 119, Def.esp 90, Velocid 100. Total 534
+
+Tipo Oficial: Fuego
+Tipo Hackrom: Fuego/Tierra
+
+Habilidades: Mar llamas/Combustible/Sequía
+
+FERALIGATR
+
+Oficial: Ps 85, At 105, Def 100, At.esp 79, Def.esp 83, Velocid 78. Total 530
+Hackrom: Ps 95, At 115, Def 100, At.esp 64, Def.esp 83, Velocid 78. Total 535
+
+MEGA FERALIGATR
+
+Oficial: Ps 85, At 160, Def 125, At.esp 89, Def.esp 93, Velocid 78. Total 630
+Hackrom: Ps 95, At 160, Def 125, At.esp 74, Def.esp 103, Velocid 78. Total 635
+
+FURRET
+
+Oficial: Ps 85, At 76, Def 64, At.esp 45, Def.esp 55, Velocid 90. Total 415
+Hackrom: Ps 85, At 90, Def 70, At.esp 35, Def.esp 70, Velocid 100. Total 450
+
+Habilidades: Fuga/Vista Lince/Pelaje Recio
+
+NOCTOWL
+
+Oficial: Ps 100, At 50, Def 50, At.esp 86, Def.esp 96, Velocid 70. Total 452
+Hackrom: Ps 100, At 50, Def 50, At.esp 96, Def.esp 96, Velocid 80. Total 472
+
+Tipo Oficial: Normal/Volador
+Tipo Hackrom: Psíquico/Volador
+
+LEDIAN
+
+Oficial: Ps 55, At 35, Def 50, At.esp 55, Def.esp 110, Velocid 85. Total 390
+Hackrom: Ps 55, At 45, Def 50, At.esp 55, Def.esp 110, Velocid 95. Total 410
+
+Habilidades: Enjambre/Puño Férreo/Potencia
+
+ARIADOS
+
+Oficial: Ps 70, At 90, Def 70, At.esp 60, Def.esp 70, Velocid 40. Total 400
+Hackrom: Ps 70, At 100, Def 70, At.esp 35, Def.esp 70, Velocid 75. Total 420
+
+Habilidades: Enjambre/Francotirador/Adaptable
+
+AMPHAROS
+
+Habilidades: El.Estática/Electrogénesis/Dinamo
+
+MEGA AMPHAROS
+
+Habilidad: Peluche
+
+BELLOSOM
+
+Habilidades: Clorofila/Primer Auxilio/Alma Cura
+
+JUMPLUFF
+
+Oficial: Ps 75, At 55, Def 70, At.esp 55, Def.esp 95, Velocid 110. Total 460
+Hackrom: Ps 75, At 55, Def 70, At.esp 95, Def.esp 95, Velocid 110. Total 500
+
+SUNFLORA
+
+Oficial: Ps 75, At 75, Def 55, At.esp 105, Def.esp 85, Velocid 30. Total 425
+Hackrom: Ps 75, At 55, Def 75, At.esp 125, Def.esp 115, Velocid 30. Total 475
+
+Habilidades: Poder Solar/Absorber Fuego/Adaptable
+
+Tipo Oficial: Planta
+Tipo Hackrom: Planta/Fuego
+
+MEGA STEELIX
+
+Habilidad: Acero Templado
+
+SCIZOR
+
+Oficial: Ps 70, At 130, Def 100, At.esp 55, Def.esp 80, Velocid 65. Total 500
+Hackrom: Ps 80, At 130, Def 100, At.esp 55, Def.esp 90, Velocid 75. Total 530
+
+KLEAVOR
+
+Oficial: Ps 70, At 135, Def 95, At.esp 45, Def.esp 70, Velocid 85. Total 500
+Hackrom: Ps 80, At 135, Def 105, At.esp 45, Def.esp 80, Velocid 85. Total 530
+
+MEGA SCIZOR
+
+Oficial: Ps 70, At 150, Def 140, At.esp 65, Def.esp 100, Velocid 75. Total 600
+Hackrom: Ps 80, At 155, Def 145, At.esp 65, Def.esp 100, Velocid 85. Total 630
+
+URSARING
+
+Oficial: Ps 90, At 130, Def 75, At.esp 75, Def.esp 75, Velocid 55. Total 500
+Hackrom: Ps 110, At 130, Def 75, At.esp 50, Def.esp 75, Velocid 70. Total 510
+
+URSALUNA LUNA CARMESÍ
+
+Oficial: Ps 113, At 70, Def 120, At.esp 135, Def.esp 65, Velocid 52. Total 555
+Hackrom: Ps 133, At 100, Def 120, At.esp 135, Def.esp 85, Velocid 77. Total 650
+
+CORSOLA
+
+Habilidades: Roca sólida/Cura Natural/Regeneración
+
+OCTILLERY
+
+Habilidades: Ventosas/Francotirador/Mega Disparador
+
+MAGCARGO
+
+Oficial: Ps 60, At 50, Def 120, At.esp 90, Def.esp 80, Velocid 30. Total 430
+Hackrom: Ps 90, At 50, Def 120, At.esp 90, Def.esp 110, Velocid 30. Total 490
+
+Habilidad: Escudo Magma/Roca Sólida/Armadura Frágil
+
+MEGA SKARMORY
+
+Habilidad: Armadura Batalla (Bloquea críticos y reduce un 10% el daño directo).
+
+HOUNDOOM
+
+Oficial: Ps 75, At 90, Def 50, At.esp 110, Def.esp 80, Velocid 95. Total 500
+Hackrom: Ps 85, At 90, Def 60, At.esp 110, Def.esp 80, Velocid 95. Total 520
+
+Habilidades: Madrugar/Potencia Bruta/Entusiasmo
+
+MEGA HOUNDOOM
+
+Oficial: Ps 75, At 90, Def 90, At.esp 140, Def.esp 90, Velocid 115. Total 600
+Hackrom: Ps 85, At 90, Def 90, At.esp 145, Def.esp 95, Velocid 115. Total 620
+
+Habilidad: Potencia Bruta
+
+KINGDRA
+
+Habilidad: Francotirador/Nado Rápido/Adaptable
+
+DONPHAN
+
+Oficial: Ps 90, At 120, Def 120, At.esp 60, Def.esp 60, Velocid 50. Total 500
+Hackrom: Ps 90, At 120, Def 120, At.esp 40, Def.esp 60, Velocid 70. Total 500
+
+Habilidades: Robustez/Transportarocas/Velo Arena
+
+HITMONTOP
+
+Oficial: Ps 50, At 95, Def 95, At.esp 35, Def.esp 110, Velocid 70. Total 455
+Hackrom: Ps 60, At 95, Def 115, At.esp 35, Def.esp 110, Velocid 70. Total 485
+
+RAIKOU
+
+Oficial: Ps 90, At 85, Def 75, At.esp 115, Def.esp 100, Velocid 115. Total 580
+Hackrom: Ps 90, At 75, Def 85, At.esp 115, Def.esp 100, Velocid 115. Total 580
+
+Habilidades: Foco Interno/Presión/Potencia Bruta
+
+ENTEI
+
+Oficial: Ps 115, At 115, Def 85, At.esp 90, Def.esp 75, Velocid 100. Total 580
+Hackrom: Ps 115, At 115, Def 85, At.esp 75, Def.esp 90, Velocid 100. Total 580
+
+Habilidad: Foco Interno/Presión/Cabeza Roca
+
+SUICUNE
+
+Habilidad: Foco Interno/Presión/Muro Mágico
+
+LUGIA
+
+Habilidades: Presión/Pompa/Compensación
+
+HO-OH
+
+Habilidades: Presión/Muro Mágico/Regeneración
+
+CELEBI
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600
+Hackrom: Ps 110, At 50, Def 110, At.esp 110, Def.esp 110, Velocid 110. Total 600
+
+Habilidades: Cura Natural/Regeneración/Herbogénesis
+
+SCEPTILE
+
+Habilidades: Espesura/Cortante/Liviano
+
+MEGA SCEPTILE
+
+Habilidad: Cortante
+
+MEGA GARDEVOIR
+
+Oficial: Ps 68, At 85, Def 65, At.esp 165, Def.esp 135, Velocid 100. Total 618
+Hackrom: Ps 68, At 65, Def 85, At.esp 165, Def.esp 135, Velocid 100. Total 618
+
+SHARPEDO
+
+Oficial: Ps 70, At 120, Def 40, At.esp 95, Def.esp 40, Velocid 95. Total 460
+Hackrom: Ps 70, At 140, Def 65, At.esp 95, Def.esp 65, Velocid 105. Total 540
+
+MEGA SHARPEDO
+
+Oficial: Ps 70, At 140, Def 70, At.esp 110, Def.esp 65, Velocid 115. Total 560
+Hackrom: Ps 70, At 150, Def 90, At.esp 120, Def.esp 85, Velocid 125. Total 640
+
+WAILORD
+
+Oficial: Ps 170, At 90, Def 45, At.esp 90, Def.esp 45, Velocid 60. Total 500
+Hackrom: Ps 170, At 90, Def 90, At.esp 90, Def.esp 90, Velocid 20. Total 550
+
+CAMERUPT
+
+Oficial: Ps 70, At 100, Def 70, At.esp 105, Def.esp 75, Velocid 40. Total 460
+Hackrom: Ps 70, At 100, Def 100, At.esp 145, Def.esp 105, Velocid 20. Total 540
+
+Habilidades: Potencia Bruta/Roca Sólida
+
+MEGA CAMERUPT
+
+Oficial: Ps 70, At 120, Def 100, At.esp 145, Def.esp 105, Velocid 20. Total 560
+Hackrom: Ps 70, At 120, Def 140, At.esp 175, Def.esp 125, Velocid 10. Total 640
+
+TORKOAL
+
+Oficial: Ps 70, At 85, Def 140, At.esp 85, Def.esp 70, Velocid 20. Total 470
+Hackrom: Ps 70, At 75, Def 140, At.esp 85, Def.esp 100, Velocid 10. Total 480
+
+FLYGON
+
+Oficial: Ps 80, At 100, Def 80, At.esp 80, Def.esp 80, Velocid 100. Total 520
+Hackrom: Ps 80, At 100, Def 80, At.esp 100, Def.esp 80, Velocid 110. Total 550
+
+Habilidades: Levitación/Cromolente
+
+ALTARIA
+
+Oficial: Ps 75, At 70, Def 90, At.esp 70, Def.esp 105, Velocid 80. Total 490
+Hackrom: Ps 75, At 80, Def 90, At.esp 80, Def.esp 130, Velocid 85. Total 540
+
+MEGA ALTARIA
+
+Oficial: Ps 75, At 110, Def 110, At.esp 110, Def.esp 105, Velocid 80. Total 590
+Hackrom: Ps 75, At 115, Def 115, At.esp 115, Def.esp 135, Velocid 85. Total 640
+
+LUNATONE
+
+Oficial: Ps 90, At 55, Def 65, At.esp 95, Def.esp 85, Velocid 70. Total 460
+Hackrom: Ps 100, At 55, Def 95, At.esp 105, Def.esp 95, Velocid 70. Total 510
+
+SOLROCK
+
+Oficial: Ps 90, At 95, Def 85, At.esp 55, Def.esp 65, Velocid 70. Total 460
+Hackrom: Ps 100, At 105, Def 95, At.esp 55, Def.esp 95, Velocid 70. Total 510
+
+CRADILY
+
+Habilidades: Ventosas/Sal Purificadora/Colector
+
+MILOTIC
+
+Oficial: Ps 95, At 60, Def 79, At.esp 100, Def.esp 125, Velocid 81. Total 540
+Hackrom: Ps 105, At 60, Def 79, At.esp 110, Def.esp 135, Velocid 81. Total 570
+
+Tipo Oficial: Agua
+Tipo Hackrom: Agua/Hada
+
+CASTFORM
+
+Oficial: Ps 70, At 70, Def 70, At.esp 70, Def.esp 70, Velocid 70. Total 420
+Hackrom: Ps 95, At 105, Def 70, At.esp 105, Def.esp 70, Velocid 105. Total 550
+
+TROPIUS
+
+Oficial: Ps 99, At 68, Def 83, At.esp 72, Def.esp 87, Velocid 51. Total 460
+Hackrom: Ps 109, At 78, Def 93, At.esp 82, Def.esp 97, Velocid 61. Total 540
+
+Tipo Oficial: Planta/Volador
+Tipo Hackrom: Planta/Dragón
+
+Habilidades: Respondón/Adaptable/Poder Solar
+
+ABSOL
+
+Oficial: Ps 65, At 130, Def 60, At.esp 75, Def.esp 60, Velocid 75. Total 465
+Hackrom: Ps 65, At 130, Def 70, At.esp 95, Def.esp 70, Velocid 115. Total 545
+
+MEGA ABSOL
+
+Oficial: Ps 65, At 150, Def 60, At.esp 115, Def.esp 60, Velocid 115. Total 565
+Hackrom: Ps 65, At 150, Def 90, At.esp 135, Def.esp 90, Velocid 115. Total 645
+
+MEGA ABSOL Z
+
+Oficial: Ps 65, At 154, Def 60, At.esp 75, Def.esp 60, Velocid 151. Total 565
+Hackrom: Ps 65, At 154, Def 75, At.esp 125, Def.esp 75, Velocid 151. Total 645
+
+
+MEGA GLALIE
+
+Oficial: Ps 80, At 120, Def 80, At.esp 120, Def.esp 80, Velocid 100. Total 580
+Hackrom: Ps 80, At 130, Def 90, At.esp 80, Def.esp 90, Velocid 110. Total 580
+
+Tipo Oficial: Hielo
+Tipo Hackrom: Hielo/Fantasma
+
+REGIROCK
+
+Habilidades: Cuerpo Puro/Robustez/Adaptable
+
+REGICE
+
+Habilidad: Cuerpo Puro/Gélido/Adaptable
+
+REGISTEEL
+
+Habilidades: Cuerpo Puro/Metal Liviano/Adaptable
+
+MEGA LATIOS
+
+Oficial: Ps 80, At 130, Def 100, At.esp 160, Def.esp 120, Velocid 110. Total 700
+Hackrom: Ps 80, At 100, Def 110, At.esp 160, Def.esp 130, Velocid 120. Total 700
+
+JIRACHI
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600 
+Hackrom: Ps 100, At 50, Def 125, At.esp 110, Def.esp 125, Velocid 90. Total 600
+
+Habilidades: Dicha/Levitación/Rompemoldes
+
+DEOXYS NORMAL
+
+Official: Ps 50, At 150, Def 50, At.esp 150, Def.esp 50, Velocid 150. Total 600 
+Hackrom: Ps 100, At 50, Def 75, At.esp 150, Def.esp 75, Velocid 150. Total 600 
+
+Habilidades: Muro mágico/Presión
+
+DEOXYS-A
+
+Official: Ps 50, At 180, Def 20, At.esp 180, Def.esp 20, Velocid 150. Total 600 
+Hackrom: Ps 100, At 70, Def 50, At.esp 180, Def.esp 50, Velocid 150. Total 600 
+
+Habilidad: Muro mágico/Presión
+
+DEOXYS-D
+
+Official: Ps 50, At 70, Def 160, At.esp 70, Def.esp 160, Velocid 90. Total 600 
+Hackrom: Ps 100, At 20, Def 160, At.esp 70, Def.esp 160, Velocid 90. Total 600 
+
+Habilidad: Espejomágico
+
+DEOXYS-V
+
+Official: Ps 50, At 95, Def 90, At.esp 95, Def.esp 90, Velocid 180. Total 600 
+Hackrom: Ps 100, At 20, Def 90, At.esp 120, Def.esp 90, Velocid 180. Total 600 
+
+Habilidad: Psicogénesis
+
+TORTERRA
+
+Oficial: Ps 95, At 109, Def 105, At.esp 75, Def.esp 85, Velocid 56. Total 525
+Hackrom: Ps 105, At 119, Def 115, At.esp 65, Def.esp 85, Velocid 46. Total 535
+
+Habilidad: Espesura/Audaz/Caparazón
+
+INFERNAPE
+
++ 1 PS - TOTAL 535
+
+EMPOLEON
+
+Oficial: Ps 84, At 86, Def 88, At.esp 111, Def.esp 101, Velocid 60. Total 530
+Hackrom: Ps 84, At 76, Def 103, At.esp 111, Def.esp 101, Velocid 60. Total 535
+
+Habilidades: Torrente/Escudo Recio/Competitivo
+
+LUXRAY
+
+Oficial: Ps 80, At 120, Def 79, At.esp 95, Def.esp 79, Velocid 70. Total 523
+Hackrom: Ps 80, At 120, Def 79, At.esp 95, Def.esp 79, Velocid 90. Total 543
+
+Tipo Oficial: Eléctrico
+Tipo Hackrom: Eléctrico/Siniestro
+
+ROSERADE
+
+Oficial: Ps 60, At 70, Def 65, At.esp 125, Def.esp 105, Velocid 90. Total 515
+Hackrom: Ps 60, At 65, Def 65, At.esp 125, Def.esp 105, Velocid 105. Total 525
+
+Habilidades: Disemillar/Punto Tóxico/Experto
+
+BASTIODON
+
+Oficial: Ps 60, At 52, Def 168, At.esp 47, Def.esp 138, Velocid 30. Total 495
+Hackrom: Ps 70, At 62, Def 168, At.esp 27, Def.esp 148, Velocid 20. Total 495
+
+Habilidad: Acero Templado/Firmeza/Robustez
+
+LOPUNNY
+
+Oficial: Ps 65, At 76, Def 84, At.esp 54, Def.esp 96, Velocid 105. Total 480
+Hackrom: Ps 75, At 76, Def 94, At.esp 54, Def.esp 96, Velocid 105. Total 500
+
+Habilidad: Normalidad/Experto/Adaptable
+
+MEGA LOPUNNY
+
+Oficial: Ps 65, At 136, Def 94, At.esp 54, Def.esp 96, Velocid 135. Total 580
+Hackrom: Ps 75, At 136, Def 104, At.esp 54, Def.esp 96, Velocid 135. Total 600
+
+MISMAGIUS
+
+Oficial: Ps 60, At 60, Def 60, At.esp 105, Def.esp 105, Velocid 105. Total 495
+Hackrom: Ps 65, At 65, Def 65, At.esp 110, Def.esp 110, Velocid 110. Total 525
+
+HONCHCROW
+
+Oficial: Ps 100, At 125, Def 52, At.esp 105, Def.esp 52, Velocid 71. Total 505
+Hackrom: Ps 103, At 125, Def 82, At.esp 52, Def.esp 82, Velocid 81. Total 525
+
+SPIRITOMB
+
+Oficial: Ps 50, At 92, Def 108, At.esp 92, Def.esp 108, Velocid 35. Total 485
+Hackrom: Ps 66, At 99, Def 108, At.esp 99, Def.esp 108, Velocid 33. Total 513
+
+GARCHOMP MEGA
+
+Habilidad: Cortante
+
+GARCHOMP MEGA Z
+
+Oficial: Ps 108, At 130, Def 85, At.esp 141, Def.esp 85, Velocid 151. Total 700
+Hackrom: Ps 108, At 100, Def 95, At.esp 161, Def.esp 85, Velocid 151. Total 700
+
+RHYPERIOR
+
+Oficial: Ps 115, At 140, Def 130, At.esp 55, Def.esp 55, Velocid 40. Total 535
+Hackrom: Ps 115, At 145, Def 135, At.esp 40, Def.esp 55, Velocid 55. Total 545
+
+TANGROWTH
+
+Habilidades: Regeneración/Sebo/Clorofila
+
+ELECTIVIRE
+
+Oficial: Ps 75, At 123, Def 67, At.esp 95, Def.esp 85, Velocid 95. Total 540 
+Hackrom: Ps 75, At 123, Def 85, At.esp 67, Def.esp 95, Velocid 95. Total 540
+
+Habilidades: Electromotor/Esp.Vital/Puño Férreo
+
+MAGMORTAR
+
+Oficial: Ps 75, At 95, Def 67, At.esp 125, Def.esp 95, Velocid 83. Total 540 
+Hackrom: Ps 75, At 67, Def 83, At.esp 125, Def.esp 95, Velocid 95. Total 540
+
+Habilidades: Cuerpo Llama/Esp.Vital/Mega Disparador
+
+GLACEON
+
+Habilidades: Manto Níveo/Nevada/Gélido
+
+MAMOSWINE
+
+Oficial: Ps 110, At 130, Def 80, At.esp 70, Def.esp 60, Velocid 80. Total 530 
+Hackrom: Ps 110, At 130, Def 90, At.esp 60, Def.esp 70, Velocid 80. Total 540
+
+PORYGON-Z
+
+Oficial: Ps 85, At 80, Def 70, At.esp 135, Def.esp 75, Velocid 90. Total 535 
+Hackrom: Ps 85, At 80, Def 70, At.esp 145, Def.esp 75, Velocid 90. Total 545
+
+GALLADE MEGA
+
+Habilidad: Cortante
+
+PROBOPASS
+
+Oficial: Ps 60, At 55, Def 145, At.esp 75, Def.esp 150, Velocid 40. Total 525 
+Hackrom: Ps 60, At 25, Def 175, At.esp 75, Def.esp 150, Velocid 40. Total 525
+
+DUSKNOIR
+
+Oficial: Ps 45, At 100, Def 135, At.esp 65, Def.esp 135, Velocid 45. Total 525
+Hackrom: Ps 55, At 100, Def 140, At.esp 75, Def.esp 140, Velocid 25. Total 535
+
+Habilidades: Presión/Ojocompuesto/Cacheo
+
+FROSLASS
+
+Oficial: Ps 70, At 80, Def 70, At.esp 80, Def.esp 70, Velocid 110. Total 480
+Hackrom: Ps 70, At 50, Def 70, At.esp 80, Def.esp 90, Velocid 120. Total 480
+
+Habilidades: Manto Níveo/Allanamiento/Cuerpo Maldito
+
+MEGA FROSLASS
+
+Oficial: Ps 70, At 80, Def 70, At.esp 140, Def.esp 100, Velocid 120. Total 580
+Hackrom: Ps 70, At 55, Def 70, At.esp 140, Def.esp 105, Velocid 140. Total 580
+
+UXIE
+
+Habilidades: Levitación/Psicogénesis/Letargo Perenne
+
+MESPRIT
+
+Habilidades: Levitación/Psicogénesis/Bromista
+
+AZELF
+
+Oficial: Ps 75, At 125, Def 70, At.esp 125, Def.esp 70, Velocid 115. Total 580 
+Hackrom: Ps 75, At 80, Def 70, At.esp 135, Def.esp 95, Velocid 125. Total 580
+
+Habilidades: Levitación/Psicogénesis/Fuerza Cerebral
+
+DIALGA & DIALGA ORIGEN:
+
+Habilidades: Armadura Prisma/Firmeza/Alma Acerada
+
+PALKIA & PALKIA ORIGEN:
+
+Habilidades: Armadura Prisma/Sal Purificadora/Garra Dura
+
+GIRATINA
+
+Habilidades: Levitación/Cuerpo Maldito/Guardia Espectro
+
+GIRATINA ORIGEN
+
+Oficial: Ps 150, At 120, Def 100, At.esp 120, Def.esp 100, Velocid 90. Total 680 
+Hackrom: Ps 150, At 150, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 700
+
+Habilidades: Levitación/Cuerpo Maldito/Guardia Espectro
+
+REGIGIGAS
+
+Habilidad: Rompemoldes/Letargo Perenne/Inicio Lento
+
+CRESSELIA
+
+Habilidades: Levitación/Muro Mágico/Piel Feérica
+
+DARKRAI
+
+Oficial: Ps 70, At 90, Def 90, At.esp 135, Def.esp 90, Velocid 125. Total 600
+Hackrom: Ps 90, At 70, Def 90, At.esp 135, Def.esp 90, Velocid 125. Total 600
+
+Habilidades: Mal Sueño/Aura Oscura/Levitación
+
+SHAYMIN
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600 
+Hackrom: Ps 125, At 50, Def 100, At.esp 100, Def.esp 125, Velocid 100. Total 600
+
+Habilidades: Cura Natural/Robustez/Sebo
+
+SHAYMIN CIELO
+
+Oficial: Ps 100, At 103, Def 75, At.esp 120, Def.esp 75, Velocid 127. Total 600 
+Hackrom: Ps 100, At 53, Def 85, At.esp 120, Def.esp 115, Velocid 127. Total 600
+
+Habilidades: Dicha/Robustez/Piel Celeste
+
+MANAPHY
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600 
+Hackrom: Ps 100, At 50, Def 100, At.esp 125, Def.esp 100, Velocid 125. Total 600
+
+Habilidades: Hidratación/Coránima/Nado Rápido
+
+ARCEUS
+
+Habilidades: Multitipo/Rompemoldes/Mutatipo
+
+VICTINI
+
+Oficial: Ps 100, At 100, Def 100, At.esp 100, Def.esp 100, Velocid 100. Total 600 
+Hackrom: Ps 100, At 125, Def 100, At.esp 50, Def.esp 100, Velocid 125. Total 600
+
+Habilidades: Tinovictoria/Muro Mágico/Turbollama
+
+STOUTLAND
+
+Oficial: Ps 85, At 110, Def 90, At.esp 45, Def.esp 90, Velocid 80. Total 500 
+Hackrom: Ps 105, At 110, Def 90, At.esp 45, Def.esp 90, Velocid 80. Total 520
+
+MUSHARNA
+
+Habilidad: Sincronización/Levitación/Psicogénesis
+
+SAWSBUCK
+
+Oficial: Ps 80, At 100, Def 70, At.esp 60, Def.esp 70, Velocid 95. Total 475 
+Oficial: Ps 95, At 105, Def 70, At.esp 60, Def.esp 70, Velocid 95. Total 495
+
+UNFEZANT
+
+Habilidades: Sacapecho/Afortunado/Garra Dura
+
+DARMANITAN
+
+Oficial: Ps 105, At 140, Def 55, At.esp 30, Def.esp 55, Velocid 95. Total 480 
+Hackrom: Ps 105, At 140, Def 65, At.esp 30, Def.esp 65, Velocid 95. Total 500
+
+Tipo Oficial: Fuego
+Tipo Hackrom: Fuego/Lucha
+
+DARMANITAN ZEN
+
+Oficial: Ps 105, At 30, Def 105, At.esp 140, Def.esp 105, Velocid 55. Total 540
+Hackrom: Ps 105, At 30, Def 105, At.esp 160, Def.esp 105, Velocid 55. Total 560
+
+Habilidad: Potencia bruta
+
+DARMANITAN GALAR
+
+Oficial: Ps 105, At 140, Def 55, At.esp 30, Def.esp 55, Velocid 95. Total 480 
+Hackrom: Ps 105, At 140, Def 65, At.esp 30, Def.esp 65, Velocid 95. Total 500
+
+Tipo Oficial: Hielo
+Tipo Hackrom: Hielo/Lucha
+
+DARMANITAN GALAR ZEN
+
+Oficial: Ps 105, At 160, Def 55, At.esp 30, Def.esp 55, Velocid 135. Total 540
+Hackrom: Ps 105, At 160, Def 65, At.esp 30, Def.esp 65, Velocid 135. Total 560
+
+Habilidad: Indefenso
+
+GOTHITELLE
+
+Oficial: Ps 70, At 55, Def 95, At.esp 95, Def.esp 110, Velocid 65. Total 490
+Hackrom: Ps 80, At 55, Def 105, At.esp 105, Def.esp 110, Velocid 65. Total 520
+
+SWANNA
+
+Oficial: Ps 75, At 87, Def 63, At.esp 87, Def.esp 63, Velocid 98. Total 473
+Hackrom: Ps 75, At 92, Def 73, At.esp 92, Def.esp 73, Velocid 98. Total 503
+
+Habilidades: Vista Lince/Sacapecho/Alas Vendaval
+
+JELLICENT
+
+Oficial: Ps 100, At 60, Def 70, At.esp 85, Def.esp 105, Velocid 60. Total 480
+Hackrom: Ps 105, At 70, Def 70, At.esp 105, Def.esp 105, Velocid 60. Total 515
+
+KLINKLANG
+
+Oficial: Ps 60, At 100, Def 115, At.esp 70, Def.esp 85, Velocid 90. Total 520
+Hackrom: Ps 60, At 100, Def 115, At.esp 100, Def.esp 85, Velocid 90. Total 550
+
+Habilidades: Indefenso/Cuerpo Puro
+
+CHANDELURE
+
+Oficial: Ps 60, At 55, Def 90, At.esp 145, Def.esp 90, Velocid 80. Total 520
+Hackrom: Ps 60, At 55, Def 90, At.esp 145, Def.esp 110, Velocid 80. Total 540
+
+Habilidades: Absorber Fuego/Allanamiento/Sombratrampa
+
+MEGA CHANDELURE
+
+Oficial: Ps 60, At 75, Def 110, At.esp 175, Def.esp 110, Velocid 90. Total 620
+Hackrom: Ps 60, At 65, Def 110, At.esp 175, Def.esp 140, Velocid 90. Total 640
+
+BRAVIARY:
+
+Oficial: Ps 100, At 123, Def 75, At.esp 57, Def.esp 75, Velocid 80. Total 510
+Hackrom: Ps 100, At 123, Def 85, At.esp 58, Def.esp 85, Velocid 90. Total 541
+
+Habilidades: Cabeza Roca/Potencia Bruta/Competitivo
+
+BRAVIARY HISUI:
+
+Oficial: Ps 110, At 83, Def 70, At.esp 112, Def.esp 70, Velocid 65. Total 510
+Hackrom: Ps 110, At 83, Def 85, At.esp 113, Def.esp 85, Velocid 65. Total 541
+
+HYDREIGON:
+
+Habilidades: Levitación/Mandíbula Fuerte/Mega Disparador
+
+VOLCARONA:
+
+Habilidades: Cuerpo Llama/Enjambre/Muro Mágico
+
+COBALION:
+
+Habilidades: Justiciero/Cuerpo Puro/Acero Templado
+
+TERRAKION
+
+Habilidades: Justiciero/Piel Tosca/Rompemoldes
+
+VIRIZION
+
+Habilidades: Justiciero/Allanamiento/Intrépido
+
+RESHIRAM
+
+Habilidades: Turbollama/Alas Vendaval/Iluminación (+20% prec.)
+
+ZEKROM
+
+Habilidades: Terravoltaje/Transistor/Garra Dura
+
+KYUREM NORMAL:
+
+Habilidades: Presión/Nevada/Escama de Hielo
+
+KYUREM BLANCO:
+
+Habilidades: Turbollama/Nevada/Iluminación
+
+KYUREM NEGRO:
+
+Habilidades: Terravoltaje/Nevada/Garra Dura
+
+KELDEO:
+
+Habilidades: Justiciero/Rompemoldes/Potencia Bruta
+
+KELDEO FORMA BRÍO:
+
+Oficial: Ps 91, At 72, Def 90, At.esp 129, Def.esp 90, Velocid 108. Total 580
+Hackrom: Ps 91, At 122, Def 75, At.esp 119, Def.esp 75, Velocid 138. Total 620
+
+Habilidades: Justiciero/Rompemoldes/Audaz
+
+MELOETTA:
+
+Habilidades: Dicha/Regia Presencia/Punk Rock
+
+TALONFLAME
+
+Habilidades: Cuerpo Llama/Garra Dura/Alas Vendaval (activado con cualquier cantidad de PS)
+
+PYROAR:
+
+Oficial: Ps 86, At 68, Def 72, At.esp 109, Def.esp 66, Velocid 106. Total 507
+Hackrom: Ps 96, At 88, Def 72, At.esp 109, Def.esp 76, Velocid 106. Total 547
+
+Habilidades: Intimidación/Entusiasmo/Autoestima
+
+MEGA PYROAR:
+
+Oficial: Ps 86, At 88, Def 92, At.esp 129, Def.esp 86, Velocid 126. Total 607
+Hackrom: Ps 96, At 98, Def 92, At.esp 129, Def.esp 96, Velocid 136. Total 647
+
+Habilidad: Potencia Bruta
+
+FLORGES
+
+Habilidades: Herbogénesis/Campo de Niebla/Simbiosis
+
+FLOETTE
+
+Habilidades: Aura Oscura/Aura Feérica/Muro Mágico
+
+MEGA FLOETTE
+
+Oficial: Ps 74, At 85, Def 87, At.esp 155, Def.esp 148, Velocid 102. Total 651
+Hackrom: Ps 74, At 65, Def 77, At.esp 155, Def.esp 148, Velocid 132. Total 651
+
+DRAGALGE
+
+Oficial: Ps 65, At 75, Def 90, At.esp 97, Def.esp 123, Velocid 44. Total 494
+Hackrom: Ps 75, At 95, Def 95, At.esp 97, Def.esp 123, Velocid 44. Total 529
+
+MEGA DRAGALGE
+
+Oficial: Ps 65, At 85, Def 105, At.esp 132, Def.esp 163, Velocid 44. Total 594
+Hackrom: Ps 75, At 95, Def 115, At.esp 137, Def.esp 163, Velocid 44. Total 629
+
+GOODRA:
+
+Habilidad: Antídoto/Hidratación/Baba
+
+XERNEAS MODO ACTIVO:
+
+Oficial: Ps 126, At 131, Def 95, At.esp 131, Def.esp 98, Velocid 99. Total 680
+Hackrom: Ps 126, At 101, Def 100, At.esp 151, Def.esp 103, Velocid 99. Total 680
+
+DIANCIE:
+
+Habilidades: Cuerpo Puro/Levitación/Nebulogénesis
+
+HOOPA:
+
+Habilidades: Prestidigitador/Bromista/Allanamiento
+
+HOOPA-U:
+
+Habilidades: Prestidigitador/Intimidación/Allanamiento
+
+TOUCANNON
+
+Oficial: Ps 80, At 120, Def 75, At.esp 75, Def.esp 75, Velocid 60. Total 485
+Hackrom: Ps 100, At 120, Def 85, At.esp 75, Def.esp 85, Velocid 70. Total 535
+
+VIKABOLT
+
+Oficial: Ps 77, At 70, Def 90, At.esp 145, Def.esp 75, Velocid 43. Total 500
+Hackrom: Ps 77, At 42, Def 105, At.esp 145, Def.esp 75, Velocid 56. Total 500
+
+GOLISOPOD
+
+Habilidades: Retirada/Arm.Batalla/Arm.Frágil
+
+LYCANROC FORMA DIURNA
+
+Oficial: Ps 75, At 115, Def 65, At.esp 55, Def.esp 65, Velocid 112. Total 487
+Oficial: Ps 75, At 115, Def 95, At.esp 55, Def.esp 65, Velocid 112. Total 517
+
+LYCANROC FORMA NOCTURNA
+
+Oficial: Ps 85, At 115, Def 75, At.esp 55, Def.esp 75, Velocid 82. Total 487
+Oficial: Ps 85, At 115, Def 105, At.esp 55, Def.esp 75, Velocid 82. Total 517
+
+LYCANROC FORMA CREPUSCULAR
+
+Oficial: Ps 75, At 117, Def 65, At.esp 55, Def.esp 65, Velocid 110. Total 487
+Oficial: Ps 75, At 117, Def 95, At.esp 55, Def.esp 65, Velocid 110. Total 517
+
+DRAMPA
+
+Oficial: Ps 78, At 60, Def 85, At.esp 135, Def.esp 91, Velocid 36. Total 485
+Hackrom: Ps 88, At 60, Def 95, At.esp 135, Def.esp 111, Velocid 36. Total 525
+
+MEGA DRAMPA
+
+Oficial: Ps 78, At 85, Def 110, At.esp 160, Def.esp 116, Velocid 36. Total 585
+Hackrom: Ps 88, At 85, Def 120, At.esp 160, Def.esp 136, Velocid 36. Total 625
+
+NIHILEGO
+
+Habilidades: Ultraimpulso/Energía Pura
+
+BUZZWOLE
+
+Habilidades: Ultraimpulso/Firmeza
+
+PHEROMOSA:
+
+Habilidades: Ultraimpulso/Regia Presencia
+
+XURKITREE
+
+Oficial: Ps 83, At 89, Def 71, At.esp 173, Def.esp 71, Velocid 83. Total 570
+Hackrom: Ps 83, At 71, Def 89, At.esp 173, Def.esp 71, Velocid 83. Total 570
+
+Habilidades: Ultraimpulso/Allanamiento
+
+CELESTEELA
+
+Habilidades: Ultraimpulso/Armadura Batalla
+
+KARTANA
+
+Oficial: Ps 59, At 181, Def 131, At.esp 59, Def.esp 31, Velocid 109. Total 570
+Hackrom: Ps 59, At 181, Def 131, At.esp 31, Def.esp 59, Velocid 109. Total 570
+
+Habilidades: Ultraimpulso/Corte Fuerte
+
+GUZZLORD
+
+Habilidades: Ultraimpulso/Filtro
+
+MAGEARNA
+
+Oficial: Ps 80, At 95, Def 115, At.esp 130, Def.esp 115, Velocid 65. Total 600
+Hackrom: Ps 95, At 65, Def 115, At.esp 130, Def.esp 115, Velocid 80. Total 600
+
+Habilidades: Coránima/Cuerpo Puro/Alma Acerada
+
+MAGEARNA ORIGINAL
+
+Oficial: Ps 80, At 95, Def 115, At.esp 130, Def.esp 115, Velocid 65. Total 600
+Hackrom: Ps 115, At 95, Def 115, At.esp 145, Def.esp 115, Velocid 65. Total 650
+
+Habilidades: Coránima/Cuerpo Puro/Ignífugo
+
+MEGA MAGEARNA
+
+Oficial: Ps 80, At 125, Def 115, At.esp 170, Def.esp 115, Velocid 95. Total 700
+Hackrom: Ps 95, At 95, Def 115, At.esp 170, Def.esp 115, Velocid 110. Total 700
+
+MEGA MAGEARNA ORIGINAL
+
+Oficial: Ps 80, At 125, Def 115, At.esp 170, Def.esp 115, Velocid 95. Total 700
+Hackrom: Ps 115, At 125, Def 115, At.esp 185, Def.esp 115, Velocid 95. Total 750
+
+MARSHADOW
+
+Oficial: Ps 90, At 125, Def 80, At.esp 90, Def.esp 90, Velocid 125. Total 600
+Hackrom: Ps 90, At 125, Def 90, At.esp 80, Def.esp 90, Velocid 125. Total 600
+
+NAGANADEL
+
+Habilidades: Ultraimpulso/Levitación
+
+STAKATAKA
+
+Habilidades: Ultraimpulso/Roca Sólida
+
+BLACEPHALON
+
+Oficial: Ps 53, At 127, Def 53, At.esp 151, Def.esp 79, Velocid 107. Total 570
+Hackrom: Ps 127, At 53, Def 53, At.esp 151, Def.esp 79, Velocid 107. Total 570
+
+Habilidades: Ultraimpulso/Bromista
+
+ZERAORA
+
+Habilidades: Absorber Eléc./Garra Dura/Impulso
+
+MELMETAL
+
+Habilidades: Puño Férreo/Robustez/Cuerpo Puro
+
+CURSOLA
+
+Oficial: Ps 60, At 95, Def 50, At.esp 145, Def.esp 130, Velocid 30. Total 510
+Hackrom: Ps 60, At 30, Def 95, At.esp 145, Def.esp 130, Velocid 50. Total 510
+
+Habilidades: Arm.Frágil/Guardia Espectro/Cuerpo Maldito
+
+POLTEAGEIST FORMA GENUINA
+
+Oficial: Ps 60, At 65, Def 65, At.esp 134, Def.esp 114, Velocid 70. Total 508
+Hackrom: Ps 70, At 55, Def 85, At.esp 114, Def.esp 134, Velocid 90. Total 548
+
+SINISTCHA FORMA EXQUISITA
+
+Oficial: Ps 71, At 60, Def 106, At.esp 121, Def.esp 80, Velocid 70. Total 508
+Hackrom: Ps 81, At 50, Def 126, At.esp 101, Def.esp 100, Velocid 90. Total 548
+
+ETERNATUS:
+
+Habilidades: Presión/Levitación/Corrosión
+
+ZARUDE:
+
+Habilidades: Defensa Hoja/Monotema/Garra Dura
+
+ZARUDE DADA:
+
+Oficial: Ps 105, At 120, Def 105, At.esp 70, Def.esp 95, Velocid 105. Total 600
+Hackrom: Ps 105, At 135, Def 120, At.esp 80, Def.esp 105, Velocid 95. Total 640
+
+Habilidades: Defensa Hoja/Amor Filial/Garra Dura
+
+REGIDRAGO
+
+Habilidades: Mandíbula Dragón/Cuerpo Puro/Cabeza Roca
+
+GLASTRIER
+
+Habilidades: Relincho Blanco/Firmeza/Filtro
+
+SPECTRIER
+
+Habilidades: Relincho Negro/Firmeza/Guardia Espectro
+
+FEZANDIPITI
+
+Oficial: Ps 88, At 91, Def 82, At.esp 70, Def.esp 125, Velocid 99. Total 555
+Oficial: Ps 88, At 103, Def 82, At.esp 58, Def.esp 125, Velocid 99. Total 555

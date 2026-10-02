@@ -1,0 +1,509 @@
+[
+  {
+    "id": "isla-inta-dependiente-en-pilar-recuerdo",
+    "title": "Dependiente en pilar recuerdo",
+    "region": "ISLA INTA",
+    "location": "Región ISLA INTA",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con la persona lamentándose por la pérdida de su Onyx \njunto al pilar recuerdo, este nos encomendará conseguir limonadas. Ir al centro Pokémon de Isla \nInta y derrotar al cocinero que está ahí. Regresar con la persona junto al pilar.",
+    "steps": [
+      "Hablar con la persona lamentándose por la pérdida de su Onyx \njunto al pilar recuerdo, este nos encomendará conseguir limonadas.",
+      "Ir al centro Pokémon de Isla \nInta y derrotar al cocinero que está ahí.",
+      "Regresar con la persona junto al pilar."
+    ],
+    "rewards": [
+      "Phanpy Nv. 8 (Equipado con un meteorito)"
+    ],
+    "videoTutorial": "Las limonadas del cocinero (Partes del 1 al 4)",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-pescador-ciudad-carm-n",
+    "title": "Pescador ciudad carmín",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el pescador que otorga la caña vieja  en Ciudad Carmín, él \nbrindará más instrucciones sobre qué hacer.",
+    "steps": [
+      "Hablar con el pescador que otorga la caña vieja  en Ciudad Carmín, él \nbrindará más instrucciones sobre qué hacer."
+    ],
+    "rewards": [
+      "Magikarp Nv. 5"
+    ],
+    "videoTutorial": "Encomienda del pescador de carmín",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-anciano-con-su-machamp",
+    "title": "Anciano con su Machamp",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Una vez obtengas alto rango, puedes hablar con el anciano ubicado \nen el terreno plano de Ciudad Carmín. Él te dará más instrucciones.",
+    "steps": [
+      "Una vez obtengas alto rango, puedes hablar con el anciano ubicado \nen el terreno plano de Ciudad Carmín.",
+      "Él te dará más instrucciones."
+    ],
+    "rewards": [
+      "Hitmonlee Nv. 20",
+      "Bono Bici"
+    ],
+    "videoTutorial": "Venganza del anciano con el machamp en Ciudad carmín",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-cazabichos-en-ciudad-plateada",
+    "title": "Cazabichos en ciudad plateada",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Localizado en el jardín de las flores de ciudad plateada , hablar \ncon él y dará más instrucciones. En caso de haberlo olvidado que dijo; debes ir a ciudad carmín, \nen la casa sin puerta al norte de dicha ciudad, hay un pasadizo secreto, entrar por ahí.",
+    "steps": [
+      "Localizado en el jardín de las flores de ciudad plateada , hablar \ncon él y dará más instrucciones.",
+      "En caso de haberlo olvidado que dijo; debes ir a ciudad carmín, \nen la casa sin puerta al norte de dicha ciudad, hay un pasadizo secreto, entrar por ahí."
+    ],
+    "rewards": [
+      "Acceso al jardín de bayas y mentas en ciudad carmín."
+    ],
+    "videoTutorial": "No está disponible.",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-entrenadores-guay-en-bosque-verde",
+    "title": "Entrenadores Guay en bosque verde",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Localizados en el bosque verde  al suroeste, basta con \nderrotarlos en un combate doble a ambos entrenadores.",
+    "steps": [
+      "Localizados en el bosque verde  al suroeste, basta con \nderrotarlos en un combate doble a ambos entrenadores."
+    ],
+    "rewards": [
+      "Pinsir Nv 15"
+    ],
+    "videoTutorial": "Batalla versus entrenadores Guays",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-pescador-ruta-12",
+    "title": "Pescador ruta 12",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el pescador ubicado en la caseta al sur de ruta 12, aquél que suele \ndar la caña buena. Él te dará más instrucciones.",
+    "steps": [
+      "Hablar con el pescador ubicado en la caseta al sur de ruta 12, aquél que suele \ndar la caña buena.",
+      "Él te dará más instrucciones."
+    ],
+    "rewards": [
+      "Squirtle Nv 5"
+    ],
+    "videoTutorial": "El Pescador de Ciudad Fucsia",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-cient-fico-de-ciudad-fucsia",
+    "title": "Científico de ciudad fucsia",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Es necesario haber sido estafado por el tipo que te pretende vender un magikarp \nen el centro pokémon de la ruta 10 (Centro pokémon del MT. MOON)",
+    "description": "Hablar con el científico  que se encuentra en  Ciudad Fucsia por el \npaso principal, él dará más indicaciones.",
+    "steps": [
+      "Hablar con el científico  que se encuentra en  Ciudad Fucsia por el \npaso principal, él dará más indicaciones."
+    ],
+    "rewards": [
+      "10 proteinas",
+      "3 carameloraros",
+      "Charmander Nv 5",
+      "200 000 Pokés",
+      "Snorlax Nv. 30"
+    ],
+    "videoTutorial": "Los estafadores de Kanto",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-motorista-de-ciudad-azafran",
+    "title": "Motorista de ciudad azafran",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Misión disponible a partir del asalto a SILPH S.A.",
+    "description": "Hablar con el motorista al norte de Ciudad Azafran, él dará más \ndetalles.",
+    "steps": [
+      "Hablar con el motorista al norte de Ciudad Azafran, él dará más \ndetalles."
+    ],
+    "rewards": [
+      "Hitmonchan Nv. 37"
+    ],
+    "videoTutorial": "Las vías subterráneas",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-cient-fico-de-isla-canela",
+    "title": "Científico de isla canela",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el científico ubicado en el laboratorio de isla canela, justo \ndonde está la foto de Fuji, él dará más instrucciones.",
+    "steps": [
+      "Hablar con el científico ubicado en el laboratorio de isla canela, justo \ndonde está la foto de Fuji, él dará más instrucciones."
+    ],
+    "rewards": [
+      "5 Eevees Nv. 25"
+    ],
+    "videoTutorial": "El robo de los Eevees",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kanto-subcategor-a",
+    "title": "Subcategoría",
+    "region": "KANTO",
+    "location": "Región KANTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "ENTRENADORES ESPECIALES \nEstos entrenadores (que en el juego base son tutores de ciertos movimientos), ahora otorgan \nobjetos orientados al competitivo una vez los derrotemos.  \nRequisito: Debe de haberse conseguido las 8 medallas de Kanto para que accedan a batallar. \n• Llamaesfera: Derrotar al anciano de Ciudad Azulona que está al cruzar un pequeño charco. \n• Lodo negro: Derrotar al NPC ubicado en ciudad verde, tras surfear el pequeño charco o \ncortar el árbol que impide el paso. \n• Gafas elegidas: Derrotar a la copiona que se ubica en una de las casas de ciudad Azafrán. \n• Cinta elegida: Derrotar al científico ubicado parte trasera en el museo de ciudad plateada. \n• Cinta experto: Derrotar al caza bichos ubicado en Ciudad Fucsia, el cual está observando el \nKangaskhan. \n• Chaleco asalto: Derrotar al científico en una de las salas de investigación de isla canela. \n• MT32 Roca Afilada: Derrotar al entrenador ubicado en lo profundo del túnel roca.  \n• Vidaesfera: Derrotar al entrenador guay que se encuentra al final de calle victoria. \nLos dos siguientes entrenadores están disponibles a partir de llegar a islas sete. \n• Lupa: Derrotar a la exorcista en la casa ubicada al norte de isla secunda  \n• Pañuelo Elegido: Derrotar al entrenador guay ubicado en el puente al sur de isla sétima. \nVideo tutorial: Entrenadores especiales de Kanto",
+    "steps": [
+      "ENTRENADORES ESPECIALES \nEstos entrenadores (que en el juego base son tutores de ciertos movimientos), ahora otorgan \nobjetos orientados al competitivo una vez los derrotemos.",
+      "Requisito: Debe de haberse conseguido las 8 medallas de Kanto para que accedan a batallar.",
+      "• Llamaesfera: Derrotar al anciano de Ciudad Azulona que está al cruzar un pequeño charco.",
+      "• Lodo negro: Derrotar al NPC ubicado en ciudad verde, tras surfear el pequeño charco o \ncortar el árbol que impide el paso.",
+      "• Gafas elegidas: Derrotar a la copiona que se ubica en una de las casas de ciudad Azafrán.",
+      "• Cinta elegida: Derrotar al científico ubicado parte trasera en el museo de ciudad plateada.",
+      "• Cinta experto: Derrotar al caza bichos ubicado en Ciudad Fucsia, el cual está observando el \nKangaskhan.",
+      "• Chaleco asalto: Derrotar al científico en una de las salas de investigación de isla canela.",
+      "• MT32 Roca Afilada: Derrotar al entrenador ubicado en lo profundo del túnel roca.",
+      "• Vidaesfera: Derrotar al entrenador guay que se encuentra al final de calle victoria.",
+      "Los dos siguientes entrenadores están disponibles a partir de llegar a islas sete.",
+      "• Lupa: Derrotar a la exorcista en la casa ubicada al norte de isla secunda  \n• Pañuelo Elegido: Derrotar al entrenador guay ubicado en el puente al sur de isla sétima.",
+      "Video tutorial: Entrenadores especiales de Kanto"
+    ],
+    "rewards": [
+      "Recompensa de progreso"
+    ],
+    "videoTutorial": "Entrenadores especiales de Kanto",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sevii-cient-fico-oculto-en-isla-exta",
+    "title": "Científico oculto en Isla Exta",
+    "region": "SEVII",
+    "location": "Región SEVII",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Al arribar a Isla Exta, desde el muelle surfear hacia la izquierda, \nhabrá una entrada secreta hacia un sitio  oculto. Al avanzar por ahí, habrá una cabaña con un \ninvestigador dentro. Hablar con él y preguntará sobre algo que pueda ayudar en su \ninvestigación. Darle el METEORITO con el que vino equipado  el Phanpy obtenido en la misión \nsecundaria de Isla Inta.",
+    "steps": [
+      "Al arribar a Isla Exta, desde el muelle surfear hacia la izquierda, \nhabrá una entrada secreta hacia un sitio  oculto.",
+      "Al avanzar por ahí, habrá una cabaña con un \ninvestigador dentro.",
+      "Hablar con él y preguntará sobre algo que pueda ayudar en su \ninvestigación.",
+      "Darle el METEORITO con el que vino equipado  el Phanpy obtenido en la misión \nsecundaria de Isla Inta."
+    ],
+    "rewards": [
+      "Duraludon Nv. 50"
+    ],
+    "videoTutorial": "La investigación del científico (Parte 5 – 7)",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sevii-trajeados-de-isla-prima",
+    "title": "Trajeados de Isla Prima",
+    "region": "SEVII",
+    "location": "Región SEVII",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Al arribar a Isla Prima, entrar al Centro pokémon y en la esquina inferior \nizquierda habrá varias personas trajeadas. Hablar con el de trajeado de verde para iniciar la \nmisión.  \nUbicación de la gruta secreta donde continuar la misión:",
+    "steps": [
+      "Al arribar a Isla Prima, entrar al Centro pokémon y en la esquina inferior \nizquierda habrá varias personas trajeadas.",
+      "Hablar con el de trajeado de verde para iniciar la \nmisión.",
+      "Ubicación de la gruta secreta donde continuar la misión:"
+    ],
+    "rewards": [
+      "Nihilego Nv. 50",
+      "Posibilidad de capturar a Guzzlord Nv. 50"
+    ],
+    "videoTutorial": "El verdadero tesoro de playa tesoro",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sevii-due-os-de-recreativos",
+    "title": "Dueños de recreativos",
+    "region": "SEVII",
+    "location": "Región SEVII",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Para poder iniciar, hablar con los dos personajes juntos en isla tera , en \nla primera casa a la izquierda al llegar.",
+    "steps": [
+      "Para poder iniciar, hablar con los dos personajes juntos en isla tera , en \nla primera casa a la izquierda al llegar."
+    ],
+    "rewards": [
+      "Cranidos Nv. 25",
+      "Skorupi Nv 35",
+      "Piplup Nv. 15"
+    ],
+    "videoTutorial": "Negocios en Sevii",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sevii-atlas-y-la-anciana",
+    "title": "Atlas y la anciana",
+    "region": "SEVII",
+    "location": "Región SEVII",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Al pasar por isla inta y hablar con atlas te encargará una misión secundaria \nrelacionada con una anciana en isla sete. Al terminar, es necesario volver a hablar con Atlas.",
+    "steps": [
+      "Al pasar por isla inta y hablar con atlas te encargará una misión secundaria \nrelacionada con una anciana en isla sete.",
+      "Al terminar, es necesario volver a hablar con Atlas."
+    ],
+    "rewards": [
+      "300 000 pokés",
+      "Bomushikaa Nv. 60",
+      "Medalla de gimnasio de sevii"
+    ],
+    "videoTutorial": "Secretos de sevii",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sevii-secretos-del-bosque-baya",
+    "title": "Secretos del bosque baya",
+    "region": "SEVII",
+    "location": "Región SEVII",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Ir a bosque baya en isla tera, ah í se verá una persona entrando por \nun pasaje secreto.  \nUbicación de la entrada secreta:",
+    "steps": [
+      "Ir a bosque baya en isla tera, ah í se verá una persona entrando por \nun pasaje secreto.",
+      "Ubicación de la entrada secreta:"
+    ],
+    "rewards": [
+      "Medalla de gimnasio de sevii.",
+      "Posibilidad de atrapar un Blacephaleon Nv. 50",
+      "Fennekin Nv. 15"
+    ],
+    "videoTutorial": "En lo profundo del bosque baya",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-cient-fico-ruinas-alfa",
+    "title": "Científico ruinas alfa",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el científico  de sprite distinto,  localizado en el centro de \ninvestigación de ruinas alfa. El laboratorio secreto se encuentra en Ciudad Iris, es la puerta de \naspecto sospechosa a lado derecho de la torre quemada.",
+    "steps": [
+      "Hablar con el científico  de sprite distinto,  localizado en el centro de \ninvestigación de ruinas alfa.",
+      "El laboratorio secreto se encuentra en Ciudad Iris, es la puerta de \naspecto sospechosa a lado derecho de la torre quemada."
+    ],
+    "rewards": [
+      "Tirtouga Nv. 30",
+      "Archen Nv. 35"
+    ],
+    "videoTutorial": null,
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-exorcista-escondida",
+    "title": "Exorcista escondida",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Al sur de Ciudad Trigal, al bajar por la ruta 34, navegar por el mar hacia el \nsur. Tras atravesar una serie de rocas; se llegará a una cabaña escondida. El objeto de la misión \nestá ubicado en lo profundo del Bosque Baya.",
+    "steps": [
+      "Al sur de Ciudad Trigal, al bajar por la ruta 34, navegar por el mar hacia el \nsur.",
+      "Tras atravesar una serie de rocas; se llegará a una cabaña escondida.",
+      "El objeto de la misión \nestá ubicado en lo profundo del Bosque Baya."
+    ],
+    "rewards": [
+      "Marshadow Nv. 80"
+    ],
+    "videoTutorial": "El colgante extraviado",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-motorista-en-ciudad-olivo",
+    "title": "Motorista en ciudad olivo",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el motorista que se encuentra ubicado en la esquina \ndentro del restaurante marino de Ciudad Olivo, él te comentará sobre su problema en el cual \ndebemos ayudarlo.",
+    "steps": [
+      "Hablar con el motorista que se encuentra ubicado en la esquina \ndentro del restaurante marino de Ciudad Olivo, él te comentará sobre su problema en el cual \ndebemos ayudarlo."
+    ],
+    "rewards": [
+      "Chimchar Nv 15",
+      "2.25 millones de Pokés",
+      "Froakie Nv 15"
+    ],
+    "videoTutorial": "Poketráfico",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-almacen-escondido-de-los-estafadores",
+    "title": "Almacen escondido de los estafadores",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Es necesario haber derrotado a los estafadores que estaban en Isla Canela, dentro \nde la mansión pokémon. Caso contrario no será posible entrar al edificio.",
+    "description": "Almacen ubicado tras surfear y usar atraviesa corrientes \nal sureste de Ciudad Olivo.",
+    "steps": [
+      "Almacen ubicado tras surfear y usar atraviesa corrientes \nal sureste de Ciudad Olivo."
+    ],
+    "rewards": [
+      "2 millones de Pokés  (En caso de seleccionar la opción sí) [No habrá recompensa si",
+      "selecciona que no]"
+    ],
+    "videoTutorial": "Estafadores en Johto",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-el-disc-pulo-de-pegaso",
+    "title": "El discípulo de Pegaso",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Surfear al sureste de sde Ciudad Olivo, se llegará  a un islote donde se \nencontrarán Pegaso y su discípulo entrenando.",
+    "steps": [
+      "Surfear al sureste de sde Ciudad Olivo, se llegará  a un islote donde se \nencontrarán Pegaso y su discípulo entrenando."
+    ],
+    "rewards": [
+      "Pidgeotita"
+    ],
+    "videoTutorial": "El discípulo de Pegaso",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-ancianos-de-pueblo-caoba",
+    "title": "Ancianos de pueblo caoba",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Buscar una pequeña cabaña ubicada al noreste de pueblo caoba, se \ndebe hablar con el anciano para poder iniciar la misión.",
+    "steps": [
+      "Buscar una pequeña cabaña ubicada al noreste de pueblo caoba, se \ndebe hablar con el anciano para poder iniciar la misión."
+    ],
+    "rewards": [
+      "Litten Nv. 15",
+      "Madaamu Nv. 70"
+    ],
+    "videoTutorial": "El carbón de azalea",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-anciana-de-isla-quarta",
+    "title": "Anciana de isla quarta",
+    "region": "JOHTO",
+    "location": "Región JOHTO",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Al hablar con la anciana, esta te hablará de un pokemon especial ubicado \nen una zona secreta de la Cueva Glaciar, est a zona  estará disponible  solo hasta  conseguir \ncascada. Una vez obtengas dicha MO, atrapa al pokémon especial y muéstraselo a la anciana.",
+    "steps": [
+      "Al hablar con la anciana, esta te hablará de un pokemon especial ubicado \nen una zona secreta de la Cueva Glaciar, est a zona  estará disponible  solo hasta  conseguir \ncascada.",
+      "Una vez obtengas dicha MO, atrapa al pokémon especial y muéstraselo a la anciana."
+    ],
+    "rewards": [
+      "La MT Avalancha",
+      "Ubicación de la sección secreta:"
+    ],
+    "videoTutorial": null,
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-dlc-la-anciana-de-la-ruta-50",
+    "title": "La anciana de la ruta 50",
+    "region": "JOHTO DLC",
+    "location": "Región JOHTO DLC",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con la anciana que se encuentra en una pequeña casa ubicada \nal noroeste de la ruta 50, ella nos hablará sobre una vieja leyenda.",
+    "steps": [
+      "Hablar con la anciana que se encuentra en una pequeña casa ubicada \nal noroeste de la ruta 50, ella nos hablará sobre una vieja leyenda."
+    ],
+    "rewards": [
+      "Poipole Nv. 50"
+    ],
+    "videoTutorial": "Viejas Leyendas",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "johto-dlc-agatha-y-su-maestra",
+    "title": "Agatha y su maestra",
+    "region": "JOHTO DLC",
+    "location": "Región JOHTO DLC",
+    "prerequisites": "Es necesario haber derrotado por primera vez al Zapdos Primigenio y derrotar a \nAtlas en las vías del tren, esto abrirá la zona para poder explorar el lugar deseado, de lo contrario \nel paso estará impedido.",
+    "description": "Hablar con agatha en la casa escondida de aquel bosque secreto ubicado \nen las vías del tren.",
+    "steps": [
+      "Hablar con agatha en la casa escondida de aquel bosque secreto ubicado \nen las vías del tren."
+    ],
+    "rewards": [
+      "Calyrex Nv. 70"
+    ],
+    "videoTutorial": "Viejas Leyendas",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hoenn-inquietud-de-fuji-sobre-el-tunel-roca",
+    "title": "Inquietud de Fuji sobre el tunel roca",
+    "region": "HOENN",
+    "location": "Región HOENN",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con Fuji en el cementerio de Lavanda, este \ncomentará sobre un reciente problema del túnel roca.",
+    "steps": [
+      "Hablar con Fuji en el cementerio de Lavanda, este \ncomentará sobre un reciente problema del túnel roca."
+    ],
+    "rewards": [
+      "Acceso a una porción de la zona safari."
+    ],
+    "videoTutorial": "El (mega)túnel roca",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hoenn-artista-de-ciudad-portual",
+    "title": "Artista de ciudad portual",
+    "region": "HOENN",
+    "location": "Región HOENN",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Hablar con el señor  artista que bloquea la puerta en el museo de \nCiudad Portual, él comentará más sobre el problema.",
+    "steps": [
+      "Hablar con el señor  artista que bloquea la puerta en el museo de \nCiudad Portual, él comentará más sobre el problema."
+    ],
+    "rewards": [
+      "1 millón de pokés",
+      "Relicanth nivel 60"
+    ],
+    "videoTutorial": null,
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hoenn-queja-del-ni-o-de-pueblo-azuliza",
+    "title": "Queja del niño  de pueblo azuliza",
+    "region": "HOENN",
+    "location": "Región HOENN",
+    "prerequisites": "Disponible en el desarrollo natural de la región.",
+    "description": "Habla con el niño ubicado en una de las casas de pueblo \nazuliza, él se quejará sobre  una niña de ciudad portual. La niña es la que se ubica donde se \ncompran las aguas frescas.",
+    "steps": [
+      "Habla con el niño ubicado en una de las casas de pueblo \nazuliza, él se quejará sobre  una niña de ciudad portual.",
+      "La niña es la que se ubica donde se \ncompran las aguas frescas."
+    ],
+    "rewards": [
+      "Anorith Lv 60"
+    ],
+    "videoTutorial": "Niña mimada",
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "confidence": "CONFIRMADO"
+  }
+]

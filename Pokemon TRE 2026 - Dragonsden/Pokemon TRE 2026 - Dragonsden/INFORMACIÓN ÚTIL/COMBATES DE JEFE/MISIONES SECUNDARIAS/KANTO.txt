@@ -1,0 +1,287 @@
+CIUDAD CARMÍN - ANCIANO Y SU MACHOP
+---------------------------------------------------------
+VS PRESIDENTE CLUB FANS
+
+- Dewgong (Nv. 25) | No item | Seria | Sebo
+
+  Mov: Acua aro, acua jet, golpe cabeza, canto helado
+  IVs: 6/31 | EVs: 20 por cada stat
+
+- Fearow (Nv. 25) | No item | Seria | Vista Lince
+
+  Mov: Ataque furia, ataque ala, ala de acero, danza pluma
+  IVs: 6/31 | EVs: 20 por cada stat
+
+- Rapidash (Nv. 25) | No item | Seria | Cuerpo Llama
+
+  Mov: Pisotón, doble patada, nitrocarga, fuego fatuo
+  IVs: 6/31 | EVs: 20 por cada stat
+
+
+VS DOMADOR TIENDA BICIS
+
+- Arbok (Nv. 24) | No item | Seria | Intimidación
+
+  Mov: Deslumbrar, colm.rayo, colm.veneno, excavar
+  IVs: 6/31 | EVs: 20 por cada stat
+
+- Persian (Nv. 25) | No item | Seria | Flexibilidad
+
+  Mov: Sorpresa, día de pago, finta, rayo burbuja
+  IVs: 6/31 | EVs: 20 por cada stat
+
+- Hitmonchan (Nv. 26) | No item | Seria | Foco Interno
+
+  Mov: Ultrapuño, puño hielo, puño fuego, ultrapuño
+  IVs: 6/31 | EVs: 20 por cada stat
+
+
+
+GURÚ PESCADOR CARMÍN - MANSIÓN AZULONA
+--------------------------------------------------------
+VS DOMADOR MACUTO
+
+- Raticate (Nv. 26) | B.Aranja | Seria | Agallas
+
+  Mov: Placaje, hipercolmillo, at.rápido, persecución
+  IVs: 7/31 | EVs: 24 por cada stat
+
+- Sandslash (Nv. 27) | Pañ.Seda | Seria | Velo Arena
+
+  Mov: Cuchillada, puya nociva, giro rápido, bucle arena
+  IVs: 7/31 | EVs: 24 por cada stat
+
+- Arbok (Nv. 27) | Flech.Veneno | Seria | Intimidación
+
+  Mov: Colm.Veneno, deslumbrar, gigadrenado, colm.rayo
+  IVs: 7/31 | EVs: 24 por cada stat
+
+- Kingler (Nv. 28) | B.Zidra | Seria | Pot.Bruta
+
+  Mov: Pisotón, rayo burbuja, viento hielo, def.férrea
+  IVs: 7/31 | EVs: 24 por cada stat
+
+
+
+CAZABICHOS PLATEADA - JARDÍN CARMÍN
+---------------------------------------------------------
+VS MOTORISTA FLORÍN
+
+- Ariados (Nv. 33) | Banda focus | Seria | Adaptable
+
+  Mov: Telaraña, veneno x, tijera x, púas tóxicas
+  IVs: 10/31 | EVs: 36 por cada stat
+
+- Croconaw (Nv. 33) | Min.Evol | Seria | Pot.Bruta
+
+  Mov: Mordisco, acua jet, colm.hielo, garra brutal
+  IVs: 10/31 | EVs: 36 por cada stat
+
+- Sudowoodo (Nv. 34) | Chal.Asalto | Seria | Robustez
+
+  Mov: Tumba rocas, patada baja, golpe bajo, plancha corporal
+  IVs: 10/31 | EVs: 36 por cada stat
+
+- Houndoom (Nv. 35) | B.Zidra | Firme | Pot.Bruta
+
+  Mov: Mordisco, colm.fuego, fuego fatuo, colm.rayo
+  IVs: 22/31 | EVs: 36 por cada stat
+
+
+
+GURÚ PESCADOR RUTA 12 - CIUDAD FUCSIA
+---------------------------------------------------------
+VS GURÚ PESCADOR FUCSIA
+
+- Poliwhirl (Nv. 35) | Lupa | Seria | Abs.Agua
+
+  Mov: Hidropulso, viento hielo, disp.lodo, hipnosis
+  IVs: 9/31 | EVs: 40 por cada stat
+
+- Seaking (Nv. 36) | Agua Mística | Seria | Pararrayos
+
+  Mov: Cascada, megacuerno, taladradora, bote
+  IVs: 9/31 | EVs: 40 por cada stat
+
+- Seadra (Nv. 36) | Min.Evol | Seria | Punto Tóxico
+
+  Mov: Hidropulso, dracoaliento, danza lluvia, rayo aurora
+  IVs: 9/31 | EVs: 40 por cada stat
+
+- Gyarados (Nv. 36) | B.Ziuela | Seria | Intimidación
+
+  Mov: Furia dragón, golpe, descanso, sonámbulo
+  IVs: 9/31 | EVs: 40 por cada stat
+
+- Gyarados (Nv. 37) | Restos | Seria | Intimidación
+
+  Mov: Onda trueno, bote, buceo, colm.hielo
+  IVs: 9/31 | EVs: 40 por cada stat
+
+
+VS GUARDA SAFARI SLOWPOKE
+
+- Shellder (Nv. 37) | Min.Evol | Seria | Encadenado
+
+  Mov: Carámbano, hidropulso, pedrada, púas
+  IVs: 12/31 | EVs: 52 por cada stat
+
+- Slowpoke (Nv. 37) | Min.Evol | Seria | Despiste
+
+  Mov: Psíquico, surf, rayo hielo, bostezo
+  IVs: 12/31 | EVs: 52 por cada stat
+
+- Gastly (Nv. 37) | Min.Evol | Seria | Levitación
+
+  Mov: Bola sombra, bomba lodo, rayo, hipnosis
+  IVs: 12/31 | EVs: 52 por cada stat
+
+- Cloyster (Nv. 38) | Banda focus | Seria | Encadenado
+
+  Mov: Surf, rayo hielo, pedrada, púas
+  IVs: 12/31 | EVs: 52 por cada stat
+
+- Slowbro (Nv. 38) | Casco Dentado | Seria | Despiste
+
+  Mov: Surf, relajo, psíquico, amnesia
+  IVs: 12/31 | EVs: 52 por cada stat
+
+MUSEO PLATEADA - MOTORISTA AZAFRÁN
+---------------------------------------------------
+VS SABIO THOMAS
+
+- Sunflora (Nv. 40) | Chal.Asalto | Seria | Abs.Fuego
+
+  Mov: Gigadrenado, bomba lodo, tierra viva, brillo mágico
+  IVs: 16/31 | EVs: 52 por cada stat
+
+- Xatu (Nv. 41) | Cuchara Torc. | Seria | Espejomágico
+
+  Mov: Psíquico, tajo aéreo, bola sombra, respiro
+  IVs: 16/31 | EVs: 52 por cada stat
+
+- Togetic (Nv. 41) | Mineral Evol | Seria | Dicha
+
+  Mov: Psíquico, lanzallamas, brillo mágico, sol matinal
+  IVs: 16/31 | EVs: 52 por cada stat
+
+- Kabutops (Nv. 42) | Chal.Asalto | Seria | Arm.Frágil
+
+  Mov: Avalancha, chupavidas, hidroariete, acua jet
+  IVs: 16/31 | EVs: 52 por cada stat
+
+- Ampharos (Nv. 43) | Restos | Seria | El.Estática
+
+  Mov: Chispazo, pulso dragón, joya de luz, onda trueno
+  IVs: 14/31 | EVs: 48 por cada stat
+
+LABORATORIO CANELA - SUBTERRÁNEO RUTA 5
+---------------------------------------------------
+VS POKEMANÍACO MATÍAS
+
+- Lickitung (Nv. 41) | Min.Evol | Seria | Despiste
+
+  Mov: Golpe cuerpo, desarme, lanzallamas, deseo
+  IVs: 14/31 | EVs: 48 por cada stat
+
+- Marowak (Nv. 42) | Hueso Grueso | Seria | Pararrayos
+
+  Mov: Huesomerang, desarme, puño fuego, puño sombra
+  IVs: 14/31 | EVs: 48 por cada stat
+
+- Kangaskhan (Nv. 43) | Gema Normal | Seria | Intrépido
+
+  Mov: Sorpresa, puño drenaje, triturar, golpe cuerpo
+  IVs: 14/31 | EVs: 48 por cada stat
+
+- Flareon (Nv. 44) | Hierb.Blanca | Seria | Abs.Fuego
+
+  Mov: Sofoco, cola férrea, golpe cuerpo, fuerza bruta
+  IVs: 14/31 | EVs: 48 por cada stat
+
+- Vaporeon (Nv. 44) | Restos | Seria | Abs.Agua
+
+  Mov: Escaldar, rayo hielo, bola sombra, arm.ácida
+  IVs: 14/31 | EVs: 48 por cada stat
+
+- Jolteon (Nv. 44) | C.Xperto | Seria | Abs.Eléc
+
+  Mov: Rayo, bola sombra, vozarrón, doble rayo
+  IVs: 14/31 | EVs: 48 por cada stat
+
+
+
+CIENTÍFICO FUCSIA - MANSIÓN CANELA - COMBATE TRIPLE
+---------------------------------------------------------
+VS PRIMER ESTAFADOR
+
+- Charmeleon (Nv. 39) | Min.Evol | Seria | Mar Llamas
+
+  Mov: Lanzallamas, at.rápido, puño trueno, garra dragón
+  IVs: 10/31 | EVs: 32 por cada stat
+
+- Raticate (Nv. 40) | Pañ.Seda | Seria | Agallas
+
+  Mov: Hipercolmillo, triturar, cola férrea, ida y vuelta
+  IVs: 10/31 | EVs: 32 por cada stat
+
+- Magmar (Nv. 41) | Carbón | Seria | Cuerpo Llama
+
+  Mov: Hiperrayo, bomba lodo, puño trueno, lanzallamas
+  IVs: 10/31 | EVs: 32 por cada stat
+
+- Scyther (Nv. 42) | Pico Afilado | Seria | Experto
+
+  Mov: Ataque ala, picadura, ala de acero, respiro
+  IVs: 10/31 | EVs: 32 por cada stat
+
+
+VS SEGUNDO ESTAFADOR
+
+- Ninetales (Nv. 40) | Banda focus | Seria | Sequia
+
+  Mov: Lanzallamas, paranormal, energibola, fuego fatuo
+  IVs: 13/31 | EVs: 42 por cada stat
+
+- Raticate (Nv. 40) | Pañ.Seda | Seria | Agallas
+
+  Mov: Hipercolmillo, triturar, cola férrea, ida y vuelta
+  IVs: 13/31 | EVs: 42 por cada stat
+
+- Electabuzz (Nv. 42) | Imán | Seria | El.Estática
+
+  Mov: Puño trueno, puño hielo, puño fuego, psíquico
+  IVs: 13/31 | EVs: 42 por cada stat
+
+- Tauros (Nv. 43) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Avalancha, golpe cuerpo, cabezazo zen, vendetta
+  IVs: 13/31 | EVs: 42 por cada stat
+
+
+VS TERCER ESTAFADOR
+
+- Arbok (Nv. 41) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Triturar, colm.veneno, colm.rayo, colm.fuego
+  IVs: 15/31 | EVs: 52 por cada stat
+
+- Raichu (Nv. 42) | Imán | Seria | El.Estática
+
+  Mov: Rayo, golpe cuerpo, surf, sorpresa
+  IVs: 15/31 | EVs: 52 por cada stat
+
+- Rapidash (Nv. 43) | Camp.Concha | Seria | Cuerpo Llama
+
+  Mov: Envite ígneo, fuerza equina, megacuerno, voltio cruel
+  IVs: 15/31 | EVs: 52 por cada stat
+
+- Jynx (Nv. 43) | Lupa | Seria | Despiste
+
+  Mov: Psíquico, beso amoroso, viento hielo, beso drenaje
+  IVs: 15/31 | EVs: 52 por cada stat
+
+- Gyarados (Nv. 44) | Restos | Seria | Intimidación
+
+  Mov: Enfado, cascada, terremoto, bote
+  IVs: 15/31 | EVs: 52 por cada stat

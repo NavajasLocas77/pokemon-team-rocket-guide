@@ -1,0 +1,2053 @@
+
+BULBASAUR - 1 - Robado en el Laboratorio de Oak.
+
+IVISAUR - 2 - Evolución al nivel 16/Salvajes en zonas de hierba alrededor de las vías de tren.
+
+VENUSAUR - 3 - Evolución al nivel 32/Salvajes en zonas de hierba alrededor de las vías de tren.
+
+CHARMANDER - 4 - Misión Secundaria: 1ro hablar con NPC del Centro Pkmn del MT.MOON, dejarse estafar. 2do hablar con científico que aparece en Fucsia, mirando a Lapras. 3ro derrotar a los ladrones de la Mansión Pkmn.
+
+CHARMELEON - 5 - Evolución de Charmander al nv.16.
+
+CHARIZARD - 6 - Evolución de Charmeleon al nv.36.
+
+SQUIRTLE - 7 - Misión Secundaria: 1ro hablar con Gurú Pescador de Ruta 12 (Kanto). 2do derrotar al Gurú Pescador de Fucsia y al Guarda. 3ro volver a hablar con Gurú Pescador de Ruta 12.
+
+WARTORTLE - 8 - Evolución de Squirtle al nv.16.
+
+BLASTOISE - 9 - Evolución de Wartortle al nv.36.
+
+CATERPIE - 10 - Salvaje en Bosque Verde, Ruta 24... 
+
+METAPOD - 11 - Salvaje en Bosque Verde. Evolución de Caterpie al nv.7.
+
+BUTTERFREE - 12 - Evolución de Metapod al nv.10.
+
+WEEDLE - 13 - Salvaje en Bosque Verde, Ruta 24...
+
+KAKUNA - 14 - Salvaje en Bosque Verde. Evolución de Weedle al nv.7.
+
+BEEDRILL - 15 - Evolución de Kakuna al nv.10.
+
+PIDGEY - 16 - Salvaje en Rutas 1, 2 (Kanto)...
+
+PIDGEOTTO - 17 - Salvaje en Bosque Baya (Sevii), Ruta 29 (Johto).../ Evolución de Pidgey al nv.18.
+
+PIDGEOT - 18 - Salvaje en Ruta 29 (Johto).../ Evolución de Pidgeotto al nv.36.
+
+RATTATA - 19 - Salvaje en Rutas 1, 2, 4 (Kanto)...
+
+RATICATE - 20 - Salvaje en Rutas 17, 18 (Kanto).../ Evolución de Rattata al nv.20.
+
+SPEAROW - 21 - Salvaje en Rutas 4, 10, 17, 18 (Kanto)...
+
+FEAROW - 22 - Salvaje en Rutas 17, 18, 23 (Kanto), Camino Candente (Sevii).../Evolución de Spearow al nv.20.
+
+EKANS - 23 - Salvaje en Rutas 8, 9, 11 (Kanto)...
+
+ARBOK - 24 - Salvaje en Rutas 26, 27 (Johto).../ Evolución de Ekans al nv.22.
+
+PIKACHU - 25 - Salvaje en Bosque Verde, Central Energía (Kanto)/ Ruta 35 (Johto)/ Evolución de Pichu por felicidad.
+
+RAICHU - 26 - Salvaje en Vías Tren (Sur, Johto)/ Evoluciona de Pikachu usando Piedratrueno.
+
+SANDSHREW - 27 - Salvaje en Ruta 9 (Kanto)...
+
+SANDSLASH - 28 - Salvaje en Calle Victoria (Kanto)./ Evolución de Sandshrew al nv.22.
+
+NIDORAN_F - 29 - Salvaje en Ruta 3 y Zona Safari (Kanto).
+
+NIDORINA - 30 - Salvaje en Zona Safari (Kanto). Evolución de Nidoran_F al nv.16.
+
+NIDOQUEEN - 31 - Evolución de Nidorina usando Piedra Lunar.
+
+NIDORAN_M - 32 - Salvaje en Ruta 3 y Zona Safari (Kanto).
+
+NIDORINO - 33 - Salvaje en Zona Safari (Kanto). Evolución de Nidoran_M al nv.16.
+
+NIDOKING - 34 - Evolución de Nidorino usando Piedra Lunar.
+
+CLEFAIRY - 35 - Salvaje en Mt.Moon_3F (Kanto).
+
+CLEFABLE - 36 - Evolución de Clefairy usando Piedra Lunar.
+
+VULPIX - 37 - Salvaje en Prado (Sevii), Rutas 7, 8, Mansión Pkmn (Kanto).
+
+NINETALES - 38 - Evolución de Vulpix usando Piedra Fuego.
+
+JIGGLYPUFF - 39 - Salvaje en Ruta 3 (Kanto).
+
+WIGGLYTUFF - 40 - Evolución de Jigglupuff usando Piedra Lunar.
+
+ZUBAT - 41 - Salvaje en Mt.moon (Kanto) y el 90% de las cuevas del juego. 
+
+GOLBAT - 42 - Salvaje en Calle Victoria (Kanto), Mt.silver (Johto).../ Evolución de Zubat al nv.22.
+
+ODDISH - 43 - Salvaje en Rutas 5, 6, 7, 12, 13, 15, 24, 25 (Kanto).
+
+GLOOM - 44 - Salvaje en Rutas 13, 14 (Kanto)/ Bosque Baya (Sevii).../ Evolución de Gloom al nv.21.
+
+VILEPLUME - 45 - Evolución de Gloom usando Piedra Hoja.
+
+PARAS - 46 - Salvaje en Mt.Moon_2F y Zona Safari (Kanto)
+
+PARASECT - 47 - Salvaje en Zona Safari (Kanto)/ Evolución de Paras al nv.24.
+
+VENONAT - 48 - Salvaje en Zona Safari (Kanto)/ Parque Nacional (Johto).
+
+VENOMOTH - 49 - Salvaje en Zona Safari (Kanto)/ Parque Nacional (Johto)./ Evolución de Venonat al nv.31.
+
+DIGLETT - 50 - Salvaje en Túnel Digglet (Kanto).
+
+DUGTRIO - 51 - Salvaje en Túnel Digglet (Kanto)/ Evolución de Diglett al nv.26.
+
+MEOWTH - 52 - Salvaje en Rutas 5, 6, 7, 8 (Kanto).../ Rutas 38, 39 (Johto).
+
+PERSIAN - 53 - Evolución de Meowth al nv.28.
+
+PSYDUCK - 54 - Salvaje en Islas Espuma (Kanto)/ Surf en C.Verde (Kanto).
+
+GOLDUCK - 55 - Salvaje en Islas Espuma (Kanto)/ Evolución de Psyduck al nv.33.
+
+MANKEY - 56 - Salvaje en Rutas 3,4, Túnel Roca (Kanto).
+
+PRIMEAPE - 57 - Salvaje en Ruta 23, Calle Victoria (Kanto)/ Evolución de Mankey al nv.28.
+
+GROWLITHE - 58 - Salvaje en Rutas 7, 8, Mansión Pkmn (Kanto).
+
+ARCANINE - 59 - Evolución de Growhlithe usando Piedra Fuego.
+
+POLIWAG - 60 - Caña Buena/Super Caña en C.Verde (Kanto) y C.Malva (Johto)/ Surf en C.Malva.
+
+POLIWHIRL - 61 - Super Caña en C.Verde (Kanto) y C.Malva (Johto)/ Surf en C.Malva/ Evolución de Poliwag al nv.25.
+
+POLIWRATH - 62 - Evolución de Poliwhirl usando Piedra Agua.
+
+ABRA - 63 - Salvaje en Rutas 24 y 25 (Kanto).
+
+KADABRA - 64 - Evolución de Abra al nv.16.
+
+ALAKAZAM - 65 - Evolución de Kadabra al nv.45.
+
+MACHOP - 66 - Salvaje en Túnel Roca, Calle Victoria (Kanto)/ Mt.Ascuas (Sevii)/ Mt.Mortero (Johto).
+
+MACHOKE - 67 - Salvaje en Túnel Roca, Calle Victoria (Kanto)/ Mt.Ascuas (Sevii)/ Mt.Mortero (Johto)/ Evolución de Machop al nv.28.
+
+MACHAMP 68 - Salvaje en Mt.Mortero/ Evolución de Machop al nv.51.
+
+BELLSPROUT - 69 - Salvaje en Rutas 5, 6, 7 (Kanto)/ Encinar (Johto).
+
+WEEPINBELL - 70 - Salvaje en Rutas 12, 13, 14, 15 (Kanto)/ Encinar (Johto)/ Evolución de Bellsprout al nv,21.
+
+VICTREEBEL - 71 - Salvaje en Vias Tren (Este Trigal, Johto-Kanto)/ Evolución de Weepinbell usando Piedra Hoja.
+
+TENTACOOL - 72 - Salvaje usando Surf en la mayoría de mares existentes.
+
+TENTACRUEL - 73 - Salvaje usando Surf en varios mares, con menor ratio/ Evolución de Tentacool al nv.30.
+
+GEODUDE - 74 - Salvaje en el Mt.Moon, Túnel Roca (Kanto)/ Mt.Ascuas (Sevii).
+
+GRAVELER - 75 - Salvaje en Calle Victoria (Kanto)/ Mt.Mortero, Mt.Plateado (Johto)/ Evolución de Geodude al nv.25.
+
+GOLEM - 76 - Salvaje en Mt.Plateado, Mt.Mortero (Johto)/ Evolución de Gráveles al nv.45.
+
+PONYTA - 77 - Salvaje en Rutas 26, 27, 28 (Kanto-Johto)/ Camino Candente (Sevii).
+
+RAPIDASH - 78 - Salvaje en Rutas 26, 27, 28 (Kanto-Johto)/ Camino Candente (Sevii)/ Evolución de Ponyta al nv.40.
+ 
+SLOWPOKE - 79 - Salvaje en Ruta 25 (Surf) e Islas Espuma (Kanto)/ Pozo Slowpoke (Johto)
+
+SLOWBRO - 80 - Salvaje en Islas Espuma (Kanto)/ Pozo Slowpoke (Johto)/ Evolución de Slowpoke al nv.37.
+
+MAGNEMITE - 81 - Salvaje en Ruta 10 y Central Energía (Kanto).
+
+MAGNETON - 82 - Salvaje en Central Energía (Kanto)/ Evolución de Magnemite al nv.30.
+
+FARFETCHD - 83 - Salvaje en Encinar (Johto).
+
+DODUO - 84 - Salvaje en Rutas 16, 17, 18 (Kanto)/ Rutas 26, 27 (Kanto-Johto).
+
+DODRIO - 85 - Salvaje en Rutas 26, 27, 28 (Kanto-Johto). Evolución de Doduo al nv.31.
+
+SEEL - 86 - Salvaje en Islas Espuma (Kanto)/ Paso Helado (Johto)/ Cueva Helada (Sevii).
+
+DEWGONG - 87 - Salvaje en Islas Espuma (Kanto)/ Paso Helado (Johto)/ Cueva Helada (Sevii). Evolución de Seel al nv.34.
+
+GRIMER - 88 - Salvaje en Mansión Canela (Kanto).
+
+MUK - 89 - Evolución de Grimer al nv.38.
+
+SHELLDER - 90 - Salvaje en Islas Espuma (Kanto)/ Surf y Caña vieja/buena en Pozo Slowpoke S1 (Johto).
+
+CLOYSTER - 91 - Surf y Supercaña en Pozo Slowpoke S1 (Johto). Evolución de Shellder usando Piedra Agua.
+
+GASTLY - 92 - Salvaje en Torre Pkmn, comprando el Silph Scope en Base Profunda (Kanto)/ Cueva Perdida (Sevii).
+
+HAUNTER - 93 - Salvaje en Torre Pkmn, comprando el Silph Scope en Base Profunda (Kanto)/ Evolución de Gastly al nv.25.
+
+GENGAR - 94 - Salvaje en Torre Pkmn, último piso, muy bajo ratio (Kanto(/ Evolución de Haunter al nv.52.
+
+ONIX - 95 - Salvaje en Túnel Roca, Calle Victoria (Kanto)/ Mt.Mortero, Cueva Unión (Johto).
+
+DROWZEE - 96 - Salvaje en Ruta 11 (Kanto)/ Bosque Baya (Sevii).
+
+HYPNO - 97 - Salvaje en Bosque Baya (Sevii). Evolución de Drowzee al nv.26.
+
+KRABBY - 98 - Salvaje haciendo Surf en C.Carmín (Kanto).
+
+KINGLER - 99 - Evolución de Krabby al nv.28.
+
+VOLTORB - 100 - Salvaje en Ruta 10 y Central Energía (Kanto).
+
+ELECTRODE - 101 - Salvaje en Central Energía (Kanto)/ Evolución de Voltorb al nv.30.
+
+EXEGGCUTE - 102 - Salvaje en Zona Safari (Kanto).
+
+EXEGGUTOR - 103 - Evolucion de Exeggcute usando Piedra Hoja.
+
+CUBONE - 104 - Salvaje en Torre Pkmn y Calle Victoria (Kanto).
+
+MAROWAK - 105 - Salvaje en Calle Victoria (Kanto). Evolución de Cubone al nv.28.
+
+HITMONLEE - 106 - Misión secundaria: 1ro hablar con el Anciano del Machop en Carmín. 2do derrotar al Presidente del Club de Fans. 3ro volver a hablar con el Anciano del Machop.
+
+HITMONCHAN - 107 - Misión secundaria: 1ro hablar con el Motorista al norte de C.Azafrán. 2do derrotar al Anciano del P1 del Museo Plateada. 3ro volver a hablar con el Motorista al norte de C.Azafrán.
+
+LICKITUNG - 108 - Salvaje en Ruta 23 (Kanto).
+
+KOFFING - 109 - Salvaje en Mansión Pkmn (Kanto).
+
+WEEZING - 110 - Salvaje en Mansión Pkmn (Kanto). Evolución de Koffing al nv.35.
+
+RHYHORN - 111 - Salvaje en Zona Safari (Kanto).
+
+RHYDON - 112 - Evolución de Rhydon al nv.42.
+
+CHANSEY - 113 - Salvaje en Zona Safari (Kanto).
+
+TANGELA - 114 - Salvaje en Pueblo Paleta, sur (Kanto)/ Playa Tesoro (Sevii).
+
+KANGASKHAN - 115 - Salvaje en Zona Safari (Kanto).
+
+HORSEA - 116 - Salvaje haciendo Surf en Ruta 25 (Kanto).
+
+SEADRA - 117 - Evolución de Horsea al nv.32.
+
+GOLDEEN - 118 - Salvaje usando Caña Buena en C.Verde, Zona Safari (Kanto).
+
+SEAKING - 119 - Salvaje usando Caña Buena en Zona Safari (Kanto). Evolución de Goldeen al nv.33.
+
+STARYU - 120 - Salvaje haciendo Surf en Ruta 25 (Kanto).
+
+STARMIE - 121 - Evolución de Staryu usando Piedra Agua.
+
+MR_MIME - 122 - Salvaje en Pueblo Paleta, sur (Kanto).
+
+SCYTHER - 123 - Salvaje en Zona Safari (Kanto)/ Parque Nacional (Johto).
+
+JYNX - 124 - Salvaje en Cueva Helada (Sevii). Evolución de Smoochum al nv.30.
+
+ELECTABUZZ - 125 - Salvaje en Central Energía (Kanto). Evolución de Elekid al nv.30.
+
+MAGMAR - 126 - Salvaje en Mansión Pkmn (Kanto)/ Mt.Ascuas (Sevii). Evolución de Magby al nv.30.
+
+PINSIR - 127 - Misión Secundaria: Derrotar a los Entrenadores Guay al extremo suroeste del Bosque Verde (Kanto)/ Salvaje en Parque Nacional (Johto).
+
+TAUROS - 128 - Salvaje en Zona Safari (Kanto)/ Ruta 38 (Johto).
+
+MAGIKARP - 129 - Salvaje Pescando con Caña Vieja en casi cualquier lugar/ Misión secundaria: 1ro hablar con el Gurú Pescador de C.Carmín. 2do derrotar al Domador de Mansión Azulona. 3ro volver a hablar con el Gurú de C.Carmín.
+
+GYARADOS - 130 - Evolución de Magikarp al nv.20.
+
+LAPRAS - 131 - Salvaje haciendo Surf en la Zona Profunda de Cueva Helada.
+
+DITTO - 132 - Salvaje en Mansión Canela 4F.
+
+EEVEE - 133 - Jardín de Bill (temporal)/ Misión Secundaria: 1ro hablar con el Científico que mira el cuadro de Fuji en Lab.Canela. 2do ir al subterráneo Carmín-Celeste y derrotar al Supernecio. 3ro volver a hablar con el Científico del Lab.Canela.
+ 
+VAPOREON - 134 - Evolución de Eevee con Piedra Agua.
+
+JOLTEON - 135 - Evolución de Eevee con Piedra Trueno.
+
+FLAREON - 136 - Evolución de Eevee con Piedra Fuego.
+
+PORYGON - 137 - Regalo de Giovanni tras misión en Silph/ Compra en el Subterráneo Trigal por 250000¥.
+
+OMANYTE - 138 - Regalo de Científico tras derrotar a Miguel en el Museo Plateada.
+
+OMASTAR - 139 - Evolución de Omanyte al nv.40.
+
+KABUTO - 140 - Regalo de Giovanni tras derrotar a Miguel en Túnel Roca.
+
+KABUTOPS - 141 - Evolución de Kabuto al nv.40.
+
+AERODACTYL - 142 - Regalo de Giovanni tras derrotar a Articuno y Zapdos.
+
+SNORLAX - 143 - Misión secundaria: 1ro hablar con NPC del Centro Pkmn del MT.MOON, dejarse estafar. 2do hablar con Científico que aparece en C.Fucsia, mirando a Lapras. 3ro derrotar a los ladrones de la Mansión Pkmn. 4to volver a hablar con Científico de C.Fucsia.
+
+ARTICUNO - 144 - Regalo de Giovanni tras entrar al Hall de la Fama por 1ra vez.
+
+ZAPDOS - 145 - Regalo de Giovanni tras entrar al Hall de la Fama por 1ra vez.
+
+MOLTRES - 146 - Regalo de Giovanni tras entrar al Hall de la Fama por 1ra vez.
+
+DRATINI - 147 - Salvaje haciendo Surf en la primera zona de Zona Safari.
+
+DRAGONAIR - 148 - Evolución de Dratini al nv.30.
+
+DRAGONITE - 149 - Evolución de Dragonair al nv.55.
+
+MEWTWO - 150 - Regalo de Giovanni tras Evento Torre Radio Lavanda.
+
+MEW - 151 - Regalo Fuji, tras cumplir su secundaria post DLC.
+
+CHIKORITA - 152 - Salvaje en zona secreta, al norte tras las corrientes de C.Cerezo (Johto)/ Zona oculta al cruzar las Cámaras Sete (Sevii).
+
+BAYLEEF - 153 - Este vías de tren C.Trigal (Johto)/ Evolución de Chikorita al nv.16.
+
+MEGANIUM - 154 - Este vías de tren C.Trigal (Johto)/ Evolución de Bayleef al nv.36.
+
+CYNDAQUIL - 155 - Premio en el Casino de C.Trigal (Johto).
+
+QUILAVA - 156 - Evolución de Cyndaquil al nv.16.
+
+TYPHLOSION - 157 - Evolución de Quilava al nv.36.
+
+TOTODILE - 158 - Salvaje usando Surf en el estanque al norte de C.Cerezo (Johto).
+
+CROCONAW - 159 - Evolución de Totodile al nv.18.
+
+FERALIGATR - 160 - Evolución de Croconaw al nv.30.
+
+SENTRET - 161 - Salvaje en Prado (Sevii)/Rutas 29, 30, 31 (Johto).
+
+FURRET - 162 - Salvaje en Rutas 29, 30 (Johto)/ Evolución de Sentret al nv.15.
+
+HOOTHOOT - 163 - Rutas 32, 33, 34 (Johto).
+
+NOCTOWL - 164 - Evolución de Hoothoot al nv.20.
+
+LEDYBA - 165 - Salvaje en Encinar (Johto)/ Bosquejo (Sevii).
+
+LEDIAN - 166 - Evolución de Ledyba al nv.18.
+
+SPINARAK - 167 - Salvaje en Encinar (Johto)/ Bosquejo (Sevii).
+
+ARIADOS - 168 - Evolución de Spinarak al nv.22.
+
+CROBAT - 169 - Evolución de Golbat por felicidad.
+
+CHINCHOU - 170 - Pescando Rutas 27, 41, Ciudad Olivo, Pueblo Primavera (Johto)
+
+LANTURN - 171 - Evolución de Chinchou al nv.27.
+
+PICHU - 172 - Salvaje en Ruta 34 (Johto).
+
+CLEFFA - 173 - Salvaje en Ruta 34 (Johto).
+
+IGGLYBUFF - 174 - Salvaje en Ruta 34 (Johto).
+
+TOGEPI - 175 - Regalo de Anciano en Ruta 30 (Johto).
+
+TOGETIC - 176 - Evolución de Togepi por felicidad.
+
+NATU - 177 - Salvaje en Ruinas Alfa (Johto)/ Ruinas Isla Exta (Sevii).
+
+XATU - 178 - Evolución de Natu al nv.25.
+
+MAREEP - 179 - Salvaje en Ruta 32 (Johto).
+
+FLAAFFY - 180 - Salvaje en Ruta 32 (Johto)/ Evolución de Mareep al nv.15.
+
+AMPHAROS - 181 - Evolución de Flaafy al nv.30.
+
+BELLOSSOM - 182 - Evolución de Gloom con Piedra Solar.
+
+MARILL - 183 - Salvaje en Mt.Mortero (Johto).
+
+AZUMARILL - 184 - Evolución de Marill al nv.18.
+
+SUDOWOODO - 185 - Premio en el Casino de C.Trigal (Johto)
+
+POLITOED - 186 - Salvaje con Super Caña en C.Malva/ Evolución de Poliwhirl usando Roca del Rey.
+
+HOPPIP - 187 - Salvaje en Prado (Sevii).
+
+SKIPLOOM - 188 - Evolución de Hoppip al nv.18.
+
+JUMPLUFF - 189 - Evolución de Skiploom al nv.27.
+
+AIPOM - 190 - Salvaje en Encinar (Johto).
+
+SUNKERN - 191 - Salvaje en Parque Nacional (Johto).
+
+SUNFLORA - 192 - Salvaje en Parque Nacional (Johto)/ Evolución de Sunkern usando Piedra Solar.
+
+YANMA - 193 - Salvaje en Encinar (Johto).
+
+WOOPER - 194 - Salvaje usando Surf en Isla Cuarta (Sevii)/ Surf en C.Malva (Johto).
+
+QUAGSIRE - 195 - Evolución de Wooper al nv.20.
+
+ESPEON - 196 - Evolución de Eevee usando Piedra Solar.
+
+UMBREON - 197 - Evolución de Eevee usando Piedra Lunar.
+
+MURKROW - 198 - Salvaje en Cueva Perdida (Johto).
+
+SLOWKING - 199 - Salvaje en Pozo Slowpoke/ Evolución de Slowpoke usando Piedra Agua.
+
+MISDREAVUS - 200 - Salvaje en Torre Quemada (Johto).
+
+UNOWN - 201 - Salvaje en Interior Ruinas Alfa (Johto).
+
+WOBBUFFET - 202 - Premio en Casino C.Trigal (Johto). Zona Safari Hoenn.
+
+GIRAFARIG - 203 - Salvaje en Ruta 43 (Johto).
+
+PINECO - 204 - Salvaje en Ruta 43 (Johto).
+
+FORRETRESS - 205 - Salvaje en Ruta 43 (Johto)./ Evolución de Pineco al nv.31.
+
+DUNSPARCE - 206 - Salvaje en Cueva Oscura (Johto)/ Cueva Isla Tera (Sevii).
+
+GLIGAR - 207 - Salvaje en Ruta 45 (Johto).
+
+STEELIX - 208 - Salvaje en Mt.Plateado/ Evolución de Onix con Cable Link.
+
+SNUBBULL - 209 - Salvaje en Ruta 38 (Johto).
+
+GRANBULL - 210 - Evolución de Snubull al nv.23.
+
+QWILFISH - 211 - Salvaje usando Surf en Isla Inta y Aquarinto (Sevii).
+
+SCIZOR - 212 - Evolución de Scyther usando Cable Link.
+
+SHUCKLE - 213 - Salvaje en Torre Quemada, Cueva Oscura, Ruta 40 (Johto).
+
+HERACROSS - 214 - Salvaje en Bosquejo (Sevii)/ Parque Nacional (Johto).
+
+SNEASEL - 215 - Salvaje en Cueva Helada (Sevii)/ Paso Helado (Johto).
+
+TEDDIURSA - 216 - Premio en Casino de C.Trigal (Johto)
+
+URSARING - 217 - Salvaje en Ruta 28 y Mt.Plateado (Johto)/ Evolución de Teddiursa al nv.30.
+
+SLUGMA - 218 - Salvaje en Mt.Ascuas.
+
+MAGCARGO - 219 - Evolución de Slugma al nv.38.
+
+SWINUB - 220 - Salvaje en Cueva Helada (Sevii)/ Paso Helado (Johto).
+
+PILOSWINE - 221 - Salvaje en Paso Helado (Johto)/ Evolución de Swinub al nv.33.
+
+CORSOLA - 222 - Caña Buena en C.Cerezo/ Salvaje Rutas 19, 34, 40, C.Orquídea, Olivo (Johto).
+
+REMORAID - 223 - Pescando en Ruta 44 (Johto).
+
+OCTILLERY - 224 - Evolución de Remoraid al nv.25.
+
+DELIBIRD - 225 - Salvaje en Cueva Helada (Sevii).
+
+MANTINE - 226 - Salvaje haciendo Surf en Zona Cámaras Isla Sétima (Sevii).
+
+SKARMORY - 227 - Salvaje en Ruta 45 (Johto).
+
+HOUNDOUR - 228 - Regalo de Atlas tras tu 1ra misión como miembro del Team Rocket.
+
+HOUNDOOM - 229 - Evolución de Houndour al nv.32.
+
+KINGDRA - 230 - Evolución de Seadra usando Cable Link.
+
+PHANPY - 231 - Salvaje en Ruta 45 (Johto)
+
+DONPHAN - 232 - Salvaje en Ruta 45 (Johto)/ Evolución de Phanpy al nv.25.
+
+PORYGON2 - 233 - Evolución de Porygon usando Mejora.
+
+STANTLER - 234 - Salvaje en Ruta 37, 43 (Johto).
+
+SMEARGLE - 235 - Salvaje en Ruinas Alfa (Johto).
+
+TYROGUE - 236 - Salvaje en Mt.Mortero (Johto).
+
+HITMONTOP - 237 - Evolución de Tyrogue a partir del nv.20, teniendo este los stats de ataque y defensa similares.
+
+SMOOCHUM - 238 - Salvaje en Ruta Helada (Johto).
+
+ELEKID - 239 - Salvaje en Ruta 34 (Johto).
+
+MAGBY - 240 - Salvaje en Ruta 36 (Johto).
+
+MILTANK - 241 - Salvaje en Ruta 38 (Johto).
+
+BLISSEY - 242 - Evolución de Chansey por felicidad.
+
+RAIKOU - 243 - Regalo de Giovanni tras entrar al Hall de la Fama por 2da vez.
+
+ENTEI - 244 - Regalo de Giovanni tras entrar al Hall de la Fama por 2da vez.
+
+SUICUNE - 245 - Regalo de Giovanni tras entrar al Hall de la Fama por 2da vez.
+
+LARVITAR - 246 - Salvaje en Cañón Sétano (Sevii)/ Mt.Plateado (Johto).
+
+PUPITAR - 247 - Evolución de Larvitar al nv.30.
+
+TYRANITAR - 248 - Evolución de Pupitar al nv.55.
+
+LUGIA - 249 - Regalo de Giovanni tras entrar al Hall de la Fama por 3ra vez.
+
+HO_OH - 250 - Regalo de Giovanni tras entrar al Hall de la Fama por 3ra vez.
+
+CELEBI - 251 -
+
+TREECKO - 252 - Premio Casino Malvalona.
+
+GROVYLE - 253 - Evolución de Treecko al nv.16.
+
+SCEPTILE - 254 - Evolución de Grovyle al nv.36
+
+TORCHIC - 255 - Pueblo Lavacalda, regalo de anciano en el herbolario.
+
+COMBUSKEN - 256 - Evolución de Torchic al nv.16.
+
+BLAZIKEN - 257 - Evolución de Combusken al nv.36.
+
+MUDKIP - 258 - Eclosiona del Huevo que te da la anciana de Pueblo Lavacalda.
+
+MARSHTOMP - 259 - Evolución de Mudkip al nv.16.
+
+SWAMPERT - 260 - Evolución de Marshtomp al nv.36.
+
+POOCHYENA - 261 - Salvaje Rutas 116-120, entre otras (20%, Hoenn).
+
+MIGHTYENA - 262 - Evolución de Poochyena ak nv.18.
+
+ZIGZAGOON - 263 - Salvaje Rutas 118-119, entre otras (20%, Hoenn).
+
+LINOONE - 264 - Evolución de Zigzagoon al nv.20.
+
+WURMPLE - 265 -
+SILCOON - 266 -
+BEAUTIFLY - 267 -
+CASCOON - 268 -
+DUSTOX - 269 -
+LOTAD - 270 -
+LOMBRE - 271 -
+LUDICOLO - 272 -
+SEEDOT - 273 -
+NUZLEAF - 274 -
+SHIFTRY - 275 -
+
+TAILLOW - 276 - Salvaje en hierba alta de Ruta 104 (20%, Hoenn).
+
+SWELLOW - 277 - Evolución de Taillow al nv.22.
+
+WINGULL - 278 - Salvaje haciendo surf en Ruta 104 (Hoenn, 60%). En otros muchos lugares.
+
+PELIPPER - 279 - Evolución de Wingull al nv.25.
+
+RALTS - 280 - Regalo de Científico en el P1 de la Base Rocket en Johto.
+
+KIRLIA - 281 - Evolución de Ralts al nv.20.
+
+GARDEVOIR - 282 - Evolución de Kirlia al nv.30.
+
+SURSKIT - 283 - Haciendo Surf en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+MASQUERAIN - 284 - Evolución de Surskit al nv.22.
+
+SHROOMISH - 285 -
+BRELOOM - 286 -
+
+SLAKOTH - 287 - Regalo de Norman en su Casa de C.Olivo (Johto)/ Salvaje en Bosque Petalia.
+
+VIGOROTH - 288 - Evolución de Slakoth al nv.18.
+
+SLAKING - 289 - Evolución de Vigoroth al nv.36.
+
+NINCADA - 290 -
+NINJASK - 291 -
+SHEDINJA - 292 -
+WHISMUR - 293 -
+LOUDRED - 294 -
+EXPLOUD - 295 -
+
+MAKUHITA - 296 - Salvaje en Cueva Granito (10%, Hoenn).
+
+HARIYAMA - 297 - Evolución de Makuhita al nv.24.
+
+AZURILL - 298 - Salvaje en Ruta 104 (Hoenn).
+
+NOSEPASS - 299 - Regalo de Montañero, dentro de la única casa que hay en Ruta 35 (Johto).
+
+SKITTY - 300 -
+DELCATTY - 301 -
+
+SABLEYE - 302 - Salvaje en Cueva Granito, B1F y B2F (10%, Hoenn).
+
+MAWILE - 303 -
+
+ARON - 304 - Salvaje en Cueva Granito (20%, Hoenn).
+
+LAIRON - 305 - Evolución de Aron al nv.32
+
+AGGRON - 306 - Evolución de Lairon al nv.42.
+
+MEDITITE - 307 - Monte Pírico, zona exterior (20%, Hoenn).
+
+MEDICHAM - 308 - Evolución de meditite al nv.37.
+
+ELECTRIKE - 309 - Regalo de un trabajador en P3 de Torre Radio Trigal (Johto).
+
+MANECTRIC - 310 - Evolución de Electrike al nv.26.
+
+PLUSLE - 311 - Salvaje en hierba alta de Ruta 110 (6%, Hoenn).
+
+MINUN - 312 - Salvaje en hierba alta de Ruta 110 (15%, Hoenn).
+
+VOLBEAT - 313 - Salvaje en hierba alta de Ruta 110 (6%, Hoenn).
+
+ILLUMISE - 314 - Salvaje en hierba alta de Ruta 110 (14%, Hoenn).
+
+ROSELIA - 315 - Evolución de Budew por felicidad. Salvaje en hierba alta de Ruta 117 (20%, Hoenn).
+
+GULPIN - 316 - Salvaje en hierba alta de Ruta 110 (20%, Hoenn). 
+
+SWALOT - 317 - Evolución de Gulpin al nv.26.
+
+CARVANHA - 318 - Salvaje en el mar al sur de Isla Secunda (SURF), zona accesible después de Evento Culto Lavanda.
+
+SHARPEDO - 319 - Evolución de Carvanha al nv.30.
+
+WAILMER - 320 - Regalo de Capitán en caseta al norte del Lago Furia (Johto).
+
+WAILORD - 321 - Evolución de Wailmer al nv.40.
+
+NUMEL - 322 - Salvaje en zona que abre Magno en el Mt.Ascuas, usando el Ruby y la Esfera Roja.
+
+CAMERUPT - 323 - Evolución de Numel al nv.33.
+
+TORKOAL - 324 - Salvaje en zona que abre Magno en el Mt.Ascuas, usando el Ruby y la Esfera Roja.
+
+SPOINK - 325 - Salvaje en Desfiladero Mt.Cenizo (30%).
+
+GRUMPIG - 326 - Evoluciona de Spoink al nv.32.
+
+SPINDA - 327 -
+
+TRAPINCH - 328 - Premio en el Subterráneo de C.Trigal (Johto). 1200 Fichas.
+
+VIBRAVA - 329 - Evolución de Trapinch al nv.35.
+
+FLYGON - 330 - Evolución de Vibrava al nv.45.
+
+CACNEA - 331 - Salvaje en Ruta 111 (Hoenn, desierto).
+
+CACTURNE - 332 - Salvaje en Ruta 111 (Hoenn, desierto). Evolución de Cacnea al nv.32.
+
+SWABLU - 333 - Regalo de Chico en C.Endrino (Johto), que anda cerca del Gimnasio.
+
+ALTARIA - 334 - Evolución de Swablu al nv.35.
+
+ZANGOOSE - 335 -
+SEVIPER - 336 -
+LUNATONE - 337 -
+SOLROCK - 338 -
+
+BARBOACH - 339 - Usando la Caña Vieja (30%) en el Lago de Villa Éter (DLC).
+
+WHISCASH - 340 - Usando la Caña Buena (20%) en el Lago de Villa Éter (DLC). Evoluciona de Barboach al nv.30.
+
+CORPHISH - 341 - Salvaje usando Caña Vieja en Ruta 117 (Hoenn, 70%).
+
+CRAWDAUNT - 342 - Salvaje usando C.Buena y Supercaña en Ruta 117 (100%). Evoluciona de Corphish al nv.30.
+
+BALTOY - 343 - Salvaje en Ruta 111 (Hoenn, desierto).
+
+CLAYDOL - 344 - Salvaje en Ruta 111 (Hoenn, desierto). Evolución de Baltoy al nv.36.
+
+LILEEP - 345 - Regalo de Supernerd en el Club de Moda de Pueblo Azulina (Hoenn)
+
+CRADILY - 346 - Evoluciona de Lileep al nv.40.
+
+ANORITH - 347 - Secundaria Pueblo Azulina - Playa Portual (Hoenn).
+
+ARMALDO - 348 - Evolución de Anorith al nv.40.
+
+FEEBAS - 349 - Haciendo Surf y Pescando en zona accesible tras entrar a la Cámara más grande de las Ruinas Sete.
+
+MILOTIC - 350 - Evolución de Feebas al nv.54.
+
+CASTFORM - 351 - Regalo de uno de los científicos del instituto meteorológico (Hoenn).
+
+KECLEON - 352 - Salvaje en Rutas 119-120 (Hoenn, 21%).
+
+SHUPPET - 353 - Salvaje en todo el Mt.Pírico (Hoenn, 20-50%).
+
+BANETTE - 354 - Salvaje en todo el MT.Pírico (10-40%). Evoluciona de Shuppet al nv.37.
+
+DUSKULL - 355 - Cueva de Hypno en el Bosque Baya de Isla Tera (Secundaria Sevii).
+
+DUSCLOPS - 356 - Evolución de Duskull al nv.37.
+
+TROPIUS - 357 - Salvaje en hierba alta de Ruta 119 (Hoenn, 9%).
+
+CHIMECHO - 358 - Salvaje en la cima exterior del Mt.Pírico (Hoenn, 2%).
+
+ABSOL - 359 - Regalo de Anciano en el paso C.Iris - Ruta 38 (Johto).
+
+WYNAUT - 360 - Zona Safari de Hoenn.
+
+SNORUNT - 361 - Sala Helada de Cueva Cardumen (Hoenn).
+
+GLALIE - 362 - Sala Helada de Cueva Cardumen (Hoenn). Evoluciona de Snorunt al nv.42.
+
+SPHEAL - 363 - Salvaje en Cueva Cardumen.
+
+SEALEO - 364 - Salvaje en Cueva Cardumen. Evoluciona de Spheal al nv.32.
+
+WALREIN - 365 - Salvaje en Cueva Cardumen. Evoluciona de Sealeo al nv.44.
+
+CLAMPERL - 366 - Bajo el agua en Hoenn (60%).
+
+HUNTAIL - 367 - Evoluciona de Clamperl usando la Piedra Día.
+
+GOREBYSS - 368 - Evoluciona de Clamperl usando la Piedra Noche.
+
+RELICANTH - 369 - Bajo el agua en Hoenn (5%). Regalo tras Secundaria Museo Portual.
+
+LUVDISC - 370 - Pescando con Super Caña en Ruta 128 de Hoenn (40%).
+
+BAGON - 371 - Premio en el Subterráneo de C.Trigal.
+
+SHELGON - 372 - Evolución de Bagon al nv.30
+
+SALAMENCE - 373 - Evolución de Shelgon al nv.50.
+
+BELDUM - 374 - Premio en el Subterráneo de C.Trigal.
+
+METANG - 375 - Evolución de Beldum al nv.20.
+
+METAGROSS - 376 - Evolución de Metang al nv.45.
+
+REGIROCK - 377 - Regalo de Andra, al tener acceso a tu Despacho en Johto, tras la reunión de C.Trigal (Johto).
+
+REGICE - 378 - Regalo de Andra, al tener acceso a tu Despacho en Johto, tras la reunión de C.Trigal (Johto).
+
+REGISTEEL - 379 - Regalo de Andra, al tener acceso a tu Despacho en Johto, tras la reunión de C.Trigal (Johto).
+
+LATIAS - 380 - Secundaria Isla del Sur (Ticket en interior Cueva Cardumen).
+
+LATIOS - 381 - Secundaria Isla del Sur (Ticket en interior Cueva Cardumen).
+
+KYOGRE - 382 -
+GROUDON - 383 -
+RAYQUAZA - 384 -
+JIRACHI - 385 -
+
+DEOXYS - 386 - Regalo de Giovanni, al tener acceso a tu Despacho en Johto, tras la reunión de C.Trigal (Johto).
+FORMAS ATAQUE/DEFENSA/VELOCIDAD - Usando el Meteorito regalo de Oak (Misión 4 DLC - T4).
+
+TURTWIG - 387 - Venta en Base Rocket Johto (75000¥).
+
+GROTLE - 388 - Evolución de Turtwig al nv.18
+
+TORTERRA - 389 - Evolución de Grotle al nv.32.
+
+CHIMCHAR - 390 - Regalo de Jefe Villano, en misión secundaria de Johto. 1ro hablar con Calvo en el bar de C.Oivo. 2do Derrotar a todos en el subterráneo de C.Trigal.
+
+MONFERNO - 391 - Evolución de Chinchar al nv.14.
+
+INFERNAPE - 392 - Evolución de Monferno al nv.36.
+
+PIPLUP - 393 - Premio tras cumplir secundaria recreativos islas.
+
+PRINPLUP - 394 - Evolución de Piplup al nv.16.
+
+EMPOLEON - 395 - Evolución de Prinlup al nv.36.
+
+STARLY - 396 - Regalo de Npc que aparece en la Escuela de C.Malva (Johto), después de derrotar al Líder de la ciudad.
+
+STARAVIA - 397 - Evolución de Starly al nv.14.
+
+STARAPTOR - 398 - Evolución de Staravia al nv.34.
+
+BIDOOF - 399 -
+BIBAREL - 400 -
+KRICKETOT - 401 -
+KRICKETUNE - 402 -
+
+SHINX - 403 - Base Rocket Hoenn: S2. Regalo de Científico.
+
+LUXIO - 404 - Evolución de Shinx al nv.15.
+
+LUXRAY - 405 - Evolución de Luxio al nv.30.
+
+BUDEW - 406 - Venta en sala Ejecutivos Base Profunda (25000¥).
+
+ROSERADE - 407 - Evolución de Roselia usando Piedra Día.
+
+CRANIDOS - 408 - Premio tras cumplir misión secundaria de los Recreativos.
+
+RAMPARDOS - 409 - Evolución de Cranidos al nv.30.
+
+SHIELDON - 410 - A la venta en Sala VIP para ejecutivos de Base Profunda.
+
+BASTIODON - 411 - Evolución de Shieldon al nv.40.
+
+BURMY - 412 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+WORMADAM - 413 - Evolución de Burmy_F al nv.20.
+
+MOTHIM - 414 - Evolución de Burmy_M al nv.20.
+
+COMBEE - 415 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+VESPIQUEN - 416 - Evolución de Combee_F al nv.21.
+
+PACHIRISU - 417 -
+
+BUIZEL - 418 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+FLOATZEL - 419 - Evolución de Buizel al nv.26.
+
+CHERUBI - 420 -
+CHERRIM - 421 -
+
+SHELLOS - 422 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+GASTRODON - 423 - Evolución de Shellos al nv.30.
+
+AMBIPOM - 424 - Evolución de Aipom subiendo un nivel con doble golpe (nv.32).
+
+DRIFLOON - 425 - Zona de hierba antes de entrar en Cueva Hypno (Secundaria Isla Tera).
+
+DRIFBLIM - 426 - Evolución de Drifblim al nv.28.
+
+BUNEARY - 427 - Venta en sala Ejecutivos Base Profunda (14000¥).
+
+LOPUNNY - 428 - Evolución a Lopunny por felicidad.
+
+MISMAGIUS - 429 - Evolución de Misdreavus usando Piedra Noche.
+
+HONCHKROW - 430 - Evolución de Murkrow usando Piedra Noche.
+
+GLAMEOW - 431 - Venta en Casino Malvalona.
+
+PURUGLY - 432 - Evolución de Glameow al nv.38.
+
+CHINGLING - 433 -
+
+STUNKY - 434 - Venta en Casino Malvalona.
+
+SKUNTANK - 435 - Evolución de Stunky al nv.34.
+
+BRONZOR - 436 - Zona de hierba antes de entrar en Cueva Hypno (Secundaria Isla Tera).
+
+BRONZONG - 437 - Evolución de Bronzor al nv.33.
+
+BONSLY - 438 -
+MIME_JR - 439 -
+HAPPINY - 440 -
+
+CHATOT - 441 - Regalo al completar secundaria Casa Playa de C.Portual (Hoenn).
+
+SPIRITOMB - 442 - Salvaje en Cueva Subterranea (solo en S4) en Ruta 50 norte (accesible después 3 misiones DLC).
+
+GIBLE - 443 - Venta en el P3 De la Torre Radio Lavanda (175000¥).
+
+GABITE - 444 - Evolución de Gible al nv.24.
+
+GARCHOMP - 445 - Evolución de Gabite al nv.48.
+
+MUNCHLAX - 446 -
+
+RIOLU - 447 - Regalo tras derrotar al Líder de C.Olivo (Johto).
+
+LUCARIO - 448 - Evolución de Riolu por felicidad.
+
+HIPPOPOTAS - 449 - Venta en sala Ejecutivos Base Profunda (32000¥).
+
+HIPPOWDON - 450 - Evolución de Hippopotas al nv.34
+
+SKORUPI - 451 - Premio tras cumplir secundaria recreativos Archi7.
+
+DRAPION - 452 - Evolución de Skorupi al nv.40.
+
+CROAGUNK - 453 - A la venta en Sala VIP para ejecutivos de Base Profunda.
+
+TOXICROAK - 454 - Evolución de Croagunk al nv.37.
+
+CARNIVINE - 455 -
+
+FINNEON - 456 - Haciendo Surf en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+LUMINEON - 457 - Evolución de Finneon al nv.31.
+
+MANTYKE - 458 - Haciendo Surf en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+SNOVER - 459 - Templo Puntaneva (Sinnoh, 30%). Temporada Hoenn: Misión 5.
+
+ABOMASNOW - 460 - Evolución de Snover al nv.40.
+
+WEAVILE - 461 - Uso de Piedra Link sobre Sneasel.
+
+MAGNEZONE - 462 - Uso de Piedra Link sobre Magneton.
+
+LICKILICKY - 463 - Uso de Piedra Link sobre Lickitung.
+
+RHYPERIOR - 464 - Uso de Piedra Link sobre Rhydon.
+
+TANGROWTH - 465 - Uso de Piedra Link sobre Tangela/sabiendo poder pasado.
+
+ELECTIVIRE - 466 - Uso de Piedra Link sobre Electabuzz.
+
+MAGMORTAR - 467 - Uso de Piedra Link sobre Magmar.
+
+TOGEKISS - 468 - Evolución de Togetic usando Piedra Día.
+
+YANMEGA - 469 - Evolución de Yanma usando Poder Pasado.
+
+LEAFEON - 470 - Evolución de Eevee usando Piedra Hoja.
+
+GLACEON - 471 - Evolución de Eevee usando Piedra Hielo.
+
+GLISCOR - 472 - Uso de Piedra Link sobre Glider.
+
+MAMOSWINE - 473 - Uso de Piedra Link sobre Piloswine.
+
+PORYGON_Z - 474 - Evolución de Porygon2 usando Discoxtraño.
+
+GALLADE - 475 - Evolución de Kirlia_M usando Piedra Alba.
+
+PROBOPASS - 476 - Evolución de Nosepass al nv.49.
+
+DUSKNOIR - 477 - Evolución de Dusclops al nv.49.
+
+FROSLASS - 478 - Uso de Piedra Alba sobre Snorunt.
+
+ROTOM - 479 -
+UXIE - 480 -
+MESPRIT - 481 -
+AZELF - 482 -
+DIALGA - 483 -
+PALKIA - 484 -
+HEATRAN - 485 -
+REGIGIGAS - 486 -
+GIRATINA - 487 -
+CRESSELIA - 488 -
+PHIONE - 489 -
+MANAPHY - 490 -
+DARKRAI - 491 -
+SHAYMIN - 492 -
+ARCEUS - 493 -
+VICTINI - 494 -
+SNIVY - 495 -
+SERVINE - 496 -
+SERPERIOR - 497 -
+
+TEPIG - 498 - Obtención en misión Vías Subterráneas (DLC).
+
+PIGNITE - 499 - Evolución de Tepic al nv.17
+
+EMBOAR - 500 - Evolución de Pignite al nv.36
+
+OSHAWOTT - 501 - Venta en Base Rocket Hoenn.
+
+DEWOTT - 502 - Evolución de Oshawott al nv.17.
+
+SAMUROTT - 503 - Evolución de Dewott al nv.36.
+
+PATRAT - 504 -
+WATCHOG - 505 -
+
+LILLIPUP - 506 - Regalo de Científico en Torre Radio Trigal, P8.
+
+HERDIER - 507 - Evolución de Llillipup al nv.20.
+
+STOUTLAND - 508 - Evolución de Herdier al nv.32.
+
+PURRLOIN - 509 - Premio en Casino Malvalona.
+
+LIEPARD - 510 - Evolución de Purrloin al nv.20.
+
+PANSAGE - 511 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+SIMISAGE - 512 - Evolución de Pansage usando Piedra Hoja.
+
+PANSEAR - 513 - Isla Exta. Salvaje (10%) en Zona oculta tras corrientes al suroeste.
+
+SIMISEAR - 514 - Evolución de Pansear usando Piedra Fuego.
+
+PANPOUR - 515 - Isla Exta. Salvaje (10%) en Zona oculta tras corrientes al suroeste.
+
+SIMIPOUR - 516 - Evolución de Panpour usando Piedra Agua.
+
+MUNNA - 517 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii).
+
+MUSHARNA - 518 - Evolución de Munna usando Piedra Lunar.
+
+PIDOVE - 519 - Isla Exta. Salvaje (10%) en Zona oculta tras corrientes al suroeste.
+
+TRANQUILL - 520 - Evoluciona de Pidove al nv.21.
+
+UNFEZANT - 521 - Evoluciona de Tranquill al nv.32.
+
+BLITZLE - 522 - Venta en Casino Malvalona.
+
+ZEBSTRIKA - 523 - Evolución de Blitzle al nv.27.
+
+ROGGENROLA - 524 - Usando Golpe Roca en Zona al sur de las vías de Tren.
+
+BOLDORE - 525 - Usando Golpe Roca en Zona al sur de las vías de Tren. Evolución de Roggenrola al nv.25.
+
+GIGALITH - 526 - Usando Golpe Roca en Zona al sur de las vías de Tren. Evolución de Boldore al nv.49.
+
+WOOBAT - 527 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+SWOOBAT - 528 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+DRILBUR - 529 - Venta en Base Rocket Hoenn (22500¥).
+
+EXCADRILL - 530 - Evolución de Drilbur al nv.31.
+
+AUDINO - 531 - Isla Exta. Salvaje (2%) en Zona oculta tras corrientes al suroeste.
+
+TIMBURR - 532 - Venta en Tienda de Base Johto (30000¥).
+
+GURDURR - 533 - Evolución de Timburr al nv.25
+
+CONKELDURR - 534 - Evolución de Gurdurr con Cable Link.
+
+TYMPOLE - 535 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+PALPITOAD - 536 - Evolución de Tympole al nv.25.
+
+SEISMITOAD - 537 - Evolución de Palpitoad al nv.36.
+
+THROH - 538 - Zona de hierba alta de Ruta 49.
+
+SAWK - 539 - Zona de hierba alta de Ruta 49.
+
+SEWADDLE - 540 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+SWADLOON - 541 - Evolución de Sewaddle al nv.20.
+
+LEAVANNY - 542 - Evolución de Swadloon por felicidad.
+
+VENIPEDE - 543 - Isla Exta. Salvaje (30%) en Zona oculta (Golpe Roca) tras corrientes al suroeste.
+También en Bosque Secreto, al norte de Vías de Tren (accesible tras completar primeras 4 misiones DLC).
+
+WHIRLIPEDE - 544 - Evolución de Venipede al nv.22.
+
+SCOLIPEDE - 545 - Evolución de Whirlipede al nv.30.
+
+COTTONEE - 546 - Isla Exta. Salvaje (20%) en Zona oculta tras corrientes al suroeste.
+
+WHIMSICOTT - 547 - Evolución de Cottonee usando la Piedra Solar.
+
+PETILIL - 548 - Isla Exta. Salvaje (20%) en Zona oculta tras corrientes al suroeste.
+
+LILLIGANT - 549 - Evolución de Petilil usando la Piedra Solar.
+
+BASCULIN - 550 - Isla Exta. Surf o Pesca (100%) en Zona oculta tras corrientes al suroeste.
+
+SANDILE - 551 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+KROKOROK - 552 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+KROOKODILE - 553 - Evolución de Krokorok al nv.40. 
+
+DARUMAKA - 554 - Regalo de Npc en la única casa del Mt.Plateado (Johto).
+
+DARMANITAN - 555 - Evolución de Darumaka al nv.35.
+
+MARACTUS - 556 -
+
+DWEBBLE - 557 - Salvaje en Ruta 50 norte (accesible después de completar primeras 3 misiones DLC).
+
+CRUSTLE - 558 - Salvaje en Ruta 50 norte (accesible después de completar primeras 3 misiones DLC).
+
+SCRAGGY - 559 - Salvaje en Ruta 50 norte (accesible después de completar primeras 3 misiones DLC).
+
+SCRAFTY - 560 - Evolución de Scraggy al nv.39.
+
+SIGILYPH - 561 - Salvaje en Ruta 50 norte (accesible después de completar primeras 3 misiones DLC).
+
+YAMASK - 562 - Salvaje en el Cementerio del Neo Pueblo Lavanda (DLC).
+
+COFAGRIGUS - 563 - Evolución de Yamask al nv.34.
+
+TIRTOUGA - 564 - Laboratorio C.IRIS en misión secundaria. La misión se activa tras hablar con NPC en la caseta de Ruinas Alfa.
+
+CARRACOSTA - 565 - Evolución de Tirtouga al nv.37.
+
+ARCHEN - 566 - Regalo después de cumplir misión secundaria en Laboratorio C.IRIS, volviendo a hablar con NPC ruinas.
+
+ARCHEOPS - 567 - Evolución de Archen al nv.37.
+
+TRUBBISH - 568 - Venta en Casino Malvalona.
+
+GARBODOR - 569 - Evoluciona de Trubbish al nv.36
+
+ZORUA - 570 - Pueblo Lavanda, Pasadizo que conduce a la secta secreta.
+
+ZOROARK - 571 - Evolución de Zorua al nv.30.
+
+MINCCINO - 572 - Venta en el S2 de la Base Rocket de Hoenn (28000¥).
+
+CINCCINO - 573 - Evolución de Minccino usando Piedra Día.
+
+GOTHITA - 574 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii).
+
+GOTHORITA - 575 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii). Evolución de Gothita al nv.32.
+
+GOTHITELLE - 576 - Evolución de Gothorita al nv.41.
+
+SOLOSIS - 577 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii). 
+
+DUOSION - 578 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii). Evolución de Solosis al nv.32.
+
+REUNICLUS - 579 - Evolución de Duosion al nv.41.
+
+DUCKLETT - 580 - Haciendo Surf en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+SWANNA - 581 - Evolución de Ducklett al nv.35.
+
+VANILLITE - 582 -
+VANILLISH - 583 -
+VANILLUXE - 584 -
+
+DEERLING - 585 - Isla Exta. Salvaje (10%) en Zona oculta tras corrientes al suroeste.
+
+SAWSBUCK - 586 - Evolución de Deerling al nv.34.
+
+EMOLGA - 587 - Isla Exta. Salvaje (10%) en Zona oculta tras corrientes al suroeste.
+
+KARRABLAST - 588 - Isla Exta. Salvaje (4%) en Zona oculta tras corrientes al suroeste.
+
+ESCAVALIER - 589 - Evoluciona de Karrablast usando la Piedra Link.
+
+FOONGUS - 590 - Isla Exta. Usando Golpe Roca (90%) en Zona oculta tras corrientes al suroeste.
+
+AMOONGUSS - 591 - Evolución de Foongus al nv.39.
+
+FRILLISH - 592 - Pescando con Caña Buena en S3 del Culto Lavanda.
+
+JELLICENT - 593 - Evolución de Frillish al nv.40.
+
+ALOMOMOLA - 594 - Haciendo surf en Ruta 47 (DLC: Misión 3).
+
+JOLTIK - 595 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+GALVANTULA - 596 - Evolución de Joltik al nv.36.
+
+FERROSEED - 597 - Venta en el P3 De la Torre Radio Lavanda (60000¥).
+
+FERROTHORN - 598 - Evolución de Ferroseed al nv.40.
+
+KLINK - 599 - Regalo de Científico en el P2 de la Base Rocket en Johto.
+
+KLANG - 600 - Evolución de Klink al nv.38.
+
+KLINKLANG - 601 - Evolución de Klang al nv.49.
+
+TYNAMO - 602 - Regalo de uno de los científicos del S2 de la base rocket en Hoenn.
+
+EELEKTRIK - 603 - Evolución de Tynamo al nv.39.
+
+EELEKTROSS - 604 - Evolución de Eelektrik usando Piedratrueno.
+
+ELGYEM - 605 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+BEHEEYEM - 606 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+LITWICK - 607 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii).
+
+LAMPENT - 608 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii). Evolución de Litwik al nv.41.
+
+CHANDELURE - 609 - Evolución de Lampent usando Piedra Noche.
+
+AXEW - 610 - Venta en Base Rocket de Johto (140000¥).
+
+FRAXURE - 611 - Evolución de Axew al nv.38.
+
+HAXORUS - 612 - Evolución de Fraxure al nv.48.
+
+CUBCHOO - 613 -
+BEARTIC - 614 -
+
+CRYOGONAL - 615 - Venta en Torre Radio Lavanda (105000¥).
+
+SHELMET - 616 - Isla Exta. Salvaje (4%) en Zona oculta tras corrientes al suroeste.
+
+ACCELGOR - 617 - Evoluciona de Shelmet usando Piedra Link.
+
+STUNFISK - 618 -
+
+MIENFOO - 619 - Salvaje en Zona Hierba Ruta 49.
+
+MIENSHAO - 620 - Salvaje en Zona Hierba Ruta 49.
+
+DRUDDIGON - 621 -
+
+GOLETT - 622 - Salvaje en Cámara larvesta Este Archi7.
+
+GOLURK - 623 - Evolución de Golett al nv.43.
+
+PAWNIARD - 624 - Venta en la Base Rocket de Johto (65000¥).
+
+BISHARP - 625 - Evolución de Pawniard al nv.52.
+
+BOUFFALANT - 626 - Venta en el S2 de la Base Rocket de Hoenn (60000¥).
+
+RUFFLET - 627 - Regalo tras derrotar al Líder de C.Malva (Johto).
+
+BRAVIARY - 628 - Evolución de Rufflet al nv.54.
+
+VULLABY - 629 - Regalo tras derrotar al Líder de C.Trigal (Johto).
+
+MANDIBUZZ - 630 - Evolución de Vullaby al nv.54.
+
+HEATMOR - 631 - Salvaje en zona nueva del Mt.Ascuas, accesible en evento obligatorio.
+
+DURANT - 632 -
+
+DEINO - 633 - Premio en Subterráneo de Trigal (6000 fichas).
+
+ZWEILOUS - 634 - Evolución de Deino al nv.50.
+
+HYDREIGON - 635 - Evolución de Zweilous al nv.64.
+
+LARVESTA - 636 - Poké Ball en Zona más allá de Ruinas Sete, accesible después de evento en Roca Ombligo.
+
+VOLCARONA - 637 - Evolución de Larvesta al nv.59.
+
+COBALION - 638 -
+TERRAKION - 639 -
+VIRIZION - 640 -
+TORNADUS - 641 -
+THUNDURUS - 642 -
+RESHIRAM - 643 -
+ZEKROM - 644 -
+LANDORUS - 645 -
+KYUREM - 646 - 
+KELDEO - 647 -
+
+MELOETTA - 648 - Huevo Musa en Secundaria Ciudad Azulona (Tras acabar la T-3).
+
+GENESECT - 649 - Volcán Canela. Interior Laboratorio destruido (DLC: Misión 5).
+
+CHESPIN - 650 - Huevo Coraza en Secundaria Ciudad Azulona (Final T-1 Kanto).
+
+QUILLADIN - 651 - Evolución de Chespin al nv.16.
+
+CHESNAUGHT - 652 - Evolución de Quilladin al nv.36.
+
+FENNEKIN - 653 - Secundaria Bosque Baya.
+
+BRAIXEN - 654 - Evolución de Fennekin al nv.16.
+
+DELPHOX - 655 - Evolución de Braixen al nv.36.
+
+FROAKIE - 656 - Regalo de Calvo en el Bar de C.Olivo, tras completar su misión secundaria.
+
+FROGADIER - 657 - Evolución de Froakie al nv.16.
+
+GRENINJA - 658 - Evolución de Frogadier al nv.36.
+
+BUNNELBY - 659 -
+DIGGERSBY - 660 -
+
+FLETCHLING - 661 - Venta en Base Rocket Johto (18000¥).
+
+FLETCHINDER - 662 - Evolución de Fletchling al nv.17.
+
+TALONFLAME - 663 - Evolución de Fletchinder al nv.35.
+
+SCATTERBUG - 664 -
+SPEWPA - 665 -
+VIVILLON - 666 -
+
+LITLEO - 667 - Edificio Ruta 52 al sureste de C.Olivo, Johto.
+
+Para desactivar la entrada, misión Secundaria: 1ro hablar con NPC del Centro Pkmn del MT.MOON, dejarse estafar. 2do hablar con científico que aparece en Fucsia, mirando a Lapras. 3ro derrotar a los ladrones de la Mansión Pkmn.
+
+PYROAR - 668 - Evolución de Litleo al nv.35.
+
+FLABEBE - 669 - Regalo tras derrotar al Líder de C.Iris (Johto). | Salvaje en Ruta 49 (DLC: Misión 3).
+
+FLOETTE - 670 - Evolución de Flabebe al nv.19.
+
+FLORGES - 671 - Evolución de Floette usando Piedra Día.
+
+FLOETTE FLOR ETERNA - 671 - Evolución de Flabebe usando Piedra Sagrada.
+
+SKIDDO - 672 - Salvaje en hierba alta de Ruta 49.
+
+GOGOAT - 673 - Salvaje en hierba alta de Ruta 49.
+
+PANCHAM - 674 -
+PANGORO - 675 -
+FURFROU - 676 -
+
+ESPURR - 677 - Venta en el P3 De la Torre Radio Lavanda (30000¥).
+
+MEOWSTIC - 678 - Evolución de Espurr al nv.25.
+
+HONEDGE - 679 - Regalo de Npc, dado por monje dentro de Torre Campana (C.Iris, Johto).
+
+DOUBLADE - 680 - Evolución de Honedge al nv.35.
+
+AEGISLASH - 681 - Evolución de Doublade usando Piedra Noche.
+
+SPRITZEE - 682 -
+AROMATISSE - 683 -
+SWIRLIX - 684 -
+SLURPUFF - 685 -
+
+INKAY - 686 - Regalo de motorista en la Neo Zona Safari. Secundaria de Neo Túnel Roca.
+
+MALAMAR - 687 - Evolución de Inkay al nv.30
+
+BINACLE - 688 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+BARBARACLE - 689 - Evolución de Binacle al nv.39. 
+
+SKRELP - 690 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+DRAGALGE - 691 - Evolución de Skrelp al nv.48.
+
+CLAUNCHER - 692 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+CLAWITZER - 693 - Evolución de Clauncher al nv.37.
+
+HELIOPTILE - 694 - Regalo de electricista en el S1 de misión secundaria en Johto, activada tras hablar con ancianos en casa al noreste de Pueblo Caoba.
+
+HELIOLISK - 695 - Evolución de Helioptile usando Piedra Solar.
+
+TYRUNT - 696 - Regalo de Científico en Base de Isla Inta tras derrotar a Lance.
+
+TYRANTRUM - 697 - Evolucion de Tyrunt al nv.39.
+
+AMAURA - 698 - Huevo Aurora en Secundaria Ciudad Azulona (Final T-1 Kanto)
+
+AURORUS - 699 - Evolución de Amaura al nv.39 por la noche.
+
+SYLVEON - 700 - Evolución de Eevee elevando un nivel con movimiento tipo hada + felicidad.
+
+HAWLUCHA - 701 -
+
+DEDENNE - 702 - Salvaje en Torre Dun de Ruta 50 (una de las tres primeras secundarias del DLC).
+
+CARBINK - 703 - Salvaje en zona nueva de Cueva Punteada, accesible en evento obligatorio.
+
+GOOMY - 704 - Salvaje en zona nueva de Cueva Punteada, accesible en evento obligatorio.
+
+SLIGGOO - 705 - Salvaje en zona nueva de Cueva Punteada, accesible en evento obligatorio. Evolución de Sliggoo al nv.40.
+
+GOODRA - 706 - Salvaje en zona nueva de Cueva Punteada, accesible en evento obligatorio. Evolución de Goodra al nv.50.
+
+KLEFKI - 707 - Salvaje en Ruta 50 norte (zona accesible después de completar 3 primeras misiones).
+
+PHANTUMP - 708 - Salvaje en el Cementerio del Neo Pueblo Lavanda (DLC).
+
+TREVENANT - 709 - Evolución de Phantump al nv.42.
+
+PUMPKABOO - 710 - Salvaje en el Cementerio del Neo Pueblo Lavanda (DLC).
+
+GOURGEIST - 711 - Usando la Piedra Noche sobre Pumpkaboo.
+
+BERGMITE - 712 - Usando Golpe Roca en zona oculta. Activar misión secundaria hablando con Anciana que mira el agua en Isla Cuarta (Sevii).
+
+AVALUGG - 713 - Evolución de Bergmite al nv.37.
+
+NOIBAT - 714 - Regalo de NPC importante, tras batalla obligatoria justo después de la séptima medalla en Johto.
+
+NOIVERN - 715 - Evolución de Noibat al nv.48.
+
+XERNEAS - 716 -
+YVELTAL - 717 -
+ZYGARDE - 718 -
+
+DIANCIE - 719 - Como Poké Ball dentro del Laboratorio de la última misión de Hoenn (T-5)
+
+HOOPA - 720 -
+VOLCANION - 721 -
+
+ROWLET - 722 - Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+DARTRIX - 723 - Evolución de Rowlet al nv.17.
+
+DECIDUEYE - 724 - Evolucion de Dartrix al nv.34.
+
+LITTEN - 725 - Regalo de JEFE de misión secundaria. 1ro hablar con ancianos en casa al noreste de Pueblo Caoba. 2do volver a casa de Pueblo Azalea y realizar misión.
+
+TORRACAT - 726 - Evolución de Litten al nv.17.
+
+INCINEROAR - 727 - Evolución de Torracat al nv.34.
+
+POPPLIO - 728 - Venta en Base Rocket Johto (76000¥).
+
+BRIONNE - 729 - Evolución de Popplio al nv.17.
+
+PRIMARINA - 730 - Evolución de Brionne al nv.34.
+
+PIKIPEK - 731 - Regalo al completar secundaria en Casa Playa de C.Portual (Hoenn).
+
+TRUMBEAK - 732 - Evolución de Pikipek al nv.14.
+
+TOUCANNON - 733 - Evolución de Trumbeak al nv.28.
+
+YUNGOOS - 734 -
+GUMSHOOS - 735 -
+
+GRUBBIN - 736 - Regalo tras derrotar al Líder de P.Azalea (Johto).
+
+CHARJABUG - 737 - Evolución de Grubbin al nv.20.
+
+VIKAVOLT - 738 - Evolución de Charjabug usando Piedra Trueno.
+
+CRABRAWLER - 739 - Usando Golpe Roca en zona oculta. Activar misión secundaria hablando con Anciana que mira el agua en Isla Cuarta (Sevii).
+
+CRABOMINABLE - 740 - Evolución de Crabrawler usando Piedra Hielo.
+
+ORICORIO - 741 -
+
+CUTIEFLY - 742 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+RIBOMBEE - 743 - Evolución de Cutiefly al nv.25.
+
+ROCKRUFF - 744 - Venta en Base Rocket Hoenn (15000¥).
+
+LYCANROC - 745 - Evolución de Rockruf, según la piedra usada. | P.Día: Lycanroc Diurno. | P.Noche: Lycanroc Nocturno. | P.Alba: Lycanroc Crepuscular.
+
+WISHIWASHI - 746 - Pescando en zona oculta. Activar misión secundaria hablando con Anciana que mira el agua en Isla Cuarta (Sevii). 
+
+MAREANIE - 747 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+TOXAPEX - 748 - Evolución a de Mareanie al nv.38.
+
+MUDBRAY - 749 - Venta en Base Rocket Johto (32000¥).
+
+MUDSDALE - 750 - Evolución de Mudbray al nv.30.
+
+DEWPIDER - 751 - Haciendo Surf en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+ARAQUANID - 752 - Evolución de Dewpider al nv.22.
+
+FOMANTIS - 753 - Salvaje en Hierba Alta de Ruta 49.
+
+LURANTIS - 754 - Salvaje en Hierba Alta de Ruta 49.
+
+MORELULL - 755 -
+SHIINOTIC - 756 -
+
+SALANDIT - 757 - Regalo Científico P7 Torre Radio Lavanda
+
+SALAZZLE - 758 - Evolución de Salandit al nv.33.
+
+STUFFUL - 759 - Regalo tras derrotar al Líder de C.Orquídea (Johto).
+
+BEWEAR - 760 - Evolución de Stufful al nv.27.
+
+BOUNSWEET - 761 - Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+STEENEE - 762 - Evolución de Bounsweet al nv.18.
+
+TSAREENA - 763 - Evolución de Steene aprendiendo Pisotón + Nivel.
+
+COMFEY - 764 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+ORANGURU - 765 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+PASSIMIAN - 766 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+WIMPOD - 767 - Regalo de Npc, en el Centro Pkmn de P.Azalea (Johto).
+
+GOLISOPOD - 768 - Evolución de Wimpod al nv.30.
+
+SANDYGAST - 769 -
+PALOSSAND - 770 -
+
+PYUKUMUKU - 771 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+TYPE_NULL - 772 - Regalo de Giovanni tras Misión obligaría en Laboratorio Isla Canela (DLC).
+
+SILVALLY - 773 - Evolución de Type Full al nv.59.
+
+MINIOR - 774 - Venta en el S2 de la Base Rocket de Hoenn (90000¥).
+
+KOMALA - 775 - Salvaje en Torre Dun de Ruta 50 (una de las tres primeras secundarias del DLC).
+
+TURTONATOR - 776 - Salvaje en zona nueva del Mt.Ascuas, accesible en evento obligatorio.
+
+TOGEDEMARU - 777 -
+
+MIMIKYU - 778 - Salvaje en el Cementerio del Neo Pueblo Lavanda (DLC).
+
+BRUXISH - 779 -
+
+DRAMPA - 780 - Regalo del Monje que se halla paseando en la Guarida Dragón (C.Endrino, Johto).
+
+DHELMISE - 781 -
+
+JANGMO_O - 782 - Venta en Base Rocket Hoenn (168000¥)
+
+HAKAMO_O - 783 - Evolución de Jangmo-o al nv.35.
+
+KOMMO_O - 784 - Evolución de Hakamo-o al nv.45.
+
+TAPU_KOKO - 785 -
+TAPU_LELE - 786 -
+TAPU_BULU - 787 -
+TAPU_FINI - 788 -
+
+COSMOG - 789 - Huevo Cósmico en Secundaria Ciudad Azulona (Final T-1 Kanto)
+
+COSMOEM - 790 - Evolución de Cosmog al nv.43
+
+SOLGALEO - 791 - Evolución de Cosmoem al nv.53 por el día.
+
+LUNALA - 792 - Evolución de Lunala al nv.53 por la noche.
+
+NIHILEGO - 793 - Cueva Tesoro, secundaria Isla Prima.
+
+BUZZWOLE - 794 - Neo Jardín Bill, volviendo allí durante el DLC.
+
+PHEROMOSA - 795 -
+
+XURKITREE - 796 - Después evento obligatorio Neo Central Energía (DLC). Regalo del Director.
+
+CELESTEELA - 797 -
+
+KARTANA - 798 - Isla Suprema. Ticket Isla en el interior de Cueva Cardumen (Hoenn).
+
+GUZZLORD - 799 - Combate singular en Cueva del Tesoro: Misión secundaria Isla Prima. La misión se activa hablando con el Caballero sentado en el Centro Pkmn de Isla Prima (Sevii).
+
+NECROZMA - 800 - 
+
+MAGEARNA - 801 -
+
+MARSHADOW - 802 - Recoger Amuleto en Cueva Hypno (Secundaria Bosque Baya) y entregarlo a Exorcista en casa oculta, mares al sur de C.Trigal.
+
+POIPOLE - 803 - Regalo de NPC tras misión secundaria en DLC. 1ro ir a casa del noroeste de C.Orquídea y hablar con Npc. 2do ir al Mt.Plateado y hablar con Anciano del Centro Pkmn. 3ro volver a la casa del noroeste de C.Orquídea.
+
+NAGANADEL - 804 - Evolución de Poipole al aprender Pulso Dragón.
+
+STAKATAKA - 805 - Dentro del pasadizo que lleva al culto lavanda.
+
+BLACEPHALON - 806 - En la Cueva de Hypno, en la zona noroeste.
+
+ZERAORA - 807 - Huevo Fulgor en Secundaria Ciudad Azulona (Tras acabar la T-4).
+
+MELTAN - 808 - Regalo en misión secundaria Faro Bill (T-4, tras misión 5 del DLC)
+
+MELMETAL - 809 - Evolución de Meltan usando una Piedra Sagrada.
+
+GROOKEY - 810 - Venta en el P3 De la Torre Radio Lavanda (80000¥).
+
+THWACKEY - 811 - Evolución de Grookey al nv.16.
+
+RILLABOOM - 812 - Evolución de Thwackey al nv.36.
+
+SCORBUNNY - 813 - Huevo Líbero en Secundaria Ciudad Azulona (Tras acabar la T-2)
+
+RABOOT - 814 - Evolución de Scorbunny al nv.16.
+
+CINDERACE - 815 - Evolución de Raboot al nv.35.
+
+SOBBLE - 816 -
+DRIZZILE - 817 -
+INTELEON - 818 -
+SKWOVET - 819 -
+GREEDENT - 820 -
+ROOKIDEE - 821 -
+CORVISQUIRE - 822 -
+CORVIKNIGHT - 823 -
+
+BLIPBUG - 824 - Salvaje en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+DOTTLER - 825 - Evolución de Blipbug al nv.10.
+
+ORBEETLE - 826 - Evolución de Dottler al nv.30.
+
+NICKIT - 827 -
+THIEVUL - 828 -
+GOSSIFLEUR - 829 -
+ELDEGOSS - 830 -
+
+WOOLOO - 831 - Venta en el P3 De la Torre Radio Lavanda (40000¥).
+
+DUBWOOL - 832 - Evolución de Wooloo al nv.24
+
+CHEWTLE - 833 - Salvaje en Cueva Tesoro (Isla Prima, Sevii). Para activar el lugar, hablar con el Caballero del Centro Pkmn de Isla Prima.
+
+DREDNAW - 834 - Evolución de Chewtle al nv.22.
+
+YAMPER - 835 - 
+
+BOLTUND - 836 - 
+
+ROLYCOLY - 837 - Salvaje usando Golpe Roca en zona nueva del Mt.Ascuas, accesible en evento obligatorio.
+
+CARKOL - 838 - Evolución de Rolycoly al nv.18.
+
+COALOSSAL - 839 - Evolución de Carkol al nv.34.
+
+APPLIN - 840 - Huevo Manzanido en Secundaria Ciudad Azulona (Final T-1 Kanto)
+
+FLAPPLE - 841 - Usando la Manzana Ácida sobre Applin (Secundaria activada al hablar con Cazabichos de C.Plateada).
+
+APPLETUN - 842 - Usando la Manzana Dulce sobre Applin (Secundaria Atlas en Archi7, a la venta en Gym oculto).
+
+SILICOBRA - 843 - Venta en el S2 de la Base Rocket de Hoenn (50000¥).
+
+SANDACONDA - 844 - Evolución de Silicobra al nv.36.
+
+CRAMORANT - 845 - Venta en el P3 De la Torre Radio Lavanda (110000¥).
+
+ARROKUDA - 846 - Haciendo Surf en Zona oculta, en misión secundaria que se activa al hablar con Atlas después de entrar por 1ra vez al Hall de la Fama.
+
+BARRASKEWDA - 847 - Evolución de Arrokuda al nv.26.
+
+TOXEL - 848 - Venta en el P3 De la Torre Radio Lavanda (57000¥).
+
+TOXTRICITY - 849 - Evolución de Toxel al nv.30.
+
+SIZZLIPEDE - 850 - Salvaje usando Golpe Roca en zona nueva del Mt.Ascuas, accesible en evento obligatorio.
+
+CENTISKORCH - 851 - Salvaje usando en zona nueva del Mt.Ascuas, accesible en evento obligatorio. Evolución de Sizzlipede al nv.28.
+
+CLOBBOPUS - 852 -
+GRAPPLOCT - 853 -
+
+SINISTEA - 854 - Salvaje en el Cementerio del Neo Pueblo Lavanda (DLC).
+
+POLTEAGEIST - 855 - Evolución de Sinistea usando Piedra Noche.
+
+HATENNA - 856 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii).
+
+HATTREM - 857 - Salvaje en Cueva Hypno (Misión secundaria Hypno, en Isla Tera, Sevii). Evolución de Hatenna al nv.32.
+
+HATTERENE - 858 - Evolución de Hattrem al nv.42.
+
+IMPIDIMP - 859 - Salvaje en Ruta 50 norte (zona accesible después de completar 3 primeras misiones).
+
+MORGREM - 860 - Salvaje en Ruta 50 norte (zona accesible después de completar 3 primeras misiones).
+
+GRIMMSNARL - 861 - Evolución de Morgrem al nv.42.
+
+OBSTAGOON - 862 - Uso de Piedra Sagrada sobre Linoone, conversión en F-Galar y subir al nv.35.
+
+PERRSERKER - 863 -
+
+CURSOLA - 864 - Uso de Piedra Sagrada sobre Corsola, conversión en Cursola y subir al nv.38.
+
+SIRFETCHD - 865 - Uso de Piedra Sagrada sobre Farfetch'D, conversión en Farfetch'D Galar y subir al nv.50.
+
+MR_RIME - 866 - Uso de Piedra Sagrada sobre Mr.Mime, conversión en Mr.Mime Galar y subir al nv.42.
+
+RUNERIGUS - 867 - Salvaje en Pueblo Lavanda, pasadizo que conduce a secta secreta.
+
+MILCERY - 868 - Venta en el S2 de la Base Rocket de Hoenn (35000¥).
+
+ALCREMIE - 869 - Evolución de Milcery al nv.40.
+
+FALINKS - 870 -
+
+PINCURCHIN - 871 - Venta en Base Rocket Johto (52000¥).
+
+SNOM - 872 - Preevolución de Frosmoth.
+
+FROSMOTH - 873 - Venta en Torre Radio lavanda (48000¥).
+
+STONJOURNER - 874 - Salvaje en Pueblo Lavanda, pasadizo que conduce a secta secreta.
+
+EISCUE - 875 - Salvaje en zona oculta. Activar misión secundaria hablando con Anciana que mira el agua en Isla Cuarta (Sevii).
+
+INDEEDEE - 876 - Salvaje en Torre Dun de Ruta 50 (una de las tres primeras secundarias del DLC).
+
+MORPEKO - 877 - Salvaje en Cueva Subterranea en Ruta 50 norte (accesible después 3 misiones DLC).
+
+CUFANT - 878 -
+COPPERAJAH - 879 -
+
+DRACOZOLT - 880 - Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+ARCTOZOLT - 881 - Faro Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+DRACOVISH - 882 - Surfeando en Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+ARCTOVISH - 883 - Pescando en Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+DURALUDON - 884 - Secundaria Pilar Recuerdo + Suroeste Isla Exta
+
+DREEPY - 885 - Regalo tras derrotar al Líder de C.Endrino.
+
+DRAKLOAK - 886 - Evolución de Dreepy al nv.50.
+
+DRAGAPULT - 887 - Evolución de Drakloak al nv.60.
+
+ZACIAN - 888 -
+ZAMAZENTA - 889 -
+ETERNATUS - 890 -
+KUBFU - 891 -
+URSHIFU - 892 -
+ZARUDE - 893 -
+REGIELEKI - 894 -
+
+REGIDRAGO - 895 - Regalo de Maestro Dragon tras completar Misión en Ruta 49 (DLC).
+
+GLASTRIER - 896 - Capturable mediante acceso a zona oculta. Activar misión secundaria hablando con Anciana que mira el agua en Isla Cuarta (Sevii).
+
+SPECTRIER - 897 - Uno de los cultistas del subterráneo de la secta (zona accesible después de 7ma medalla en Johto). Te lo da en forma de huevo.
+
+CALYREX - 898 - Misión secundaria Excampeona Tipo Fantasma. 1ro llegar a Bosque oculto al norte de vías de tren, y hablar con NPC casa oculta. 2do hablar con anciana en Centro Pkmn del Mt.Plateado. 3ro volver a casa oculta en el Bosque.
+
+CALYREX JINETE GLACIAL/ESPECTRAL - Riendas unión en casa oculta al oeste del mar de C.Cerezo.
+
+WYRDEER - 899 - Evoluciona de Stantler con Piedra Sagrada.
+
+KLEAVOR - 900 - Evoluciona de Scyther con Piedra Sagrada.
+
+URSALUNA - 901 - Evoluciona de Ursaring con Piedra Sagrada.
+
+BASCULEGION - 902 - Evoluciona de Basculin con Piedra Sagrada.
+
+SNEASLER - 903 - Evoluciona de Sneasel Hisui (que se obtiene usando P.Sagrada sobre Sneasel) con P.Link.
+
+OVERQWIL - 904 - Evoluciona de Qwilfish Hisui (P.Sagrada sobre Qwilfish) al nivel 50.
+
+ENAMORUS - 905 - 
+
+SPRIGATITO - 906 -
+
+FLORAGATO - 907 -
+
+MEOWSCARADA - 908 -
+
+FUECOCO - 909 -
+
+CROCALOR - 910 -
+
+SKELEDIRGE - 911 -
+
+QUAXLY - 912 -
+
+QUAXWELL - 913 -
+
+QUAQUAVAL - 914 -
+
+LECHONK - 915 -
+
+OINKOLOGNE-M - 916 -
+
+OINKOLOGNE-F - 916 -
+
+TAROUNTULA - 917 -
+
+SPIDOPS - 918 -
+
+NYMBLE - 919 -
+
+LOKIX - 920 -
+
+PAWMI - 921 -
+
+PAWMO - 922 -
+
+PAWMOT - 923 -
+
+TANDEMAUS - 924 -
+
+MAUSHOLD - 925 -
+
+FIDOUGH - 926 -
+
+DACHSBUN - 927 -
+
+SMOLIV - 928 - Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+DOLLIV - 929 - Evolución de Smoliv al nv.25.
+
+ARBOLIVA - 930 - Evolucion de Dolliv al nv.35.
+
+SQUAWKABILLY - 931 -
+
+NACLI - 932 - Interior Cueva Éter (T-4 DLC - Misión 3).
+
+NACLSTACK - 933 - Evolución de Nacli al nv.24.
+
+GARGANACL - 934 - Evolución de Naclstack al nv.38.
+
+CHARCADET - 935 -
+
+ARMAROUGE - 936
+
+CERULEDGE - 937 -
+
+TADBULB - 938 -
+
+BELLIBOLT - 939 -
+
+WATTREL - 940 - Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+KILOWATTREL - 941 - Evolución de Wattrel al nv.25.
+
+MASCHIFF - 942 - 
+
+MABOSSTIFF - 943 -
+
+SHROODLE - 944 -
+
+GRAFAIAI - 945 -
+
+BRAMBLIN - 946 -
+
+BRAMBLEGHAST - 947 -
+
+TOEDSCOOL - 948 - Interior Cueva Éter (T-4 DLC - Misión 3).
+
+TOEDSCRUEL - 949 - Interior Cueva Éter (T-4 DLC - Misión 3). Evolución de Toedscool al nv.30.
+
+KLAWF - 950 - Golpe Roca en Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+CAPSAKID - 951 -
+
+SCOVILLAIN - 952 -
+
+RELLOR - 953 -
+
+RABSCA - 954 -
+
+FLITTLE - 955 -
+
+ESPATHRA - 956 -
+
+TINKATINK - 957 -
+
+TINKATUFF - 958 -
+
+TINKATON - 959 -
+
+WIGLETT - 960 - Surf en Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+WUGTRIO - 961 - Evolución de Wiglett al nv.26.
+
+BOMBIRDIER - 962 -
+
+FINIZEN - 963 -
+
+PALAFIN ZERO - 964 -
+
+PALAFIN HERO - 964 -
+
+VARPPM - 965 -
+
+REVAVROOM - 966 -
+
+CYCLIZAR - 967 -
+
+ORTHWORM - 968 - Interior Cueva Éter (T-4 DLC - Misión 3).
+
+GLIMMET - 969 - Cueva Tesoro. Última sala (9%).
+
+GLIMMORA - 970 - Evoluciona de Glimmet al nv.35.
+
+GREAVARD - 971 - Interior Cueva Éter (T-4 DLC - Misión 3).
+
+HOUNDSTONE - 972 - Evolución de Greavard al nv.30 por la noche.
+
+FLAMIGO - 973 - Surf en Neo Jardín de Bill (tras II Conferencia Trigal en el DLC).
+
+CETODDLE - 974 -
+
+CETITAN - 975 -
+
+VELUZA - 976 - Usando la Caña Buena (20%) en el Lago de Villa Éter (DLC).
+
+DONDOZO - 977 - Usando la Supercaña (5%) en el Lago de Villa Éter (DLC).
+
+TATSUGIRI - 978 - Usando la Supercaña (15%) en el Lago de Villa Éter (DLC).
+
+ANNIHILAPE - 979 - Evoluciona de Primeape con Piedra Sagrada.
+
+CLODSIRE - 980 - Usando la Surf (30%) en el Lago de Villa Éter (DLC).
+
+FARIGIRAF - 981 - Evoluciona de Girafarig con Piedra Sagrada.
+
+DUDUNSPARCE - 982 - Evoluciona de Dunsparce al aprender Hipertaladro (Nv.65).
+
+KINGAMBIT - 983 - Evoluciona de Bisharp con Piedra Sagrada.
+
+COLMILARGO - 984 -
+
+COLAGRITO - 985 -
+
+FURIOSETA - 986 -
+
+MELENALETEO - 987 -
+
+REPTALADA - 988 -
+
+PELARENA - 989 -
+
+FERRODADA - 990 -
+
+FERROSACO - 991 -
+
+FERROPALMAS - 992 -
+
+FERROCUELLO - 993 -
+
+FERROPOLILLA - 994 -
+
+FERROPÚAS - 995 -
+
+FRIGIBAX - 996 - Regalo de Fredo tras derrotarlo (JOHTO - Medalla 7).
+
+ARCTIBAX - 997 - Evoluciona de Frigibax al nv.35.
+
+BAXCALIBUR - 998 - Evoluciona de Arctibax al nv.54.
+
+GIMMIGHOUL - 999 - Interior Cueva Éter (T-4 DLC - Misión 3).
+
+GHOLDENGO - 1000 - Subiendo de nivel a Gimmighoul con 999 monedas en la mochila (se compran en B.Profunda)
+
+WO CHIEN - 1001 -
+
+CHIEN PAO - 1002 -
+
+TING LU - 1003 -
+
+CHI YU - 1004 -
+
+BRAMALUNA - 1005 -
+
+FERROPALADIN - 1006 -
+
+KORAIDON - 1007 -
+
+MIRAIDON - 1008 -
+
+ONDULAGUA - 1009 -
+
+FERROVERDOR - 1010 -
+
+DIPPLIN - 1011 - Usando en Applin la Manzana Melosa (Zona oculta tras corrientes al Oeste de C.Cerezo, Johto).
+
+POLTCHAGEIST - 1012 -
+
+SINISTCHA - 1013 -
+
+OKIDOGI - 1014 -
+
+MUNKIDORI - 1015 -
+
+FEZANDIPITI - 1016 - Huevo Serendipia en Secundaria Ciudad Azulona (Final T-1 Kanto).
+
+OGERPON - 1017 -
+
+ARCHALUDON - 1018 - Usando Piedra Sagrada sobre Duraludon.
+
+HYDRAPPLE - 1019 - Evoluciona de Dipplin tras subir un nivel con Bramido Dragón (nv.64).
+
+FLAMARIETE - 1020 -
+
+ELECTROFURIA - 1021 -
+
+FERROMOLE - 1022 -
+
+FERROTESTA - 1023 -
+
+TERAPAGOS NORMAL - 1024
+
+TERAPAGOS TERASTAL - 1024
+
+TERAPAGOS STELLAR - 1024
+
+PECHARUNT - 1025
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+POKÉMON EXCLUSIVOS DEL JUEGO
+
+TRXATU - 1026 - Casa secreta al oeste de ruinas sete abiertas tras combatir con Lugia.
+
+GHOST - 1027 - A la venta en el último piso De la Torre Radio Lavanda (T-4 DLC).
+
+ELECTRODE_Y - 1028 - Evoluciona de Electrodo con Piedra Rocket.
+
+TAUROS_X - 1029 - Evoluciona de Tauros con Piedra Rocket.
+
+PORYGON3 - 1030 - Evoluciona de Porygon2 con Piedra Rocket.
+
+ELECTIVIRE_X - 1031 - Evoluciona de Electivire con Piedra Rocket.
+
+MAGMORTAR_Y - 1032 - Evoluciona de Magmortar con Piedra Rocket.
+
+AERODACTYL-P - 1033 - Evoluciona de Aerodactyl con Piedra Rocket.
+
+NIDOQUEEN_Y - 1034 - Evoluciona de Nidoqueen con Piedra Rocket.
+
+NIDOKING_X - 1035 - Evoluciona de Nidoking con Piedra Rocket.
+
+NIDOGOD - 1036 -
+
+KURUSU - 1037 - Regalo Pescador, tras completar misión obligatoria en Lago Furia (DLC).
+
+AKUA - 1038 - Evoluciona de Kurusu al nv.40.
+
+AKUERIA - 1039 - Evoluciona de Akua al nv.64.
+
+BOOHOO - 1040 - Evoluciona de Noctowl con Piedra Sagrada.
+
+IKARY - 1040 - Salvaje a partir del S3 del Lago Furia (5%).
+
+PURAKKUSU - 1042 - Evoluciona de Pinsir con Piedra Sagrada.
+
+TAABAN - 1043 - Salvaje en interior Lago Furia (1%). Evoluciona de Slowbro con Piedra Sagrada.
+
+WARTILLERY - 1044 - Salvaje en interior Lago Furia. Evoluciona de Octilley con Piedra Sagrada.
+
+BOMUSHIKAA - 1045 - Regalo de Atlas tras completar su misión secundaria. Desbloqueable tras ingresar por primera vez al Hall de la Fama.
+
+MADAAMU - 1046 - Regalo artesanos carbón Azalea, tras completar su misión secundaria. 
+Evoluciona de Farfetch'D con Piedra Sagrada.
+
+SHIBIREFUGU - 1047 - Salvaje en interior Lago Furia. Evoluciona de Qwilfish con Piedra Trueno.
+
+GOROCHU - 1048 - Evoluciona de Raichu con Piedra Sagrada.
+
+YANMTEURA - 1049 - Evoluciona de Yanmega con Piedra Sagrada.
+
+AUREDIAN - 1050 - Evoluciona de Ledian con Piedra Sagrada.
+
+GUARDIA - 1051 - Evoluciona de Marowak al nv.105.
+
+BLESSPARCE - 1052 - Evoluciona de Dunsparce con Piedra Sagrada.
+
+DUN - 1053 - Evoluciona de Blessparce subiendo un nivel en la cima del Pilar Dun (T-4 - Mision Ruta 47).
+
+WRONGSPARCE - 1054 -
+
+ZAPDOS-P - 1055 - Obtenible tras misión 6 del DLC (T-4).
+
+ARMALDO-P - 1056 - Evoluciona de Armaldo con Piedra Devon.
+
+CRADILY-P - 1057 - Evoluciona de Cradily con Piedra Devon.
+
+RELICANTH-P - 1058 - Evoluciona de Relicanth con Piedra Devon.
+
+GYARADOS-Z - 1059 -
+
+BLASTOISE-Z - 1060 -
+
+PORYGON 3.1 - 1061 -
+
+ZAPDOS-Z - 1062 -
+
+
+
+

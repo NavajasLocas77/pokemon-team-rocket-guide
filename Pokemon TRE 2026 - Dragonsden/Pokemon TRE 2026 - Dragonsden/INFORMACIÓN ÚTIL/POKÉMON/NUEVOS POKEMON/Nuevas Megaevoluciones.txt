@@ -1,0 +1,59 @@
+MEGA BUTTERFREE
+
+Butterfree: Ps 60, At 45, Def 50, At.esp 90, Def.esp 80, Velocid 70. Total 395
+Butterfree-M: Ps 60, At 15, Def 50, At.esp 140, Def.esp 108, Velocid 122. Total 495
+
+Tipo: Bicho/Volador | Habilidad: Adaptable
+
+MEGA STARMIE
+
+Starmie: Ps 60, At 75, Def 85, At.esp 100, Def.esp 85, Velocid 115. Total 520
+Starmie-M Ps 60, At 75, Def 105, At.esp 130, Def.esp 105, Velocid 145. Total 620
+
+Tipo: Hielo/Psíquico | Habilidad: Refrigeración
+
+MEGA FLYGON
+
+Flygon Oficial: Ps 80, At 100, Def 80, At.esp 80, Def.esp 80, Velocid 100. Total 520
+Flygon Hackrom: Ps 80, At 100, Def 80, At.esp 100, Def.esp 80, Velocid 110. Total 550
+Flygon-M: Ps 80, At 90, Def 100, At.esp 140, Def.esp 100, Velocid 140. Total 650
+
+Tipo: Bicho/Dragón | Habilidad: Piel Celeste
+
+MEGA MILOTIC
+
+Milotic Oficial: Ps 95, At 60, Def 79, At.esp 100, Def.esp 125, Velocid 81. Total 540
+Milotic Hackrom: Ps 105, At 60, Def 79, At.esp 110, Def.esp 135, Velocid 81. Total 570
+Milotic-M: Ps 105, At 65, Def 99, At.esp 135, Def.esp 185, Velocid 81. Total 670
+
+Tipo: Agua/Hada | Habilidad: Aura Feérica
+
+MEGA DUSKNOIR
+
+Dusknoir Oficial: Ps 45, At 100, Def 135, At.esp 65, Def.esp 135, Velocid 45. Total 525
+Dusknoir Hackrom: Ps 55, At 100, Def 140, At.esp 75, Def.esp 140, Velocid 25. Total 535
+Dusknoir-M: Ps 55, At 110, Def 170, At.esp 105, Def.esp 170, Velocid 25. Total 635
+
+Tipo: Fantasma/Siniestro | Habilidad: Puño Férreo
+
+MEGA PORYGON-Z
+
+PorygonZ Oficial: Ps 85, At 80, Def 70, At.esp 135, Def.esp 75, Velocid 90. Total 535 
+PorygonZ Hackrom: Ps 85, At 80, Def 70, At.esp 145, Def.esp 75, Velocid 90. Total 545
+PorygonZ-M: Ps 85, At 100, Def 90, At.esp 165. Def.esp 95, Velocid 110. Total 645
+
+Tipo: Normal | Habilidad: Potencia
+
+MEGA NOIVERN:
+
+Noivern: Ps 85, At 70, Def 80, At.esp 97, Def.esp 80, Velocid 123. Total 535
+Noivern-M: Ps 85, At 80, Def 100, At.esp 127, Def.esp 90, Velocid 153. Total 635
+
+Tipo: Volador/Dragón | Habilidad: Indefenso
+
+MEGA TOXTRICITY
+
+Toxtricity: Ps 75, At 98, Def 70, At.esp 114, Def.esp 70, Velocid 75. Total 502
+Toxtricity-M: Ps 75, At 78, Def 85, At.esp 154, Def.esp 95, Velocid 115. Total 602
+
+Tipo: Eléctrico/Veneno | Habilidad: Punk Rock

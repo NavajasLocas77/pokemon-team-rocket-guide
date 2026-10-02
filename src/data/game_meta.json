@@ -1,0 +1,42 @@
+{
+  "version": "Pokémon Edición Team Rocket (2026)",
+  "author": "Dragonsden & Colaboradores (Colonelsalt, @kakarotto, Xiros, @KevinXDE, @Polar, Alexander Daniel, Scar'99, Cakezy)",
+  "engine": "Pokeemerald Expansion (RHH) / CFRU Base",
+  "generatedDate": "2026-10-01",
+  "sourceDisclaimer": "Todos los datos incluidos en esta guía han sido extraídos directamente de los archivos oficiales del juego proporcionados por el desarrollador Dragonsden.",
+  "counts": {
+    "totalPokemon": 1241,
+    "totalBattles": 213,
+    "totalSidequests": 27,
+    "totalItems": 402,
+    "totalMovesModified": 46,
+    "totalLocations": 200
+  },
+  "filesAudited": [
+    "PkmnTeamRocket.gba",
+    "Créditos.rtf",
+    "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "INFORMACIÓN ÚTIL/Preguntas Frecuentes.txt",
+    "INFORMACIÓN ÚTIL/QOLS.txt",
+    "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf",
+    "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/CAMBIOS en STATS, TIPOS y HABILIDADES.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/EVOLUCIÓN TODOS PKMN.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/NUEVOS POKEMON/Experimentos Rocket.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/NUEVOS POKEMON/Fuertes Vínculo.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/NUEVOS POKEMON/Nuevas Megaevoluciones.txt",
+    "INFORMACIÓN ÚTIL/POKÉMON/NUEVOS POKEMON/Primigenios y Antiguos.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T4 - FÁCIL_DIFÍCIL/DLC SEC. FÁCIL_DIFÍCIL.txt",
+    "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T5 - FÁCIL_DIFÍCIL/HOENN SEC. FÁCIL_DIFÍCIL.txt"
+  ]
+}

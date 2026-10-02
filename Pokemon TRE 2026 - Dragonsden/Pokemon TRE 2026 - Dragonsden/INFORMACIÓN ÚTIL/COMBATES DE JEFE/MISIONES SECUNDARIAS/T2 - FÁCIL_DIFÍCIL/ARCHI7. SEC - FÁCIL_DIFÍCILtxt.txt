@@ -1,0 +1,391 @@
+ISLA PRIMA - CUEVA TESORO
+----------------------------------------------
+VS ADMINISTRADOR DEVON ESMERALDA
+
+---FÁCIL---
+
+- Tropius (Nv. 66) | No item | Seria | Poder Solar
+
+  Mov: Gigadrenado, pulso dragón, golpe cuerpo, tajo aéreo
+  IVs: 22/31 | EVs: 68 por cada stat (74 Vel)
+
+- Cradily (Nv. 67) | No item | Seria | Ventosas
+
+  Mov: Arraigo, recuperación, tierra viva, gigadrenado
+  IVs: 22/31 | EVs: 68 por cada stat
+
+- Metagross (Nv. 68) | No item | Seria | Cuerpo Puro
+
+  Mov: Cabezahierro, bola sombra, psíquico, machada
+  IVs: 22/31 | EVs: 68 por cada stat (74 Vel)
+
+- Sceptile (Nv. 67) | No item | Modesta | Allanamiento
+
+  Mov: Gigadrenado, pulso dragón, tijera x, onda certera
+  IVs: 22/31 | EVs: 84 por cada stat (110 Ps, 64 At)
+
+- Registeel (Nv. 69) | Restos | Seria | Adaptable
+
+  Mov: Foco resplandor, poder pasado, rayo, fuerza bruta
+  IVs: 25/31 | EVs: 252 At.Esp, 252 Ps, 6 Def.Esp
+
+---DIFÍCIL---
+
+- Cradily (Nv. 67) | Restos | Osada | Sal Purificadora
+
+  Mov: Trampa rocas, recuperación, tóxico, gigadrenado
+  IVs: 26/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+- Tropius (Nv. 66) | Chal.Asalto | Osada | Respondón
+
+  Mov: Lluevehojas, cometa draco, tierra viva, tajo aéreo
+  IVs: 26/31 | EVs: 252 Ps, 252 Def, 6 At.Esp
+
+- Metagross (Nv. 68) | Globo Helio | Seria | Cuerpo Puro
+
+  Mov: Puño meteoro, agilidad, terremoto, cabezazo zen
+  IVs: 26/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Registeel (Nv. 69) | Bola Férrea | Plácida | Adaptable
+
+  Mov: Giro bola, plancha corporal, descanso, sonámbulo
+  IVs: 26/31 | EVs: 252 Def, 252 Def.Esp, 6 Ps
+
+- Sceptile (Nv. 70) | Sceptilita | Modesta | Cortante
+
+  Mov: Lluevehojas, pulso dragón, gigadrenado, p.oculto (fuego)
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Deoxys (Nv. 70) | Hierba Única | Modesta | Presión
+
+  Mov: Rayo meteoro, psicocarga, rayo, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Ps, 6 Vel
+
+ISLA SECUNDA - NEGOCIO RECREATIVOS COMBATE TRIPLE
+-------------------------------------------------------------
+VS PRIMER EX-EJECUTIVO ROCKET
+
+---FÁCIL---
+
+- Weezing (Nv. 60) | No item | Seria | Levitación
+
+  Mov: Residuos, lanzallamas, divide dolor, niebla clara
+  IVs: 19/31 | EVs: 64 por cada stat
+
+- Kingler (Nv. 61) | Chal.Asalto | Seria | Corte Fuerte
+
+  Mov: Surf, avalancha, rayo hielo, desarme
+  IVs: 19/31 | EVs: 64 por cada stat
+
+- Nidoqueen (Nv. 62) | B.Zidra | Modesta | Pot.Bruta
+
+  Mov: Lanzallamas, bomba lodo, rayo, tierra viva
+  IVs: 31/31 | EVs: 64 por cada stat
+
+---DIFÍCIL---
+
+- Weezing (Nv. 60) | Chal.Asalto | Modesta | Levitación
+
+  Mov: Bomba lodo, llamarada, divide dolor, bola sombra
+  IVs: 23/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+- Kingler (Nv. 61) | Pañuelo Elegido | Seria | Pot.Bruta
+
+  Mov: Martillazo, avalancha, desarme, guillotina
+  IVs: 23/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Mismagius (Nv. 61) | Piedra Pómez | Miedosa | Levitación
+
+  Mov: Bola sombra, brillo mágico, ll.embrujada, psíquico
+  IVs: 23/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Nidoqueen (Nv. 62) | Vidasfera | Modesta | Pot.Bruta
+
+  Mov: Lanzallamas, bomba lodo, rayo, tierra viva
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Def
+
+VS SEGUNDO EX-EJECUTIVO ROCKET
+
+---FÁCIL---
+
+- Victreebel (Nv. 60) | No item | Seria | Clorofila
+
+  Mov: Gigadrenado, bomba ácida, corte, doble filo
+  IVs: 19/31 | EVs: 60 por cada stat
+
+- Donphan (Nv. 61) | No item | Seria | Velo Arena
+
+  Mov: Magnitud, tumba rocas, canto helado, colmillo ígneo
+  IVs: 19/31 | EVs: 60 por cada stat
+
+- Scizor (Nv. 62) | B.Caoca | Cauta | Experto
+
+  Mov: Puño Bala, demolición, golpe aéreo, cuchillada
+  IVs: 31/31 | EVs: 60 por cada stat
+
+---DIFÍCIL---
+
+- Victreebel (Nv. 60) | Banda focus | Miedosa | Clorofila
+
+  Mov: Lluevehojas, bomba lodo, gole bajo, abrecaminos
+  IVs: 23/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Donphan (Nv. 61) | Cinta Fuerte | Firme | Robustez
+
+  Mov: Terremoto, avalancha, canto helado, abrecaminos
+  IVs: 22/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Honchkrow (Nv. 61) | Pañuelo Elegido | Alegre | Autoestima
+
+  Mov: Golpe bajo, pájaro osado, ala de acero, fuerza bruta
+  IVs: 22/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Scizor (Nv. 62) | B.Caoca | Cauta | Experto
+
+  Mov: Puño Bala, ida y vuelta, fuerza bruta, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 Vel
+
+VS EX-ADMINISTRADOR ROCKET FRANK
+
+---FÁCIL---
+
+- Kabutops (Nv. 61) | No item | Seria | Arm.Frágil
+
+  Mov: Surf, poder pasado, acua jet, tajo umbrío
+  IVs: 20/31 | EVs: 68 por cada stat
+
+- Staraptor (Nv. 62) | No item | Seria | Intimidación
+
+  Mov: Golpe aéreo, ala de acero, onda ígnea, ataque rápido
+  IVs: 20/31 | EVs: 68 por cada stat
+
+- Nidoking (Nv. 63) | No item | Seria | Pot.Bruta
+
+  Mov: Residuos, taladradora, demolición, tijera x
+  IVs: 20/31 | EVs: 68 por cada stat
+
+- Torterra (Nv. 64) | No item | Seria | Espesura
+
+  Mov: Lluevehojas, trampa rocas, avalancha, terremoto
+  IVs: 20/31 | EVs: 68 por cada stat
+
+- Garchomp (Nv. 65) | P.Elegido | Seria | Piel Tosca
+
+  Mov: Guillotina
+  IVs: 31/31 | EVs: 68 por cada stat
+
+---DIFÍCIL---
+
+- Kabutops (Nv. 61) | Banda focus | Alegre | Arm.Frágil
+
+  Mov: Hidroariete, roca afilada, acua jet, trampa rocas
+  IVs: 24/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Drapion (Nv. 62) | Chal.Asalto | Firme | Arm.Batalla
+
+  Mov: Puya nociva, guillotina, chupavidas, terremoto
+  IVs: 24/31 | EVs: 252 At, 252 Def, 6 Def.Esp
+
+- Nidoking (Nv. 63) | Pañuelo Elegido | Modesta | Pot.Bruta
+
+  Mov: Lanzallamas, bomba lodo, rayo hielo, tierra viva
+  IVs: 24/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Torterra (Nv. 64) | Baya Rimoya | Firme | Audaz
+
+  Mov: Mazazo, pulimento, roca afilada, terremoto
+  IVs: 24/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Garchomp (Nv. 65) | Piedra Pómez | Alegre | Piel Tosca
+
+  Mov: Guillotina, terremoto, garra dragón, roca afilada
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Staraptor (Nv. 65) | Staraptorita | Alegre | Intimidación/Respondón
+
+  Mov: A bocajarro, respiro, pájaro osado, patada ígnea
+  IVs: 24/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+ISLA TERA - BOSQUE BAYA - GIMNASIO PSÍQUICO
+-----------------------------------------------------------
+VS LÍDER TERA MORFEO
+
+---FÁCIL---
+
+- Bronzong (Nv. 68) | No item | Agitada | Levitación
+
+  Mov: Psíquico, cuerpopesado, reflejo, pantalla luz
+  IVs: 24/31 | EVs: 76 por cada stat (82 Ps, 44 Vel)
+
+- Musharna (Nv. 69) | No item | Mansa | Sincronización
+
+  Mov: Premonición, espacio raro, brillo mágico, bostezo
+  IVs: 24/31 | EVs: 136 Ps, 184 Def, 98 At.Esp, 92 Def.Esp
+
+- Hatterene (Nv. 69) | No item | Mansa | Alma Cura
+
+  Mov: Gota vital, beso drenaje, psicocarga, ll.embrujada
+  IVs: 24/31 | EVs: 136 Ps, 184 Def, 98 At.Esp, 92 Def.Esp
+
+- Farigiraf (Nv. 70) | No item | Mansa | Cola Armadura
+
+  Mov: Triturar, cabezazo zen, hierba lazo, vozarrón
+  IVs: 27/31 | EVs: 136 Ps, 184 Def, 98 At.Esp, 92 Def.Esp
+
+- Hypno-& (Nv. 72) | Restos | Mansa | Espejomágico
+
+  Mov: Brecha negra, psicocarga, esfera aural, barrera
+  IVs: 31/31 | EVs: 252 Ps, 128 At.Esp, 128 Def.Esp
+
+---DIFÍCIL---
+
+- Bronzong (Nv. 68) | Refleluz | Agitada | Levitación
+
+  Mov: Trampa rocas, giro bola, reflejo, pantalla luz
+  IVs: 28/31 | EVs: 252 Ps, 128 Def, 128 Def.Esp
+
+- Blacephalon (Nv. 71) | Pañuelo Elegido | Modesta | Ultraimpulso
+
+  Mov: Cabeza sorpresa, bola sombra, psíquico, lanzallamas
+  IVs: 28/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Musharna (Nv. 69) | Baya Kouba | Mansa | Psicogénesis
+
+  Mov: Premonición, espacio raro, brillo mágico, bostezo
+  IVs: 28/31 | EVs: 136 Ps, 184 Def, 98 At.Esp, 92 Def.Esp
+
+- Marshadow (Nv. 71) | Piedra Pómez | Firme | Experto
+
+  Mov: Robasombra, patada baja, tumba rocas, sombra vil
+  IVs: 28/31 | EVs: 252 Ps, 252 Def, 6 Vel
+
+- Farigiraf (Nv. 70) | Vidasfera | Mansa | Cola Armadura
+
+  Mov: Espacio raro, vozarrón, hierba lazo, láser doble
+  IVs: 28/31 | EVs: 252 Ps, 252 At.Esp, 6 Def
+
+- Hypno-& (Nv. 72) | Restos | Mansa | Espejomágico
+
+  Mov: Brecha negra, psicocarga, esfera aural, barrera
+  IVs: 31/31 | EVs: 252 Ps, 128 At.Esp, 128 Def.Esp (15 en el resto)
+
+ISLA SÉTIMA - CAJAS ANCIANA - GIMNASIO NORMAL
+---------------------------------------------------------------------
+VS LÍDER SÉTIMA ZOE
+
+---FÁCIL---
+
+- Ambipom (Nv. 67) | No item | Seria | Recogida
+
+  Mov: Sorpresa, doble filo, patada baja, desarme
+  IVs: 23/31 | EVs: 72 por cada stat (78 Vel, 64 At.Esp)
+
+- Miltank (Nv. 68) | No item | Seria | Sebo
+
+  Mov: Golpe cuerpo, batido, terremoto, puño fuego
+  IVs: 23/31 | EVs: 88 por cada stat (94 Vel, 64 At.Esp)
+
+- Snorlax (Nv. 69) | No item | Seria | Sebo
+
+  Mov: Golpe cuerpo, cabezazo zen, terremoto, giga impacto
+  IVs: 23/31 | EVs: 88 por cada stat (94 Ps, 64 At.Esp)
+
+- Wyrdeer (Nv. 70) | Vidasfera | Seria | Intimidación
+
+  Mov: Bola sombra, psíquico, esfera aural, vozarrón
+  IVs: 23/31 | EVs: 88 en cada stat (94 Vel, 64 At.Esp)
+
+- Ursaluna (Nv. 71) | Chal.Asalto | Firme | Agallas
+
+  Mov: Fuerza equina, golpe cuerpo, avalancha, machada
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Vel
+
+---DIFÍCIL---
+
+- Ambipom (Nv. 67) | Vidasfera | Firme | Experto
+
+  Mov: Sorpresa, doble golpe, patada baja, triple axel
+  IVs: 27/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Miltank (Nv. 68) | Restos | Firme | Intrépido
+
+  Mov: Golpe cuerpo, batido, terremoto, puño fuego
+  IVs: 27/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Kangaskhan (Nv. 68) | Baya Pomaro | Firme | Foco Interno
+
+  Mov: Golpe cuerpo, cabezazo zen, golpe bajo, sorpresa
+  IVs: 27/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Snorlax (Nv. 69) | Cola Plúmbea | Agitada | Sebo
+
+  Mov: Golpe cuerpo, sonámbulo, terremoto, descanso
+  IVs: 27/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Wyrdeer (Nv. 70) | Chaleco Asalto | Firme | Intimidación
+
+  Mov: Asalto barrera, megacuerno, abrecaminos, terremoto
+  IVs: 27/31 | EVs: 252 Def.Esp, 252 At, 6 Def
+
+- Ursaluna (Nv. 71) | Llamasfera | Firme | Agallas
+
+  Mov: Pulimento, imagen, roca afilada, puño drenaje
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def
+
+ISLA SÉTIMA - OESTE ISLA ORIGEN
+---------------------------------------------------------------------
+VS EXCULTISTA MAKI
+
+---FÁCIL---
+
+- Golurk (Nv. 71) | Banda Focus | Seria | Indefenso
+
+  Mov: Puño sombra, puño drenaje, trampa rocas, puño hielo
+  IVs: 24/31 | EVs: 76 por cada stat (82 At, 44 At.Esp)
+
+- Slowking (Nv. 70) | Restos | Seria | Despiste
+
+  Mov: Surf, lanzallamas, psíquico, rayo hielo
+  IVs: 24/31 | EVs: 76 por cada stat (44 At, 82 At.Esp)
+
+- Milotic (Nv. 71) | Baya Ziuela | Seria | Escama Especial
+
+  Mov: Hidrobomba, recuperación, fuerza lunar, escaldar
+  IVs: 26/31 | EVs: 88 en cada stat (44 At, 82 At.Esp)
+
+- Trxatu (Nv. 72) | Hierb.Blanca | Modesta | Sincronización
+
+  Mov: Psicoataque, tajo aéreo, onda ígnea, gigadrenado
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+---DIFÍCIL---
+
+- Alakazam (Nv. 70) | Banda Focus | Modesta | Muro Mágico
+
+  Mov: Psíquico, bola sombra, brillo mágico, onda certera
+  IVs: 28/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Golurk (Nv. 72) | Golurkita | Firme | Puño Invisible
+
+  Mov: Poltergeist, a bocajarro, terremoto, puño hielo
+  IVs: 28/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Polteageist (Nv. 70) | Hierba Blanca | Osada | Cuerpo Maldito
+
+  Mov: Rompecoraza, bola sombra, poder reserva, absorbefuerza
+  IVs: 28/31 | EVs: 252 Ps, 116 Def, 140 Vel
+
+- Lucario (Nv. 71) | Vidasfera | Firme | Adaptable
+
+  Mov: A bocajarro, puño meteoro, roca afilada, puño bala
+  IVs: 28/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Milotic (Nv. 71) | Escama Bella | Seria | Tenacidad
+
+  Mov: Hidrobomba, recuperación, fuerza lunar, escaldar
+  IVs: 28/31 | EVs: 252 Ps, 252 At.Esp, 6 Def.Esp
+
+- Trxatu (Nv. 72) | Piedra Pómez | Modesta | Coránima
+
+  Mov: Psicocarga, aerochorro, onda ígnea, gigadrenado
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps

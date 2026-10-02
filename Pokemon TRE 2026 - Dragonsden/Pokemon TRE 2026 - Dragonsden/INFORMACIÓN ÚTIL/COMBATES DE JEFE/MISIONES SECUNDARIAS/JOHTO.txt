@@ -1,0 +1,371 @@
+CIUDAD IRIS - ESTUDIO RUINAS ALFA
+----------------------------------------------
+VS CIENTÍFICO LABORATORIO IRIS
+
+- Bastiodon (Nv. 78) | B.Zidra | Firme | Robustez
+
+  Mov: Trampa rocas, cabezahierro, avalancha, tóxico
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Aerodactyl (Nv. 79) | Vidasfera | Alegre | Presión
+
+  Mov: Vuelo, roca afilada, colm.fuego, terremoto
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Dracovish (Nv. 79) | Chal.Asalto | Firme | Mand.Fuerte
+
+  Mov: Branquibocado, triturar, psicocolmillos, furia dragón
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Tyrantrum (Nv. 81) | P.Elegido | Alegre | Cabeza Roca
+
+  Mov: Testarazo
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Rampardos (Nv. 81) | Banda focus | Firme | Pot.Bruta
+
+  Mov: Avalancha, cabezazo zen, cabezahierro, puño fuego
+  IVs: 31/31 | EVs: 84 por cada stat
+
+- Archeops (Nv. 82) | Gema Volador | Alegre | Flaqueza
+
+  Mov: Acróbata, roca afilada, terremoto, llamarada
+  IVs: 31/31 | EVs: 84 por cada stat
+
+
+
+CRIAPOKEMON TAUROS/MILTANK RUTA 34
+---------------------------------------------------------
+VS PRIMER CRIAPOKÉMON
+
+- Miltank (Nv. 79) | Restos | Seria | Intrépido
+
+  Mov: Trampa rocas, tóxico, mov.sísmico, batido
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Miltank (Nv. 79) | Vidasfera | Seria | Intrépido
+
+  Mov: Terremoto, golpe cuerpo, puño fuego, cabezahierro
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Miltank (Nv. 79) | Casco Dentado | Seria | Intrépido
+
+  Mov: Batido, maldición, golpe cuerpo, cabezazo zen
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Miltank (Nv. 79) | Chal.Asalto | Seria | Sebo
+
+  Mov: Terremoto, cabezazo zen, puño fuego, golpe cuerpo
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tauros (Nv. 80) | Gema Fuego | Seria | Pot.Bruta
+
+  Mov: Golpe cuerpo, llamarada, cabezazo zen, cabezahierro
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+
+VS SEGUNDO CRIAPOKEMON
+
+- Tauros (Nv. 79) | C.Elegida | Seria | Intimidación
+
+  Mov: Golpe
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tauros (Nv. 79) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Terremoto, golpe cuerpo, cabezazo zen, persecución
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tauros (Nv. 79) | B.Ziuela | Seria | Intimidación
+
+  Mov: Descanso, maldición, golpe cuerpo, avalancha
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tauros (Nv. 79) | Vidasfera | Seria | Pot.Bruta
+
+  Mov: Cabezazo zen, cabezahierro, golpe cuerpo, avalancha
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Miltank (Nv. 80) | C.Elegida | Seria | Intrépido
+
+  Mov: Golpe cuerpo
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+
+
+SECUNDARIA BAR OLIVO - SUBTERRÁNEOS TRIGAL
+-------------------------------------------------------------
+VS CABALLERO DUEÑO POKETRÁFICO TRIGAL
+
+- Aggron (Nv. 82) | C.Elegida | Firme | Robustez
+
+  Mov: Cuerpopesado, testarazo
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def.Esp
+
+- Poliwrath (Nv. 83) | Chal.Asalto | Firme | Abs.Agua
+
+  Mov: Puño drenaje, hidroariete, desarme, puya nociva
+  IVs: 31/31 | EVs: 252 At, 252 Def
+
+- Roserade (Nv. 84) | Vidasfera | Modesta | Disemillar
+
+  Mov: Lluevehojas, paranormal, bomba lodo, somnífero
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Aerodactyl (Nv. 85) | Gema Volador | Firme | Presion
+
+  Mov: Acróbata, avalancha, terremoto, colm.fuego
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Hydreigon (Nv. 86) | Vidasfera | Modesta | Levitación
+
+  Mov: Pulso umbrío, cometa draco, cola férrea, llamarada
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Garchomp (Nv. 87) | Garchompita | Firme | Poder Arena
+
+  Mov: Terremoto, roca afilada, cometa draco, colm.fuego
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+
+
+SECUNDARIA ESTAFADORES KANTO - ALMACÉN MAR ESTE C.OLIVO
+----------------------------------------------------------------
+VS PRIMER ESTAFADOR
+
+- Granbull (Nv. 80) | Chal.Asalto | Seria | Intimidación
+
+  Mov: Carantoña, triturar, a bocajarro, terremoto
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Hitmonchan (Nv. 81) | Banda focus | Seria | Puño Férreo
+
+  Mov: Puño drenaje, ultrapuño, puño fuego, puño hielo
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Ninetales (Nv. 82) | Vidasfera | Seria | Sequía
+
+  Mov: Lanzallamas, rayo solar, bola sombra, paranormal
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Electivire (Nv. 83) | C.Xperto | Seria | Puño Férreo
+
+  Mov: Tajo cruzado, puño fuego, terremoto, puño trueno
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tauros (Nv. 83) | Casco Dentado | Seria | Pot.Bruta
+
+  Mov: Golpe cuerpo, cabezahierro, cabezazo zen, avalancha
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Scrafty (Nv. 84) | Scraftinita | Firme | Intimidación
+
+  Mov: Puño drenaje, desarme, puya nociva, danza dragón
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Vel
+
+
+VS SEGUNDO ESTAFADOR
+
+- Ambipom (Nv. 81) | Vidasfera | Seria | Encadenado
+
+  Mov: Sorpresa, pedrada, golpe cuerpo, recurrente
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Hitmonlee (Nv. 82) | Gema normal | Seria | Liviano
+
+  Mov: Desarme, sorpresa, a bocajarro, puño bala
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Scizor (Nv. 83) | P.Elegido | Seria | Enjambre
+
+  Mov: Ida y vuelta
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Meganium (Nv. 84) | Chal.Asalto | Seria | Herbogénesis
+
+  Mov: Gigadrenado, poder pasado, fuerza lunar, tierra viva
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Magmortar (Nv. 84) | Banda focus | Seria | Cuerpo Llama
+
+  Mov: Llamarada, onda certera, rayo, energibola
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Barbaracle (Nv. 85) | Barbaracita | Firme | Garra Dura
+
+  Mov: Hidroariete, puya nociva, tajo cruzado, fuerza
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Ps
+
+
+
+VS TERCER ESTAFADOR
+
+- Weavile (Nv. 85) | Gema Normal | Seria | Foco interno
+
+  Mov: Sorpresa, desarme, chuzos, demolición
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Lickilicky (Nv. 85) | Gema normal | Seria | Despiste
+
+  Mov: Terremoto, golpe cuerpo, desarme, cabezazo zen
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Tangrowth (Nv. 85) | Chal.Asalto | Seria | Sebo
+
+  Mov: Gigadrenado, onda certera, poder pasado, bomba lodo
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Magnezone (Nv. 85) | Vidasfera | Seria | Robustez
+
+  Mov: Gigadrenado, poder pasado, fuerza lunar, tierra viva
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At)
+
+- Gyarados (Nv. 85) | C.Elegida | Seria | Autoestima
+
+  Mov: Cascada
+  IVs: 31/31 | EVs: 100 en cada stat (110 Vel, 0 At.Esp)
+
+- Pyroar (Nv. 86) | Pyroarita | Miedosa | Intimidación/Pot.Bruta
+
+  Mov: Vozarrón, llamarada, arenas ardientes, relajo
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp, 6 Ps
+
+
+
+CORRIENTES AL OESTE DE CIUDAD CEREZO
+------------------------------------------------------------------
+VS DISCÍPULO PEGASO
+
+- Skarmory (Nv. 84) | Restos | Cauta | Robustez
+
+  Mov: Trampa rocas, púas, pájaro osado, cabezahierro
+  IVs: 31/31 | EVs: 252 Ps, 128 At, 128 Def.Esp
+
+- Swellow (Nv. 85) | Llamasfera | Firme | Agallas
+
+  Mov: Imagen, vuelo, ala de acero, at.rápido
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Staraptor (Nv. 85) | C.Elegida | Alegre | Audaz
+
+  Mov: Pájaro osado
+  IVs: 31/31 | EVs: 252 Vel, 252 At, 6 Def
+
+- Togekiss (Nv. 86) | Restos | Osada | Dicha
+
+  Mov: Tajo aéreo, onda trueno, brillo mágico, lanzallamas
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp, 6 Vel
+
+- Dragonite (Nv. 86) | Restos | Agitada | Multiescamas
+
+  Mov: Danza dragón, respiro, vuelo, sustituto
+  IVs: 31/31 | EVs: 252 Ps, 128 Def, 128 Def.Esp
+
+- Pidgeot (Nv. 87) | Pidgeotita | Miedosa | Indefenso
+
+  Mov: Vendaval, hiperrayo, onda ígnea, respiro
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+
+VS SRA.AROMA SHAKURA
+
+- Furret (Nv. 85) | Hierba Única | Alegre | Pelaje Recio
+
+  Mov: Cabezazo, velocidad extrema, golpe bajo, a bocajarro
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Ledian (Nv. 86) | Gema Volador | Firme | Energía Pura
+
+  Mov: Acróbata, ultrapuño, puño drenaje, desarme
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Corsola (Nv. 86) | Mineral Evol | Osada | Roca Sólida
+
+  Mov: Trampa rocas, poder pasado, escaldar, recuperación
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Sunflora (Nv. 87) | Restos | Serena | Abs.Fuego
+
+  Mov: Gigadrenado, danza llama, tierra viva, beso drenaje
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Bellossom (Nv. 86) | Vidasfera | Modesta | Primer Auxilio
+
+  Mov: Gigadrenado, bomba lodo, absorbefuerza, fuerza lunar
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Meganium (Nv. 88) | Meganiumita | Modesta | Herbogénesis/Mega Sol
+
+  Mov: Meteorobola, fuerza lunar, gigadrenado, síntesis
+  IVs: 31/31 | EVs: 128 en todos los stats
+
+
+PUEBLO PRIMAVERA - LABORATORIO ELM
+---------------------------------------------------------------
+VS PROFESOR ELM
+
+- Feraligatr (Nv. 86) | Vidasfera | Firme | Pot.Bruta
+
+  Mov: Triturar, puño hielo, cabezazo zen, cascada
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Nidoqueen-Y (Nv. 87) | Chal.Asalto | Modesta | Pel.Recio
+
+  Mov: Tierra viva, lanzallamas, rayo, bomba lodo
+  IVs: 31/31 | EVs: 252 Ps, 252 Def.Esp, 6 Def
+
+- Raikou (Nv. 87) | Vidasfera | Miedosa | Pot.Bruta
+
+  Mov: Rayo, escaldar, paranormal, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Porygon3 (Nv. 87) | Restos | Miedosa | Levitación
+
+  Mov: Triataque, bola sombra, recuperación, reflejo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Tyranitar (Nv. 88) | Tyranitarita | Agitada | Torm.Arena/Roca Sólida
+
+  Mov: Triturar, danza dragón, avalancha, terremoto
+  IVs: 31/31 | EVs: 252 Def, 128 Ps, 128 Def.Esp
+
+- Electrode-Y (Nv. 89) | B.Zidra | Modesta | Levitación
+
+  Mov: Rayo, tierra viva, foco resplandor, pantalla luz
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+
+
+SECUNDARIA CARBÓN AZALEA - ANCIANOS PUEBLO CAOBA
+----------------------------------------------------------------
+VS EMPRESARIO CARBÓN AZALEA
+
+- Ninetales (Nv. 88) | Roca Calor | Miedosa | Sequía
+
+  Mov: Lanzallamas, rayo solar, pulso umbrío, reflejo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Magmortar (Nv. 89) | Magmatizador | Miedosa | Mega Disparador
+
+  Mov: Llamarada, esfera aural, pulso umbrío, rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Sirfetch'd (Nv. 89) | C.Elegida | Firme | Intrépido
+
+  Mov: A bocajarro
+  IVs: 31/31 | EVs: 252 Ps, 252 At, 6 Def
+
+- Rotom Horno (Nv. 90) | Refleluz | Miedosa | Levitación
+
+  Mov: Sofoco, voltiocambio, pantalla luz, reflejo
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def
+
+- Kommo-O (Nv. 91) | Banda focus | Firme | Funda
+
+  Mov: Roca afilada, puya nociva, garra dragón, a bocajarro
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Ps
+
+- Camerupt (Nv. 92) | Cameruptita | Modesta | Pot.Bruta
+
+  Mov: Llamarada, tierra viva, poder pasado, amnesia
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (40 en el resto)

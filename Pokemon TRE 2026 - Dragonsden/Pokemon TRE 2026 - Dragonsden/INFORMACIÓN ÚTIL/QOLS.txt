@@ -1,0 +1,142 @@
+
+QUALITIES OF LIFE 
+
+Nota: En este documento, todos los QOLS irán apareciendo en orden creciente, según el momento del juego en el que se desbloquean.
+
+Nota 2: Lo referente a la obtención de la mayoría de objetos, como las MTs, tiene su propio documento. Este se centra más en mecánicas, farmeo, etc.
+
+----------------------------------------------------------------------------
+
++ FARMEO DE DINERO:
+
+- Moneda Amuleto obtenible al derrotar al Ayudante de Oak de Ruta 16.
+
+
+- Durante toda Kanto, las recompensas de las misiones proporcionan una gran cantidad de dinero. 
+Sin embargo, en varias secundarias hay también recompensas de cientos de miles de ¥, en regiones posteriores a Kanto, algunas secundarias dan recompensas que superan el millón de ¥.
+
+
+- A partir de la temporada 2 (Archi7) el recluta de Isla Inta, ahora ascendido a Alto Rango, empieza a darnos cierta cantidad tras combatir contra él:
+
+| Como Alto Rango - Total de 15000-17000¥ por combate.
+
+Para ello hay que unir el uso de la mon.amuleto, a la posibilidad de robarle (usando Ladrón) a su Nidoqueen la Pepita que lleva equipada. También el valor de las 5 Super Ball que te regala.
+
+| Como Ejecutivo (desde inicio DLC) - Aproximado de 40000¥ por combate.
+
+Para ello hay que unir el uso de la mon.amuleto, a la posibilidad de robarle (usando Ladrón) a su NidoqueenY la Maxipepita que lleva equipada. También el valor de las 5 Ultra Ball que te regala.
+
+
+
+-----------------------------------------------------------------------------
+
++ FARMEO DE EXPERIENCIA:
+
+- En las tiendas rocket, de forma gradual se da acceso a varios tipos de caramelos, que permiten subir de nivel en una cierta franja:
+
+| Caramelo-XS: Disponible en la Base Guardería de Ruta 5.
+Cuesta 1500¥ la unidad. Aumenta un nivel entre los niveles 1 y 15.
+
+| Caramelo-S: Disponible en la Base Rocket Profunda.
+Cuesta 3000¥ la unidad. Aumenta un nivel entre los niveles 15 y 30.
+
+| Caramelo-XM: Disponible en la Base Rocket Profunda (Sala de Ejecutivos).
+Cuesta 4500¥ la unidad. Aumenta un nivel entre los niveles 30 y 45.
+
+| Caramelo-XS: Disponible en la Base Rocket Profunda (Sala de Entrenamiento).
+Cuesta 6000¥ la unidad. Aumenta un nivel entre los niveles 45 y 65.
+
+| Caramelo-L: Disponible en la Base Rocket de Johto.
+Cuesta 7500¥ la unidad. Aumenta un nivel entre los niveles 65 y 75.
+
+| Caramelo-XL: Disponible en la Base Rocket de Johto (Segunda Planta).
+Cuesta 8500¥ la unidad. Aumenta un nivel entre los niveles 75 y 85.
+
+| Supercaramelo: Disponible en la Base Rocket de Hoenn.
+Cuesta 9500¥ la unidad. Aumenta un nivel entre los niveles 85 y 95.
+
+| Hipercaramelo: Disponible en la Torre Radio Lavanda.
+Cuesta 10500¥ la unidad. Aumenta un nivel entre los niveles 95 y 105.
+
+
+- Igualmente, la sala de entrenamiento sigue disponible, de esta forma:
+
+| 6 Chansey al nv.50 - Disponible a partir de entrar a la Calle Victoria
+
+| 6 Blissey al nv.75 - Disponible a partir de acabar Johto
+
+| 6 Blissey al nv.90 - Disponible a partir de acabar el DLC
+
+
+
+OBJETOS Y MECÁNICAS ÚTILES
+----------------------------------------------------------------------------
+
++ Repartir Experiencia: 
+
+- Disponible tras la primera misión del juego.
+- Tras derrotar a la Cónsul, se le cae mientras es llevada a Cueva Perdida.
+
+
+
++ Vitaminas y entrenamiento de EVs:
+
+- A la venta a partir de Base Profunda. 3000¥ la unidad.
+
+- Las vitaminas pueden usarse hasta los 250 EVs, por lo que no es necesario entrenamiento específico para ello.
+
+
+
++ Mentas y bayas para cambiar naturalezas/bajar EVs:
+
+- Secundaria Cazabichos de C.Plateada, a su conclusión, puedes recoger estos frutos.
+
+- Estas bayas se van renovando con cada misión principal realizada, por lo que se puede regresar al lugar si se necesitan más.
+
+- Las mentas que no sean usadas pueden usarse para farmear dinero, puesto que se venden a 10000¥ la unidad.
+
+
+
++ Movimientos Huevo:
+
+- Accesibles en la Sala para Ejecutivos, al sur de Base Profunda.
+
+- Se desbloquea tras la misión de Zapdos en Central Energía.
+
+- Cuesta 5000¥ cada movimiento.
+
+
+
++ Recuerda Movimientos:
+
+- Existen dos recuerdamovimientos en el juego:
+Casa de Isla Secunda (Archi7) | Pueblo Azalea (Johto)
+
+- Ambos piden una mini seta a cambio de hacer recordar un movimiento.
+
+- Las Mini Setas, antes de entrar en Johto, pueden obtenerse:
+
+| Equipado en los Paras Salvajes (Mt.Moon) 
+| 2 unidades en Base Rocket Ruta 5
+| 2 unidades en el Jardín de la secundaria de las mentas
+| 2 unidades en Base Rocket Profunda (Sala Potencial Máximo)
+| 3 unidades Secundaria Estafadores Kanto. (Magikarp Mt.Moon + Cient.Fucsia)
+| 2 unidades en el Bosque de la secundaria de Atlas (T2: Archi7)
+
+- Al entrar en Johto pueden comprarse sin límite. Tienda al oeste de Ruta 45.
+
+
+
++ A partir de ganar la 5ta Medalla en Johto, obtienes acceso al P2 de la Base en esa región, ello desbloquea, entre otras cosas, lo siguiente:
+
+- Bayas EVs a la venta.
+- Posibilidad de volver perfecto (31 IVs en todo) a cualquier pkmn por 100000¥.
+- Acceso a la primera Piedra Rocket y multitud de Mega Piedras.
+
+
+
++ Mentas para cambiar naturalezas a la venta:
+
+- Dentro De la Torre Radio Lavanda (Misión 9 DLC)
+- Cada una cuesta 20000¥.
+

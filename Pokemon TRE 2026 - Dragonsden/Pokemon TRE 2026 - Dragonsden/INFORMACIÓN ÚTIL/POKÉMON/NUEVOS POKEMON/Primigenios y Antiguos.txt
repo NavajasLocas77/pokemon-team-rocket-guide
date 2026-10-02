@@ -1,0 +1,247 @@
+
+POKEMON ANTIGUOS/BETA ORO PLATA 97
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+MAROGHOST
+
+Marowak: Ps 60, At 80, Def 110, At.esp 50, Def.esp 80, Velocid 45. Total 425
+Maroghost: Ps 100, At 140, Def 120, At.esp 70, Def.esp 90, Velocid 70. Total 590
+
+Tipo: Tierra/Fantasma | Habilidades: Puño Férreo/Puño Invisible/Sombratrampa
+
+GUARDIA
+
+Marowak: Ps 60, At 80, Def 110, At.esp 50, Def.esp 80, Velocid 45. Total 425
+Kangaskhan: Ps 105, At 95, Def 80, At.esp 40, Def.esp 80, Velocid 90. Total 490
+Guardia: Ps 105, At 95, Def 145, At.esp 60, Def.esp 95, Velocid 60. Total 560
+
+Tipo: Tierra | Habilidad: Cabeza Roca/Intrépido/Amor Filial
+
+GHOST
+
+Ghost: Ps 90, At 60, Def 60, At.esp 165, Def.esp 150, Velocid 115. Total 640
+
+Tipo: Fantasma/Normal | Habilidad: Levitación/Intimidación/Coránima
+
+TRXATU
+
+Xatu: Ps 65, At 75, Def 70, At.esp 95, Def.esp 70, Velocid 95. Total 470
+Trxatu: Ps 75, At 75, Def 75, At.esp 115, Def.esp 115, Velocid 115. Total 570
+
+Tipo: Psíquico/Volador | Habilidad: Espejomágico/Sincronización/Coránima
+
+AERODACTYL-ESQUELETO
+
+Aerodactyl: Ps 80, At 105, Def 65, At.esp 60, Def.esp 75, Velocid 130. Total 515
+Aerodactyl-Sk: Ps 80, At 145, Def 95, At.esp 70, Def.esp 105, Velocid 120. Total 615
+
+Tipo: Volador/Fantasma | Habilidad: Sombratrampa
+
+KABUTOPS-ESQUELETO
+
+Kabutops: Ps 60, At 115, Def 105, At.esp 65, Def.esp 70, Velocid 80. Total 495
+Kabutops-Sk: Ps 60, At 155, Def 125, At.esp 75, Def.esp 80, Velocid 100. Total 595
+
+Tipo: Roca/Fantasma | Habilidad: Sombratrampa
+
+UNOWN ÁUREO
+
+Unown: Ps 48, At 72, Def 48, At.esp 72, Def.esp 48, Velocid 48. Total 336
+Unown Aúreo: Ps 104, At 104, Def 104, At.esp 156, Def.esp 156, Velocid 104. Total 728
+
+Tipo: Psíquico/Hada | Habilidad: Cuerpo Áureo
+
+REY UNOWN
+
+Unown: Ps 48, At 72, Def 48, At.esp 72, Def.esp 48, Velocid 48. Total 336
+Rey Unown: Ps 114, At 171, Def 114, At.esp 171, Def.esp 114, Velocid 114. Total 798
+
+Tipo: Siniestro/Veneno | Habilidad: Aura Oscura
+
+PURAKUSSU
+
+Pinsir: Ps 65, At 125, Def 100, At.esp 55, Def.esp 70, Velocid 85. Total 500
+Purakussu: Ps 75, At 165, Def 120, At.esp 45, Def.esp 70, Velocid 75. Total 550
+
+Tipo: Bicho/Fantasma | Habilidad: Intimidación/Rompemoldes/Cuerpo Maldito
+
+TAABAN
+
+Slowbro: Ps 95, At 75, Def 110, At.esp 100, Def.esp 80, Velocid 30. Total 490
+Taaban: Ps 95, At 95, Def 180, At.esp 85, Def.esp 55, Velocid 30. Total 540
+
+Tipo: Agua/Fantasma | Habilidad: Cuerpo Maldito/Encadenado/Regeneración
+
+WARTILLERY
+
+Octillery: Ps 75, At 105, Def 75, At.esp 105, Def.esp 75, Velocid 45. Total 480
+Wartillery: Ps 85, At 55, Def 155, At.esp 105, Def.esp 105, Velocid 35. Total 540
+
+Tipo: Agua/Acero | Habilidad: Francotirador/Mega Disparador/Filtro
+
+IKARY
+
+Ikary: Ps 65, At 125, Def 95, At.esp 35, Def.esp 75, Velocid 95. Total 490
+
+Tipo: Agua/Acero | Habilidad: Acero Templado/Piel Seca/Mand.Fuerte
+
+SHIBIRIFEGU
+
+Qwilfish: Ps 65, At 95, Def 85, At.esp 55, Def.esp 55, Velocid 85. Total 440
+Shibirifegu: Ps 95, At 65, Def 85, At.esp 115, Def.esp 85, Velocid 65. Total 510
+
+Tipo: Agua/Eléctrico | Habilidad: Electrogénesis/Abs.Eléct/Capa Tóxica
+
+AKUERIA
+
+Akueria: Ps 122, At 126, Def 102, At.esp 135, Def.esp 74, Velocid 82. Total 641
+
+Tipo: Agua/Dragón | Habilidad: Indefenso/Mandíbula Fuerte/Mandíbula Dragón
+
+MADAAMU
+
+Farfetch'D: Ps 52, At 90, Def 55, At.esp 58, Def.esp 62, Velocid 60. Total 377
+Madaamu: Ps 77, At 145, Def 95, At.esp 63, Def.esp 72, Velocid 95. Total 547
+
+Tipo: Planta/Volador | Habilidad: Intimidación/Afortunado/Cortante
+
+BOOHOO
+
+Noctowl: Ps 100, At 50, Def 50, At.esp 86, Def.esp 96, Velocid 70. Total 452
+Booho: Ps 120, At 55, Def 65, At.esp 116, Def.esp 126, Velocid 60. Total 542
+
+Tipo: Psíquico/Volador | Habilidad: Muro Mágico/Cromolente/Ojocompuesto
+
+GOROCHU
+
+Raichu: Ps 60, At 90, Def 55, At.esp 90, Def.esp 80, Velocid 110. Total 485
+Gorochu: Ps 70, At 100, Def 65, At.esp 125, Def.esp 90, Velocid 105. Total 555
+
+Tipo: Eléctrico/Lucha | Habilidad: Transistor/Agallas/Impulso
+
+AUREDIAN
+
+Ledian Oficial: Ps 55, At 35, Def 50, At.esp 55, Def.esp 110, Velocid 85. Total 390
+Ledian Hackrom: Ps 55, At 45, Def 50, At.esp 55, Def.esp 110, Velocid 95. Total 410
+Auredian: Ps 75, At 50, Def 60, At.esp 110, Def.esp 120, Velocid 120. Total 535
+
+Tipo: Bicho/Lucha | Habilidad: Impulso/Puño Férreo/Energía Pura
+
+YANMTEURA
+
+Yanmega: Ps 86, At 76, Def 86, At.esp 116, Def.esp 56, Velocid 95. 515
+Yanmteura: Ps 107, At 137, Def 107, At.esp 47, Def.esp 67, Velocid 85. Total 550
+
+Tipo: Bicho/Volador | Habilidad: Impulso/Cromolente/Funda
+
+BOMUSHIKAA
+
+Bomushikaa: Ps 90, At 65, Def 80, At.esp 102, Def.esp 112, Velocid 80. Total 529
+
+Tipo: Agua/Fuego | Habilidad: Absorber Agua/Sal Purificadora/Adaptable
+
+BLESSPARCE Y DUN
+
+Dunsparce: Ps 100, At 70, Def 70, At.esp 65, Def.esp 65, Velocid 45. Total 415
+Blessparce: Ps 125, At 60, Def 63, At.esp 83, Def.esp 101, Velocid 66. Total 498
+Dun: Ps 153, At 44, Def 66, At.esp 117, Def.esp 122, Velocid 99. Total 601
+
+Tipo: Dragón/Psíquico | Habilidad: Psicogénesis/Dicha/Multiescamas
+
+WRONGSPARCE
+
+Dunsparce: Ps 100, At 70, Def 70, At.esp 65, Def.esp 65, Velocid 45. Total 415
+Dudunsparce: Ps 125, At 100, Def 80, At.esp 85, Def.esp 75, Velocid 55. Total 520
+Wrongsparce: Ps 141, At 131, Def 121, At.esp 43, Def.esp 98, Velocid 65. Total 599
+
+Tipo: Normal/Tierra | Habilidad: Herbogénesis
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+FORMAS PRIMIGENIAS
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ZAPDOS PRIMIGENIO
+
+
+Zapdos Oficial: Ps 90, At 90, Def 85, At.esp 125, Def.esp 90, Velocid 100. Total 580
+Zapdos Hackrom: Ps 90, At 85, Def 90, At.esp 125, Def.esp 90, Velocid 100. Total 580
+Zapdos-P: Ps 90, At 85, Def 100, At.esp 175, Def.esp 100, Velocid 130. Total 680
+
+Tipo: Eléctrico/Siniestro | Habilidad: Electrogénesis/Levitación/Llovizna
+
+MOLTRES PRIMIGENIO
+
+Moltres Oficial: Ps 90, At 100, Def 90, At.esp 125, Def.esp 85, Velocid 90. Total 580
+Moltres Hackrom: Ps 90, At 85, Def 90, At.esp 125, Def.esp 100, Velocid 90. Total 580
+Moltres-P: Ps 90, At 85, Def 100, At.esp 185, Def.esp 110, Velocid 110. Total 680
+
+Tipo: Fuego/Dragón | Habilidad: Sequía/Multiescamas/Levitación
+
+ARTICUNO PRIMIGENIO
+
+Articuno: Ps 90, At 85, Def 100, At.esp 95, Def.esp 125, Velocid 85. Total 580
+Articuno-P: Ps 90, At 85, Def 100, At.esp 115, Def.esp 185, Velocid 115. Total 680
+
+Tipo: Hielo/Agua | Habilidad: Nevada/Levitación/Pelaje Recio
+
+GHOST PRIMIGENIO
+
+Ghost: Ps 90, At 60, Def 60, At.esp 165, Def.esp 150, Velocid 115. Total 640
+Ghost-P: Ps 90, At 90, Def 90, At.esp 205, Def.esp 160, Velocid 155. Total 790
+
+Tipo: Fantasma/Siniestro | Habilidad: Aura Oscura
+
+HO-OH PRIMIGENIO
+
+Ho-oh: Ps 106, At 130, Def 90, At.esp 110, Def.esp 154, Velocid 90. Total 680
+Ho-oh-P: Ps 106, At 70, Def 120, At.esp 150, Def.esp 194, Velocid 140. Total 780
+
+Tipo: Fuego/Hada | Habilidad: Cuerpo Áureo
+
+LUGIA PRIMIGENIO
+
+Lugia: Ps 106, At 90, Def 130, At.esp 90, Def.esp 154, Velocid 90. Total 680
+Lugia-P: Ps 106, At 70, Def 150, At.esp 120, Def.esp 194, Velocid 140. Total 780
+
+Tipo: Psíquico/Agua | Habilidad: Escama de Hielo
+
+KYUREM PRIMIGENIO
+
+Kyurem: Ps 125, At 130, Def 90, At.esp 130, Def.esp 90, Velocid 95. Total 660
+Kyurem-P: Ps 125, At 170, Def 120, At.esp 170, Def.esp 120, Velocid 95. Total 800
+
+Tipo: Dragón/Hielo | Habilidad: Indefenso
+
+REGIGIGAS PRIMIGENIO
+
+Regigigas: Ps 110, At 160, Def 110, At.esp 80, Def.esp 110, Velocid 100. Total 670
+Regigigas-P: Ps 165, At 255, Def 150, At.esp 50, Def.esp 150, Velocid 50. Total 820
+
+Tipo: Normal/Tierra | Habilidad: Rompemoldes
+
+ARCEUS PRIMIGENIO
+
+Arceus: Ps 120, At 120, Def 120, At.esp 120, Def.esp 120, Velocid 120. Total 720
+Arceus-P: Ps 150, At 150, Def 150, At.esp 150, Def.esp 150, Velocid 150. Total 900
+
+Tipo: Normal | Habilidad: Mutatipo
+
+DRAGÓN ORIGINAL
+
+Kyurem: Ps 125, At 130, Def 90, At.esp 130, Def.esp 90, Velocid 95. Total 660
+Kyurem-P: Ps 125, At 170, Def 120, At.esp 170, Def.esp 120, Velocid 95. Total 800
+Dragón Original: Ps 125, At 195, Def 120, At.esp 195, Def.esp 120, Velocid 150. Total 905
+
+Tipo: Dragón | Habilidad: Indefenso
+
+POKÉMON ESENCIA
+
+Esencia: Ps 128, At 130, Def 129, At.esp 196, Def.esp 156, Velocid 156. Total 895
+
+Tipo: Fantasma/Hada | Habilidad: Muro Mágico

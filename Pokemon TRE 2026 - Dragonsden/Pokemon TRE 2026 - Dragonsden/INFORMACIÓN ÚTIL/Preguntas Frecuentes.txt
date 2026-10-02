@@ -1,0 +1,73 @@
+PREGUNTAS FRECUENTES:
+
+En este documento se responde a las principales cuestiones que suelen frenar la continuación de la historia principal. 
+
+También repetidas dudas acerca de ciertos objetos o mecánicas.
+
+Nota: Para mecánicas como recuerda movimientos, IVs perfectos, cambios de naturaleza, obtención de dinero... está el documento de 'Qols', que indica cómo obtener esos recursos de la forma más eficiente.
+
+-----------------------------------------------------------------------
+
++ No puedo entrar de nuevo a Base Rocket Profunda. ¿Qué hago?
+
+- Interactuar con el ordenador de Protón.
+
+
+
++ No sé cómo avanzar en las Islas Sete.
+
+- El orden de eventos principales sería el siguiente:
+1: Hablar con Zeus en Isla Cuarta
+2: Hablar con Magno entrando en el Mt.Ascuas (norte Isla Prima)
+3: Hablar con Aquiles al sur del Valle Ruinas (sur Isla Exta)
+4: Avisar a Zeus en Cueva Cambiante (norte Isla Exta)
+5: Evento del interior del Mt.Ascuas (norte Isla Prima)
+
+A partir de ahí, ya no debería haber pérdida.
+
+
+
++ ¿Cómo entro al Culto Lavanda? La entrada anterior ya no existe.
+
+- Se cambió la ubicación, y ahora para acceder al culto hay que hacer una misión extra, que se activa hablando con Agatha en Torre Pokémon, y continúa interactuando con la tumba en la que nos deja.
+
+Después de visualizar toda la escena, se debe ir a la casa del inspector de motes e interactuar con el mapa del lugar.
+
+
+
++ ¿Cómo se obtiene Cascada? En Cueva Glaciada no puedo subir a una.
+
+- Se obtiene en las Islas Remolino de Johto. 
+
+Esa cascada de Cueva Glaciada es una secundaria que no puede completarse hasta ese momento posterior. La recompensa está a la altura de la tardanza.
+
+
+
++ En el DLC completo las primeras misiones y no puedo seguir, ¿qué hago?
+
+- Debes asegurarte de completar al 100% las tres, y después de ello recibirás una llamada de Giovanni, reclamando que vuelvas a su despacho. Para saber si has completado al 100% cada una de las 3 misiones:
+
+| Misión Lago: Derrotar a Admin.Zafiro y a Akueria.
+| Misión Vías: Derrotar a Pegaso y a Zapdos-P.
+| Misión Ruta 47: Derrotar al maestro Dun, y volver a la casa de Eusine en Orquídea, acto seguido salir de su casa y presenciar una escena en la que aparece Tristana.
+
+
+
++ ¿Puede obtenerse el Huevo Suerte?
+
+- No. Rompería toda la progresión de nivel del juego. 
+
+Sin ir más lejos, todos tus Pokémon estarían casi al 100 antes de empezar Johto, cuando se espera que ese es el nivel a alcanzar después de recorrer toda esa región.
+
+
+
++ ¿Pueden obtenerse más Fuerte Vínculo?
+
+No. Únicamente el característico del protagonista, al menos de momento.
+
+
++ ¿Pueden obtenerse más Piedras Rocket? ¿Y Máster Ball?
+
+- Sí. A partir de la apertura De la Torre Radio Lavanda.
+
+Se venden, respectivamente, por 2,5 millones y 300 k la unidad, en el noveno piso. 

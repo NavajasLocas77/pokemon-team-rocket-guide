@@ -1,0 +1,193 @@
+SECUNDARIA EX CAMPEON VENENO
+----------------------------------------------------------------
+VS EX CAMPEÓN JOHTO VENENO
+
+---FÁCIL---
+
+- Toxapex (Nv. 100) | Casco Dentado | Seria | Flexibilidad
+
+  Mov: Escaldar, recuperación, niebla, púas tóxicas
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (30 en el resto)
+
+- Fezandipiti (Nv. 101) | No item | Firme | Experto
+
+  Mov: Ala bis, ida y vuelta, ataque rápido, puya nociva
+  IVs: 31/31 | EVs: 252 At, 252 Vel (30 en el resto)
+
+- Naganadel (Nv. 101) | No item | Modesta | Ultraimpulso
+
+  Mov: Bomba lodo, pulso dragón, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (30 en el resto)
+
+- Glimmora (Nv. 102) | Glimmoranita | Firme | Adaptable
+
+  Mov: Pedrada, giro mortífero, autodestrucción, púas
+  IVs: 31/31 | EVs: 252 At, 252 Vel (45 en el resto)
+
+- Goodra-& (Nv. 103) | Chal.Asalto | Osada | Respondón
+
+  Mov: Onda tóxica, pulso dragón, lanzallamas, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (60 en el resto)
+
+---DIFÍCIL---
+
+- Sneasler (Nv. 101) | Piedra Pómez | Alegre | Toque Tóxico
+
+  Mov: Sorpresa, garra nociva, ida y vuelta, a bocajarro
+  IVs: 31/31 | EVs: 252 At, 252 Vel (90 en el resto)
+
+- Pecharunt (Nv. 103) | Restos | Osada | Títere Tóxico
+
+  Mov: Cadena virulenta, juego sucio, recuperación, infortunio
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (90 en el resto)
+
+- Naganadel (Nv. 102) | Dracostal Z | Miedosa | Ultraimpulso
+
+  Mov: Onda tóxica, cometa draco, llamarada, rayo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (90 en el resto)
+
+- Fezandipiti (Nv. 101) | Bola Férrea | Firme | Cadena Tóxica
+
+  Mov: Lanza mugre, paliza, respiro, ida y vuelta
+  IVs: 31/31 | EVs: 252 Ps, 252 Def, 120 At/Def.Esp/Vel, 0 At.Esp
+
+- Glimmora (Nv. 103) | Glimmoranita | Miedosa | Adaptable
+
+  Mov: Onda tóxica, poder pasado, resplandor, danza pétalo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (135 en el resto)
+
+- Goodra-& (Nv. 104) | Chal.Asalto | Plácida | Respondón
+
+  Mov: Onda tóxica, cometa draco, fuerza bruta, rayo
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (180 en el resto)
+
+SECUNDARIA EX CAMPEONA FANTASMA
+------------------------------------------------------------------
+VS EX CAMPEONA JOHTO FRIDA
+
+---FÁCIL---
+
+- Dragapult (Nv. 103) | Hierb.Única | Firme | Allanamiento
+
+  Mov: Garra dragón, golpe fantasma, psicocolmillos, danza dragón
+  IVs: 31/31 | EVs: 252 At, 252 Vel (32 en el resto)
+
+- Gastly (Nv. 103) | Super Mineral | Osada | Levitación
+
+  Mov: Bola sombra, niebla clara, pulso umbrío, fuego fatuo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (64 en el resto)
+
+- Spectrier (Nv. 102) | Gema Normal | Miedosa | Relincho Negro
+
+  Mov: Bola sombra, fuego fatuo, alboroto, esfera aural
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (32 en el resto)
+
+- Absol (Nv. 103) | Absoluta Z | Firme | Levitación
+
+  Mov: Premonición, juego sucio, ataque rápido, garra umbría
+  IVs: 31/31 | EVs: 252 At, 252 Vel (50 en el resto)
+
+- Ninetales-& (Nv. 105) | Chal.Asalto | Miedosa | Pelaje Recio
+
+  Mov: Lanzallamas, arenas ardientes, bola sombra, psíquico
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (65 en el resto)
+
+---DIFÍCIL---
+
+- Gastly (Nv. 107) | Super Mineral | Miedosa | Guarda Espectro
+
+  Mov: Rayo umbrío, onda tóxica, umbreozona, onda ígnea
+  IVs: 31/31 | EVs: 252 en todos los stats
+
+- Tapu Lele (Nv. 103) | Pañuelo Elegido | Miedosa | Psicogénesis
+
+  Mov: Psíquico, fuerza lunar, premonición, onda certera
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (130 en el resto)
+
+- Melenaleteo (Nv. 106) | Banda Focus | Miedosa | Relincho Negro
+
+  Mov: Rayo umbrío, fuerza lunar, psíquico, llama embrujada
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (130 en el resto)
+
+- Absol (Nv. 105) | Absoluta Z | Alegre | Sombratrampa
+
+  Mov: Cabezazo zen, desarme, carantoña, veneno x
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (150 en el resto)
+
+- Calyrex Espectral (Nv. 106) | Piedra Pómez | Modesta | Unidad Ecuestre
+
+  Mov: Orbes espectro, fogonazo, esfera aural, psicocarga
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel (130 en el resto)
+
+- Ninetales-& (Nv. 107) | Chal.Asalto | Miedosa | Pelaje Recio
+
+  Mov: Fuego Azul, arenas ardientes, orbes espectro, bola neblina
+  IVs: 31/31 | EVs: 252 Vel, 252 At.Esp (200 en el resto)
+
+SECUNDARIA FARO BILL NEO CELESTE
+------------------------------------------------------------------
+VS CIENTÍFICO CELIO
+
+---FÁCIL---
+
+- Aerodactyl Esqueleto (Nv. 103) | No item | Seria | Rompemoldes
+
+  Mov: Colmillo ígneo, golpe aéreo, hueso sombrío, giga impacto
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel, 6 Def
+
+- Arcanine Hisui (Nv. 102) | No item | Seria | Cabeza Roca
+
+  Mov: Velocidad Extrema, sol matinal, doble filo, llamarada
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+- Lapras (Nv. 102) | No item | Seria | Absorber Agua
+
+  Mov: Golpe cuerpo, surf, rayo, rayo hielo
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 6 Ps
+
+- Ditto (Nv. 103) | No item | Modesta | Impostor
+
+  Mov: Transformación
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (19 en el resto)
+
+- Mew (Nv. 104) | Restos | Alegre | Muro Mágico
+
+  Mov: Psíquico, bola sombra, movimiento sísmico, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Vel (37 en el resto)
+
+- Clefable (Nv. 105) | Clefablita | Osada | Espejomágico
+
+  Mov: Fuerza lunar, danza aleteo, psíquico, lanzallamas
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (50 en el resto)
+
+---DIFÍCIL---
+
+- Aerodactyl Esqueleto (Nv. 104) | Banda Focus | Alegre | Rompemoldes
+
+  Mov: Trampa rocas, ala bis, hueso sombrío, terremoto
+  IVs: 31/31 | EVs: 252 At, 252 Vel, 6 Def
+
+- Arcanine Hisui (Nv. 103) | Casco Dentado | Firme | Cabeza Roca
+
+  Mov: Roca veloz, testarazo, arremetida, erupción de ira
+  IVs: 31/31 | EVs: 252 At, 252 Ps, 6 Def
+
+- Lapras (Nv. 103) | Piedra Pómez | Miedosa | Adaptable
+
+  Mov: Rompecoraza, hidrobomba, rayo, frío polar
+  IVs: 31/31 | EVs: 252 At.Esp, 252 Vel, 252 Ps
+
+- Ditto (Nv. 104) | Pañuelo Elegido | Plácida | Impostor
+
+  Mov: Transformación
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (38 en el resto)
+
+- Mew (Nv. 105) | Restos | Osada | Muro Mágico
+
+  Mov: Masa cósmica, poder reserva, plancha corporal, respiro
+  IVs: 31/31 | EVs: 252 Ps, 252 Def (110 en el resto)
+
+- Clefable (Nv. 106) | Clefablita | Modesta | Muro Mágico/Espejomágico
+
+  Mov: Fuerza lunar, danza aleteo, bola neblina, lanzallamas
+  IVs: 31/31 | EVs: 252 Ps, 252 At.Esp (150 en el resto)

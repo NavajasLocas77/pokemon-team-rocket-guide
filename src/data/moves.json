@@ -1,0 +1,922 @@
+[
+  {
+    "id": "guillotina",
+    "name": "GUILLOTINA",
+    "official": {
+      "type": "Normal",
+      "power": "KO en un golpe",
+      "accuracy": "30",
+      "effect": "No",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Siniestro",
+      "power": "170",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "viento-cortante",
+    "name": "VIENTO CORTANTE",
+    "official": {
+      "type": "Normal",
+      "power": "80",
+      "accuracy": "100",
+      "effect": "Un turno de carga",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "130",
+      "accuracy": "100",
+      "effect": "Un turno de carga",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "corte",
+    "name": "CORTE",
+    "official": {
+      "type": "Normal",
+      "power": "50",
+      "accuracy": "95",
+      "effect": "No",
+      "pp": "30"
+    },
+    "hackrom": {
+      "type": "Bicho",
+      "power": "65",
+      "accuracy": "95",
+      "effect": "50% de bajar un nivel la Defensa",
+      "pp": "30"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "vuelo",
+    "name": "VUELO",
+    "official": {
+      "type": "Volador",
+      "power": "90",
+      "accuracy": "95",
+      "effect": "Ataque en dos turnos",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Volador",
+      "power": "90",
+      "accuracy": "95",
+      "effect": "No (Se ejecuta en un solo turno)",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "perforador",
+    "name": "PERFORADOR",
+    "official": {
+      "type": "Normal",
+      "power": "KO en un golpe",
+      "accuracy": "30",
+      "effect": "No",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "50% daño de retroceso",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "dobleataque",
+    "name": "DOBLEATAQUE",
+    "official": {
+      "type": "Bicho",
+      "power": "25",
+      "accuracy": "100",
+      "effect": "Golpea dos veces | 20% de envenenar",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Bicho",
+      "power": "40",
+      "accuracy": "100",
+      "effect": "Golpea dos veces | 20% de envenenar",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hiperrayo",
+    "name": "HIPERRAYO",
+    "official": {
+      "type": "Normal",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "Un turno inmovilizado",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "160",
+      "accuracy": "90",
+      "effect": "Un turno inmovilizado",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "fuerza",
+    "name": "FUERZA",
+    "official": {
+      "type": "Normal",
+      "power": "80",
+      "accuracy": "100",
+      "effect": "No",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Roca",
+      "power": "85",
+      "accuracy": "85",
+      "effect": "No",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "absorber",
+    "name": "ABSORBER",
+    "official": {
+      "type": "Planta",
+      "power": "20",
+      "accuracy": "100",
+      "effect": "Recupera el 50% del daño causado",
+      "pp": "25"
+    },
+    "hackrom": {
+      "type": "Planta",
+      "power": "30",
+      "accuracy": "100",
+      "effect": "Recupera el 50% del daño causado",
+      "pp": "25"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "megaagotar",
+    "name": "MEGAAGOTAR",
+    "official": {
+      "type": "Planta",
+      "power": "40",
+      "accuracy": "100",
+      "effect": "Recupera el 50% del daño causado",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Planta",
+      "power": "50",
+      "accuracy": "100",
+      "effect": "Recupera el 50% del daño causado",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "furia-drag-n",
+    "name": "FURIA DRAGÓN",
+    "official": {
+      "type": "Dragón",
+      "power": "Siempre resta 40 Ps",
+      "accuracy": "100",
+      "effect": "No",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Dragón",
+      "power": "70",
+      "accuracy": "100",
+      "effect": "20% de causar retroceso",
+      "pp": "25"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "fisura",
+    "name": "FISURA",
+    "official": {
+      "type": "Tierra",
+      "power": "KO en un golpe",
+      "accuracy": "30",
+      "effect": "No",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Tierra",
+      "power": "130",
+      "accuracy": "90",
+      "effect": "Baja un nivel At y Def del usuario",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "rapidez",
+    "name": "RAPIDEZ",
+    "official": {
+      "type": "Normal",
+      "power": "60",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "75",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "destello",
+    "name": "DESTELLO",
+    "official": {
+      "type": "Normal",
+      "power": "No",
+      "accuracy": "100",
+      "effect": "Baja un nivel la precisión rival",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Eléctrico",
+      "power": "50",
+      "accuracy": "100",
+      "effect": "Recupera el 75% del daño causado",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "triataque",
+    "name": "TRIATAQUE",
+    "official": {
+      "type": "Normal",
+      "power": "80",
+      "accuracy": "100",
+      "effect": "20% de quemar, congelar o paralizar",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "90",
+      "accuracy": "100",
+      "effect": "20% de quemar, congelar o paralizar",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "aerochorro",
+    "name": "AEROCHORRO",
+    "official": {
+      "type": "Volador",
+      "power": "100",
+      "accuracy": "95",
+      "effect": "+1 índice crítico",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Volador",
+      "power": "115",
+      "accuracy": "90",
+      "effect": "+1 índice crítico",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "bofet-n-lodo",
+    "name": "BOFETÓN LODO",
+    "official": {
+      "type": "Tierra",
+      "power": "20",
+      "accuracy": "100",
+      "effect": "100% bajar precisión rival",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Tierra",
+      "power": "30 (físico)",
+      "accuracy": "100",
+      "effect": "100% bajar precisión rival",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pulpoca-n",
+    "name": "PULPOCAÑÓN",
+    "official": {
+      "type": "Agua",
+      "power": "65",
+      "accuracy": "85",
+      "effect": "50% reducir precisión",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Agua",
+      "power": "100",
+      "accuracy": "100",
+      "effect": "50% reducir precisión | Categoría pulso",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "poder-pasado",
+    "name": "PODER PASADO",
+    "official": {
+      "type": "Fuego",
+      "power": "35",
+      "accuracy": "85",
+      "effect": "Atrapa al rival de 2 a 5 turnos",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Fuego",
+      "power": "65",
+      "accuracy": "85",
+      "effect": "Atrapa al rival de 2 a 5 turnos",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "golpe-roca",
+    "name": "GOLPE ROCA",
+    "official": {
+      "type": "Lucha",
+      "power": "40",
+      "accuracy": "100",
+      "effect": "50% bajar un nivel la defensa rival",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Lucha",
+      "power": "65",
+      "accuracy": "95",
+      "effect": "50% bajar un nivel la defensa rival",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "buceo",
+    "name": "BUCEO",
+    "official": {
+      "type": "Agua",
+      "power": "80",
+      "accuracy": "100",
+      "effect": "Ataque en dos turnos",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Agua",
+      "power": "110 (especial)",
+      "accuracy": "100",
+      "effect": "Ataque en dos turnos",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "anillo-gneo",
+    "name": "ANILLO ÍGNEO",
+    "official": {
+      "type": "Fuego",
+      "power": "150",
+      "accuracy": "95",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Fuego",
+      "power": "105",
+      "accuracy": "95",
+      "effect": "No",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hidroca-n",
+    "name": "HIDROCAÑÓN",
+    "official": {
+      "type": "Agua",
+      "power": "150",
+      "accuracy": "95",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Agua",
+      "power": "105",
+      "accuracy": "95",
+      "effect": "No",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "planta-feroz",
+    "name": "PLANTA FEROZ",
+    "official": {
+      "type": "Planta",
+      "power": "150",
+      "accuracy": "95",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Planta",
+      "power": "105",
+      "accuracy": "95",
+      "effect": "No",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "viento-plata",
+    "name": "VIENTO PLATA",
+    "official": {
+      "type": "Bicho",
+      "power": "60",
+      "accuracy": "100",
+      "effect": "10% subir todas las estadísticas",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Bicho",
+      "power": "75",
+      "accuracy": "100",
+      "effect": "10% subir todas las estadísticas",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "fr-o-polar",
+    "name": "FRÍO POLAR",
+    "official": {
+      "type": "Hielo",
+      "power": "KO en un golpe",
+      "accuracy": "30",
+      "effect": "No",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Hielo",
+      "power": "130",
+      "accuracy": "90",
+      "effect": "Baja un nivel ambas defensas",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "golpe-a-reo",
+    "name": "GOLPE AÉREO",
+    "official": {
+      "type": "Volador",
+      "power": "60",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Volador",
+      "power": "75",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cola-veneno",
+    "name": "COLA VENENO",
+    "official": {
+      "type": "Veneno",
+      "power": "50",
+      "accuracy": "100",
+      "effect": "10% envenenar",
+      "pp": "25"
+    },
+    "hackrom": {
+      "type": "Veneno",
+      "power": "90",
+      "accuracy": "100",
+      "effect": "10% envenenar",
+      "pp": "25"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hoja-m-gica",
+    "name": "HOJA MÁGICA",
+    "official": {
+      "type": "Planta",
+      "power": "60",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Planta",
+      "power": "75",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "onda-voltio",
+    "name": "ONDA VOLTIO",
+    "official": {
+      "type": "Eléctrico",
+      "power": "60",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Eléctrico",
+      "power": "75",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hidropulso",
+    "name": "HIDROPULSO",
+    "official": {
+      "type": "Agua",
+      "power": "60",
+      "accuracy": "100",
+      "effect": "20% de confundir",
+      "pp": "20"
+    },
+    "hackrom": {
+      "type": "Agua",
+      "power": "75",
+      "accuracy": "100",
+      "effect": "20% de confundir",
+      "pp": "20"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "giga-impacto",
+    "name": "GIGA IMPACTO",
+    "official": {
+      "type": "Normal",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "170",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "romperrocas",
+    "name": "ROMPERROCAS",
+    "official": {
+      "type": "Roca",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Roca",
+      "power": "165",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "distorsi-n",
+    "name": "DISTORSIÓN",
+    "official": {
+      "type": "Dragón",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Dragón",
+      "power": "180",
+      "accuracy": "95",
+      "effect": "Baja Velocidad, defensa y def.esp",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "corte-vac-o",
+    "name": "CORTE VACÍO",
+    "official": {
+      "type": "Dragón",
+      "power": "100",
+      "accuracy": "95",
+      "effect": "+1 índice crítico",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Dragón",
+      "power": "115",
+      "accuracy": "90",
+      "effect": "+1 índice crítico",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "viento-aciago",
+    "name": "VIENTO ACIAGO",
+    "official": {
+      "type": "Fantasma",
+      "power": "60",
+      "accuracy": "100",
+      "effect": "10% subir todas las estadísticas",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Fantasma",
+      "power": "75",
+      "accuracy": "100",
+      "effect": "10% subir todas las estadísticas",
+      "pp": "5"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ariete",
+    "name": "ARIETE",
+    "official": {
+      "type": "Normal",
+      "power": "120",
+      "accuracy": "100",
+      "effect": "25% daño de retroceso",
+      "pp": "15"
+    },
+    "hackrom": {
+      "type": "Normal",
+      "power": "130",
+      "accuracy": "100",
+      "effect": "25% daño retroceso",
+      "pp": "15"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "rayo-g-lido",
+    "name": "RAYO GÉLIDO",
+    "official": {
+      "type": "Hielo",
+      "power": "140",
+      "accuracy": "90",
+      "effect": "Ataque en dos turnos | 30% paralizar",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Hielo",
+      "power": "130",
+      "accuracy": "90",
+      "effect": "33% daño retroceso | 10% paralizar",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "llama-g-lida",
+    "name": "LLAMA GÉLIDA",
+    "official": {
+      "type": "Hielo",
+      "power": "140",
+      "accuracy": "90",
+      "effect": "Ataque en dos turnos | 30% quemar",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Hielo",
+      "power": "130",
+      "accuracy": "90",
+      "effect": "33% daño retroceso | 10% quemar",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "luz-aniquiladora",
+    "name": "LUZ ANIQUILADORA",
+    "official": {
+      "type": "Hada",
+      "power": "140",
+      "accuracy": "90",
+      "effect": "50% daño de retroceso",
+      "pp": "5"
+    },
+    "hackrom": {
+      "type": "Hada",
+      "power": "140",
+      "accuracy": "90",
+      "effect": "33% daño retroceso",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pulso-primigenio",
+    "name": "PULSO PRIMIGENIO",
+    "official": {
+      "type": "Agua",
+      "power": "110",
+      "accuracy": "85",
+      "effect": "x1,5 con Megadisparador",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Agua",
+      "power": "120",
+      "accuracy": "85",
+      "effect": "x1,5 con Megadisparador",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cuerno-certero",
+    "name": "CUERNO CERTERO",
+    "official": {
+      "type": "Acero",
+      "power": "70",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Acero",
+      "power": "75",
+      "accuracy": "Nunca falla",
+      "effect": "No",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "l-ser-prisma",
+    "name": "LÁSER PRISMA",
+    "official": {
+      "type": "Psíquico",
+      "power": "160",
+      "accuracy": "100",
+      "effect": "Inmoviliza un turno",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Psíquico",
+      "power": "175",
+      "accuracy": "100",
+      "effect": "Inmoviliza un turno",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "rayo-infinito",
+    "name": "RAYO INFINITO",
+    "official": {
+      "type": "Dragón",
+      "power": "160",
+      "accuracy": "90",
+      "effect": "Inmoviliza un turno",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Dragón",
+      "power": "150",
+      "accuracy": "90",
+      "effect": "50% daño de retroceso",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "metal-ser",
+    "name": "METALÁSER",
+    "official": {
+      "type": "Acero",
+      "power": "140",
+      "accuracy": "95",
+      "effect": "Resta 1/2 de salud al usuario",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Acero",
+      "power": "140",
+      "accuracy": "95",
+      "effect": "50% daño de retroceso",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ala-bis",
+    "name": "ALA BIS",
+    "official": {
+      "type": "Volador",
+      "power": "40",
+      "accuracy": "90",
+      "effect": "Golpea dos veces",
+      "pp": "10"
+    },
+    "hackrom": {
+      "type": "Volador",
+      "power": "50",
+      "accuracy": "90",
+      "effect": "Golpea dos veces",
+      "pp": "10"
+    },
+    "source": "INFORMACIÓN ÚTIL/CAMBIOS en MOVIMIENTOS.txt",
+    "confidence": "CONFIRMADO"
+  }
+]

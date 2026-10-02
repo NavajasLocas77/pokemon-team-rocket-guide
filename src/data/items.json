@@ -1,0 +1,4022 @@
+[
+  {
+    "id": "piedra-agua",
+    "name": "Piedra Agua",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda.",
+    "obtaining": "Venta en Base Rocket Profunda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-trueno",
+    "name": "Piedra Trueno",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda.",
+    "obtaining": "Venta en Base Rocket Profunda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-fuego",
+    "name": "Piedra Fuego",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda.",
+    "obtaining": "Venta en Base Rocket Profunda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-hoja",
+    "name": "Piedra Hoja",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda.",
+    "obtaining": "Venta en Base Rocket Profunda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-alba",
+    "name": "Piedra Alba",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "obtaining": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-noche",
+    "name": "Piedra Noche",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "obtaining": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-d-a",
+    "name": "Piedra Día",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "obtaining": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-hielo",
+    "name": "Piedra Hielo",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "obtaining": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-link",
+    "name": "Piedra Link",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "obtaining": "Venta en Base Rocket Profunda (Sala Entrenamiento).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-lunar",
+    "name": "Piedra Lunar",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "No está a la venta.",
+    "obtaining": "No está a la venta. | Como objeto de suelo: Mt.Moon | Base Rocket Kanto | Mansion Pkmn S1 | Como objeto invisible: Mt.Moon 3F | Mansión Pkmn 1F | Equipado en un Eevee de la secundaria en Mansión Canela",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-solar",
+    "name": "Piedra Solar",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "No está a la venta.",
+    "obtaining": "No está a la venta. | Como objeto de suelo: Jardín Sec.Cazabichos Plateada | Valle Ruinas | | Equipado en un Eevee de la secundaria en Mansión Canela | Regalo de NPC en el Centro Espacial Algaria",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-sagrada",
+    "name": "Piedra Sagrada",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "No accesible hasta misión 'Ruta 47' del DLC.",
+    "obtaining": "No accesible hasta misión 'Ruta 47' del DLC. | Se obtiene una para entrar a la torre Dun. Dentro de la propia torre hay dos más. | A partir de la apertura de la Torre Radio Lavanda, se venden en sus pisos superiores.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-rocket",
+    "name": "Piedra Rocket",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "No accesible hasta el período 5ta-6ta medalla de Johto.",
+    "obtaining": "No accesible hasta el período 5ta-6ta medalla de Johto. | A partir de la apertura De la Torre Radio Lavanda, se venden en sus pisos superiores.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-devon",
+    "name": "Piedra Devon",
+    "category": "PIEDRAS EVOLUTIVAS",
+    "description": "Una única unidad disponible, obtenible en la 4ta misión de la temporada de Hoenn.",
+    "obtaining": "Una única unidad disponible, obtenible en la 4ta misión de la temporada de Hoenn.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-esp-ritu",
+    "name": "Piedra Espíritu",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "S3 del Culto Lavanda. En una tumba en la zona sureste.",
+    "obtaining": "S3 del Culto Lavanda. En una tumba en la zona sureste. | Accesible desde la primera visita al culto.",
+    "changes": "+30% At.Esp y Def.Esp en Spiritomb.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ala-arco-ris",
+    "name": "Ala Arcoíris",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Regalo de científico en el P9 de la T.Radio de C.Trigal.",
+    "obtaining": "Regalo de científico en el P9 de la T.Radio de C.Trigal. | Accesible tras ganar la 5ta medalla de Johto.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ala-plateada",
+    "name": "Ala Plateada",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "En la casa de la Ex Campeona Frida.",
+    "obtaining": "En la casa de la Ex Campeona Frida. | En una zona secreta, al norte de las vías de tren. | Accesible tras misión Volcán Canela del DLC.",
+    "changes": "+20% At.Esp y Def.Esp en Lugia.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "escamadrag-n",
+    "name": "Escamadragón",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Siguiendo la Vía Acuática hacia el sur de Isla Exta.",
+    "obtaining": "Siguiendo la Vía Acuática hacia el sur de Isla Exta.",
+    "changes": "+30% Velocidad y Defensa en Kingdra.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mejora",
+    "name": "Mejora",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Regalo del P.Silph junto a un Porygon en el asalto a Silph.",
+    "obtaining": "Regalo del P.Silph junto a un Porygon en el asalto a Silph. | Se venden más unidades en el subterráneo de C.Trigal.",
+    "changes": "+30% At.Esp y Velocidad en Porygon2.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "protector",
+    "name": "Protector",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Como objeto de suelo dentro de la secundaria del bar Olivo.",
+    "obtaining": "Como objeto de suelo dentro de la secundaria del bar Olivo.",
+    "changes": "+30% Defensa y Def.esp en Rhyperior.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "electrizador",
+    "name": "Electrizador",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Como objeto de suelo dentro de la secundaria de la casa al noroeste de Caoba.",
+    "obtaining": "Como objeto de suelo dentro de la secundaria de la casa al noroeste de Caoba.",
+    "changes": "+30% Ataque y Def.Esp en Electivire.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "magmatizador",
+    "name": "Magmatizador",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Como objeto de suelo dentro de la misión del Volcán Canela.",
+    "obtaining": "Como objeto de suelo dentro de la misión del Volcán Canela.",
+    "changes": "+30% At.Esp y Def.Esp en Magmortar.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "discoxtra-o",
+    "name": "Discoxtraño",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Regalo de Científico en el S2 de Silph.",
+    "obtaining": "Regalo de Científico en el S2 de Silph. | Se venden más unidades en el subterráneo de C.Trigal.",
+    "changes": "+30% Def y At.Esp en Porygon-Z.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "telaterrible",
+    "name": "Telaterrible",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Objeto de suelo en la Cueva de Hypno.",
+    "obtaining": "Objeto de suelo en la Cueva de Hypno. | También aparece en la 2da visita al Culto Lavanda.",
+    "changes": "+30% Ataque y Velocidad en Dusknoir.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "escama-bella",
+    "name": "Escama Bella",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Objeto de suelo en Ruta 51 (Mar Oeste Cerezo).",
+    "obtaining": "Objeto de suelo en Ruta 51 (Mar Oeste Cerezo).",
+    "changes": "+30% Def.Esp y Velocidad en Milotic.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "escama-marina",
+    "name": "Escama Marina",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Cámara Sellada Regigigas.",
+    "obtaining": "Cámara Sellada Regigigas.",
+    "changes": "+30% At.Esp y Velocidad en Gorebyss.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "diente-marino",
+    "name": "Diente Marino",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Faro Ciudad Olivo | Nao Abandonada",
+    "obtaining": "Faro Ciudad Olivo | Nao Abandonada",
+    "changes": "+30% Ataque y Velocidad en Huntail.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roca-del-rey",
+    "name": "Roca del Rey",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Cañón Sete de Isla Sétima",
+    "obtaining": "Cañón Sete de Isla Sétima",
+    "changes": "+30% At.Esp y Velocidad en Slowking/Politoed.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "rev-met-lico",
+    "name": "Rev.Metálico",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Pilar Recuerdo de Isla Inta.",
+    "obtaining": "Pilar Recuerdo de Isla Inta.",
+    "changes": "+30% Ataque y Defensa en Scizor/Steelix.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "bolaluminosa",
+    "name": "Bolaluminosa",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Se vende en el subterráneo de C.Trigal.",
+    "obtaining": "Se vende en el subterráneo de C.Trigal.",
+    "changes": "Influye tanto a Pikachu normal como al Pikachu Starter de Let's Go",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "palo",
+    "name": "Palo",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "En el Encinar.",
+    "obtaining": "En el Encinar.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "escama-roja",
+    "name": "Escama Roja",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Interior del Lago Furia, zona más profunda.",
+    "obtaining": "Interior del Lago Furia, zona más profunda.",
+    "changes": "+30% Defensa y Def.Esp en Guardaos.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "condensador-gas",
+    "name": "Condensador Gas",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Zona Central de los refugios de Kanto.",
+    "obtaining": "Zona Central de los refugios de Kanto.",
+    "changes": "-30% Ataque. +30% At.Esp, Def.Esp y Defensa en Weezing.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mineral-negro",
+    "name": "Mineral Negro",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Torre Dun, P11.",
+    "obtaining": "Torre Dun, P11.",
+    "changes": "+30% Velocidad y Def.Esp en Kleavor.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "nota",
+    "name": "Nota",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Estos objetos son obtenibles más de una vez a lo largo del juego.",
+    "obtaining": "Estos objetos son obtenibles más de una vez a lo largo del juego.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "c-elegida",
+    "name": "C.Elegida",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo Científico M.Plateada post 8 Medallas de Kanto. (T1: Kanto)",
+    "obtaining": "Regalo Científico M.Plateada post 8 Medallas de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "g-especiales",
+    "name": "G.Especiales",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo Copiona en C.Azafrán post 8 Medallas de Kanto. (T1: Kanto)",
+    "obtaining": "Regalo Copiona en C.Azafrán post 8 Medallas de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "p-elegido",
+    "name": "P.Elegido",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo Entr.Guay Isla Sétima. (T2: Archi7)",
+    "obtaining": "Regalo Entr.Guay Isla Sétima. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "llamasfera",
+    "name": "Llamasfera",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo anciano lago C.Azulona post 8 Medallas de Kanto. (T1: Kanto)",
+    "obtaining": "Regalo anciano lago C.Azulona post 8 Medallas de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "toxisfera",
+    "name": "Toxisfera",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Robado al combatir con el Ayudante de Oak de Ruta 15. (T1: Kanto)",
+    "obtaining": "Robado al combatir con el Ayudante de Oak de Ruta 15. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roca-lluvia",
+    "name": "Roca Lluvia",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Isla Exta, caverna secreta de Cueva Punteada. (T2: Archi7)",
+    "obtaining": "Isla Exta, caverna secreta de Cueva Punteada. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roca-calor",
+    "name": "Roca Calor",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Isla Prima, caverna secreta del Mt.Ascuas. (T2: Archi7)",
+    "obtaining": "Isla Prima, caverna secreta del Mt.Ascuas. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roca-suave",
+    "name": "Roca Suave",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roca-helada",
+    "name": "Roca Helada",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Cueva Glaciada, zona secreta anciana isla. (T2: Archi7)",
+    "obtaining": "Cueva Glaciada, zona secreta anciana isla. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "banda-focus",
+    "name": "Banda Focus",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "periscopio",
+    "name": "Periscopio",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en el regalo del anciano del Machop en C.Carmín. (T1: Kanto)",
+    "obtaining": "Equipado en el regalo del anciano del Machop en C.Carmín. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "restos",
+    "name": "Restos",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Calle victoria, y invisible usando buscaobjetos sobre el lugar en",
+    "obtaining": "Calle victoria, y invisible usando buscaobjetos sobre el lugar en",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "camp-concha",
+    "name": "Camp.Concha",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Base Rocket Profunda.",
+    "obtaining": "Venta en Base Rocket Profunda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "lupa",
+    "name": "Lupa",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Isla Secunda, regalo exorcista de Cabo Extremo. (T2: Archi7)",
+    "obtaining": "Isla Secunda, regalo exorcista de Cabo Extremo. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "banda-fuerte",
+    "name": "Banda Fuerte",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "C.Azafrán, equipado en el reglo del motorista. (T1: Kanto)",
+    "obtaining": "C.Azafrán, equipado en el reglo del motorista. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gafas-especiales",
+    "name": "Gafas especiales",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Como objeto de suelo en el S2 de Silph. (T2: Archi7)",
+    "obtaining": "Como objeto de suelo en el S2 de Silph. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cinta-xperto",
+    "name": "Cinta Xperto",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "C.Fucsia, Cazabichos post 8 Medallas de Kanto. (T1: Kanto)",
+    "obtaining": "C.Fucsia, Cazabichos post 8 Medallas de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "vidasfera",
+    "name": "Vidasfera",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Último Entr.Guay de Calle Victoria. (T1: Kanto)",
+    "obtaining": "Último Entr.Guay de Calle Victoria. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "telescopio",
+    "name": "Telescopio",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Silph S3. (T2: Archi7)",
+    "obtaining": "Silph S3. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "metr-nomo",
+    "name": "Metrónomo",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en el Casino de C.Trigal (T3: Johto)",
+    "obtaining": "Venta en el Casino de C.Trigal (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cola-pl-mbea",
+    "name": "Cola Plúmbea",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Cueva Vías de tren C.Trigal (T3: Johto)",
+    "obtaining": "Cueva Vías de tren C.Trigal (T3: Johto)",
+    "changes": "+35% Ataque. Mantiene el efecto anterior.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "bola-f-rrea",
+    "name": "Bola Férrea",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Torre Secundaria Recreativos (T2: Archi7)",
+    "obtaining": "Torre Secundaria Recreativos (T2: Archi7)",
+    "changes": "+35% Defensa. Mantiene el efecto anterior.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "lodo-negro",
+    "name": "Lodo Negro",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "C.Verde, regalo tutor comesueños tras ganar 8 Medallas. (T1: Kanto)",
+    "obtaining": "C.Verde, regalo tutor comesueños tras ganar 8 Medallas. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "garra-garfio",
+    "name": "Garra Garfio",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Guarida Dragón, S3. (T3: Johto)",
+    "obtaining": "Guarida Dragón, S3. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ra-z-grande",
+    "name": "Raíz Grande",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Farmacia de C.Orquídea (T3: Johto)",
+    "obtaining": "Venta en Farmacia de C.Orquídea (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "garra-afilada",
+    "name": "Garra Afilada",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Torre Secundaria Recreativos (T2: Archi7)",
+    "obtaining": "Torre Secundaria Recreativos (T2: Archi7)",
+    "changes": "+30% Ataque y Defensa en Weavile.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "colm-agudo",
+    "name": "Colm.Agudo",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Senda Orquídea hacia Ruta 47 (T4: DLC)",
+    "obtaining": "Senda Orquídea hacia Ruta 47 (T4: DLC)",
+    "changes": "+30% Ataque y Defensa en Gliscor.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "min-evol",
+    "name": "Min.Evol",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Giovanni tras completar misión de P.Paleta (T1: Kanto)",
+    "obtaining": "Regalo de Giovanni tras completar misión de P.Paleta (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-p-mez",
+    "name": "Piedra Pómez",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Ruta 47, al borde de la orilla. (T4: DLC)",
+    "obtaining": "Ruta 47, al borde de la orilla. (T4: DLC)",
+    "changes": "+25% Velocidad. Mantiene el efecto anterior.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "casco-dentado",
+    "name": "Casco Dentado",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Isla Cuarta, regalo NPC Golpe Cuerpo en FR. (T2: Archi7)",
+    "obtaining": "Isla Cuarta, regalo NPC Golpe Cuerpo en FR. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "globo-helio",
+    "name": "Globo Helio",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tarjeta-roja",
+    "name": "Tarjeta Roja",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "blanco",
+    "name": "Blanco",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "banda-atadura",
+    "name": "Banda Atadura",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "bot-n-escape",
+    "name": "Botón Escape",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "seguro-debilidad",
+    "name": "Seguro Debilidad",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "chaleco-asalto",
+    "name": "Chaleco Asalto",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Lab.Canela, regalo tutor metrónomo tras ganar 8 Medallas. (T1: Kanto)",
+    "obtaining": "Lab.Canela, regalo tutor metrónomo tras ganar 8 Medallas. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gafas-protectoras",
+    "name": "Gafas Protectoras",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "nerviosfera",
+    "name": "Nerviosfera",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cubresuelos",
+    "name": "Cubresuelos",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "paracontacto",
+    "name": "Paracontacto",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "spray-bucal",
+    "name": "Spray.Bucal",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "moch-escape",
+    "name": "Moch.Escape",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "botas-gruesas",
+    "name": "Botas Gruesas",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "seguro-fallo",
+    "name": "Seguro Fallo",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "par-multiuso",
+    "name": "Par.Multiuso",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Venta en Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "nota",
+    "name": "Nota",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Estos objetos son obtenibles más de una vez a lo largo del juego.",
+    "obtaining": "Estos objetos son obtenibles más de una vez a lo largo del juego.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pa-uelo-seda",
+    "name": "Pañuelo Seda",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Karatekas en Ruta 4. (T1: Kanto)",
+    "obtaining": "Regalo de Karatekas en Ruta 4. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "carb-n",
+    "name": "Carbón",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en Charmander secundaria estafadores. (T1: Kanto)",
+    "obtaining": "Equipado en Charmander secundaria estafadores. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "agua-m-stica",
+    "name": "Agua Mística",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en el Omanyte regalado tras salvar el Museo Plateada. (T1: Kanto)",
+    "obtaining": "Equipado en el Omanyte regalado tras salvar el Museo Plateada. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "im-n",
+    "name": "Imán",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de chica en el P2 de Silph. (T1: Kanto)",
+    "obtaining": "Regalo de chica en el P2 de Silph. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sem-milagro",
+    "name": "Sem.Milagro",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)",
+    "obtaining": "Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "antiderretir",
+    "name": "Antiderretir",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Cueva Glaciada de Isla Cuarta. (T2: Archi7)",
+    "obtaining": "Cueva Glaciada de Isla Cuarta. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cintur-n-negro",
+    "name": "Cinturón Negro",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo del Rey del Kárate en C.Azafrán. (T1: Kanto)",
+    "obtaining": "Regalo del Rey del Kárate en C.Azafrán. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "flecha-venenosa",
+    "name": "Flecha Venenosa",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Petrel tras salvar el Museo Plateada. (T1: Kanto)",
+    "obtaining": "Regalo de Petrel tras salvar el Museo Plateada. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "arena-fina",
+    "name": "Arena Fina",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Recluta Rocket tras derrotar al Montañero de C.Celeste. (T1: Kanto)",
+    "obtaining": "Regalo de Recluta Rocket tras derrotar al Montañero de C.Celeste. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pico-afilado",
+    "name": "Pico Afilado",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en el Aerodactyl regalado tras misión Aves. (T1: Kanto)",
+    "obtaining": "Equipado en el Aerodactyl regalado tras misión Aves. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cuchara-torcida",
+    "name": "Cuchara Torcida",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Científico en B.Profunda, zona oeste. (T1: Kanto)",
+    "obtaining": "Regalo de Científico en B.Profunda, zona oeste. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "polvo-plata",
+    "name": "Polvo Plata",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en el Pinsir regalado por los Entr.Guays del Bosque Verde. (T1: Kanto)",
+    "obtaining": "Equipado en el Pinsir regalado por los Entr.Guays del Bosque Verde. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "piedra-dura",
+    "name": "Piedra Dura",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Equipado en el Kabuto regalado tras misión Kangaskhan. (T1: Kanto)",
+    "obtaining": "Equipado en el Kabuto regalado tras misión Kangaskhan. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hechizo",
+    "name": "Hechizo",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)",
+    "obtaining": "Base Rocket Profunda, Sala Potencial Máximo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "colmillodrag-n",
+    "name": "Colmillodragón",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Base Rocket Profunda, Sala Ejecutivos. (T1: Kanto)",
+    "obtaining": "Base Rocket Profunda, Sala Ejecutivos. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gafas-de-sol",
+    "name": "Gafas de Sol",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Regalo de Koga al llegar a C.Fucsia. (T1: Kanto)",
+    "obtaining": "Regalo de Koga al llegar a C.Fucsia. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "metal-compuesto",
+    "name": "Metal Compuesto",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Base Rocket Profunda, Sala Potencial Alcanzable. (T1: Kanto)",
+    "obtaining": "Base Rocket Profunda, Sala Potencial Alcanzable. (T1: Kanto)",
+    "changes": "+20% potencia en movimientos acero.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt | CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-llama",
+    "name": "Tabla Llama",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Volcán de Isla Canela (T4: DLC - Misión 5).",
+    "obtaining": "Volcán de Isla Canela (T4: DLC - Misión 5).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-linfa",
+    "name": "Tabla Linfa",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Nao Abandonada (T5: Hoenn - Misión 3).",
+    "obtaining": "Nao Abandonada (T5: Hoenn - Misión 3).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-trueno",
+    "name": "Tabla Trueno",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Malvalanova (T5: Hoenn - Misión 2).",
+    "obtaining": "Malvalanova (T5: Hoenn - Misión 2).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-pradal",
+    "name": "Tabla Pradal",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Casa Desierta en Ruta 26 (T3: Johto - Medalla 5).",
+    "obtaining": "Casa Desierta en Ruta 26 (T3: Johto - Medalla 5).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-helada",
+    "name": "Tabla Helada",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Templo Puntaneva (T5: Hoenn - Misión 5).",
+    "obtaining": "Templo Puntaneva (T5: Hoenn - Misión 5).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-fuerte",
+    "name": "Tabla Fuerte",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Mt.Mortero (T3: Johto - Medalla 4).",
+    "obtaining": "Mt.Mortero (T3: Johto - Medalla 4).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-t-xica",
+    "name": "Tabla Tóxica",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Casa Ex-Campeón, Ruta 50 (T4: DLC - Misión 'Ruta 47').",
+    "obtaining": "Casa Ex-Campeón, Ruta 50 (T4: DLC - Misión 'Ruta 47').",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-terrax",
+    "name": "Tabla Terrax",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Fosa Wringsparce, Noreste Ruta 50 (T4: DLC - Misión 'Ruta 47').",
+    "obtaining": "Fosa Wringsparce, Noreste Ruta 50 (T4: DLC - Misión 'Ruta 47').",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-cielo",
+    "name": "Tabla Cielo",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Cima Pilar Celeste (T5: Hoenn - Misión 9).",
+    "obtaining": "Cima Pilar Celeste (T5: Hoenn - Misión 9).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-mental",
+    "name": "Tabla Mental",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Cima Pilar Dun (T4: DLC - Misión 'Ruta 47').",
+    "obtaining": "Cima Pilar Dun (T4: DLC - Misión 'Ruta 47').",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-bicho",
+    "name": "Tabla Bicho",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Bosque oculto al norte vías de tren (T4: DLC - Misión 6).",
+    "obtaining": "Bosque oculto al norte vías de tren (T4: DLC - Misión 6).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-p-trea",
+    "name": "Tabla Pétrea",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Zona secreta de Cueva Granito (T5: Hoenn - Misión 4).",
+    "obtaining": "Zona secreta de Cueva Granito (T5: Hoenn - Misión 4).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-terror",
+    "name": "Tabla Terror",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Pasadizo que lleva al Culto Lavanda (T2: Archi7).",
+    "obtaining": "Pasadizo que lleva al Culto Lavanda (T2: Archi7).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-draco",
+    "name": "Tabla Draco",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Interior Guarida Dragón (T3: Johto - Medalla 8).",
+    "obtaining": "Interior Guarida Dragón (T3: Johto - Medalla 8).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-oscura",
+    "name": "Tabla Oscura",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Culto lavanda, última zona de la 2da visita (T3: Johto - Medalla 7).",
+    "obtaining": "Culto lavanda, última zona de la 2da visita (T3: Johto - Medalla 7).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-acero",
+    "name": "Tabla Acero",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Ruta 120, al lado de las ruinas de Registeel (T5: Hoenn - Misión 7).",
+    "obtaining": "Ruta 120, al lado de las ruinas de Registeel (T5: Hoenn - Misión 7).",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tabla-duende",
+    "name": "Tabla Duende",
+    "category": "OBJETOS COMPETITIVOS",
+    "description": "Ruta 51, mar al oeste de Ciudad Cerezo (T3: Johto - Medalla 5).",
+    "obtaining": "Ruta 51, mar al oeste de Ciudad Cerezo (T3: Johto - Medalla 5). | Los 4 se hallan en el Laboratorio del interior del Volcán Canela. | Todos están a la venta en la Torre Radio de Pueblo Lavanda. | Todas están a la venta en la Base Rocket de Johto. | Todas a la venta en Bosque Secreto de I.Sétima | Secundaria Atlas | Más tarde están también disponible en una casa al noreste de C.Trigal. | Todas están a la venta en la Base Rocket de Hoenn. | Todos están a la venta en la Torre Radio de Pueblo Lavanda. | Todos están a la venta en la Torre Radio de Pueblo Lavanda.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "venusaurita",
+    "name": "Venusaurita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Noroeste de Ciudad Trigal (T3: Johto - Medalla 2/3)",
+    "obtaining": "Noroeste de Ciudad Trigal (T3: Johto - Medalla 2/3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "charizardita-x",
+    "name": "Charizardita-X",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo de Científico en Base Caoba (T3: Johto - Medalla 6)",
+    "obtaining": "Regalo de Científico en Base Caoba (T3: Johto - Medalla 6)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "charizardita-y",
+    "name": "Charizardita-Y",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Base estafadores en el mar Olivo (T3: Johto - Medalla 4)",
+    "obtaining": "Base estafadores en el mar Olivo (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "blastoisenita",
+    "name": "Blastoisenita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Cueva Unión de Johto. S2, zona interior. (T3: Johto - Medalla 1)",
+    "obtaining": "Cueva Unión de Johto. S2, zona interior. (T3: Johto - Medalla 1)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "beedrillita",
+    "name": "Beedrillita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Parque Nacional. Zona Noreste. (T3: Johto - Medalla 3)",
+    "obtaining": "Parque Nacional. Zona Noreste. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pidgeotita",
+    "name": "Pidgeotita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Mar al sur de C.Cerezo. Discípulo Pegaso. (T3: Johto - Medalla 4)",
+    "obtaining": "Mar al sur de C.Cerezo. Discípulo Pegaso. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "alakazita",
+    "name": "Alakazita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Detrás de Torre Bellsprout, Ciudad Malva. (T3: Johto - Medalla 1)",
+    "obtaining": "Detrás de Torre Bellsprout, Ciudad Malva. (T3: Johto - Medalla 1)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "slowbronita",
+    "name": "Slowbronita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Supernecio Pozo Slowpoke, tras hablar con César. (T3: Johto - Medalla 2)",
+    "obtaining": "Supernecio Pozo Slowpoke, tras hablar con César. (T3: Johto - Medalla 2)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gengarita",
+    "name": "Gengarita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo de Agatha tras 6ta medalla Johto. (T3: Johto - Medalla 3)",
+    "obtaining": "Regalo de Agatha tras 6ta medalla Johto. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "kangaskhanita",
+    "name": "Kangaskhanita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Dentro de Cueva Oscura, Johto. (T3: Johto - Medalla 1)",
+    "obtaining": "Dentro de Cueva Oscura, Johto. (T3: Johto - Medalla 1)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pinsirita",
+    "name": "Pinsirita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ciudad Olivo, zona norte encima del gimnasio. (T3: Johto - Medalla 4)",
+    "obtaining": "Ciudad Olivo, zona norte encima del gimnasio. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "aerodactylita",
+    "name": "Aerodactylita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo de Elo al combatir en P.Primavera. (T3: Johto - Medalla 5)",
+    "obtaining": "Regalo de Elo al combatir en P.Primavera. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mewtwonita-x",
+    "name": "Mewtwonita-X",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Laboratorio Secreto, S1. (T5: Hoenn - Misión 10)",
+    "obtaining": "Laboratorio Secreto, S1. (T5: Hoenn - Misión 10)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mewtwonita-y",
+    "name": "Mewtwonita-Y",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo de Giovanni al acabar el DLC. (T4: DLC - Misión 9)",
+    "obtaining": "Regalo de Giovanni al acabar el DLC. (T4: DLC - Misión 9)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ampharosita",
+    "name": "Ampharosita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo del farero de C.Olivo, tras derrotar a Crom. (T3: Johto - Medalla 4)",
+    "obtaining": "Regalo del farero de C.Olivo, tras derrotar a Crom. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "steelixita",
+    "name": "Steelixita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Afueras de C.Trigal, parte norte vías de tren. (T3: Johto - Medalla 3)",
+    "obtaining": "Afueras de C.Trigal, parte norte vías de tren. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "scizorita",
+    "name": "Scizorita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo granja Mu-muu tras derrotarlos. (T3: Johto - Medalla 3)",
+    "obtaining": "Regalo granja Mu-muu tras derrotarlos. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "heracronita",
+    "name": "Heracronita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo esposa Aníbal tras traerlo de vuelta. (T3: Johto - Medalla 4)",
+    "obtaining": "Regalo esposa Aníbal tras traerlo de vuelta. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "houndoomita",
+    "name": "Houndoomita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ruta 26, Johto. (T3: Johto - Medalla 5)",
+    "obtaining": "Ruta 26, Johto. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tyranitarita",
+    "name": "Tyranitarita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Interior Mt.Plateado, tras una de las cascadas. (T3: Johto - Medalla 5)",
+    "obtaining": "Interior Mt.Plateado, tras una de las cascadas. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sceptilita",
+    "name": "Sceptilita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ruta 111, tras derrotar a la familia estratega. (T5: Hoenn - Misión 1)",
+    "obtaining": "Ruta 111, tras derrotar a la familia estratega. (T5: Hoenn - Misión 1)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "blazikenita",
+    "name": "Blazikenita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ruta 133, zona norte de las corrientes. (T5: Hoenn - Misión 9)",
+    "obtaining": "Ruta 133, zona norte de las corrientes. (T5: Hoenn - Misión 9)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "swampertita",
+    "name": "Swampertita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Nao abandonada, zona secreta. (T5: Hoenn - Misión 3)",
+    "obtaining": "Nao abandonada, zona secreta. (T5: Hoenn - Misión 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gardevoirita",
+    "name": "Gardevoirita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sablenita",
+    "name": "Sablenita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Cueva Granito. (T5: Hoenn - Misión 4)",
+    "obtaining": "Cueva Granito. (T5: Hoenn - Misión 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mawilita",
+    "name": "Mawilita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Secundaria casa noroeste P.Caoba. (T3: Johto - Medalla 6)",
+    "obtaining": "Secundaria casa noroeste P.Caoba. (T3: Johto - Medalla 6)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "aggronita",
+    "name": "Aggronita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "medichamita",
+    "name": "Medichamita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "manectita",
+    "name": "Manectita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Torre Radio Lavanda, P9. (T4: DLC - Misión 9)",
+    "obtaining": "Torre Radio Lavanda, P9. (T4: DLC - Misión 9)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sharpedonita",
+    "name": "Sharpedonita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Secundaria Científico Ruinas Alfa. (T3: Johto - Medalla 3)",
+    "obtaining": "Secundaria Científico Ruinas Alfa. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "cameruptita",
+    "name": "Cameruptita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Laboratorio Volcán Canela. (T4: DLC - Misión 5)",
+    "obtaining": "Laboratorio Volcán Canela. (T4: DLC - Misión 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "altarianita",
+    "name": "Altarianita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ruta 119, tras la última cascada. (T5: Hoenn - Misión 6)",
+    "obtaining": "Ruta 119, tras la última cascada. (T5: Hoenn - Misión 6)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "banettita",
+    "name": "Banettita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Cima Monte Pírico. (T5: Hoenn - Misión 7)",
+    "obtaining": "Cima Monte Pírico. (T5: Hoenn - Misión 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "absolita",
+    "name": "Absolita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "glalita",
+    "name": "Glalita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ruta 125, al lado de Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "obtaining": "Ruta 125, al lado de Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "salamencita",
+    "name": "Salamencita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "metagrossita",
+    "name": "Metagrossita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Científico en B.Rocket Hoenn, sala nuevas formas. (T4: DLC - Misión 4)",
+    "obtaining": "Científico en B.Rocket Hoenn, sala nuevas formas. (T4: DLC - Misión 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "latiasita",
+    "name": "Latiasita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "obtaining": "Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "latiosita",
+    "name": "Latiosita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "obtaining": "Regalo en Isla Suprema tras secundaria Cueva Cardumen. (T5: Hoenn - Misión 8)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "lopunnita",
+    "name": "Lopunnita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Casino Malvalona. (T5: Hoenn - Misión 2)",
+    "obtaining": "Casino Malvalona. (T5: Hoenn - Misión 2)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "garchompita",
+    "name": "Garchompita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "lucarionita",
+    "name": "Lucarionita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Regalo 4to Líder Johto. (T3: Johto - Medalla 4)",
+    "obtaining": "Regalo 4to Líder Johto. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "abomasita",
+    "name": "Abomasita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Templo Puntaneva. (T5: Hoenn - Misión 5)",
+    "obtaining": "Templo Puntaneva. (T5: Hoenn - Misión 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "galladita",
+    "name": "Galladita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "audinita",
+    "name": "Audinita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Ciudad Calagua, regalo de Npc casa este. (T5: Hoenn - Misión 7)",
+    "obtaining": "Ciudad Calagua, regalo de Npc casa este. (T5: Hoenn - Misión 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "diancita",
+    "name": "Diancita",
+    "category": "SEMILLAS CONSUMIBLES BAJO CAMPOS",
+    "description": "Laboratorio Secreto, S3. (T5: Hoenn - Misión 10)",
+    "obtaining": "Laboratorio Secreto, S3. (T5: Hoenn - Misión 10)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "clefablita",
+    "name": "Clefablita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Secundaria Neo Faro Bill. (T4: DLC - Misión 5)",
+    "obtaining": "Secundaria Neo Faro Bill. (T4: DLC - Misión 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "victreebelita",
+    "name": "Victreebelita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Ejecutivo Base Verde al empezar Johto. (T3: Johto - Inicio)",
+    "obtaining": "Ejecutivo Base Verde al empezar Johto. (T3: Johto - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "starmita",
+    "name": "Starmita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Misty tras secundaria Neo Faro Bill. (T4: DLC - Misión 5)",
+    "obtaining": "Misty tras secundaria Neo Faro Bill. (T4: DLC - Misión 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "dragonitita",
+    "name": "Dragonitita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Dragonsden S3. (T3: Johto - Medalla 8)",
+    "obtaining": "Dragonsden S3. (T3: Johto - Medalla 8)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "meganiumita",
+    "name": "Meganiumita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Ruta 51, oeste C.Cerezo. (T3: Johto - Inicio)",
+    "obtaining": "Ruta 51, oeste C.Cerezo. (T3: Johto - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "feraligatrita",
+    "name": "Feraligatrita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Ejecutivo Base Johto P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Ejecutivo Base Johto P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "skarmorita",
+    "name": "Skarmorita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Ejecutivo Base Johto P1 tras mostrar un Typhlosion. (T3: Johto - Medalla 3)",
+    "obtaining": "Ejecutivo Base Johto P1 tras mostrar un Typhlosion. (T3: Johto - Medalla 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "froslassita",
+    "name": "Froslassita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "emboarita",
+    "name": "Emboarita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "excadrillita",
+    "name": "Excadrillita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "scolipedita",
+    "name": "Scolipedita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Base Profunda Sala Potencial Máximo, Zona Super Mineral detrás cajas. (T3: Johto - Inicio)",
+    "obtaining": "Base Profunda Sala Potencial Máximo, Zona Super Mineral detrás cajas. (T3: Johto - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "scraftita",
+    "name": "Scraftita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Misión ladrones Kanto en Johto, edificio oculto en el mar al sureste de C.Olivo. (T3: Johto - Medalla 4)",
+    "obtaining": "Misión ladrones Kanto en Johto, edificio oculto en el mar al sureste de C.Olivo. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "eelektrossita",
+    "name": "Eelektrossita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "chandelurita",
+    "name": "Chandelurita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Bosque Norte Vías Tren. (T4: DLC - Misión 6)",
+    "obtaining": "Bosque Norte Vías Tren. (T4: DLC - Misión 6)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "chesnaughtita",
+    "name": "Chesnaughtita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Venta Base Profunda, sala moneda Gimmighoul. (T3: Johto - Inicio)",
+    "obtaining": "Venta Base Profunda, sala moneda Gimmighoul. (T3: Johto - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "delphoxita",
+    "name": "Delphoxita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Culto Lavanda, exorcista de una de las casas tras mostrarle un Corsola. (T3: Johto - Medalla 4)",
+    "obtaining": "Culto Lavanda, exorcista de una de las casas tras mostrarle un Corsola. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "greninjanita",
+    "name": "Greninjanita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pyroarita",
+    "name": "Pyroarita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Caballero Bibliotecario S3 Silph, tras mostrarle un Aegislash. (T3: Johto - Medalla 6)",
+    "obtaining": "Caballero Bibliotecario S3 Silph, tras mostrarle un Aegislash. (T3: Johto - Medalla 6)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "floettita",
+    "name": "Floettita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Regalo de chica en Villa Éter, tras pescar y mostrarle un Dondozo. (T5: Hoenn - Misión 8)",
+    "obtaining": "Regalo de chica en Villa Éter, tras pescar y mostrarle un Dondozo. (T5: Hoenn - Misión 8)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "malamarita",
+    "name": "Malamarita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Zona Oeste de los refugios de Kanto. (T4: DLC - Misión 7)",
+    "obtaining": "Zona Oeste de los refugios de Kanto. (T4: DLC - Misión 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "barbaraclita",
+    "name": "Barbaraclita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "dragalgita",
+    "name": "Dragalgita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Cueva Wrongsparce, norte de Ruta 50. (T4: DLC - Misión 3)",
+    "obtaining": "Cueva Wrongsparce, norte de Ruta 50. (T4: DLC - Misión 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hawluchanita",
+    "name": "Hawluchanita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "zygardita",
+    "name": "Zygardita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "drampanita",
+    "name": "Drampanita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Villa Éter, caseta del norte. Intercambio por amuleto obtenible en el gimnasio de C.Iris. (T4: DLC - Misión 3)",
+    "obtaining": "Villa Éter, caseta del norte. Intercambio por amuleto obtenible en el gimnasio de C.Iris. (T4: DLC - Misión 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "falinksita",
+    "name": "Falinksita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "heatranita",
+    "name": "Heatranita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "darkrainita",
+    "name": "Darkrainita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "zeraoranita",
+    "name": "Zeraoranita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Venta Base Profunda, sala moneda Gimmighoul. (T5: Hoenn - Inicio)",
+    "obtaining": "Venta Base Profunda, sala moneda Gimmighoul. (T5: Hoenn - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "raichunita-x",
+    "name": "Raichunita X",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Mapa de secundaria activada en la caseta al noreste de Pueblo Caoba. (T3: Johto - Medalla 7)",
+    "obtaining": "Mapa de secundaria activada en la caseta al noreste de Pueblo Caoba. (T3: Johto - Medalla 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "raichunita-y",
+    "name": "Raichunita Y",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Regalo de Científico al noroeste de las cloacas azulona, tras mostrarle un Clodsire. (T4: DLC - Misión 3)",
+    "obtaining": "Regalo de Científico al noroeste de las cloacas azulona, tras mostrarle un Clodsire. (T4: DLC - Misión 3)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "chimechita",
+    "name": "Chimechita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Regalo Ejecutivo Base Hoenn, tras derrotarlo al entrar como Líder allí. (T5: Hoenn - Inicio)",
+    "obtaining": "Regalo Ejecutivo Base Hoenn, tras derrotarlo al entrar como Líder allí. (T5: Hoenn - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "absolita-z",
+    "name": "Absolita Z",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "staraptorita",
+    "name": "Staraptorita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Mapa de secundaria activada al hablar con calvo en el bar de C.Olivo. (T3: Johto - Medalla 4)",
+    "obtaining": "Mapa de secundaria activada al hablar con calvo en el bar de C.Olivo. (T3: Johto - Medalla 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "garchompita-z",
+    "name": "Garchompita Z",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "S1 del mapa en misión 10 de Hoenn. (T5: Hoenn - Misión 10)",
+    "obtaining": "S1 del mapa en misión 10 de Hoenn. (T5: Hoenn - Misión 10)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "lucarita-z",
+    "name": "Lucarita Z",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "golurkita",
+    "name": "Golurkita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Culto Lavanda, zona cascada. (T3: Johto - Medalla 5)",
+    "obtaining": "Culto Lavanda, zona cascada. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "meowsticita",
+    "name": "Meowsticita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Cementerio Neo Lavanda S2. NPC sala conspiraciones. (T4: DLC - Misión 4)",
+    "obtaining": "Cementerio Neo Lavanda S2. NPC sala conspiraciones. (T4: DLC - Misión 4)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "crabominablita",
+    "name": "Crabominablita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "golisopodita",
+    "name": "Golisopodita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Rocket en cárcel de Base Profunda, tras mostrarle un Ledyba. (T3: Johto - Medalla 2)",
+    "obtaining": "Rocket en cárcel de Base Profunda, tras mostrarle un Ledyba. (T3: Johto - Medalla 2)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "magearnita",
+    "name": "Magearnita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "scovillainita",
+    "name": "Scovillainita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "baxcaliburita",
+    "name": "Baxcaliburita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Venta Base Profunda, sala moneda Gimmighoul. (T4: DLC - Inicio)",
+    "obtaining": "Venta Base Profunda, sala moneda Gimmighoul. (T4: DLC - Inicio)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tatsugirita",
+    "name": "Tatsugirita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "glimmoranita",
+    "name": "Glimmoranita",
+    "category": "MEGAPIEDRAS ZA",
+    "description": "Misión Vías Tren Zona Desértica. (T4: DLC - Misión 2",
+    "obtaining": "Misión Vías Tren Zona Desértica. (T4: DLC - Misión 2",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "flygonita",
+    "name": "Flygonita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "miloticita",
+    "name": "Miloticita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "starmitita",
+    "name": "Starmitita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Tras derrotar chica oeste mar C.Cerezo. (T3: Johto - Medalla 5)",
+    "obtaining": "Tras derrotar chica oeste mar C.Cerezo. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "butterfrita",
+    "name": "Butterfrita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "obtaining": "Venta en B.Rocket Johto, P2. (T3: Johto - Medalla 5)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "dusknoirita",
+    "name": "Dusknoirita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Culto Lavanda, segunda visita. (T3: Johto - Medalla 7)",
+    "obtaining": "Culto Lavanda, segunda visita. (T3: Johto - Medalla 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "noivernita",
+    "name": "Noivernita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Regalo de Mirto. (T3: Johto - Medalla 7)",
+    "obtaining": "Regalo de Mirto. (T3: Johto - Medalla 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "toxtricitita",
+    "name": "Toxtricitita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "Zona final refugios guerra Kanto. (T4: DLC - Misión 7)",
+    "obtaining": "Zona final refugios guerra Kanto. (T4: DLC - Misión 7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "porygonita",
+    "name": "Porygonita",
+    "category": "MEGAPIEDRAS NUEVAS",
+    "description": "No obtenible.",
+    "obtaining": "No obtenible.",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt01-pu-o-certero",
+    "name": "MT01 - Puño certero",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Quinta planta de Silph. (T1: Kanto)",
+    "obtaining": "Quinta planta de Silph. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt02-garra-drag-n",
+    "name": "MT02 - Garra Dragón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Calle victoria de Kanto. (T1: Kanto)",
+    "obtaining": "Calle victoria de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt03-hidropulso",
+    "name": "MT03 - Hidropulso",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Misty al derrotarla. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Misty al derrotarla. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt04-paz-mental",
+    "name": "MT04 - Paz Mental",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Sabrina al derrotarla. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Sabrina al derrotarla. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt05-rugido",
+    "name": "MT05 - Rugido",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial Azulona. (T2: Archi7)",
+    "obtaining": "Venta en Centro Comercial Azulona. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt06-t-xico",
+    "name": "MT06 - Tóxico",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Koga al derrotarlo. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Koga al derrotarlo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt07-granizo",
+    "name": "MT07 - Granizo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Calle victoria de Kanto. (T1: Kanto)",
+    "obtaining": "Calle victoria de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt08-corpulencia",
+    "name": "MT08 - Corpulencia",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Séptima planta de Silph. (T1: Kanto)",
+    "obtaining": "Séptima planta de Silph. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt09-recurrente",
+    "name": "MT09 - Recurrente",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mt.Moon. (T1: Kanto)",
+    "obtaining": "Mt.Moon. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt10-poder-oculto",
+    "name": "MT10 - Poder Oculto",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Zona Safari. (T1: Kanto)",
+    "obtaining": "Zona Safari. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt11-d-a-soleado",
+    "name": "MT11 - Día Soleado",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Zona Safari. (T1: Kanto)",
+    "obtaining": "Zona Safari. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt12-mofa",
+    "name": "MT12 - Mofa",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Isla Exta, Valle Ruinas. (T2: Archi7)",
+    "obtaining": "Isla Exta, Valle Ruinas. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt13-rayo-hielo",
+    "name": "MT13 - Rayo Hielo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt14-ventisca",
+    "name": "MT14 - Ventisca",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Isla Canela, interior Mansión Pokémon. (T1: Kanto)",
+    "obtaining": "Isla Canela, interior Mansión Pokémon. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt15-hiperrayo",
+    "name": "MT15 - Hiperrayo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 2, Ayudante Oak | Venta C.Comercial Azulona. (T1: Kanto)",
+    "obtaining": "Ruta 2, Ayudante Oak | Venta C.Comercial Azulona. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt16-pantalla-luz",
+    "name": "MT16 - Pantalla Luz",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 3, entre Mt.Moon y C.Celeste. (T1: Kanto)",
+    "obtaining": "Ruta 3, entre Mt.Moon y C.Celeste. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt17-protecci-n",
+    "name": "MT17 - Protección",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "obtaining": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt18-danza-lluvia",
+    "name": "MT18 - Danza Lluvia",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 15. (T1: Kanto)",
+    "obtaining": "Ruta 15. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt19-gigadrenado",
+    "name": "MT19 - Gigadrenado",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Erika al derrotarla. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Erika al derrotarla. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt20-velo-sagrado",
+    "name": "MT20 - Velo Sagrado",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial Azulona. (T2: Archi7)",
+    "obtaining": "Venta en Centro Comercial Azulona. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt21-frustraci-n",
+    "name": "MT21 - Frustración",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Kanto. (T1: Kanto)",
+    "obtaining": "Base Rocket Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt22-rayo-solar",
+    "name": "MT22 - Rayo Solar",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Isla Canela, interior Mansión Pokémon. (T1: Kanto)",
+    "obtaining": "Isla Canela, interior Mansión Pokémon. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt23-cola-f-rrea",
+    "name": "MT23 - Cola Férrea",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Túnel Roca. (T1: Kanto)",
+    "obtaining": "Túnel Roca. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt24-rayo",
+    "name": "MT24 - Rayo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt25-trueno",
+    "name": "MT25 - Trueno",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Central Energía Kanto. (T1: Kanto)",
+    "obtaining": "Central Energía Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt26-terremoto",
+    "name": "MT26 - Terremoto",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder C.Verde tras derrotarlo. (T1: Kanto)",
+    "obtaining": "Regalo de Líder C.Verde tras derrotarlo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt27-retroceso",
+    "name": "MT27 - Retroceso",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de chica en el mirador de Ruta 12. (T1: Kanto)",
+    "obtaining": "Regalo de chica en el mirador de Ruta 12. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt28-excavar",
+    "name": "MT28 - Excavar",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Rocket tras misión C.Celeste. (T1: Kanto)",
+    "obtaining": "Regalo de Rocket tras misión C.Celeste. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt29-ps-quico",
+    "name": "MT29 - Psíquico",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "obtaining": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt30-bola-sombra",
+    "name": "MT30 - Bola Sombra",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "obtaining": "Venta en B.Rocket Profunda - Sala Ejecutivos. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt31-demolici-n",
+    "name": "MT31 - Demolición",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 11 | Venta C.Comercial Azulona. (T1: Kanto)",
+    "obtaining": "Ruta 11 | Venta C.Comercial Azulona. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt32-doble-equipo",
+    "name": "MT32 - Doble Equipo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "B.Rocket Profunda - S.Potencial Máximo - Zona Norte. (T3: Johto)",
+    "obtaining": "B.Rocket Profunda - S.Potencial Máximo - Zona Norte. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt33-reflejo",
+    "name": "MT33 - Reflejo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Científico en Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Regalo Científico en Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt34-onda-voltio",
+    "name": "MT34 - Onda Voltio",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Surge tras derrotarlo. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Surge tras derrotarlo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt35-lanzallamas",
+    "name": "MT35 - Lanzallamas",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Venta en Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt36-bomba-lodo",
+    "name": "MT36 - Bomba Lodo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)",
+    "obtaining": "Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt37-torm-arena",
+    "name": "MT37 - Torm.Arena",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Calle Victoria de Kanto. (T1: Kanto)",
+    "obtaining": "Calle Victoria de Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt38-llamarada",
+    "name": "MT38 - Llamarada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Blaine tras derrotarlo. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Blaine tras derrotarlo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt39-tumba-rocas",
+    "name": "MT39 - Tumba Rocas",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Brock tras derrotarlo. (T1: Kanto)",
+    "obtaining": "Regalo de Líder Brock tras derrotarlo. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt40-golpe-a-reo",
+    "name": "MT40 - Golpe Aéreo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 9. (T1: Kanto)",
+    "obtaining": "Ruta 9. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt41-tormento",
+    "name": "MT41 - Tormento",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cuarta Planta de Silph. (T1: Kanto)",
+    "obtaining": "Cuarta Planta de Silph. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt42-imagen",
+    "name": "MT42 - Imagen",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Profunda. (T1: Kanto)",
+    "obtaining": "Base Rocket Profunda. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt43-da-o-secreto",
+    "name": "MT43 - Daño Secreto",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 25 | Venta en C.Comercial Azulona. (T1: Kanto)",
+    "obtaining": "Ruta 25 | Venta en C.Comercial Azulona. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt44-descanso",
+    "name": "MT44 - Descanso",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 2. (T1: Kanto)",
+    "obtaining": "Ruta 2. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt45-atracci-n",
+    "name": "MT45 - Atracción",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Islas Espuma | Venta en C.Comercial Azulona. (T2: Archi7)",
+    "obtaining": "Islas Espuma | Venta en C.Comercial Azulona. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt46-ladr-n",
+    "name": "MT46 - Ladrón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mt.Moon. (T1: Kanto)",
+    "obtaining": "Mt.Moon. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt47-ala-de-acero",
+    "name": "MT47 - Ala de Acero",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Zona Safari. (T1: Kanto)",
+    "obtaining": "Zona Safari. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt48-intercambio",
+    "name": "MT48 - Intercambio",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 12. (T1: Kanto)",
+    "obtaining": "Ruta 12. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt49-robo",
+    "name": "MT49 - Robo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Kanto. (T1: Kanto)",
+    "obtaining": "Base Rocket Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt50-sofoco",
+    "name": "MT50 - Sofoco",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Calle Victoria Kanto. (T1: Kanto)",
+    "obtaining": "Calle Victoria Kanto. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt51-onda-certera",
+    "name": "MT51 - Onda Certera",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Silph S3. (T2: Archi7)",
+    "obtaining": "Silph S3. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt52-acr-bata",
+    "name": "MT52 - Acróbata",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 49, misión 'Ruta 47' DLC. (T4: DLC)",
+    "obtaining": "Ruta 49, misión 'Ruta 47' DLC. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt53-giga-impacto",
+    "name": "MT53 - Giga Impacto",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo tutor Contador en C.Comercial Azulona. (T2: Archi7)",
+    "obtaining": "Regalo tutor Contador en C.Comercial Azulona. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt54-pulso-umbr-o",
+    "name": "MT54 - Pulso Umbrío",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)",
+    "obtaining": "Venta en B.Rocket Profunda - Sala Entrenamiento. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt55-voltio-cruel",
+    "name": "MT55 - Voltio Cruel",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Hoenn. (T4: DLC)",
+    "obtaining": "Base Rocket Hoenn. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt56-roca-afilada",
+    "name": "MT56 - Roca Afilada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo tutor Avalanca en Túnel Roca. (T1: Kanto)",
+    "obtaining": "Regalo tutor Avalanca en Túnel Roca. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt57-veneno-x",
+    "name": "MT57 - Veneno X",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Ciudad Verde. (T1: Kanto)",
+    "obtaining": "Base Rocket Ciudad Verde. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt58-tijera-x",
+    "name": "MT58 - Tijera X",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Secundaria Bar Ciudad Olivo. (T3: Johto)",
+    "obtaining": "Secundaria Bar Ciudad Olivo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt59-afilargarras",
+    "name": "MT59 - Afilargarras",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Trigal al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Trigal al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt60-psicocarga",
+    "name": "MT60 - Psicocarga",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Iris al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Iris al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt61-respiro",
+    "name": "MT61 - Respiro",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Malva al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Malva al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt62-antia-reo",
+    "name": "MT62 - Antiaéreo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 50, misión 'Ruta 47' DLC. (T4: DLC)",
+    "obtaining": "Ruta 50, misión 'Ruta 47' DLC. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt63-onda-t-xica",
+    "name": "MT63 - Onda Tóxica",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Científico en Torre Radio Lavanda, P5. (T4: DLC)",
+    "obtaining": "Regalo Científico en Torre Radio Lavanda, P5. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt64-nitrocarga",
+    "name": "MT64 - Nitrocarga",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "P.Caoba, secundaria ancianos casa noreste. (T3: Johto)",
+    "obtaining": "P.Caoba, secundaria ancianos casa noreste. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt65-patada-baja",
+    "name": "MT65 - Patada Baja",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Orquídea al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Orquídea al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt66-eco-voz",
+    "name": "MT66 - Eco Voz",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt67-energibola",
+    "name": "MT67 - Energibola",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Vías Trigal-Azafrán, zona hierba. (T4: DLC)",
+    "obtaining": "Vías Trigal-Azafrán, zona hierba. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt68-falsotortazo",
+    "name": "MT68 - Falsotortazo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt69-escaldar",
+    "name": "MT69 - Escaldar",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Isla Prima, secundaria Cueva Tesoro. (T2: Archi7)",
+    "obtaining": "Isla Prima, secundaria Cueva Tesoro. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt70-rayo-carga",
+    "name": "MT70 - Rayo Carga",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Neo Central Energía, regalo Presidente. (T4: DLC)",
+    "obtaining": "Neo Central Energía, regalo Presidente. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt71-ca-da-libre",
+    "name": "MT71 - Caída Libre",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 47, misión 'Ruta 47' DLC. (T4: DLC)",
+    "obtaining": "Ruta 47, misión 'Ruta 47' DLC. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt72-fuego-fatuo",
+    "name": "MT72 - Fuego Fatuo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Quemada, regalo exorcista. (T3: Johto)",
+    "obtaining": "Torre Quemada, regalo exorcista. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt73-explosi-n",
+    "name": "MT73 - Explosión",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Volcán Canela, laboratorio destruído. (T4: DLC)",
+    "obtaining": "Volcán Canela, laboratorio destruído. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt74-garra-umbr-a",
+    "name": "MT74 - Garra Umbría",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt75-vendetta",
+    "name": "MT75 - Vendetta",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Culto Lavanda regreso, S4. (T3: Johto)",
+    "obtaining": "Culto Lavanda regreso, S4. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt76-represalia",
+    "name": "MT76 - Represalia",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Neo Lavanda Cementerio, S2. (T4: DLC)",
+    "obtaining": "Neo Lavanda Cementerio, S2. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt77-pulimento",
+    "name": "MT77 - Pulimento",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Olivo al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Olivo al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt78-voltiocambio",
+    "name": "MT78 - Voltiocambio",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo electricista en Faro Olivo. (T3: Johto)",
+    "obtaining": "Regalo electricista en Faro Olivo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt79-onda-trueno",
+    "name": "MT79 - Onda Trueno",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt80-giro-bola",
+    "name": "MT80 - Giro Bola",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Hoenn, S2. (T4: DLC)",
+    "obtaining": "Base Rocket Hoenn, S2. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt81-danza-espada",
+    "name": "MT81 - Danza Espada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Sete, secundaria Atlas. (T2: Archi7)",
+    "obtaining": "Regalo Líder Sete, secundaria Atlas. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt82-estoicismo",
+    "name": "MT82 - Estoicismo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Azalea al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Azalea al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt83-terratemblor",
+    "name": "MT83 - Terratemblor",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mt.Ascuas, montañero tutor explosión. (T2: Archi7)",
+    "obtaining": "Mt.Ascuas, montañero tutor explosión. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt84-vaho-g-lido",
+    "name": "MT84 - Vaho Gélido",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Caoba tras derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Caoba tras derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt85-avalancha",
+    "name": "MT85 - Avalancha",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Anciana I.Cuarta tras secundaria, requiere cascada. (T3: Johto)",
+    "obtaining": "Anciana I.Cuarta tras secundaria, requiere cascada. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt86-cola-drag-n",
+    "name": "MT86 - Cola Dragón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 50, Pilar Dun. Misión 'Ruta 47' DLC. (T4: DLC)",
+    "obtaining": "Ruta 50, Pilar Dun. Misión 'Ruta 47' DLC. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt87-puya-nociva",
+    "name": "MT87 - Puya Nociva",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Johto, P2. (T3: Johto)",
+    "obtaining": "Base Rocket Johto, P2. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt88-hierba-lazo",
+    "name": "MT88 - Hierba Lazo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Vías Trigal-Azafrán, zona hierba. (T4: DLC)",
+    "obtaining": "Vías Trigal-Azafrán, zona hierba. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt89-contoneo",
+    "name": "MT89 - Contoneo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en subterráneo de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt90-picoteo",
+    "name": "MT90 - Picoteo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Vías Trigal-Azafrán, Bosque Secreto al norte. (T4: DLC)",
+    "obtaining": "Vías Trigal-Azafrán, Bosque Secreto al norte. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt91-ida-y-vuelta",
+    "name": "MT91 - Ida y Vuelta",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Antón en el Encinar. (T3: Johto)",
+    "obtaining": "Regalo de Antón en el Encinar. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt92-sustituto",
+    "name": "MT92 - Sustituto",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt93-foco-resplandor",
+    "name": "MT93 - Foco Resplandor",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Campana, regalo de Pensador. (T3: Johto)",
+    "obtaining": "Torre Campana, regalo de Pensador. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt94-espacio-raro",
+    "name": "MT94 - Espacio Raro",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo de Líder Sete, secundaria Bosque Baya. (T2: Archi7)",
+    "obtaining": "Regalo de Líder Sete, secundaria Bosque Baya. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt95-trampa-rocas",
+    "name": "MT95 - Trampa Rocas",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Vías Trigal-Azafrán, zona rocosa al sur. (T4: DLC)",
+    "obtaining": "Vías Trigal-Azafrán, zona rocosa al sur. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt96-alud",
+    "name": "MT96 - Alud",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Interior Lago Furia. (T4: DLC)",
+    "obtaining": "Interior Lago Furia. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt97-salmuera",
+    "name": "MT97 - Salmuera",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cueva Unión, regalo de pescador en el interior. (T3: Johto)",
+    "obtaining": "Cueva Unión, regalo de pescador en el interior. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt98-pu-o-drenaje",
+    "name": "MT98 - Puño Drenaje",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Lago Furia, regalo karateka alrededor. (T3: Johto)",
+    "obtaining": "Lago Furia, regalo karateka alrededor. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt99-pulso-drag-n",
+    "name": "MT99 - Pulso Dragón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Regalo Líder Johto Endrino al derrotarlo. (T3: Johto)",
+    "obtaining": "Regalo Líder Johto Endrino al derrotarlo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt100-brillo-m-gico",
+    "name": "MT100 - Brillo Mágico",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt101-giro-vil",
+    "name": "MT101 - Giro Vil",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "obtaining": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt102-cuerno-certero",
+    "name": "MT102 - Cuerno Certero",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Secundaria estafadores Kanto en Johto. (T3: Johto)",
+    "obtaining": "Secundaria estafadores Kanto en Johto. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt103-velo-aurora",
+    "name": "MT103 - Velo Aurora",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Isla Cuarta, zona secreta de Cueva Glaciada. (T2: Archi7)",
+    "obtaining": "Isla Cuarta, zona secreta de Cueva Glaciada. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt104-acoso",
+    "name": "MT104 - Acoso",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "obtaining": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt105-alarido",
+    "name": "MT105 - Alarido",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Neo Lavanda Cementerio, regalo rocket Alto Rango. (T4: DLC)",
+    "obtaining": "Neo Lavanda Cementerio, regalo rocket Alto Rango. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt106-pu-o-incremento",
+    "name": "MT106 - Puño Incremento",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "obtaining": "Refugios subterráneos de Kanto. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt107-pu-o-hielo",
+    "name": "MT107 - Puño Hielo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt108-pu-o-trueno",
+    "name": "MT108 - Puño Trueno",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt109-pu-o-fuego",
+    "name": "MT109 - Puño Fuego",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta en Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt110-ataque-a-reo",
+    "name": "MT110 - Ataque Aéreo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cima misión 'Vías Tren' DLC. (T4: DLC)",
+    "obtaining": "Cima misión 'Vías Tren' DLC. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt111-psicoonda",
+    "name": "MT111 - Psicoonda",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cima Torre Radio Lavanda. (T4: DLC)",
+    "obtaining": "Cima Torre Radio Lavanda. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt112-esfera-aural",
+    "name": "MT112 - Esfera Aural",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Dun, P2. (T4: DLC)",
+    "obtaining": "Torre Dun, P2. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt113-viento-af-n",
+    "name": "MT113 - Viento Afín",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Pilar Dun, P2. (T4: DLC)",
+    "obtaining": "Pilar Dun, P2. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt114-lanza-mugre",
+    "name": "MT114 - Lanza Mugre",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Base Rocket Johto, regalo de Científico. (T3: Johto)",
+    "obtaining": "Base Rocket Johto, regalo de Científico. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt115-cabezahierro",
+    "name": "MT115 - Cabezahierro",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Volcán Canela, interior laboratorio. (T4: DLC)",
+    "obtaining": "Volcán Canela, interior laboratorio. (T4: DLC)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt116-campo-el-ctrico",
+    "name": "MT116 - Campo Eléctrico",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "obtaining": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt117-campo-de-hierba",
+    "name": "MT117 - Campo de Hierba",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "obtaining": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt118-campo-ps-quico",
+    "name": "MT118 - Campo Psíquico",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "obtaining": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt119-campo-de-niebla",
+    "name": "MT119 - Campo de Niebla",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "obtaining": "A la venta en la Base Rocket de Johto. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt120-cuerpo-pesado",
+    "name": "MT120 - Cuerpo Pesado",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Nao Abandonada. (T5: Hoenn)",
+    "obtaining": "Nao Abandonada. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt121-vozarr-n",
+    "name": "MT121 - Vozarrón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "obtaining": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt122-onda-an-mala",
+    "name": "MT122 - Onda Anómala",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Laboratorio Misión 10 Hoenn. (T5: Hoenn)",
+    "obtaining": "Laboratorio Misión 10 Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt123-cuchilla-solar",
+    "name": "MT123 - Cuchilla Solar",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cueva Ruta 120. (T5: Hoenn)",
+    "obtaining": "Cueva Ruta 120. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt124-colm-rayo",
+    "name": "MT124 - Colm.Rayo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "obtaining": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt125-colm-hielo",
+    "name": "MT125 - Colm.Hielo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "obtaining": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt126-colm-fuego",
+    "name": "MT126 - Colm.Fuego",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "obtaining": "Venta Centro Comercial Calagua. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt127-electrotela",
+    "name": "MT127 - Electrotela",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Comercio Portual. (T5: Hoenn)",
+    "obtaining": "Venta en Comercio Portual. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt128-fisura",
+    "name": "MT128 - Fisura",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mt.Cenizo. Cueva de Groudon. (T5: Hoenn)",
+    "obtaining": "Mt.Cenizo. Cueva de Groudon. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt129-cola-veneno",
+    "name": "MT129 - Cola Veneno",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Casino Malvalona, S2. (T5: Hoenn)",
+    "obtaining": "Casino Malvalona, S2. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt130-triataque",
+    "name": "MT130 - Triataque",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Laboratorio Misión 10 Hoenn. (T5: Hoenn)",
+    "obtaining": "Laboratorio Misión 10 Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt131-tierra-viva",
+    "name": "MT131 - Tierra Viva",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 134, Cámara Sellada. (T5: Hoenn)",
+    "obtaining": "Ruta 134, Cámara Sellada. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt132-maquinaci-n",
+    "name": "MT132 - Maquinación",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Silph, S2. Regalo de Científico. (T2: Archi7)",
+    "obtaining": "Silph, S2. Regalo de Científico. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt133-golpe-calor",
+    "name": "MT133 - Golpe Calor",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Pueblo Lavacalda, NPC del Centro Pkmn. (T5: Hoenn)",
+    "obtaining": "Pueblo Lavacalda, NPC del Centro Pkmn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt134-maldici-n",
+    "name": "MT134 - Maldición",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Pokémon, S3. (T2: Archi7)",
+    "obtaining": "Torre Pokémon, S3. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt135-onda-vac-o",
+    "name": "MT135 - Onda Vacío",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Comercio Portual. (T5: Hoenn)",
+    "obtaining": "Venta en Comercio Portual. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt136-meteorobola",
+    "name": "MT136 - Meteorobola",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 119. Instituto Meteorológico. (T5: Hoenn)",
+    "obtaining": "Ruta 119. Instituto Meteorológico. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt137-superdiente",
+    "name": "MT137 - Superdiente",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Casino Malvalona, uno de los premios. (T5: Hoenn)",
+    "obtaining": "Casino Malvalona, uno de los premios. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt138-fuerza-equina",
+    "name": "MT138 - Fuerza Equina",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 39, regalo de Criador en Granja Muu-mu. (T3: Johto)",
+    "obtaining": "Ruta 39, regalo de Criador en Granja Muu-mu. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt139-arenas-ardientes",
+    "name": "MT139 - Arenas Ardientes",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Desierto de Hoenn. (T5: Hoenn)",
+    "obtaining": "Desierto de Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt140-poltergeist",
+    "name": "MT140 - Poltergeist",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Monte Pírico, cima interior. (T5: Hoenn)",
+    "obtaining": "Monte Pírico, cima interior. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt141-metal-ser",
+    "name": "MT141 - Metaláser",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "P.Caoba, secundaria casa al noreste. (T3: Johto)",
+    "obtaining": "P.Caoba, secundaria casa al noreste. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt142-truco",
+    "name": "MT142 - Truco",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Centro Comercial Calagua. (T5: Hoenn)",
+    "obtaining": "Venta en Centro Comercial Calagua. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt143-chupavidas",
+    "name": "MT143 - Chupavidas",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "C.Plateada, secundaria cazabichos. (T1: Kanto)",
+    "obtaining": "C.Plateada, secundaria cazabichos. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt144-pedrada",
+    "name": "MT144 - Pedrada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Interior Cueva Granito. (T5: Hoenn)",
+    "obtaining": "Interior Cueva Granito. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt145-poder-reserva",
+    "name": "MT145 - Poder Reserva",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Pasadizo hacia el Culto Lavanda. (T2: Archi7)",
+    "obtaining": "Pasadizo hacia el Culto Lavanda. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt146-beso-drenaje",
+    "name": "MT146 - Beso Drenaje",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt147-amortiguador",
+    "name": "MT147 - Amortiguador",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "obtaining": "Venta Centro Comercial de C.Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt148-comesue-os",
+    "name": "MT148 - Comesueños",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cementerio antiguo Gimnasio Lavanda. (T2: Archi7)",
+    "obtaining": "Cementerio antiguo Gimnasio Lavanda. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt149-electroca-n",
+    "name": "MT149 - Electrocañón",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Malvalanova. (T5: Hoenn)",
+    "obtaining": "Malvalanova. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt150-golpe-cuerpo",
+    "name": "MT150 - Golpe Cuerpo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Centro Comercial Trigal. (T3: Johto)",
+    "obtaining": "Venta Centro Comercial Trigal. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt151-car-mbano",
+    "name": "MT151 - Carámbano",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Templo Puntaneva. (T5: Hoenn)",
+    "obtaining": "Templo Puntaneva. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt152-llama-embrujada",
+    "name": "MT152 - Llama Embrujada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Monte Pírico, cima exterior. (T5: Hoenn)",
+    "obtaining": "Monte Pírico, cima exterior. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt153-psicocorte",
+    "name": "MT153 - Psicocorte",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ciudad Algaria, NPC de los Recreativos. (T5: Hoenn)",
+    "obtaining": "Ciudad Algaria, NPC de los Recreativos. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt154-fr-o-polar",
+    "name": "MT154 - Frío Polar",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cueva Abisal, sala Kyogre. (T5: Hoenn)",
+    "obtaining": "Cueva Abisal, sala Kyogre. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt155-carbat-xica",
+    "name": "MT155 - Carbatóxica",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Neo Ciudad Fucsia, zona norte abandonada. (T5: Hoenn)",
+    "obtaining": "Neo Ciudad Fucsia, zona norte abandonada. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt156-guillotina",
+    "name": "MT156 - Guillotina",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Isla Secunda. Secundaria NPCs Isla Tera. (T2: Archi7)",
+    "obtaining": "Torre Isla Secunda. Secundaria NPCs Isla Tera. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt157-pin-misil",
+    "name": "MT157 - Pin Misil",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Zona Safari de Hoenn. (T5: Hoenn)",
+    "obtaining": "Zona Safari de Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt158-bomba-cida",
+    "name": "MT158 - Bomba Ácida",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Premio en el Casino Malvalona. (T5: Hoenn)",
+    "obtaining": "Premio en el Casino Malvalona. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt159-juego-sucio",
+    "name": "MT159 - Juego Sucio",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Premio Casino Malvalona. (T5: Hoenn)",
+    "obtaining": "Premio Casino Malvalona. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt160-perforador",
+    "name": "MT160 - Perforador",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Zona Safari Hoenn. (T5: Hoenn)",
+    "obtaining": "Zona Safari Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt162-onda-gnea",
+    "name": "MT162 - Onda Ígnea",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Radio Trigal, Científico en el P7. (T3: Johto)",
+    "obtaining": "Torre Radio Trigal, Científico en el P7. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt166-amnesia",
+    "name": "MT166 - Amnesia",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Secundaria Bosque Baya, Cueva Hypno. (T2: Archi7)",
+    "obtaining": "Secundaria Bosque Baya, Cueva Hypno. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt167-viraje",
+    "name": "MT167 - Viraje",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mares de Hoenn, tras una zona de buceo. (T5: Hoenn)",
+    "obtaining": "Mares de Hoenn, tras una zona de buceo. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt169-ala-bis",
+    "name": "MT169 - Ala Bis",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Exterior Faro Ciudad Olivo. (T3: Johto)",
+    "obtaining": "Exterior Faro Ciudad Olivo. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt170-mil-temblores",
+    "name": "MT170 - Mil Temblores",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Torre Radio Trigal, P10. (T3: Johto)",
+    "obtaining": "Torre Radio Trigal, P10. (T3: Johto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt173-joya-de-luz",
+    "name": "MT173 - Joya de luz",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Mt.Ascuas zona reclutas Equipo Magma. (T2: Archi7)",
+    "obtaining": "Mt.Ascuas zona reclutas Equipo Magma. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt174-inversi-n",
+    "name": "MT174 - Inversión",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Base Profunda sala moneda Gimmighoul. (T1: Kanto)",
+    "obtaining": "Venta Base Profunda sala moneda Gimmighoul. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt179-otra-vez",
+    "name": "MT179 - Otra Vez",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Museo Pueblo Verdegal. (T5: Hoenn)",
+    "obtaining": "Museo Pueblo Verdegal. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt180-bomba-g-rmen",
+    "name": "MT180 - Bomba gérmen",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Ruta 123 al mostrar un tipo planta a chica. (T5: Hoenn)",
+    "obtaining": "Ruta 123 al mostrar un tipo planta a chica. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt193-megapatada",
+    "name": "MT193 - Megapatada",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta Base Profunda sala moneda Gimmighoul. (T2: Archi7)",
+    "obtaining": "Venta Base Profunda sala moneda Gimmighoul. (T2: Archi7)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt194-cabezazo",
+    "name": "MT194 - Cabezazo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cárcel Base Profunda, científico del noreste. (T1: Kanto)",
+    "obtaining": "Cárcel Base Profunda, científico del noreste. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt195-furia-dragon",
+    "name": "MT195 - Furia Dragon",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Gimnasio Endrino abierto, tras misión 10 Hoenn. (T5: Hoenn)",
+    "obtaining": "Gimnasio Endrino abierto, tras misión 10 Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt196-doble-filo",
+    "name": "MT196 - Doble Filo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Suite Edificio telecomunicaciones Azulona. (T1: Kanto)",
+    "obtaining": "Suite Edificio telecomunicaciones Azulona. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt197-sumisi-n",
+    "name": "MT197 - Sumisión",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Venta en Base Rocket C.Verde. (T1: Kanto)",
+    "obtaining": "Venta en Base Rocket C.Verde. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt198-bofet-n-lodo",
+    "name": "MT198 - Bofetón Lodo",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Prado de Isla Inta, surfeando. (T1: Kanto)",
+    "obtaining": "Prado de Isla Inta, surfeando. (T1: Kanto)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "mt218-p-jaro-osado",
+    "name": "MT218 - Pájaro Osado",
+    "category": "OBTENCIÓN DE TODAS LAS MTS",
+    "description": "Cazabichos en casa de C.Olivo, tras acabar misión 10 Hoenn. (T5: Hoenn)",
+    "obtaining": "Cazabichos en casa de C.Olivo, tras acabar misión 10 Hoenn. (T5: Hoenn)",
+    "changes": null,
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/OBTENCIÓN OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "ala-arcoiris",
+    "name": "Ala Arcoiris",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+20% Ataque y Defensa en Ho-Oh.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+20% Ataque y Defensa en Ho-Oh.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "dulce-de-nata",
+    "name": "Dulce de Nata",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% At.Esp y Def.Esp en Slurpuff (No obtenible).",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% At.Esp y Def.Esp en Slurpuff (No obtenible).",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "sam-flagrante",
+    "name": "Sam.Flagrante",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% Defensa y Def.Esp en Aromatisse (No obtenible).",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% Defensa y Def.Esp en Aromatisse (No obtenible).",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "discos-genesect",
+    "name": "Discos Genesect",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% Defensa y Def.Esp en Genesect. Mantiene efecto anterior.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% Defensa y Def.Esp en Genesect. Mantiene efecto anterior.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "discos-silvally",
+    "name": "Discos Silvally",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% Ataque y Def.Esp en Silvally.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% Ataque y Def.Esp en Silvally.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "roc-o-bondad",
+    "name": "Rocío Bondad",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% At.Esp y Def.Esp en Latios/Latias.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% At.Esp y Def.Esp en Latios/Latias.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "super-mineral-evolutivo",
+    "name": "Super Mineral Evolutivo",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+50% Ataque, Defensa, At.Esp, Def.Esp y +30% Velocidad",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+50% Ataque, Defensa, At.Esp, Def.Esp y +30% Velocidad",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "hueso-grueso",
+    "name": "Hueso Grueso",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "Afecta tanto a Cubone/Marowak como a Guardia.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "Afecta tanto a Cubone/Marowak como a Guardia.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "pluma-bella",
+    "name": "Pluma Bella",
+    "category": "OBJETOS POTENCIADORES DE CIERTOS PKMN",
+    "description": "+30% Ataque, Ataque Especial y Velocidad en aves regionales.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "+30% Ataque, Ataque Especial y Velocidad en aves regionales.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "tablas-de-arceus",
+    "name": "Tablas de Arceus",
+    "category": "OBJETOS CUYO EFECTO COMPETITIVO SE HA MODIFICADO",
+    "description": "Pasan de potenciar un 20% a un 30% el tipo objetivo.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "Pasan de potenciar un 20% a un 30% el tipo objetivo.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  },
+  {
+    "id": "gemas",
+    "name": "Gemas",
+    "category": "OBJETOS CUYO EFECTO COMPETITIVO SE HA MODIFICADO",
+    "description": "Pasan de potenciar un 30% a un 40% el movimiento objetivo.",
+    "obtaining": "Ver documento de obtención o tiendas.",
+    "changes": "Pasan de potenciar un 30% a un 40% el movimiento objetivo.",
+    "source": "INFORMACIÓN ÚTIL/OBJETOS/CAMBIOS en OBJETOS.txt",
+    "confidence": "CONFIRMADO"
+  }
+]

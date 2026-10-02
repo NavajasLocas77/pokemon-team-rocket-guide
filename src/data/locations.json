@@ -1,0 +1,5120 @@
+[
+  {
+    "id": "isla-inta",
+    "name": "ISLA INTA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS RIVAL ANDRA (1er encuentro)",
+        "battleId": "battle-1",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CONSUL",
+        "battleId": "battle-2",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "v-a-subterr-nea-ciudad-carm-n",
+    "name": "VÍA SUBTERRÁNEA - CIUDAD CARMÍN",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS RIVAL ANDRA (2do encuentro)",
+        "battleId": "battle-3",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "mt-moon-mision-f-siles",
+    "name": "MT.MOON - MISION FÓSILES",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ALTO RANGO FRANK (1er encuentro)",
+        "battleId": "battle-4",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "casa-de-bill-misi-n-patente-teletransporte",
+    "name": "CASA DE BILL - MISIÓN PATENTE TELETRANSPORTE",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS COLECCIONISTA BILL (1er encuentro)",
+        "battleId": "battle-5",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "ss-anne-misi-n-frasco-capit-n-barco",
+    "name": "SS.ANNE - MISIÓN FRASCO CAPITÁN BARCO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AZUL (1er encuentro)",
+        "battleId": "battle-6",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CAPITÁN EDWARD (1er encuentro)",
+        "battleId": "battle-7",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "ruta-10",
+    "name": "RUTA 10",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ANDRA (3er encuentro)",
+        "battleId": "battle-8",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "t-nel-roca-misi-n-kangaskhan-perdido",
+    "name": "TÚNEL ROCA - MISIÓN KANGASKHAN PERDIDO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ENTRENADORA GUAY VERO",
+        "battleId": "battle-9",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CIENTÍFICO MIGUEL (2do encuentro)",
+        "battleId": "battle-10",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "torre-pok-mon-misi-n-fuji-y-prot-n",
+    "name": "TORRE POKÉMON - MISIÓN FUJI Y PROTÓN",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CRIAPOKÉMON FUJI",
+        "battleId": "battle-11",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CULTISTA 'M'",
+        "battleId": "battle-12",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MAROGHOST",
+        "battleId": "battle-13",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "base-rocket-profunda",
+    "name": "BASE ROCKET PROFUNDA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EJECUTIVO ROCKET FRANK",
+        "battleId": "battle-14",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ANDRA (4to encuentro)",
+        "battleId": "battle-15",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "museo-plateada-camino-a-misi-n-pueblo-paleta",
+    "name": "MUSEO PLATEADA - CAMINO A MISIÓN PUEBLO PALETA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CIENTÍFICO MIGUEL (3er encuentro)",
+        "battleId": "battle-16",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "laboratorio-oak",
+    "name": "LABORATORIO OAK",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS DALIA (1er encuentro)",
+        "battleId": "battle-17",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "ruta-13-misi-n-articuno",
+    "name": "RUTA 13 - MISIÓN ARTICUNO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AZUL (2do encuentro)",
+        "battleId": "battle-18",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "ruta-16-misi-n-articuno",
+    "name": "RUTA 16 - MISIÓN ARTICUNO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS BRUNO (1er encuentro)",
+        "battleId": "battle-19",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "islas-espuma-misi-n-articuno",
+    "name": "ISLAS ESPUMA - MISIÓN ARTICUNO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ARTICUNO",
+        "battleId": "battle-20",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "central-energ-a-misi-n-zapdos",
+    "name": "CENTRAL ENERGÍA - MISIÓN ZAPDOS",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ZAPDOS",
+        "battleId": "battle-21",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SURGE (1er encuentro)",
+        "battleId": "battle-22",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "ciudad-azafr-n-misi-n-silph-sa",
+    "name": "CIUDAD AZAFRÁN - MISIÓN SILPH SA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ANDRA (5to encuentro)",
+        "battleId": "battle-23",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS TRABAJADOR SILPH",
+        "battleId": "battle-24",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS PRESIDENTE SILPH (1er encuentro)",
+        "battleId": "battle-25",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS COLECCIONISTA BILL (2do encuentro)",
+        "battleId": "battle-26",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS BILL/MIGUEL COMBATE DOBLE",
+        "battleId": "battle-27",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "l-deres-de-gimnasio-misi-n-asalto-a-la-liga-pok-mon",
+    "name": "LÍDERES DE GIMNASIO - MISIÓN: ASALTO A LA LIGA POKÉMON",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS BROCK",
+        "battleId": "battle-28",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MISTY",
+        "battleId": "battle-29",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SURGE",
+        "battleId": "battle-30",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ERIKA",
+        "battleId": "battle-31",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS KOGA",
+        "battleId": "battle-32",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SABRINA",
+        "battleId": "battle-33",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS Blaine",
+        "battleId": "battle-34",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "gimnasio-ciudad-verde-ltima-medalla",
+    "name": "GIMNASIO CIUDAD VERDE - ÚLTIMA MEDALLA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EJECUTIVO ROCKET PROTÓN",
+        "battleId": "battle-35",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR ROCKET PETREL",
+        "battleId": "battle-36",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR JEFE ROCKET ATLAS",
+        "battleId": "battle-37",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "misi-n-comit-liga-pok-mon",
+    "name": "MISIÓN COMITÉ LIGA POKÉMON",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS MIEMBRO COMITÉ 1",
+        "battleId": "battle-38",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MIEMBRO COMITÉ 2",
+        "battleId": "battle-39",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS POKÉLOTODO",
+        "battleId": "battle-40",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MIEMBRO COMITÉ 3",
+        "battleId": "battle-41",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR ROCKET FRANK",
+        "battleId": "battle-42",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MAGNEMITE CIENTÍFICO COMITÉ",
+        "battleId": "battle-43",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CIENTÍFICO COMITÉ",
+        "battleId": "battle-44",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS DIRECTOR CG LIGA",
+        "battleId": "battle-45",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "meseta-a-il-calle-victoria",
+    "name": "MESETA AÑIL - CALLE VICTORIA",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AZUL",
+        "battleId": "battle-46",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS RIVAL ANDRA",
+        "battleId": "battle-47",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "liga-pok-mon-de-kanto",
+    "name": "LIGA POKÉMON DE KANTO",
+    "region": "Kanto (Temporada 1)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ALTO MANDO LORELEI",
+        "battleId": "battle-48",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO BRUNO",
+        "battleId": "battle-49",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO AGATHA",
+        "battleId": "battle-50",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO LANCE (1er encuentro)",
+        "battleId": "battle-51",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CAMPEÓN ROJO",
+        "battleId": "battle-52",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS EMPERADOR LANCE",
+        "battleId": "battle-53",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T1 - DIFICIL_FACIL/KANTO FACIL_DIFICIL.txt"
+  },
+  {
+    "id": "regreso-isla-inta",
+    "name": "REGRESO ISLA INTA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AZUL",
+        "battleId": "battle-54",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "exploraci-n-isla-s-tima",
+    "name": "EXPLORACIÓN ISLA SÉTIMA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS RIVAL ANDRA",
+        "battleId": "battle-55",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "cueva-cambiante-isla-exta",
+    "name": "CUEVA CAMBIANTE ISLA EXTA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS VIAJERO ZEUS",
+        "battleId": "battle-56",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "mt-ascuas-evento-equipo-magma",
+    "name": "MT.ASCUAS - EVENTO EQUIPO MAGMA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR MAGMA TATIANO",
+        "battleId": "battle-57",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER MAGMA MAGNO",
+        "battleId": "battle-58",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "cueva-punteada-evento-equipo-aqua",
+    "name": "CUEVA PUNTEADA - EVENTO EQUIPO AQUA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ALMIRANTE TOLO",
+        "battleId": "battle-59",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER AQUA AQUILES",
+        "battleId": "battle-60",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "silph-sa-pisos-subterr-neos",
+    "name": "SILPH SA - PISOS SUBTERRÁNEOS",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRESIDENTE SILPH",
+        "battleId": "battle-61",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CIENTÍFICO MIGUEL",
+        "battleId": "battle-62",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS COLECCIONISTA BILL",
+        "battleId": "battle-63",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "culto-pueblo-lavanda",
+    "name": "CULTO PUEBLO LAVANDA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS GHOST",
+        "battleId": "battle-64",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CULTISTA 'M'",
+        "battleId": "battle-65",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER SECTA LAIREB",
+        "battleId": "battle-66",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER SECTA LAIREB",
+        "battleId": "battle-96",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "roca-ombligo",
+    "name": "ROCA OMBLIGO",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LEGENDARIO LUGIA",
+        "battleId": "battle-67",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "despacho-giovanni-base-profunda",
+    "name": "DESPACHO GIOVANNI BASE PROFUNDA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS TEAM ROCKET LÍDER GIOVANNI",
+        "battleId": "battle-68",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "mansi-n-canela-cara-oculta",
+    "name": "MANSIÓN CANELA, CARA OCULTA",
+    "region": "Archi7 / Sevii (Temporada 2)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ENTRENADORA DALIA",
+        "battleId": "battle-69",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER GIMNASIO BLAINE",
+        "battleId": "battle-70",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS INVESTIGADOR PKMN OAK",
+        "battleId": "battle-71",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T2 - DIFICIL_FACIL/ARCHI7 FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "ciudad-malva",
+    "name": "CIUDAD MALVA",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS MAESTRO TORRE BELLSPROUT",
+        "battleId": "battle-72",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER MALVA PEGASO",
+        "battleId": "battle-73",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "cueva-uni-n",
+    "name": "CUEVA UNIÓN",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PROFESOR ELM",
+        "battleId": "battle-74",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "pozo-slowpoke",
+    "name": "POZO SLOWPOKE",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS POKEMANÍACO LOUIS",
+        "battleId": "battle-75",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "pueblo-azalea",
+    "name": "PUEBLO AZALEA",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER GIMNASIO AZALEA CÉSAR",
+        "battleId": "battle-76",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-trigal",
+    "name": "CIUDAD TRIGAL",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER GIMNASIO TRIGAL VALERIA",
+        "battleId": "battle-77",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-iris",
+    "name": "CIUDAD IRIS",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CHICA KIMONO 1",
+        "battleId": "battle-78",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CHICA KIMONO 2",
+        "battleId": "battle-79",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CHICA KIMONO 3",
+        "battleId": "battle-80",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CHICA KIMONO 4",
+        "battleId": "battle-81",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CHICA KIMONO 5",
+        "battleId": "battle-82",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-iris-torre-quemada",
+    "name": "CIUDAD IRIS - TORRE QUEMADA",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS VIAJERO ZEUS",
+        "battleId": "battle-83",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-olivo-faro",
+    "name": "CIUDAD OLIVO - FARO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS FARERO KEPLER",
+        "battleId": "battle-84",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-olivo-gimnasio",
+    "name": "CIUDAD OLIVO - GIMNASIO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LIDER GIMNASIO OLIVO CROM",
+        "battleId": "battle-85",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-olivo-barco",
+    "name": "CIUDAD OLIVO - BARCO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CAPITÁN BARCO",
+        "battleId": "battle-86",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-orqu-dea-gimnasio",
+    "name": "CIUDAD ORQUÍDEA - GIMNASIO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER ORQUÍDEA ANÍBAL",
+        "battleId": "battle-87",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-trigal-reuni-n-torre-radio",
+    "name": "CIUDAD TRIGAL - REUNIÓN TORRE RADIO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EJECUTIVO ROCKET PROTÓN",
+        "battleId": "battle-88",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "monte-plateado-ruta-28",
+    "name": "MONTE PLATEADO - RUTA 28",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS RIVAL ANDRA",
+        "battleId": "battle-89",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "monte-plateado-interior-cueva",
+    "name": "MONTE PLATEADO - INTERIOR CUEVA",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ENTRENADOR ROJO",
+        "battleId": "battle-90",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-iris-torre-campana",
+    "name": "CIUDAD IRIS - TORRE CAMPANA",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EX ALTO MANDO AGATHA",
+        "battleId": "battle-91",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER IRIS JADEN",
+        "battleId": "battle-92",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS VIAJERO ZEUS",
+        "battleId": "battle-93",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "pueblo-caoba-gimnasio",
+    "name": "PUEBLO CAOBA - GIMNASIO",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER CAOBA FREDO",
+        "battleId": "battle-94",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ruta-44",
+    "name": "RUTA 44",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CAMPEÓN TESELIA MIRTO",
+        "battleId": "battle-95",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-endrino-guarida-drag-n",
+    "name": "CIUDAD ENDRINO - GUARIDA DRAGÓN",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER ENDRINO M.DRAGÓN",
+        "battleId": "battle-97",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ruinas-alfa-c-maras-selladas",
+    "name": "RUINAS ALFA - CÁMARAS SELLADAS",
+    "region": "Johto (Temporada 3)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS GUARDIÁN 1",
+        "battleId": "battle-98",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GUARDIÁN 2",
+        "battleId": "battle-99",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GUARDIÁN 3",
+        "battleId": "battle-100",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GUARDIÁN 4",
+        "battleId": "battle-101",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GUARDIÁN 5",
+        "battleId": "battle-102",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS UNOWN AÚREO",
+        "battleId": "battle-103",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS HO-OH PRIMIGENIO",
+        "battleId": "battle-104",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LUGIA PRIMIGENIO",
+        "battleId": "battle-105",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ZEUS RUINAS ALFA",
+        "battleId": "battle-106",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS REY UNOWN",
+        "battleId": "battle-107",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS DIOS LAIREB",
+        "battleId": "battle-108",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T3 - DIFICIL_FACIL/JOHTO FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-1-lago-furia",
+    "name": "MISIÓN 1 - LAGO FURIA",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR DEVON ZAFIRO",
+        "battleId": "battle-109",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LEGENDARIO LAGO",
+        "battleId": "battle-110",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-2-v-as-tren",
+    "name": "MISIÓN 2 - VÍAS TREN",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER MALVA PEGASO",
+        "battleId": "battle-111",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS AVE SAGRADA",
+        "battleId": "battle-112",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-3-ruta-47",
+    "name": "MISIÓN 3 - RUTA 47",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS VIAJERO EUSINE",
+        "battleId": "battle-113",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS DRAGÓN SAGRADO",
+        "battleId": "battle-114",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS RIVAL ANDRA",
+        "battleId": "battle-115",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "interior-torre-dun",
+    "name": "INTERIOR TORRE DUN",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ALTO MANDO TORRE DUN - 1ro",
+        "battleId": "battle-116",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO TORRE DUN - 2do",
+        "battleId": "battle-117",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO TORRE DUN - 3ro",
+        "battleId": "battle-118",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ALTO MANDO TORRE DUN - 4ro",
+        "battleId": "battle-119",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GRAN MAESTRO TORRE DUN",
+        "battleId": "battle-120",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-4-base-hoenn",
+    "name": "MISIÓN 4 - BASE HOENN",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR DEVON RUBÍ",
+        "battleId": "battle-121",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-5-volc-n-isla-canela",
+    "name": "MISIÓN 5 - VOLCÁN ISLA CANELA",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CABINA SEGURIDAD 1",
+        "battleId": "battle-122",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CABINA SEGURIDAD 2",
+        "battleId": "battle-123",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CABINA SEGURIDAD 3",
+        "battleId": "battle-124",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CABINA SEGURIDAD 4",
+        "battleId": "battle-125",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CABINA SEGURIDAD 5",
+        "battleId": "battle-126",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS PRIMER PROTOTIPO DE NIVEL II",
+        "battleId": "battle-127",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS PROYECTOS DE MEWTWO",
+        "battleId": "battle-128",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-6-neo-central-energ-a-v-as-trigal-azafr-n",
+    "name": "MISIÓN 6 - NEO CENTRAL ENERGÍA & VÍAS TRIGAL-AZAFRÁN",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR JEFE ROCKET ATLAS",
+        "battleId": "battle-129",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ZAPDOS PRIMIGENIO",
+        "battleId": "battle-130",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-7-subterr-neos-kanto",
+    "name": "MISIÓN 7 - SUBTERRÁNEOS KANTO",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LT.SURGE EXPLOSIVOS",
+        "battleId": "battle-131",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LT.SURGE",
+        "battleId": "battle-132",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "COMBATE TRIPLE VS MOTORISTAS",
+        "battleId": "battle-133",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MOTORISTA 1",
+        "battleId": "battle-134",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MOTORISTA 2",
+        "battleId": "battle-135",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MOTORISTA 3",
+        "battleId": "battle-136",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "final-misi-n-subterr-neos",
+    "name": "FINAL MISIÓN SUBTERRÁNEOS",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER FUCSIA KOGA",
+        "battleId": "battle-137",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR PETREL",
+        "battleId": "battle-138",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-8-cementerio-pueblo-lavanda",
+    "name": "MISIÓN 8 - CEMENTERIO PUEBLO LAVANDA",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS VIAJERO EUSINE",
+        "battleId": "battle-139",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ENTRENADOR AZUL",
+        "battleId": "battle-140",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS GHOST PRIMIGENIO",
+        "battleId": "battle-141",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-9-torre-radio-lavanda",
+    "name": "MISIÓN 9 - TORRE RADIO LAVANDA",
+    "region": "DLC Johto / Dun (Temporada 4)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS COLECCIONISTA BILL",
+        "battleId": "battle-142",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CIENTÍFICO MIGUEL",
+        "battleId": "battle-143",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS MEWTWO ARMADURA",
+        "battleId": "battle-144",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS TEAM ROCKET LÍDER GIOVANNI",
+        "battleId": "battle-145",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T4 - DIFÍCIL_FÁCIL/DLC FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-1-monte-cenizo",
+    "name": "MISIÓN 1 - MONTE CENIZO",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS GROUDON PRIMIGENIO",
+        "battleId": "battle-146",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER LAVACALDA CANDELA",
+        "battleId": "battle-147",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-2-ciudad-malvalona",
+    "name": "MISIÓN 2 - CIUDAD MALVALONA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS DOCTOR RASMUS MALVALANOVA",
+        "battleId": "battle-148",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER MALVALONA ERICO",
+        "battleId": "battle-149",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS PROPIETARIA CASINO MALVALONA ARIANA",
+        "battleId": "battle-150",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-3-nao-abandonada",
+    "name": "MISIÓN 3 - NAO ABANDONADA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR DEVON ZAFIRO",
+        "battleId": "battle-151",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-4-pueblo-azuliza",
+    "name": "MISIÓN 4 - PUEBLO AZULIZA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER AZULIZA MARCIAL",
+        "battleId": "battle-152",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR DEVON ESMERALDA",
+        "battleId": "battle-153",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-5-puntaneva",
+    "name": "MISIÓN 5 - PUNTANEVA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ALTO MANDO DRACÓN",
+        "battleId": "battle-154",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR JEFE DEVON AMATISTA",
+        "battleId": "battle-155",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS LÍDER PUNTANEVA INVERNA",
+        "battleId": "battle-156",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-6-ciudad-arborada",
+    "name": "MISIÓN 6 - CIUDAD ARBORADA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER ARBORADA ALANA",
+        "battleId": "battle-157",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-7-calagua-y-algaria",
+    "name": "MISIÓN 7 - CALAGUA Y ALGARIA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDERES VITO Y LETI (COMBATE DOBLE)",
+        "battleId": "battle-158",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-8-fosa-abisal",
+    "name": "MISIÓN 8 - FOSA ABISAL",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS KYOGRE PRIMIGENIO",
+        "battleId": "battle-159",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-9-c-mara-sellada",
+    "name": "MISIÓN 9 - CÁMARA SELLADA",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR DEVON RUBÍ",
+        "battleId": "battle-160",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS AS DEL FRENTE VALENTE",
+        "battleId": "battle-161",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADORES DEVON ZAFIRO Y ESMERALDA (COMBATE DOBLE)",
+        "battleId": "battle-162",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CIENTÍFICO MIGUEL Y DOCTOR RASMUS (COMBATE DOBLE)",
+        "battleId": "battle-163",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS ADMINISTRADOR JEFE DEVON AMATISTA (COMBATE DOBLE)",
+        "battleId": "battle-164",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS CRONISTA TRISTANA",
+        "battleId": "battle-165",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "misi-n-10-laboratorio-oak",
+    "name": "MISIÓN 10 - LABORATORIO OAK",
+    "region": "Hoenn (Temporada 5)",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS SIMULADOR NIVEL 7",
+        "battleId": "battle-166",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SIMULADOR NIVEL 8",
+        "battleId": "battle-167",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SIMULADOR NIVEL 9",
+        "battleId": "battle-168",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SIMULADOR NIVEL 10",
+        "battleId": "battle-169",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS VIAJERO EUSINE Y COLECCIONISTA BILL (COMBATE DOBLE)",
+        "battleId": "battle-170",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS SIMULADOR NIVEL IMPOSIBLE (COMBATE DOBLE)",
+        "battleId": "battle-171",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "COMBATE FINAL",
+        "battleId": "battle-172",
+        "category": "PRINCIPAL"
+      },
+      {
+        "trainer": "VS INVESTIGADOR OAK Y JEFE ROCKET GIOVANNI (COMBATE DOBLE)",
+        "battleId": "battle-173",
+        "category": "PRINCIPAL"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/COMBATES PRINCIPALES/T5 - DIFICIL_FACIL/HOENN FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "ciudad-carm-n-anciano-y-su-machop",
+    "name": "CIUDAD CARMÍN - ANCIANO Y SU MACHOP",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRESIDENTE CLUB FANS",
+        "battleId": "battle-174",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS DOMADOR TIENDA BICIS",
+        "battleId": "battle-175",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "gur-pescador-carm-n-mansi-n-azulona",
+    "name": "GURÚ PESCADOR CARMÍN - MANSIÓN AZULONA",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS DOMADOR MACUTO",
+        "battleId": "battle-176",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "cazabichos-plateada-jard-n-carm-n",
+    "name": "CAZABICHOS PLATEADA - JARDÍN CARMÍN",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS MOTORISTA FLORÍN",
+        "battleId": "battle-177",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "gur-pescador-ruta-12-ciudad-fucsia",
+    "name": "GURÚ PESCADOR RUTA 12 - CIUDAD FUCSIA",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS GURÚ PESCADOR FUCSIA",
+        "battleId": "battle-178",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS GUARDA SAFARI SLOWPOKE",
+        "battleId": "battle-179",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "museo-plateada-motorista-azafr-n",
+    "name": "MUSEO PLATEADA - MOTORISTA AZAFRÁN",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS SABIO THOMAS",
+        "battleId": "battle-180",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "laboratorio-canela-subterr-neo-ruta-5",
+    "name": "LABORATORIO CANELA - SUBTERRÁNEO RUTA 5",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS POKEMANÍACO MATÍAS",
+        "battleId": "battle-181",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "cient-fico-fucsia-mansi-n-canela-combate-triple",
+    "name": "CIENTÍFICO FUCSIA - MANSIÓN CANELA - COMBATE TRIPLE",
+    "region": "Kanto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRIMER ESTAFADOR",
+        "battleId": "battle-182",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS SEGUNDO ESTAFADOR",
+        "battleId": "battle-183",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS TERCER ESTAFADOR",
+        "battleId": "battle-184",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T1 - FÁCIL_DIFÍCIL/KANTO SEC - FÁCIL_DIFICIL.txt"
+  },
+  {
+    "id": "isla-prima-cueva-tesoro",
+    "name": "ISLA PRIMA - CUEVA TESORO",
+    "region": "Archi7 Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS ADMINISTRADOR DEVON ESMERALDA",
+        "battleId": "battle-185",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt"
+  },
+  {
+    "id": "isla-secunda-negocio-recreativos-combate-triple",
+    "name": "ISLA SECUNDA - NEGOCIO RECREATIVOS COMBATE TRIPLE",
+    "region": "Archi7 Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRIMER EX-EJECUTIVO ROCKET",
+        "battleId": "battle-186",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS SEGUNDO EX-EJECUTIVO ROCKET",
+        "battleId": "battle-187",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS EX-ADMINISTRADOR ROCKET FRANK",
+        "battleId": "battle-188",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt"
+  },
+  {
+    "id": "isla-tera-bosque-baya-gimnasio-ps-quico",
+    "name": "ISLA TERA - BOSQUE BAYA - GIMNASIO PSÍQUICO",
+    "region": "Archi7 Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER TERA MORFEO",
+        "battleId": "battle-189",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt"
+  },
+  {
+    "id": "isla-s-tima-cajas-anciana-gimnasio-normal",
+    "name": "ISLA SÉTIMA - CAJAS ANCIANA - GIMNASIO NORMAL",
+    "region": "Archi7 Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS LÍDER SÉTIMA ZOE",
+        "battleId": "battle-190",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt"
+  },
+  {
+    "id": "isla-s-tima-oeste-isla-origen",
+    "name": "ISLA SÉTIMA - OESTE ISLA ORIGEN",
+    "region": "Archi7 Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EXCULTISTA MAKI",
+        "battleId": "battle-191",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T2 - FÁCIL_DIFÍCIL/ARCHI7. SEC - FÁCIL_DIFÍCILtxt.txt"
+  },
+  {
+    "id": "ciudad-iris-estudio-ruinas-alfa",
+    "name": "CIUDAD IRIS - ESTUDIO RUINAS ALFA",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CIENTÍFICO LABORATORIO IRIS",
+        "battleId": "battle-192",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "criapokemon-tauros-miltank-ruta-34",
+    "name": "CRIAPOKEMON TAUROS/MILTANK RUTA 34",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRIMER CRIAPOKÉMON",
+        "battleId": "battle-193",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS SEGUNDO CRIAPOKEMON",
+        "battleId": "battle-194",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-bar-olivo-subterr-neos-trigal",
+    "name": "SECUNDARIA BAR OLIVO - SUBTERRÁNEOS TRIGAL",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CABALLERO DUEÑO POKETRÁFICO TRIGAL",
+        "battleId": "battle-195",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-estafadores-kanto-almac-n-mar-este-c-olivo",
+    "name": "SECUNDARIA ESTAFADORES KANTO - ALMACÉN MAR ESTE C.OLIVO",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PRIMER ESTAFADOR",
+        "battleId": "battle-196",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS SEGUNDO ESTAFADOR",
+        "battleId": "battle-197",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS TERCER ESTAFADOR",
+        "battleId": "battle-198",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "corrientes-al-oeste-de-ciudad-cerezo",
+    "name": "CORRIENTES AL OESTE DE CIUDAD CEREZO",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS DISCÍPULO PEGASO",
+        "battleId": "battle-199",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS SRA.AROMA SHAKURA",
+        "battleId": "battle-200",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "pueblo-primavera-laboratorio-elm",
+    "name": "PUEBLO PRIMAVERA - LABORATORIO ELM",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS PROFESOR ELM",
+        "battleId": "battle-201",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-carb-n-azalea-ancianos-pueblo-caoba",
+    "name": "SECUNDARIA CARBÓN AZALEA - ANCIANOS PUEBLO CAOBA",
+    "region": "Johto Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EMPRESARIO CARBÓN AZALEA",
+        "battleId": "battle-202",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T3 - FÁCIL_DIFÍCIL/JOHTO SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-ex-campeon-veneno",
+    "name": "SECUNDARIA EX CAMPEON VENENO",
+    "region": "DLC Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EX CAMPEÓN JOHTO VENENO",
+        "battleId": "battle-203",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T4 - FÁCIL_DIFÍCIL/DLC SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-ex-campeona-fantasma",
+    "name": "SECUNDARIA EX CAMPEONA FANTASMA",
+    "region": "DLC Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS EX CAMPEONA JOHTO FRIDA",
+        "battleId": "battle-204",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T4 - FÁCIL_DIFÍCIL/DLC SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-faro-bill-neo-celeste",
+    "name": "SECUNDARIA FARO BILL NEO CELESTE",
+    "region": "DLC Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS CIENTÍFICO CELIO",
+        "battleId": "battle-205",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T4 - FÁCIL_DIFÍCIL/DLC SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-fuji-neo-t-nel-roca",
+    "name": "SECUNDARIA FUJI NEO TÚNEL ROCA",
+    "region": "Hoenn Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS NEO LÍDER FUCSIA SHACHIKO",
+        "battleId": "battle-206",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS GUARDIA",
+        "battleId": "battle-207",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T5 - FÁCIL_DIFÍCIL/HOENN SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-chica-playa-ciudad-portual",
+    "name": "SECUNDARIA CHICA PLAYA CIUDAD PORTUAL",
+    "region": "Hoenn Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS DUEÑO CASA PLAYA",
+        "battleId": "battle-208",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS HIJA DUEÑO CASA PLAYA",
+        "battleId": "battle-209",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T5 - FÁCIL_DIFÍCIL/HOENN SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-museos-hoenn",
+    "name": "SECUNDARIA MUSEOS HOENN",
+    "region": "Hoenn Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AS DEL FRENTE FORTUNIA",
+        "battleId": "battle-210",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS ASES DEL FRENTE SABINO Y TACTIO (COMBATE DOBLE)",
+        "battleId": "battle-211",
+        "category": "SECUNDARIA"
+      },
+      {
+        "trainer": "VS DAMA TORRE DESTRA",
+        "battleId": "battle-212",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T5 - FÁCIL_DIFÍCIL/HOENN SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "secundaria-cueva-cardumen-isla-suprema",
+    "name": "SECUNDARIA CUEVA CARDUMEN-ISLA SUPREMA",
+    "region": "Hoenn Secundarias",
+    "pokemonAvailable": [],
+    "trainers": [
+      {
+        "trainer": "VS AS DEL FRENTE ANICETO",
+        "battleId": "battle-213",
+        "category": "SECUNDARIA"
+      }
+    ],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/COMBATES DE JEFE/MISIONES SECUNDARIAS/T5 - FÁCIL_DIFÍCIL/HOENN SEC. FÁCIL_DIFÍCIL.txt"
+  },
+  {
+    "id": "mt-moon",
+    "name": "MT.MOON",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CHARMANDER",
+        "id": "charmander",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "SNORLAX",
+        "id": "snorlax",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mansi-n-pkmn",
+    "name": "Mansión Pkmn",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CHARMANDER",
+        "id": "charmander",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "VULPIX",
+        "id": "vulpix",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GROWLITHE",
+        "id": "growlithe",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KOFFING",
+        "id": "koffing",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "WEEZING",
+        "id": "weezing",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "MAGMAR",
+        "id": "magmar",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "SNORLAX",
+        "id": "snorlax",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-12",
+    "name": "Ruta 12",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SQUIRTLE",
+        "id": "squirtle",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "bosque-verde",
+    "name": "Bosque Verde",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CATERPIE",
+        "id": "caterpie",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "METAPOD",
+        "id": "metapod",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "WEEDLE",
+        "id": "weedle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KAKUNA",
+        "id": "kakuna",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "PIKACHU",
+        "id": "pikachu",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "PINSIR",
+        "id": "pinsir",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-24",
+    "name": "Ruta 24",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CATERPIE",
+        "id": "caterpie",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "WEEDLE",
+        "id": "weedle",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "bosque-baya",
+    "name": "Bosque Baya",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PIDGEOTTO",
+        "id": "pidgeotto",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GLOOM",
+        "id": "gloom",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "DROWZEE",
+        "id": "drowzee",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FENNEKIN",
+        "id": "fennekin",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "MARSHADOW",
+        "id": "marshadow",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-29",
+    "name": "Ruta 29",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PIDGEOTTO",
+        "id": "pidgeotto",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "PIDGEOT",
+        "id": "pidgeot",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "central-energ-a",
+    "name": "Central Energía",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PIKACHU",
+        "id": "pikachu",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "MAGNEMITE",
+        "id": "magnemite",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MAGNETON",
+        "id": "magneton",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "VOLTORB",
+        "id": "voltorb",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ELECTRODE",
+        "id": "electrode",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "ELECTABUZZ",
+        "id": "electabuzz",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "XURKITREE",
+        "id": "xurkitree",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-35",
+    "name": "Ruta 35",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PIKACHU",
+        "id": "pikachu",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "NOSEPASS",
+        "id": "nosepass",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-9",
+    "name": "Ruta 9",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SANDSHREW",
+        "id": "sandshrew",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "calle-victoria",
+    "name": "Calle Victoria",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SANDSLASH",
+        "id": "sandslash",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GOLBAT",
+        "id": "golbat",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "PRIMEAPE",
+        "id": "primeape",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "MACHOP",
+        "id": "machop",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MACHOKE",
+        "id": "machoke",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GRAVELER",
+        "id": "graveler",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "ONIX",
+        "id": "onix",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MAROWAK",
+        "id": "marowak",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ruta-3",
+    "name": "Ruta 3",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "NIDORAN ♂",
+        "id": "nidoran",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "JIGGLYPUFF",
+        "id": "jigglypuff",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "zona-safari",
+    "name": "Zona Safari",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "NIDORAN ♂",
+        "id": "nidoran",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "NIDORINA",
+        "id": "nidorina",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "NIDORINO",
+        "id": "nidorino",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "PARAS",
+        "id": "paras",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PARASECT",
+        "id": "parasect",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "VENONAT",
+        "id": "venonat",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "VENOMOTH",
+        "id": "venomoth",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "EXEGGCUTE",
+        "id": "exeggcute",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "RHYHORN",
+        "id": "rhyhorn",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CHANSEY",
+        "id": "chansey",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KANGASKHAN",
+        "id": "kangaskhan",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GOLDEEN",
+        "id": "goldeen",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "SEAKING",
+        "id": "seaking",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "SCYTHER",
+        "id": "scyther",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TAUROS",
+        "id": "tauros",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DRATINI",
+        "id": "dratini",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "WOBBUFFET",
+        "id": "wobbuffet",
+        "method": "Compra / Casino"
+      },
+      {
+        "pokemon": "WYNAUT",
+        "id": "wynaut",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "INKAY",
+        "id": "inkay",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-moon-3f",
+    "name": "Mt.Moon_3F",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CLEFAIRY",
+        "id": "clefairy",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-moon",
+    "name": "Mt.moon",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "ZUBAT",
+        "id": "zubat",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-silver",
+    "name": "Mt.silver",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GOLBAT",
+        "id": "golbat",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-moon-2f",
+    "name": "Mt.Moon_2F",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PARAS",
+        "id": "paras",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-23",
+    "name": "Ruta 23",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PRIMEAPE",
+        "id": "primeape",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "LICKITUNG",
+        "id": "lickitung",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-ascuas",
+    "name": "Mt.Ascuas",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MACHOP",
+        "id": "machop",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MACHOKE",
+        "id": "machoke",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GEODUDE",
+        "id": "geodude",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MAGMAR",
+        "id": "magmar",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "SLUGMA",
+        "id": "slugma",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "NUMEL",
+        "id": "numel",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TORKOAL",
+        "id": "torkoal",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "HEATMOR",
+        "id": "heatmor",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TURTONATOR",
+        "id": "turtonator",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ROLYCOLY",
+        "id": "rolycoly",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SIZZLIPEDE",
+        "id": "sizzlipede",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CENTISKORCH",
+        "id": "centiskorch",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-mortero",
+    "name": "Mt.Mortero",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MACHOP",
+        "id": "machop",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MACHOKE",
+        "id": "machoke",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "MACHAMP",
+        "id": "machamp",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GRAVELER",
+        "id": "graveler",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GOLEM",
+        "id": "golem",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "ONIX",
+        "id": "onix",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MARILL",
+        "id": "marill",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TYROGUE",
+        "id": "tyrogue",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-moon",
+    "name": "Mt.Moon",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GEODUDE",
+        "id": "geodude",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-plateado",
+    "name": "Mt.Plateado",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GRAVELER",
+        "id": "graveler",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GOLEM",
+        "id": "golem",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "STEELIX",
+        "id": "steelix",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "URSARING",
+        "id": "ursaring",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "LARVITAR",
+        "id": "larvitar",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DARUMAKA",
+        "id": "darumaka",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "POIPOLE",
+        "id": "poipole",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "CALYREX",
+        "id": "calyrex",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-25",
+    "name": "Ruta 25",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SLOWPOKE",
+        "id": "slowpoke",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "HORSEA",
+        "id": "horsea",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "STARYU",
+        "id": "staryu",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-10",
+    "name": "Ruta 10",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MAGNEMITE",
+        "id": "magnemite",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "VOLTORB",
+        "id": "voltorb",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-helada",
+    "name": "Cueva Helada",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SEEL",
+        "id": "seel",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DEWGONG",
+        "id": "dewgong",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "JYNX",
+        "id": "jynx",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "LAPRAS",
+        "id": "lapras",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "SNEASEL",
+        "id": "sneasel",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SWINUB",
+        "id": "swinub",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DELIBIRD",
+        "id": "delibird",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-pkmn",
+    "name": "Torre Pkmn",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GASTLY",
+        "id": "gastly",
+        "method": "Compra / Casino"
+      },
+      {
+        "pokemon": "HAUNTER",
+        "id": "haunter",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "GENGAR",
+        "id": "gengar",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-perdida",
+    "name": "Cueva Perdida",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GASTLY",
+        "id": "gastly",
+        "method": "Compra / Casino"
+      },
+      {
+        "pokemon": "MURKROW",
+        "id": "murkrow",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-uni-n",
+    "name": "Cueva Unión",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "ONIX",
+        "id": "onix",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ruta-11",
+    "name": "Ruta 11",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DROWZEE",
+        "id": "drowzee",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-pkmn-y-calle-victoria",
+    "name": "Torre Pkmn y Calle Victoria",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CUBONE",
+        "id": "cubone",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-paleta",
+    "name": "Pueblo Paleta",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TANGELA",
+        "id": "tangela",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MR ♂IME",
+        "id": "mr-ime",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-38",
+    "name": "Ruta 38",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TAUROS",
+        "id": "tauros",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SNUBBULL",
+        "id": "snubbull",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MILTANK",
+        "id": "miltank",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ABSOL",
+        "id": "absol",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-radio-lavanda",
+    "name": "Torre Radio Lavanda",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MEWTWO",
+        "id": "mewtwo",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "GIBLE",
+        "id": "gible",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FERROSEED",
+        "id": "ferroseed",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CRYOGONAL",
+        "id": "cryogonal",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ESPURR",
+        "id": "espurr",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SALANDIT",
+        "id": "salandit",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "GROOKEY",
+        "id": "grookey",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "WOOLOO",
+        "id": "wooloo",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CRAMORANT",
+        "id": "cramorant",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TOXEL",
+        "id": "toxel",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ciudad-olivo",
+    "name": "Ciudad Olivo",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CHINCHOU",
+        "id": "chinchou",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-primavera",
+    "name": "Pueblo Primavera",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CHINCHOU",
+        "id": "chinchou",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-34",
+    "name": "Ruta 34",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PICHU",
+        "id": "pichu",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CLEFFA",
+        "id": "cleffa",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "IGGLYBUFF",
+        "id": "igglybuff",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ELEKID",
+        "id": "elekid",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-30",
+    "name": "Ruta 30",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TOGEPI",
+        "id": "togepi",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruinas-alfa",
+    "name": "Ruinas Alfa",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "NATU",
+        "id": "natu",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "UNOWN",
+        "id": "unown",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SMEARGLE",
+        "id": "smeargle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TIRTOUGA",
+        "id": "tirtouga",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-exta",
+    "name": "Isla Exta",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "NATU",
+        "id": "natu",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PANSEAR",
+        "id": "pansear",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PANPOUR",
+        "id": "panpour",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PIDOVE",
+        "id": "pidove",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "AUDINO",
+        "id": "audino",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "VENIPEDE",
+        "id": "venipede",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "COTTONEE",
+        "id": "cottonee",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PETILIL",
+        "id": "petilil",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "BASCULIN",
+        "id": "basculin",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "DEERLING",
+        "id": "deerling",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "EMOLGA",
+        "id": "emolga",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KARRABLAST",
+        "id": "karrablast",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FOONGUS",
+        "id": "foongus",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SHELMET",
+        "id": "shelmet",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DURALUDON",
+        "id": "duraludon",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-32",
+    "name": "Ruta 32",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MAREEP",
+        "id": "mareep",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FLAAFFY",
+        "id": "flaaffy",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-cuarta",
+    "name": "Isla Cuarta",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "WOOPER",
+        "id": "wooper",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "BERGMITE",
+        "id": "bergmite",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "CRABRAWLER",
+        "id": "crabrawler",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "WISHIWASHI",
+        "id": "wishiwashi",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "EISCUE",
+        "id": "eiscue",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GLASTRIER",
+        "id": "glastrier",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-quemada",
+    "name": "Torre Quemada",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MISDREAVUS",
+        "id": "misdreavus",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SHUCKLE",
+        "id": "shuckle",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-43",
+    "name": "Ruta 43",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GIRAFARIG",
+        "id": "girafarig",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PINECO",
+        "id": "pineco",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FORRETRESS",
+        "id": "forretress",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-oscura",
+    "name": "Cueva Oscura",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DUNSPARCE",
+        "id": "dunsparce",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SHUCKLE",
+        "id": "shuckle",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-isla-tera",
+    "name": "Cueva Isla Tera",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DUNSPARCE",
+        "id": "dunsparce",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-45",
+    "name": "Ruta 45",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GLIGAR",
+        "id": "gligar",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PHANPY",
+        "id": "phanpy",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DONPHAN",
+        "id": "donphan",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-inta",
+    "name": "Isla Inta",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "QWILFISH",
+        "id": "qwilfish",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "TYRUNT",
+        "id": "tyrunt",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-40",
+    "name": "Ruta 40",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SHUCKLE",
+        "id": "shuckle",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-28",
+    "name": "Ruta 28",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "URSARING",
+        "id": "ursaring",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ruta-44",
+    "name": "Ruta 44",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "REMORAID",
+        "id": "remoraid",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-s-tima",
+    "name": "Isla Sétima",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MANTINE",
+        "id": "mantine",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-37",
+    "name": "Ruta 37",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "STANTLER",
+        "id": "stantler",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-36",
+    "name": "Ruta 36",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MAGBY",
+        "id": "magby",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-lavacalda",
+    "name": "Pueblo Lavacalda",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TORCHIC",
+        "id": "torchic",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "MUDKIP",
+        "id": "mudkip",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-104",
+    "name": "Ruta 104",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TAILLOW",
+        "id": "taillow",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "WINGULL",
+        "id": "wingull",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "AZURILL",
+        "id": "azurill",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "bosque-petalia",
+    "name": "Bosque Petalia",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SLAKOTH",
+        "id": "slakoth",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-granito",
+    "name": "Cueva Granito",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MAKUHITA",
+        "id": "makuhita",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SABLEYE",
+        "id": "sableye",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ARON",
+        "id": "aron",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-radio-trigal",
+    "name": "Torre Radio Trigal",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "ELECTRIKE",
+        "id": "electrike",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "LILLIPUP",
+        "id": "lillipup",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-110",
+    "name": "Ruta 110",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "PLUSLE",
+        "id": "plusle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MINUN",
+        "id": "minun",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "VOLBEAT",
+        "id": "volbeat",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ILLUMISE",
+        "id": "illumise",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GULPIN",
+        "id": "gulpin",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-117",
+    "name": "Ruta 117",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "ROSELIA",
+        "id": "roselia",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "CORPHISH",
+        "id": "corphish",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "CRAWDAUNT",
+        "id": "crawdaunt",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-secunda",
+    "name": "Isla Secunda",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CARVANHA",
+        "id": "carvanha",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-cenizo",
+    "name": "Mt.Cenizo",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SPOINK",
+        "id": "spoink",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-111",
+    "name": "Ruta 111",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CACNEA",
+        "id": "cacnea",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CACTURNE",
+        "id": "cacturne",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "BALTOY",
+        "id": "baltoy",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CLAYDOL",
+        "id": "claydol",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-azulina",
+    "name": "Pueblo Azulina",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "LILEEP",
+        "id": "lileep",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "ANORITH",
+        "id": "anorith",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-p-rico",
+    "name": "Mt.Pírico",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SHUPPET",
+        "id": "shuppet",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CHIMECHO",
+        "id": "chimecho",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "mt-p-rico",
+    "name": "MT.Pírico",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "BANETTE",
+        "id": "banette",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-de-hypno-en-el-bosque-baya-de-isla-tera",
+    "name": "Cueva de Hypno en el Bosque Baya de Isla Tera",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DUSKULL",
+        "id": "duskull",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-119",
+    "name": "Ruta 119",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TROPIUS",
+        "id": "tropius",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-cardumen",
+    "name": "Cueva Cardumen",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SNORUNT",
+        "id": "snorunt",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GLALIE",
+        "id": "glalie",
+        "method": "Evolución"
+      },
+      {
+        "pokemon": "SPHEAL",
+        "id": "spheal",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SEALEO",
+        "id": "sealeo",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "WALREIN",
+        "id": "walrein",
+        "method": "Salvaje / Evolución"
+      },
+      {
+        "pokemon": "LATIAS",
+        "id": "latias",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LATIOS",
+        "id": "latios",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "KARTANA",
+        "id": "kartana",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-128",
+    "name": "Ruta 128",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "LUVDISC",
+        "id": "luvdisc",
+        "method": "Pesca / Surf"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-del",
+    "name": "Isla del",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "LATIAS",
+        "id": "latias",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LATIOS",
+        "id": "latios",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-tesoro",
+    "name": "Cueva Tesoro",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "BUIZEL",
+        "id": "buizel",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SHELLOS",
+        "id": "shellos",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FINNEON",
+        "id": "finneon",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "MANTYKE",
+        "id": "mantyke",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "TYMPOLE",
+        "id": "tympole",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "BINACLE",
+        "id": "binacle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SKRELP",
+        "id": "skrelp",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CLAUNCHER",
+        "id": "clauncher",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MAREANIE",
+        "id": "mareanie",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PYUKUMUKU",
+        "id": "pyukumuku",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "NIHILEGO",
+        "id": "nihilego",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "CHEWTLE",
+        "id": "chewtle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GLIMMET",
+        "id": "glimmet",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-prima",
+    "name": "Isla Prima",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "BUIZEL",
+        "id": "buizel",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SHELLOS",
+        "id": "shellos",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FINNEON",
+        "id": "finneon",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "MANTYKE",
+        "id": "mantyke",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "TYMPOLE",
+        "id": "tympole",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "BINACLE",
+        "id": "binacle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SKRELP",
+        "id": "skrelp",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CLAUNCHER",
+        "id": "clauncher",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MAREANIE",
+        "id": "mareanie",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PYUKUMUKU",
+        "id": "pyukumuku",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "NIHILEGO",
+        "id": "nihilego",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GUZZLORD",
+        "id": "guzzlord",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "CHEWTLE",
+        "id": "chewtle",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-hypno",
+    "name": "Cueva Hypno",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DRIFLOON",
+        "id": "drifloon",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "BRONZOR",
+        "id": "bronzor",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "MUNNA",
+        "id": "munna",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GOTHITA",
+        "id": "gothita",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GOTHORITA",
+        "id": "gothorita",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "SOLOSIS",
+        "id": "solosis",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "DUOSION",
+        "id": "duosion",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LITWICK",
+        "id": "litwick",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LAMPENT",
+        "id": "lampent",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "MARSHADOW",
+        "id": "marshadow",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "HATENNA",
+        "id": "hatenna",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "HATTREM",
+        "id": "hattrem",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-tera",
+    "name": "Isla Tera",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DRIFLOON",
+        "id": "drifloon",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "BRONZOR",
+        "id": "bronzor",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "MUNNA",
+        "id": "munna",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GOTHITA",
+        "id": "gothita",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "GOTHORITA",
+        "id": "gothorita",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "SOLOSIS",
+        "id": "solosis",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "DUOSION",
+        "id": "duosion",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LITWICK",
+        "id": "litwick",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LAMPENT",
+        "id": "lampent",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "HATENNA",
+        "id": "hatenna",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "HATTREM",
+        "id": "hattrem",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-subterranea",
+    "name": "Cueva Subterranea",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SPIRITOMB",
+        "id": "spiritomb",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ruta-50",
+    "name": "Ruta 50",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "SPIRITOMB",
+        "id": "spiritomb",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "DWEBBLE",
+        "id": "dwebble",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "CRUSTLE",
+        "id": "crustle",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SCRAGGY",
+        "id": "scraggy",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SIGILYPH",
+        "id": "sigilyph",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KLEFKI",
+        "id": "klefki",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "IMPIDIMP",
+        "id": "impidimp",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MORGREM",
+        "id": "morgrem",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-subterranea-en-ruta-50-norte",
+    "name": "Cueva Subterranea en Ruta 50 norte",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "WOOBAT",
+        "id": "woobat",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SWOOBAT",
+        "id": "swoobat",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SANDILE",
+        "id": "sandile",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "KROKOROK",
+        "id": "krokorok",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ELGYEM",
+        "id": "elgyem",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "BEHEEYEM",
+        "id": "beheeyem",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MORPEKO",
+        "id": "morpeko",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-49",
+    "name": "Ruta 49",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "THROH",
+        "id": "throh",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SAWK",
+        "id": "sawk",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MIENFOO",
+        "id": "mienfoo",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MIENSHAO",
+        "id": "mienshao",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FLABEBE",
+        "id": "flabebe",
+        "method": "Regalo / Evento"
+      },
+      {
+        "pokemon": "SKIDDO",
+        "id": "skiddo",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GOGOAT",
+        "id": "gogoat",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "FOMANTIS",
+        "id": "fomantis",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "LURANTIS",
+        "id": "lurantis",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "REGIDRAGO",
+        "id": "regidrago",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "bosque-secreto",
+    "name": "Bosque Secreto",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "VENIPEDE",
+        "id": "venipede",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-lavanda",
+    "name": "Pueblo Lavanda",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "YAMASK",
+        "id": "yamask",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "ZORUA",
+        "id": "zorua",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PHANTUMP",
+        "id": "phantump",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "PUMPKABOO",
+        "id": "pumpkaboo",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "MIMIKYU",
+        "id": "mimikyu",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SINISTEA",
+        "id": "sinistea",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "RUNERIGUS",
+        "id": "runerigus",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "STONJOURNER",
+        "id": "stonjourner",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ruta-47",
+    "name": "Ruta 47",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "ALOMOMOLA",
+        "id": "alomomola",
+        "method": "Pesca / Surf"
+      },
+      {
+        "pokemon": "DUN",
+        "id": "dun",
+        "method": "Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "ciudad-azulona",
+    "name": "Ciudad Azulona",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "MELOETTA",
+        "id": "meloetta",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "CHESPIN",
+        "id": "chespin",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "AMAURA",
+        "id": "amaura",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "COSMOG",
+        "id": "cosmog",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "ZERAORA",
+        "id": "zeraora",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "SCORBUNNY",
+        "id": "scorbunny",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "APPLIN",
+        "id": "applin",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "FEZANDIPITI",
+        "id": "fezandipiti",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "ruta-52",
+    "name": "Ruta 52",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "LITLEO",
+        "id": "litleo",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-campana",
+    "name": "Torre Campana",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "HONEDGE",
+        "id": "honedge",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-caoba",
+    "name": "Pueblo Caoba",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "HELIOPTILE",
+        "id": "helioptile",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "LITTEN",
+        "id": "litten",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "torre-dun-de-ruta-50",
+    "name": "Torre Dun de Ruta 50",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "DEDENNE",
+        "id": "dedenne",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "KOMALA",
+        "id": "komala",
+        "method": "Misión Secundaria"
+      },
+      {
+        "pokemon": "INDEEDEE",
+        "id": "indeedee",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-punteada",
+    "name": "Cueva Punteada",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CARBINK",
+        "id": "carbink",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GOOMY",
+        "id": "goomy",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "SLIGGOO",
+        "id": "sliggoo",
+        "method": "Salvaje / Evolución"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "pueblo-azalea",
+    "name": "Pueblo Azalea",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "LITTEN",
+        "id": "litten",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-canela",
+    "name": "Isla Canela",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "TYPE NULL",
+        "id": "type-null",
+        "method": "Regalo / Evento"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "isla-suprema",
+    "name": "Isla Suprema",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "KARTANA",
+        "id": "kartana",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "isla-en",
+    "name": "Isla en",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "KARTANA",
+        "id": "kartana",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-del-tesoro",
+    "name": "Cueva del Tesoro",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "GUZZLORD",
+        "id": "guzzlord",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "cueva-de-hypno",
+    "name": "Cueva de Hypno",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "BLACEPHALON",
+        "id": "blacephalon",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt | CAMBIOS en STATS, TIPOS y HABILIDADES.txt"
+  },
+  {
+    "id": "torre-radio-lavanda",
+    "name": "Torre Radio lavanda",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "FROSMOTH",
+        "id": "frosmoth",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "bosque-oculto",
+    "name": "Bosque oculto",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "CALYREX",
+        "id": "calyrex",
+        "method": "Misión Secundaria"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "cueva-ter",
+    "name": "Cueva Éter",
+    "region": "Kanto / Sevii / Johto / Hoenn",
+    "pokemonAvailable": [
+      {
+        "pokemon": "NACLI",
+        "id": "nacli",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TOEDSCOOL",
+        "id": "toedscool",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "TOEDSCRUEL",
+        "id": "toedscruel",
+        "method": "Evolución"
+      },
+      {
+        "pokemon": "ORTHWORM",
+        "id": "orthworm",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GREAVARD",
+        "id": "greavard",
+        "method": "Salvaje"
+      },
+      {
+        "pokemon": "GIMMIGHOUL",
+        "id": "gimmighoul",
+        "method": "Salvaje"
+      }
+    ],
+    "trainers": [],
+    "sidequests": [],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/POKÉMON/OBTENCIÓN  TODOS  PKMN.txt"
+  },
+  {
+    "id": "regi-n-isla-inta",
+    "name": "Región ISLA INTA",
+    "region": "ISLA INTA",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "isla-inta-dependiente-en-pilar-recuerdo",
+        "title": "Dependiente en pilar recuerdo"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  },
+  {
+    "id": "regi-n-kanto",
+    "name": "Región KANTO",
+    "region": "KANTO",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "kanto-pescador-ciudad-carm-n",
+        "title": "Pescador ciudad carmín"
+      },
+      {
+        "questId": "kanto-anciano-con-su-machamp",
+        "title": "Anciano con su Machamp"
+      },
+      {
+        "questId": "kanto-cazabichos-en-ciudad-plateada",
+        "title": "Cazabichos en ciudad plateada"
+      },
+      {
+        "questId": "kanto-entrenadores-guay-en-bosque-verde",
+        "title": "Entrenadores Guay en bosque verde"
+      },
+      {
+        "questId": "kanto-pescador-ruta-12",
+        "title": "Pescador ruta 12"
+      },
+      {
+        "questId": "kanto-cient-fico-de-ciudad-fucsia",
+        "title": "Científico de ciudad fucsia"
+      },
+      {
+        "questId": "kanto-motorista-de-ciudad-azafran",
+        "title": "Motorista de ciudad azafran"
+      },
+      {
+        "questId": "kanto-cient-fico-de-isla-canela",
+        "title": "Científico de isla canela"
+      },
+      {
+        "questId": "kanto-subcategor-a",
+        "title": "Subcategoría"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  },
+  {
+    "id": "regi-n-sevii",
+    "name": "Región SEVII",
+    "region": "SEVII",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "sevii-cient-fico-oculto-en-isla-exta",
+        "title": "Científico oculto en Isla Exta"
+      },
+      {
+        "questId": "sevii-trajeados-de-isla-prima",
+        "title": "Trajeados de Isla Prima"
+      },
+      {
+        "questId": "sevii-due-os-de-recreativos",
+        "title": "Dueños de recreativos"
+      },
+      {
+        "questId": "sevii-atlas-y-la-anciana",
+        "title": "Atlas y la anciana"
+      },
+      {
+        "questId": "sevii-secretos-del-bosque-baya",
+        "title": "Secretos del bosque baya"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  },
+  {
+    "id": "regi-n-johto",
+    "name": "Región JOHTO",
+    "region": "JOHTO",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "johto-cient-fico-ruinas-alfa",
+        "title": "Científico ruinas alfa"
+      },
+      {
+        "questId": "johto-exorcista-escondida",
+        "title": "Exorcista escondida"
+      },
+      {
+        "questId": "johto-motorista-en-ciudad-olivo",
+        "title": "Motorista en ciudad olivo"
+      },
+      {
+        "questId": "johto-almacen-escondido-de-los-estafadores",
+        "title": "Almacen escondido de los estafadores"
+      },
+      {
+        "questId": "johto-el-disc-pulo-de-pegaso",
+        "title": "El discípulo de Pegaso"
+      },
+      {
+        "questId": "johto-ancianos-de-pueblo-caoba",
+        "title": "Ancianos de pueblo caoba"
+      },
+      {
+        "questId": "johto-anciana-de-isla-quarta",
+        "title": "Anciana de isla quarta"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  },
+  {
+    "id": "regi-n-johto-dlc",
+    "name": "Región JOHTO DLC",
+    "region": "JOHTO DLC",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "johto-dlc-la-anciana-de-la-ruta-50",
+        "title": "La anciana de la ruta 50"
+      },
+      {
+        "questId": "johto-dlc-agatha-y-su-maestra",
+        "title": "Agatha y su maestra"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  },
+  {
+    "id": "regi-n-hoenn",
+    "name": "Región HOENN",
+    "region": "HOENN",
+    "pokemonAvailable": [],
+    "trainers": [],
+    "sidequests": [
+      {
+        "questId": "hoenn-inquietud-de-fuji-sobre-el-tunel-roca",
+        "title": "Inquietud de Fuji sobre el tunel roca"
+      },
+      {
+        "questId": "hoenn-artista-de-ciudad-portual",
+        "title": "Artista de ciudad portual"
+      },
+      {
+        "questId": "hoenn-queja-del-ni-o-de-pueblo-azuliza",
+        "title": "Queja del niño  de pueblo azuliza"
+      }
+    ],
+    "items": [],
+    "source": "INFORMACIÓN ÚTIL/SECUNDARIAS TRE.pdf"
+  }
+]
